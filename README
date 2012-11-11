@@ -17,6 +17,7 @@ in a non-linear way. Also settled on were height, position, games,
 assists per game and steals per game. I did not examine any
 interaction terms, nor did I look at other measures of NBA value,
 but these are straightforward given the database (up to the
-limitations of my scraped data, of course). I haven't included nor
-attempted to estimate NCAA strength of schedule yet, either
-(this is just a demo).
+limitations of my scraped data, of course).
+
+I haven't adjusted college performance for NCAA strength of
+schedule yet.
