@@ -1,0 +1,38 @@
+BEGIN
+CREATE TABLE
+INSERT 0 30
+ rk |          team          |  str  |  ofs  |  dfs  |  sos  
+----+------------------------+-------+-------+-------+-------
+  1 | Chicago Bulls          | 1.082 | 1.004 | 0.928 | 0.997
+  2 | San Antonio Spurs      | 1.070 | 1.068 | 0.998 | 1.001
+  3 | Oklahoma City Thunder  | 1.062 | 1.065 | 1.002 | 1.002
+  4 | Miami Heat             | 1.060 | 1.028 | 0.969 | 0.999
+  5 | Philadelphia 76ers     | 1.041 | 0.978 | 0.939 | 0.997
+  6 | Denver Nuggets         | 1.030 | 1.074 | 1.043 | 1.001
+  7 | Boston Celtics         | 1.027 | 0.963 | 0.938 | 0.999
+  8 | Los Angeles Clippers   | 1.027 | 1.008 | 0.981 | 1.001
+  9 | New York Knicks        | 1.025 | 1.019 | 0.994 | 0.997
+ 10 | Indiana Pacers         | 1.024 | 1.017 | 0.993 | 0.997
+ 11 | Atlanta Hawks          | 1.023 | 1.003 | 0.981 | 0.997
+ 12 | Memphis Grizzlies      | 1.023 | 0.987 | 0.965 | 1.002
+ 13 | Los Angeles Lakers     | 1.020 | 1.008 | 0.989 | 1.002
+ 14 | Dallas Mavericks       | 1.019 | 0.995 | 0.977 | 1.004
+ 15 | Houston Rockets        | 1.010 | 1.016 | 1.006 | 1.001
+ 16 | Utah Jazz              | 1.007 | 1.028 | 1.021 | 1.001
+ 17 | Phoenix Suns           | 1.003 | 1.020 | 1.016 | 1.002
+ 18 | Portland Trail Blazers | 1.001 | 1.006 | 1.006 | 1.002
+ 19 | Orlando Magic          | 1.001 | 0.979 | 0.978 | 0.999
+ 20 | Milwaukee Bucks        | 0.996 | 1.030 | 1.034 | 0.998
+ 21 | Minnesota Timberwolves | 0.985 | 1.014 | 1.029 | 1.002
+ 22 | Golden State Warriors  | 0.975 | 1.014 | 1.040 | 1.003
+ 23 | New Orleans Hornets    | 0.971 | 0.935 | 0.963 | 1.003
+ 24 | Toronto Raptors        | 0.962 | 0.949 | 0.986 | 0.998
+ 25 | Sacramento Kings       | 0.954 | 1.022 | 1.072 | 1.003
+ 26 | Washington Wizards     | 0.951 | 0.980 | 1.031 | 0.999
+ 27 | Detroit Pistons        | 0.948 | 0.950 | 1.002 | 0.998
+ 28 | New Jersey Nets        | 0.935 | 0.972 | 1.040 | 0.998
+ 29 | Cleveland Cavaliers    | 0.933 | 0.974 | 1.044 | 0.999
+ 30 | Charlotte Bobcats      | 0.868 | 0.915 | 1.054 | 1.000
+(30 rows)
+
+COMMIT

@@ -1,0 +1,1021 @@
+year,team_id,team_name,wins,losses,ties,total_games
+2008,26172,A&M-Corpus Chris,9,20,0,29
+2008,2,Abilene Christian,20,9,0,29
+2008,929,Adams St.,18,10,0,28
+2008,3,Adelphi,20,10,0,30
+2008,4,Adrian,11,15,0,26
+2008,721,Air Force,16,14,0,30
+2008,5,Akron,24,11,0,35
+2008,10,Ala.-Huntsville,27,21,0,48
+2008,8,Alabama,17,16,0,33
+2008,6,Alabama A&M,14,15,0,29
+2008,7,Alabama St.,20,11,0,31
+2008,11,Alas. Anchorage,29,6,0,35
+2008,12,Alas. Fairbanks,5,22,0,27
+2008,14,Albany (NY),15,15,0,30
+2008,13,Albany St. (GA),13,16,0,29
+2008,2798,Albertus Magnus,4,21,0,25
+2008,15,Albion,19,6,0,25
+2008,16,Albright,17,9,0,26
+2008,17,Alcorn St.,7,24,0,31
+2008,934,Alderson-Broaddus,26,7,0,33
+2008,18,Alfred,2,23,0,25
+2008,19,Allegheny,12,15,0,27
+2008,21,Alma,3,21,0,24
+2008,938,Alvernia,15,11,0,26
+2008,23,American,21,12,0,33
+2008,22,American Int'l,10,18,0,28
+2008,24,Amherst,27,4,0,31
+2008,939,Anderson (IN),15,12,0,27
+2008,13028,Anderson (SC),12,16,0,28
+2008,25,Angelo St.,17,11,0,28
+2008,26,Anna Maria,8,17,0,25
+2008,27,Appalachian St.,18,13,0,31
+2008,966,Arcadia,12,13,0,25
+2008,29,Arizona,19,15,0,34
+2008,28,Arizona St.,21,13,0,34
+2008,8411,Ark.-Monticello,33,16,0,49
+2008,2678,Ark.-Pine Bluff,13,18,0,31
+2008,31,Arkansas,23,12,0,35
+2008,30,Arkansas St.,10,20,0,30
+2008,947,Arkansas Tech,32,17,0,49
+2008,33,Armstrong,17,11,0,28
+2008,725,Army,14,16,0,30
+2008,35,Ashland,13,15,0,28
+2008,36,Assumption,24,11,0,35
+2008,37,Auburn,14,16,0,30
+2008,38,Augsburg,12,13,0,25
+2008,39,Augusta St.,27,7,0,34
+2008,40,Augustana (IL),23,6,0,29
+2008,41,Augustana (SD),22,9,0,31
+2008,42,Aurora,22,7,0,29
+2008,953,Austin,9,17,0,26
+2008,43,Austin Peay,24,11,0,35
+2008,44,Averett,14,15,0,29
+2008,45,Babson,10,16,0,26
+2008,46,Baldwin Wallace,12,15,0,27
+2008,47,Ball St.,6,24,0,30
+2008,958,Baptist Bible (PA),18,10,0,28
+2008,962,Bard,8,17,0,25
+2008,49,Barry,10,20,0,30
+2008,15646,Barton,19,10,0,29
+2008,58,Baruch,13,13,0,26
+2008,50,Bates,17,8,0,25
+2008,51,Baylor,21,11,0,32
+2008,26107,Becker,13,14,0,27
+2008,52,Bellarmine,17,11,0,28
+2008,14927,Belmont,25,9,0,34
+2008,2683,Belmont Abbey,16,12,0,28
+2008,53,Beloit,4,19,0,23
+2008,54,Bemidji St.,6,21,0,27
+2008,55,Benedict,28,5,0,33
+2008,296,Benedictine (IL),11,15,0,26
+2008,56,Bentley,34,1,0,35
+2008,59,Bethany (WV),17,11,0,28
+2008,30038,Bethany Lutheran,19,28,0,47
+2008,60,Bethel (MN),16,11,0,27
+2008,61,Bethune-Cookman,11,21,0,32
+2008,62,Binghamton,14,16,0,30
+2008,28593,Birmingham-So.,13,12,0,25
+2008,64,Blackburn,5,19,0,24
+2008,984,Bloomfield,16,16,0,32
+2008,65,Bloomsburg,8,19,0,27
+2008,985,Bluefield St.,2,26,0,28
+2008,987,Bluffton,13,12,0,25
+2008,66,Boise St.,25,9,0,34
+2008,67,Boston College,14,17,0,31
+2008,68,Boston U.,14,17,0,31
+2008,69,Bowdoin,22,7,0,29
+2008,70,Bowie St.,30,12,0,42
+2008,71,Bowling Green,13,17,0,30
+2008,72,Bradley,21,17,0,38
+2008,73,Brandeis,23,6,0,29
+2008,30094,Brevard,4,24,0,28
+2008,74,Bridgeport,13,15,0,28
+2008,75,Bridgewater (VA),13,13,0,26
+2008,76,Bridgewater St.,13,13,0,26
+2008,78,Brockport,21,8,0,29
+2008,79,Brooklyn,21,7,0,28
+2008,80,Brown,19,10,0,29
+2008,81,Bryant,18,13,0,31
+2008,83,Bucknell,12,19,0,31
+2008,84,Buena Vista,23,7,0,30
+2008,86,Buffalo,10,20,0,30
+2008,85,Buffalo St.,8,15,0,23
+2008,87,Butler,30,4,0,34
+2008,77,BYU,27,8,0,35
+2008,2685,BYU-Hawaii,20,8,0,28
+2008,362,LIU Post,26,5,0,31
+2008,88,Cabrini,12,14,0,26
+2008,105,Cal Lutheran,37,11,0,48
+2008,90,Cal Poly,12,18,0,30
+2008,91,Cal Poly Pomona,12,16,0,28
+2008,94,CSU Bakersfield,8,21,0,29
+2008,95,Cal St. Chico,7,20,0,27
+2008,92,Cal St. Dom. Hills,17,11,0,28
+2008,98,Cal St. East Bay,13,12,0,25
+2008,97,Cal St. Fullerton,24,9,0,33
+2008,100,Cal St. L.A.,17,11,0,28
+2008,30055,Cal St. Monterey Bay,12,15,0,27
+2008,101,Cal St. Northridge,20,10,0,30
+2008,93,Cal St. San B'dino,22,8,0,30
+2008,103,Cal St. Stanislaus,6,21,0,27
+2008,995,Caldwell,12,17,0,29
+2008,107,California,17,16,0,33
+2008,106,California (PA),28,6,0,34
+2008,89,Caltech,2,45,0,47
+2008,114,Calvin,16,11,0,27
+2008,996,Cameron,6,21,0,27
+2008,115,Campbell,10,20,0,30
+2008,116,Canisius,6,25,0,31
+2008,117,Capital,24,6,0,30
+2008,118,Carleton,19,8,0,27
+2008,119,Carnegie Mellon,19,9,0,28
+2008,120,Carroll (WI),15,9,0,24
+2008,1000,Carson-Newman,18,9,0,27
+2008,121,Carthage,13,12,0,25
+2008,122,Case,8,17,0,25
+2008,123,Castleton,15,11,0,26
+2008,1001,Catawba,19,12,0,31
+2008,124,Catholic,10,15,0,25
+2008,23624,Cazenovia,14,14,0,28
+2008,480,CCNY,4,21,0,25
+2008,125,Centenary (LA),10,21,0,31
+2008,12884,Centenary (NJ),4,20,0,24
+2008,126,Central (IA),14,10,0,24
+2008,1004,Central Ark.,14,16,0,30
+2008,127,Central Conn. St.,14,16,0,30
+2008,129,Central Mich.,14,17,0,31
+2008,130,Central Mo.,18,10,0,28
+2008,1009,Central Okla.,28,6,0,34
+2008,1010,Central Wash.,21,7,0,28
+2008,132,Centre,26,3,0,29
+2008,1012,Chadron St.,7,20,0,27
+2008,133,Chaminade,21,8,0,29
+2008,134,Chapman,19,7,0,26
+2008,1013,Charleston (WV),19,10,0,29
+2008,48,Charleston So.,10,20,0,30
+2008,458,Charlotte,20,14,0,34
+2008,693,Chattanooga,18,13,0,31
+2008,21323,Chestnut Hill,6,21,0,27
+2008,135,Cheyney,19,10,0,29
+2008,137,Chicago,18,8,0,26
+2008,136,Chicago St.,11,17,0,28
+2008,8875,Chowan,23,21,0,44
+2008,139,Chris. Newport,10,16,0,26
+2008,1015,Christian Bros.,39,13,0,52
+2008,140,Cincinnati,13,19,0,32
+2008,141,Citadel,6,24,0,30
+2008,8580,City Tech,8,19,0,27
+2008,30058,Claflin,24,2,0,26
+2008,142,Claremont-M-S,28,18,0,46
+2008,143,Clarion,16,12,0,28
+2008,145,Clark (MA),12,13,0,25
+2008,144,Clark Atlanta,16,14,0,30
+2008,146,Clarkson,11,17,0,28
+2008,20576,Clayton St.,19,15,0,34
+2008,147,Clemson,24,10,0,34
+2008,148,Cleveland St.,21,13,0,34
+2008,722,Coast Guard,24,7,0,31
+2008,149,Coastal Caro.,13,15,0,28
+2008,150,Coe,16,11,0,27
+2008,1023,Coker,9,19,0,28
+2008,1014,Col. of Charleston,16,17,0,33
+2008,151,Colby,13,12,0,25
+2008,152,Colby-Sawyer,13,11,0,24
+2008,153,Colgate,18,14,0,32
+2008,11403,Colo. Christian,18,13,0,31
+2008,157,Colorado,12,20,0,32
+2008,154,Colorado Col.,0,24,0,24
+2008,155,Colorado Mines,15,14,0,29
+2008,156,Colorado St.,7,25,0,32
+2008,2720,Colorado St.-Pueblo,10,17,0,27
+2008,158,Columbia,14,15,0,29
+2008,159,Columbus St.,13,18,0,31
+2008,1028,Concord,15,14,0,29
+2008,162,Concordia (NY),12,17,0,29
+2008,24400,Concordia (TX),19,9,0,28
+2008,1036,Concordia (WI),14,11,0,25
+2008,160,Concordia Chicago,5,20,0,25
+2008,161,Concordia-M'head,13,13,0,26
+2008,9081,Concordia-St. Paul,16,12,0,28
+2008,164,Connecticut,24,9,0,33
+2008,163,Connecticut Col.,17,8,0,25
+2008,165,Coppin St.,16,21,0,37
+2008,167,Cornell,22,6,0,28
+2008,166,Cornell College,9,17,0,26
+2008,169,Creighton,22,11,0,33
+2008,30035,Crown (MN),5,34,0,39
+2008,170,Curry,18,11,0,29
+2008,1059,D'Youville,8,17,0,25
+2008,1044,Dallas,11,15,0,26
+2008,1045,Dallas Baptist,16,16,0,32
+2008,2691,Daniel Webster,7,19,0,26
+2008,172,Dartmouth,10,18,0,28
+2008,173,Davidson,29,7,0,36
+2008,174,Davis & Elkins,12,16,0,28
+2008,175,Dayton,23,11,0,34
+2008,1050,Defiance,19,8,0,27
+2008,180,Delaware,14,17,0,31
+2008,178,Delaware St.,14,16,0,30
+2008,179,Delaware Valley,3,21,0,24
+2008,181,Delta St.,29,17,0,46
+2008,182,Denison,3,22,0,25
+2008,183,Denver,11,19,0,30
+2008,176,DePaul,11,19,0,30
+2008,177,DePauw,19,7,0,26
+2008,20,DeSales,21,6,0,27
+2008,184,Detroit,7,23,0,30
+2008,185,Dickinson,14,13,0,27
+2008,186,Dist. Columbia,14,8,0,22
+2008,30095,Dixie St.,13,14,0,27
+2008,1332,Dominican (IL),14,12,0,26
+2008,8956,Dominican (NY),13,15,0,28
+2008,2692,Dowling,9,19,0,28
+2008,189,Drake,28,5,0,33
+2008,190,Drew,7,18,0,25
+2008,191,Drexel,12,20,0,32
+2008,1057,Drury,25,6,0,31
+2008,192,Dubuque,14,12,0,26
+2008,193,Duke,28,6,0,34
+2008,194,Duquesne,17,13,0,30
+2008,195,Earlham,4,21,0,25
+2008,196,East Carolina,11,19,0,30
+2008,8965,East Central,14,13,0,27
+2008,197,East Stroudsburg,18,10,0,28
+2008,198,East Tenn. St.,19,13,0,32
+2008,1062,East Tex. Baptist,9,17,0,26
+2008,203,East. Mennonite,9,17,0,26
+2008,8968,Eastern,11,14,0,25
+2008,200,Eastern Conn. St.,13,13,0,26
+2008,201,Eastern Ill.,7,22,0,29
+2008,202,Eastern Ky.,14,16,0,30
+2008,204,Eastern Mich.,14,17,0,31
+2008,206,Eastern N.M.,6,21,0,27
+2008,1064,Eastern Nazarene,5,20,0,25
+2008,207,Eastern Wash.,11,19,0,30
+2008,208,Eckerd,19,10,0,29
+2008,1066,Edgewood,13,13,0,26
+2008,209,Edinboro,24,7,0,31
+2008,210,Elizabeth City St.,28,13,0,41
+2008,211,Elizabethtown,15,9,0,24
+2008,212,Elmhurst,18,8,0,26
+2008,213,Elmira,6,19,0,25
+2008,532,Elms,23,7,0,30
+2008,1068,Elon,14,19,0,33
+2008,214,Emerson,24,5,0,29
+2008,215,Emmanuel (MA),17,11,0,28
+2008,217,Emory,10,15,0,25
+2008,216,Emory & Henry,7,18,0,25
+2008,1071,Emporia St.,14,16,0,30
+2008,8981,Endicott,11,15,0,26
+2008,1072,Erskine,6,21,0,27
+2008,218,Eureka,9,16,0,25
+2008,219,Evansville,9,21,0,30
+2008,220,Fairfield,14,16,0,30
+2008,222,Fairleigh Dickinson,8,20,0,28
+2008,1076,Fairmont St.,19,10,0,29
+2008,27892,Farmingdale St.,22,6,0,28
+2008,223,Fayetteville St.,18,23,0,41
+2008,221,FDU-Florham,3,22,0,25
+2008,23157,Felician,10,17,0,27
+2008,224,Ferris St.,10,19,0,29
+2008,225,Ferrum,14,12,0,26
+2008,1079,Findlay,28,5,0,33
+2008,30032,Finlandia,13,12,0,25
+2008,226,Fisk,2,8,0,10
+2008,227,Fitchburg St.,16,10,0,26
+2008,231,FIU,9,20,0,29
+2008,229,Fla. Atlantic,15,18,0,33
+2008,28755,Fla. Gulf Coast,10,21,0,31
+2008,233,Fla. Southern,24,9,0,33
+2008,235,Florida,24,12,0,36
+2008,228,Florida A&M,15,17,0,32
+2008,234,Florida St.,19,15,0,34
+2008,230,Florida Tech,20,8,0,28
+2008,11538,Fontbonne,21,7,0,28
+2008,236,Fordham,12,17,0,29
+2008,9011,Fort Hays St.,19,11,0,30
+2008,1083,Fort Lewis,24,6,0,30
+2008,237,Fort Valley St.,15,14,0,29
+2008,238,Framingham St.,12,14,0,26
+2008,1085,Francis Marion,12,16,0,28
+2008,30069,Franciscan,3,13,0,16
+2008,239,Frank. & Marsh.,12,13,0,25
+2008,2694,Franklin,18,10,0,28
+2008,241,Franklin Pierce,10,17,0,27
+2008,242,Fredonia St.,9,17,0,26
+2008,96,Fresno St.,13,19,0,32
+2008,243,Frostburg St.,19,24,0,43
+2008,244,Furman,7,23,0,30
+2008,253,Ga. Southern,20,12,0,32
+2008,1097,Ga. Southwestern,8,19,0,27
+2008,245,Gallaudet,6,19,0,25
+2008,246,Gannon,26,5,0,31
+2008,1092,Gardner-Webb,16,16,0,32
+2008,30084,Geneva,13,12,0,25
+2008,1094,George Fox,9,16,0,25
+2008,248,George Mason,23,11,0,34
+2008,249,George Washington,9,17,0,26
+2008,251,Georgetown,28,6,0,34
+2008,257,Georgia,17,17,0,34
+2008,1096,Georgia College,20,9,0,29
+2008,254,Georgia St.,9,21,0,30
+2008,255,Georgia Tech,15,17,0,32
+2008,258,Gettysburg,24,5,0,29
+2008,1098,Glenville St.,9,19,0,28
+2008,8366,Goldey-Beacom,16,12,0,28
+2008,260,Gonzaga,25,8,0,33
+2008,1099,Gordon,18,9,0,27
+2008,1467,Goucher,6,19,0,25
+2008,261,Grambling,7,19,0,26
+2008,1104,Grand Canyon,12,15,0,27
+2008,262,Grand Valley St.,36,1,0,37
+2008,794,Green Bay,15,15,0,30
+2008,11062,Green Mountain,21,5,0,26
+2008,263,Greensboro,13,15,0,28
+2008,1111,Greenville,13,13,0,26
+2008,264,Grinnell,16,8,0,24
+2008,265,Grove City,17,11,0,28
+2008,1112,Guilford,24,5,0,29
+2008,266,Gust. Adolphus,19,8,0,27
+2008,12399,Gwynedd-Mercy,21,10,0,31
+2008,267,Hamilton,17,9,0,26
+2008,268,Hamline,8,17,0,25
+2008,269,Hampden-Sydney,15,12,0,27
+2008,270,Hampton,18,12,0,30
+2008,1115,Hanover,13,13,0,26
+2008,271,Hardin-Simmons,15,12,0,27
+2008,1116,Harding,31,20,0,51
+2008,272,Hartford,18,16,0,34
+2008,273,Hartwick,10,15,0,25
+2008,275,Harvard,8,22,0,30
+2008,276,Haverford,8,16,0,24
+2008,277,Hawaii,11,19,0,30
+2008,2697,Hawaii Hilo,13,13,0,26
+2008,2696,Hawaii Pacific,8,19,0,27
+2008,278,Heidelberg,23,6,0,29
+2008,1123,Henderson St.,6,40,0,46
+2008,1124,Hendrix,14,12,0,26
+2008,19651,High Point,17,14,0,31
+2008,8398,Hilbert,14,28,0,42
+2008,280,Hillsdale,14,14,0,28
+2008,281,Hiram,8,18,0,26
+2008,282,Hobart,12,13,0,25
+2008,283,Hofstra,12,18,0,30
+2008,285,Holy Cross,15,14,0,29
+2008,1126,Holy Family,21,10,0,31
+2008,8404,Hood,15,11,0,26
+2008,286,Hope,28,4,0,32
+2008,288,Houston,24,10,0,34
+2008,290,Howard,6,26,0,32
+2008,2741,Howard Payne,14,13,0,27
+2008,291,Humboldt St.,20,9,0,29
+2008,292,Hunter,13,14,0,27
+2008,1130,Huntingdon,16,26,0,42
+2008,1133,Husson,18,11,0,29
+2008,295,Idaho,8,21,0,29
+2008,294,Idaho St.,12,19,0,31
+2008,300,Ill. Wesleyan,16,11,0,27
+2008,302,Ill.-Chicago,18,15,0,33
+2008,301,Illinois,16,19,0,35
+2008,297,Illinois Col.,9,14,0,23
+2008,299,Illinois St.,25,10,0,35
+2008,303,Immaculata,18,10,0,28
+2008,2743,Incarnate Word,17,11,0,28
+2008,306,Indiana,25,8,0,33
+2008,307,Indiana (PA),13,15,0,28
+2008,305,Indiana St.,15,16,0,31
+2008,309,Indianapolis,14,13,0,27
+2008,310,Iona,12,20,0,32
+2008,312,Iowa,13,19,0,32
+2008,311,Iowa St.,14,18,0,32
+2008,308,IPFW,13,18,0,31
+2008,313,Ithaca,17,9,0,26
+2008,2699,IUPUI,26,7,0,33
+2008,314,Jackson St.,14,20,0,34
+2008,316,Jacksonville,18,13,0,31
+2008,315,Jacksonville St.,7,22,0,29
+2008,317,James Madison,13,17,0,30
+2008,320,John Carroll,11,14,0,25
+2008,321,John Jay,14,16,0,30
+2008,322,Johns Hopkins,16,10,0,26
+2008,22626,Johnson & Wales (RI),15,12,0,27
+2008,323,Johnson C. Smith,30,15,0,45
+2008,324,Johnson St.,9,17,0,26
+2008,325,Juniata,17,11,0,28
+2008,326,Kalamazoo,6,19,0,25
+2008,328,Kansas,37,3,0,40
+2008,327,Kansas St.,21,12,0,33
+2008,329,Kean,9,17,0,26
+2008,330,Keene St.,16,11,0,27
+2008,1157,Kennesaw St.,10,20,0,30
+2008,331,Kent St.,28,7,0,35
+2008,334,Kentucky,18,13,0,31
+2008,332,Kentucky St.,12,16,0,28
+2008,335,Kenyon,13,13,0,26
+2008,1159,Keuka,7,16,0,23
+2008,30047,Keystone,14,12,0,26
+2008,336,King's (PA),20,9,0,29
+2008,337,Knox,8,15,0,23
+2008,339,Kutztown,19,9,0,28
+2008,333,Ky. Wesleyan,24,8,0,32
+2008,1163,La Roche,24,19,0,43
+2008,340,La Salle,15,17,0,32
+2008,30043,La Sierra,5,17,0,22
+2008,341,La Verne,18,29,0,47
+2008,671,La.-Lafayette,15,15,0,30
+2008,498,La.-Monroe,10,21,0,31
+2008,342,Lafayette,15,15,0,30
+2008,1162,LaGrange,12,33,0,45
+2008,2746,Lake Erie,18,9,0,27
+2008,344,Lake Forest,11,12,0,23
+2008,345,Lake Superior St.,12,16,0,28
+2008,1164,Lakeland,17,11,0,28
+2008,346,Lamar,19,11,0,30
+2008,30085,Lancaster Bible,5,22,0,27
+2008,1167,Lander,10,19,0,29
+2008,347,Lane,5,23,0,28
+2008,8486,Lasell,20,9,0,29
+2008,348,Lawrence,22,3,0,25
+2008,349,Le Moyne,15,14,0,29
+2008,351,Lebanon Valley,11,15,0,26
+2008,13302,Lees-McRae,6,21,0,27
+2008,352,Lehigh,14,15,0,29
+2008,279,Lehman,11,15,0,26
+2008,350,LeMoyne-Owen,14,13,0,27
+2008,1170,Lenoir-Rhyne,23,7,0,30
+2008,24317,Lesley,12,16,0,28
+2008,8490,LeTourneau,12,13,0,25
+2008,354,Lewis,20,11,0,31
+2008,22235,Lewis & Clark,15,9,0,24
+2008,355,Liberty,16,16,0,32
+2008,1174,Limestone,10,17,0,27
+2008,356,Lincoln (MO),7,20,0,27
+2008,357,Lincoln (PA),4,22,0,26
+2008,1176,Lincoln Memorial,8,20,0,28
+2008,1179,Linfield,14,11,0,25
+2008,28600,Lipscomb,15,16,0,31
+2008,359,Livingstone,21,20,0,41
+2008,360,Lock Haven,2,24,0,26
+2008,99,Long Beach St.,6,25,0,31
+2008,361,LIU Brooklyn,15,15,0,30
+2008,363,Longwood,9,22,0,31
+2008,364,Loras,22,7,0,29
+2008,1182,Louisiana Col.,9,16,0,25
+2008,366,Louisiana Tech,6,24,0,30
+2008,367,Louisville,27,9,0,36
+2008,371,Loyola Chicago,12,19,0,31
+2008,369,Loyola Maryland,19,14,0,33
+2008,370,Loyola Marymount,5,26,0,31
+2008,365,LSU,13,18,0,31
+2008,372,Luther,7,18,0,25
+2008,373,Lycoming,17,10,0,27
+2008,374,Lynchburg,3,22,0,25
+2008,20794,Lynn,16,13,0,29
+2008,376,Macalester,6,19,0,25
+2008,377,MacMurray,3,22,0,25
+2008,380,Maine,7,23,0,30
+2008,378,Maine Maritime,10,14,0,24
+2008,1192,Manchester,4,21,0,25
+2008,381,Manhattan,12,19,0,31
+2008,382,Manhattanville,17,9,0,26
+2008,384,Mansfield,17,10,0,27
+2008,1194,Maranatha Baptist,8,20,0,28
+2008,1196,Marian (WI),16,11,0,27
+2008,385,Marietta,6,19,0,25
+2008,386,Marist,18,14,0,32
+2008,387,Marquette,25,10,0,35
+2008,1199,Mars Hill,14,16,0,30
+2008,388,Marshall,16,14,0,30
+2008,8597,Martin Luther,23,19,0,42
+2008,30075,Mary,8,20,0,28
+2008,1203,Mary Hardin-Baylor,26,4,0,30
+2008,390,Mary Washington,18,9,0,27
+2008,392,Maryland,19,15,0,34
+2008,394,Marymount (VA),15,12,0,27
+2008,395,Maryville (MO),13,14,0,27
+2008,396,Maryville (TN),35,9,0,44
+2008,397,Marywood,7,18,0,25
+2008,486,MCLA,7,18,0,25
+2008,401,Mass.-Boston,2,24,0,26
+2008,656,Mass.-Dartmouth,25,4,0,29
+2008,368,Mass.-Lowell,12,17,0,29
+2008,400,Massachusetts,25,11,0,36
+2008,773,McDaniel,15,11,0,26
+2008,8530,McMurry,12,13,0,25
+2008,402,McNeese St.,13,16,0,29
+2008,393,UMES,4,28,0,32
+2008,379,Me.-Farmington,11,15,0,26
+2008,30040,Me.-Presque Isle,0,14,0,14
+2008,23725,Medaille,27,19,0,46
+2008,403,Medgar Evers,1,24,0,25
+2008,404,Memphis,38,2,0,40
+2008,406,Mercer,11,19,0,30
+2008,724,Merchant Marine,12,13,0,25
+2008,407,Mercy,8,19,0,27
+2008,408,Mercyhurst,15,13,0,28
+2008,410,Merrimack,17,12,0,29
+2008,11416,Colorado Mesa,13,14,0,27
+2008,411,Messiah,15,10,0,25
+2008,412,Methodist,16,10,0,26
+2008,413,Metro St.,19,12,0,31
+2008,415,Miami (FL),23,11,0,34
+2008,414,Miami (OH),17,16,0,33
+2008,418,Michigan,10,22,0,32
+2008,416,Michigan St.,27,9,0,36
+2008,417,Michigan Tech,13,14,0,27
+2008,419,Middle Tenn.,17,15,0,32
+2008,420,Middlebury,19,8,0,27
+2008,1222,Midwestern St.,13,13,0,26
+2008,422,Miles,15,13,0,28
+2008,423,Millersville,22,10,0,32
+2008,424,Millikin,9,16,0,25
+2008,426,Millsaps,28,4,0,32
+2008,797,Milwaukee,14,16,0,30
+2008,20220,Milwaukee Engr.,17,10,0,27
+2008,427,Minn. Duluth,9,19,0,28
+2008,383,Minn. St. Mankato,22,7,0,29
+2008,1240,Minn. St. Moorhead,14,14,0,28
+2008,27854,Minn.-Crookston,5,22,0,27
+2008,1226,Minn.-Morris,21,21,0,42
+2008,428,Minnesota,20,14,0,34
+2008,16142,Misericordia,19,10,0,29
+2008,433,Ole Miss,24,11,0,35
+2008,429,Mississippi Col.,19,6,0,25
+2008,430,Mississippi St.,23,11,0,34
+2008,432,Mississippi Val.,17,16,0,33
+2008,434,Missouri,16,16,0,32
+2008,435,Missouri S&T,3,24,0,27
+2008,669,Missouri St.,17,16,0,33
+2008,398,MIT,12,14,0,26
+2008,30042,Mitchell,3,22,0,25
+2008,9012,Mo. Southern St.,17,11,0,28
+2008,9013,Mo. Western St.,9,18,0,27
+2008,436,Mo.-St. Louis,10,17,0,27
+2008,437,Molloy,10,18,0,28
+2008,439,Monmouth,7,24,0,31
+2008,438,Monmouth (IL),7,15,0,22
+2008,205,Mont. St. Billings,1,28,0,29
+2008,441,Montana,14,16,0,30
+2008,440,Montana St.,15,15,0,30
+2008,442,Montclair St.,16,11,0,27
+2008,1238,Montevallo,23,27,0,50
+2008,443,Moravian,18,9,0,27
+2008,444,Morehead St.,15,15,0,30
+2008,445,Morehouse,12,15,0,27
+2008,446,Morgan St.,22,11,0,33
+2008,30067,Morrisville St.,5,19,0,24
+2008,27901,Mount Ida,7,18,0,25
+2008,1245,Mount Olive,24,7,0,31
+2008,452,Mount Union,9,17,0,26
+2008,30036,Mt. Aloysius,10,29,0,39
+2008,8567,Mt. St. Joseph,9,16,0,25
+2008,1468,Mt. St. Mary (NY),11,15,0,26
+2008,450,Mt. St. Mary's,19,15,0,34
+2008,451,Mt. St. Vincent,9,16,0,25
+2008,453,Muhlenberg,10,15,0,25
+2008,454,Murray St.,18,13,0,31
+2008,455,Muskingum,15,11,0,26
+2008,488,N.C. A&T,15,16,0,31
+2008,489,N.C. Central,4,26,0,30
+2008,491,N.C. Wesleyan,12,15,0,27
+2008,8577,N.M. Highlands,1,26,0,27
+2008,726,Navy,16,14,0,30
+2008,461,Nazareth,20,8,0,28
+2008,462,Neb. Wesleyan,14,13,0,27
+2008,1156,Neb.-Kearney,16,13,0,29
+2008,464,Neb. Omaha,25,7,0,32
+2008,463,Nebraska,20,13,0,33
+2008,1254,Neumann,10,15,0,25
+2008,466,Nevada,21,12,0,33
+2008,467,New England Col.,7,18,0,25
+2008,469,New Hampshire,9,20,0,29
+2008,470,New Haven,11,16,0,27
+2008,319,New Jersey City,14,12,0,26
+2008,473,New Mexico,24,9,0,33
+2008,472,New Mexico St.,21,14,0,35
+2008,474,New Orleans,19,13,0,32
+2008,475,SUNY New Paltz,6,19,0,25
+2008,479,New York U.,16,11,0,27
+2008,1257,Newberry,12,16,0,28
+2008,21772,Newbury,21,9,0,30
+2008,30054,Newman,14,13,0,27
+2008,482,Niagara,19,10,0,29
+2008,483,Nicholls St.,10,21,0,31
+2008,484,Nichols,10,15,0,25
+2008,471,NJIT,0,29,0,29
+2008,485,Norfolk St.,16,15,0,31
+2008,487,North Ala.,41,16,0,57
+2008,457,North Carolina,36,3,0,39
+2008,490,North Carolina St.,15,16,0,31
+2008,492,North Central (IL),10,15,0,25
+2008,494,North Dakota,15,15,0,30
+2008,493,North Dakota St.,16,13,0,29
+2008,2711,North Florida,3,26,0,29
+2008,30052,North Ga.,18,11,0,29
+2008,9223,North Greenville,7,20,0,27
+2008,496,North Park,14,11,0,25
+2008,497,North Texas,20,11,0,31
+2008,500,Northeastern,14,17,0,31
+2008,12810,Northeastern St.,14,14,0,28
+2008,501,Northern Ariz.,21,11,0,32
+2008,502,Northern Colo.,13,16,0,29
+2008,503,Northern Ill.,6,22,0,28
+2008,505,Northern Ky.,21,8,0,29
+2008,506,Northern Mich.,7,20,0,27
+2008,1266,Northern St.,29,4,0,33
+2008,1267,Northland,6,35,0,41
+2008,507,Northwest Mo. St.,24,8,0,32
+2008,1274,Northwest Nazarene,17,10,0,27
+2008,509,Northwestern,8,22,0,30
+2008,30031,Northwestern (MN),34,12,0,46
+2008,508,Northwestern St.,15,18,0,33
+2008,510,Northwood (MI),11,16,0,27
+2008,511,Norwich,12,13,0,25
+2008,513,Notre Dame,25,8,0,33
+2008,30056,Notre Dame de Namur,10,16,0,26
+2008,24639,Nova Southeastern,10,18,0,28
+2008,1277,Nyack,11,16,0,27
+2008,477,NYIT,16,12,0,28
+2008,514,Oakland,17,14,0,31
+2008,1278,Oakland City,26,23,0,49
+2008,515,Oberlin,5,21,0,26
+2008,516,Occidental,30,17,0,47
+2008,2713,Oglethorpe,16,10,0,26
+2008,519,Ohio,20,13,0,33
+2008,517,Ohio Northern,15,12,0,27
+2008,518,Ohio St.,24,13,0,37
+2008,15207,Ohio Valley,7,21,0,28
+2008,520,Ohio Wesleyan,22,8,0,30
+2008,24342,Okla. Panhandle,10,17,0,27
+2008,522,Oklahoma,23,12,0,35
+2008,521,Oklahoma St.,17,16,0,33
+2008,523,Old Dominion,18,16,0,34
+2008,524,Old Westbury,16,10,0,26
+2008,525,Olivet,9,16,0,25
+2008,526,SUNY Oneonta,12,14,0,26
+2008,527,Oral Roberts,24,9,0,33
+2008,529,Oregon,18,14,0,32
+2008,528,Oregon St.,6,25,0,31
+2008,530,Oswego St.,21,8,0,29
+2008,531,Otterbein,7,18,0,25
+2008,1289,Ouachita Baptist,32,18,0,50
+2008,23008,Ozarks (AR),8,17,0,25
+2008,533,Pace,14,14,0,28
+2008,534,Pacific,21,10,0,31
+2008,2751,Pacific (OR),11,14,0,25
+2008,1297,Pacific Lutheran,11,13,0,24
+2008,535,Paine,13,15,0,28
+2008,30045,Palm Beach Atl.,4,22,0,26
+2008,540,Penn,13,18,0,31
+2008,539,Penn St.,15,16,0,31
+2008,25719,Penn St.-Altoona,23,20,0,43
+2008,538,Penn St.-Behrend,35,10,0,45
+2008,30044,Penn St.-Berks,7,19,0,26
+2008,30081,Penn St.-Harrisburg,8,17,0,25
+2008,541,Pepperdine,11,21,0,32
+2008,542,Pfeiffer,21,8,0,29
+2008,1305,Cairn,3,21,0,24
+2008,543,Philadelphia U.,22,12,0,34
+2008,21830,Piedmont,21,24,0,45
+2008,1315,Pitt.-Bradford,18,23,0,41
+2008,11839,Pitt.-Greensburg,16,27,0,43
+2008,546,Pitt.-Johnstown,23,8,0,31
+2008,1314,Pittsburg St.,18,10,0,28
+2008,545,Pittsburgh,27,10,0,37
+2008,547,Plattsburgh St.,27,3,0,30
+2008,548,Plymouth St.,8,18,0,26
+2008,481,Polytechnic (NY),8,17,0,25
+2008,549,Pomona-Pitzer,24,20,0,44
+2008,551,Portland,9,22,0,31
+2008,550,Portland St.,23,10,0,33
+2008,1318,Post,14,15,0,29
+2008,553,Prairie View,8,22,0,30
+2008,1320,Presbyterian,5,25,0,30
+2008,30034,Presentation,13,29,0,42
+2008,554,Princeton,6,23,0,29
+2008,555,Principia,5,18,0,23
+2008,556,Providence,15,16,0,31
+2008,557,Puget Sound,19,7,0,26
+2008,30029,Purchase St.,3,22,0,25
+2008,559,Purdue,25,9,0,34
+2008,11504,Queens (NC),21,10,0,31
+2008,560,Queens (NY),4,23,0,27
+2008,561,Quincy,16,13,0,29
+2008,562,Quinnipiac,15,15,0,30
+2008,563,Radford,10,20,0,30
+2008,564,Ramapo,16,11,0,27
+2008,566,Randolph,8,13,0,21
+2008,565,Randolph-Macon,20,6,0,26
+2008,567,Redlands,17,29,0,46
+2008,568,Regis (CO),14,14,0,28
+2008,569,Regis (MA),9,16,0,25
+2008,570,Rensselaer,11,14,0,25
+2008,572,Rhode Island,21,12,0,33
+2008,571,Rhode Island Col.,23,7,0,30
+2008,573,Rhodes,11,15,0,26
+2008,574,Rice,3,27,0,30
+2008,681,Richard Stockton,22,7,0,29
+2008,575,Richmond,16,15,0,31
+2008,576,Rider,23,11,0,34
+2008,577,Ripon,11,12,0,23
+2008,18422,Rivier,13,13,0,26
+2008,578,Roanoke,18,9,0,27
+2008,579,Robert Morris,26,8,0,34
+2008,581,Rochester (NY),22,6,0,28
+2008,580,Rochester Inst.,14,11,0,25
+2008,582,Rockford,1,24,0,25
+2008,1328,Rockhurst,9,18,0,27
+2008,583,Roger Williams,17,11,0,28
+2008,584,Rollins,19,9,0,28
+2008,585,Rose-Hulman,12,14,0,26
+2008,259,Rowan,18,8,0,26
+2008,586,Rust,11,12,2,25
+2008,587,Rutgers,11,20,0,31
+2008,588,Rutgers-Camden,6,19,0,25
+2008,589,Rutgers-Newark,13,13,0,26
+2008,11276,S.C. Aiken,27,4,0,31
+2008,10411,S.C. Upstate,7,23,0,30
+2008,102,Sacramento St.,4,24,0,28
+2008,590,Sacred Heart,18,14,0,32
+2008,591,Saginaw Valley,12,14,0,26
+2008,19117,Salem Int'l,5,23,0,28
+2008,621,Salem St.,21,7,0,28
+2008,622,Salisbury,7,20,0,27
+2008,623,Salve Regina,6,19,0,25
+2008,624,Sam Houston St.,23,8,0,31
+2008,625,Samford,14,16,0,30
+2008,627,San Diego,22,14,0,36
+2008,626,San Diego St.,20,13,0,33
+2008,628,San Fran. St.,17,12,0,29
+2008,629,San Francisco,10,21,0,31
+2008,630,San Jose St.,13,19,0,32
+2008,631,Santa Clara,15,16,0,31
+2008,632,Savannah St.,13,18,0,31
+2008,1355,Schreiner,5,20,0,25
+2008,633,Scranton,19,9,0,28
+2008,1356,Seattle,18,9,0,27
+2008,634,Seattle Pacific,21,8,0,29
+2008,635,Seton Hall,17,15,0,32
+2008,30063,Seton Hill,12,15,0,27
+2008,652,Sewanee,7,18,0,25
+2008,636,Shaw,13,29,0,42
+2008,637,Shenandoah,16,10,0,26
+2008,10870,Shepherd,16,13,0,29
+2008,638,Shippensburg,8,19,0,27
+2008,639,Siena,23,11,0,34
+2008,641,Simpson,7,18,0,25
+2008,660,SIU Edwardsville,17,11,0,28
+2008,642,Skidmore,6,19,0,25
+2008,643,Slippery Rock,7,20,0,27
+2008,663,SMU,10,20,0,30
+2008,645,Sonoma St.,11,15,0,26
+2008,646,South Ala.,26,7,0,33
+2008,648,South Carolina,14,18,0,32
+2008,647,South Carolina St.,13,20,0,33
+2008,650,South Dakota,22,7,0,29
+2008,649,South Dakota St.,8,21,0,29
+2008,651,South Fla.,12,19,0,31
+2008,654,Southeast Mo. St.,12,19,0,31
+2008,655,Southeastern La.,17,13,0,30
+2008,1371,Southeastern Okla.,3,24,0,27
+2008,1376,Southern Ark.,19,27,0,46
+2008,657,Southern California,21,12,0,33
+2008,658,Southern Conn. St.,7,20,0,27
+2008,659,Southern Ill.,18,15,0,33
+2008,661,Southern Ind.,15,12,0,27
+2008,662,Southern Me.,14,13,0,27
+2008,664,Southern Miss.,19,14,0,33
+2008,468,Southern N.H.,12,16,0,28
+2008,665,Southern U.,11,19,0,30
+2008,667,Southern Utah,11,19,0,30
+2008,1379,Southern Vt.,5,19,0,24
+2008,2755,Southwest Baptist,22,8,0,30
+2008,8736,Southwest Minn. St.,17,12,0,29
+2008,8746,Southwestern (TX),11,14,0,25
+2008,8744,Southwestern Okla.,21,7,0,28
+2008,673,Springfield,10,15,0,25
+2008,592,St. Andrews,7,20,0,27
+2008,593,St. Anselm,13,14,0,27
+2008,594,St. Augustine's,27,13,0,40
+2008,596,St. Bonaventure,8,22,0,30
+2008,598,St. Cloud St.,17,11,0,28
+2008,1334,St. Edward's,23,7,0,30
+2008,599,St. Francis (NY),7,22,0,29
+2008,600,Saint Francis (PA),6,23,0,29
+2008,601,St. John Fisher,17,12,0,29
+2008,602,Saint John's (MN),14,12,0,26
+2008,603,St. John's (NY),11,19,0,30
+2008,606,Saint Joseph's,21,13,0,34
+2008,30072,St. Joseph's (Brkln),10,13,0,23
+2008,604,St. Joseph's (IN),18,12,0,30
+2008,1340,St. Joseph's (L.I.),21,7,0,28
+2008,605,St. Joseph's (ME),14,13,0,27
+2008,607,St. Lawrence,17,9,0,26
+2008,608,Saint Leo,14,15,0,29
+2008,609,Saint Louis,16,15,0,31
+2008,1343,Saint Martin's,13,14,0,27
+2008,610,St. Mary's (CA),25,7,0,32
+2008,611,St. Mary's (MD),19,12,0,31
+2008,612,Saint Mary's (MN),2,23,0,25
+2008,1346,St. Mary's (TX),17,13,0,30
+2008,613,Saint Michael's,8,18,0,26
+2008,614,St. Norbert,14,10,0,24
+2008,615,St. Olaf,12,13,0,25
+2008,616,St. Paul's,9,27,0,36
+2008,617,Saint Peter's,6,24,0,30
+2008,1347,Saint Rose,23,8,0,31
+2008,618,St. Scholastica,18,25,0,43
+2008,620,St. Thomas (MN),23,5,0,28
+2008,1348,St. Thomas Aquinas,17,12,0,29
+2008,30064,Saint Vincent,21,4,0,25
+2008,674,Stanford,28,8,0,36
+2008,675,Staten Island,14,12,0,26
+2008,676,Stephen F. Austin,26,6,0,32
+2008,678,Stetson,16,16,0,32
+2008,679,Stevens,23,6,0,29
+2008,21852,Stevenson,7,19,0,26
+2008,680,Stillman,1,27,0,28
+2008,682,Stonehill,18,14,0,32
+2008,683,Stony Brook,7,23,0,30
+2008,684,Suffolk,4,21,0,25
+2008,1390,Sul Ross St.,8,17,0,25
+2008,168,SUNY Cortland,21,8,0,29
+2008,247,SUNY Geneseo,19,8,0,27
+2008,478,SUNY Maritime,13,14,0,27
+2008,552,SUNY Potsdam,11,15,0,26
+2008,9500,SUNYIT,7,18,0,25
+2008,685,Susquehanna,13,12,0,25
+2008,686,Swarthmore,6,19,0,25
+2008,688,Syracuse,21,14,0,35
+2008,689,Tampa,21,9,0,30
+2008,1395,Tarleton St.,25,7,0,32
+2008,712,TCNJ,6,19,0,25
+2008,698,TCU,14,16,0,30
+2008,690,Temple,21,13,0,34
+2008,694,Tennessee,31,5,0,36
+2008,691,Tennessee St.,15,17,0,32
+2008,692,Tennessee Tech,13,19,0,32
+2008,30090,Tex. A&M Int'l,10,16,0,26
+2008,199,Tex. A&M-Commerce,14,16,0,30
+2008,696,Tex. A&M-Kingsville,16,11,0,27
+2008,30088,Tex. Permian Basin,11,16,0,27
+2008,536,Tex.-Pan American,18,13,0,31
+2008,703,Texas,31,7,0,38
+2008,697,Texas A&M,25,11,0,36
+2008,1400,Texas Lutheran,3,22,0,25
+2008,699,Texas Southern,7,25,0,32
+2008,670,Texas St.,13,16,0,29
+2008,700,Texas Tech,16,15,0,31
+2008,702,Texas-Arlington,21,12,0,33
+2008,23121,Texas-Dallas,17,9,0,26
+2008,30028,Texas-Tyler,14,12,0,26
+2008,707,Thiel,10,15,0,25
+2008,2758,Thomas (ME),9,16,0,25
+2008,1402,Thomas More,11,16,0,27
+2008,1403,Tiffin,3,24,0,27
+2008,709,Toledo,11,19,0,30
+2008,711,Towson,13,18,0,31
+2008,28749,Transylvania,16,11,0,27
+2008,30037,Trine,9,16,0,25
+2008,713,Trinity (CT),21,7,0,28
+2008,715,Trinity (TX),18,9,0,27
+2008,716,Troy,12,19,0,31
+2008,499,Truman,5,22,0,27
+2008,717,Tufts,11,13,0,24
+2008,718,Tulane,17,15,0,32
+2008,719,Tulsa,25,14,0,39
+2008,12830,Tusculum,13,15,0,28
+2008,720,Tuskegee,14,17,0,31
+2008,1255,U New England,17,12,0,29
+2008,9,UAB,23,11,0,34
+2008,32,UALR,20,11,0,31
+2008,108,UC Davis,9,22,0,31
+2008,109,UC Irvine,18,16,0,34
+2008,111,UC Riverside,9,21,0,30
+2008,112,UC San Diego,18,12,0,30
+2008,104,UC Santa Barbara,23,9,0,32
+2008,113,UC Santa Cruz,3,23,0,26
+2008,9754,UC-Colo. Springs,10,17,0,27
+2008,128,UCF,16,15,0,31
+2008,110,UCLA,35,4,0,39
+2008,391,UMBC,24,9,0,33
+2008,2707,UMKC,11,21,0,32
+2008,456,UNC Asheville,23,10,0,33
+2008,459,UNC Greensboro,19,12,0,31
+2008,537,UNC Pembroke,8,20,0,28
+2008,460,UNC Wilmington,20,13,0,33
+2008,504,UNI,18,14,0,32
+2008,727,Union (NY),9,15,0,24
+2008,465,UNLV,27,8,0,35
+2008,728,Upper Iowa,9,19,0,28
+2008,730,Ursinus,29,4,0,33
+2008,28594,USciences,13,15,0,28
+2008,695,UT Martin,17,16,0,33
+2008,732,Utah,18,15,0,33
+2008,731,Utah St.,24,11,0,35
+2008,30024,Utah Valley,15,14,0,29
+2008,704,UTEP,19,14,0,33
+2008,733,Utica,16,9,0,25
+2008,706,UTSA,13,17,0,30
+2008,745,Va. Wesleyan,23,7,0,30
+2008,734,Valdosta St.,34,15,0,49
+2008,735,Valparaiso,22,14,0,36
+2008,736,Vanderbilt,26,8,0,34
+2008,737,Vassar,18,8,0,26
+2008,740,VCU,24,8,0,32
+2008,738,Vermont,16,15,0,31
+2008,739,Villanova,22,13,0,35
+2008,746,Virginia,17,16,0,33
+2008,743,Virginia St.,12,32,0,44
+2008,742,Virginia Tech,21,14,0,35
+2008,744,Virginia Union,32,13,0,45
+2008,741,VMI,14,15,0,29
+2008,747,Wabash,18,10,0,28
+2008,748,Wagner,23,8,0,31
+2008,749,Wake Forest,17,13,0,30
+2008,750,Wartburg,9,16,0,25
+2008,751,Wash. & Jeff.,14,14,0,28
+2008,752,Wash. & Lee,15,11,0,26
+2008,2814,Washburn,18,11,0,29
+2008,756,Washington,16,17,0,33
+2008,1029,Washington Adventist,2,24,0,26
+2008,753,Washington Col.,5,20,0,25
+2008,754,Washington St.,26,9,0,35
+2008,755,Washington-St. Louis,25,6,0,31
+2008,757,Wayne St. (MI),10,16,0,26
+2008,1433,Wayne St. (NE),16,13,0,29
+2008,1434,Waynesburg,8,17,0,25
+2008,758,Weber St.,16,14,0,30
+2008,759,Webster,20,6,0,26
+2008,762,Wentworth Inst.,14,11,0,25
+2008,763,Wesley,14,12,0,26
+2008,764,Wesleyan (CT),8,16,0,24
+2008,358,West Ala.,19,28,0,47
+2008,765,West Chester,12,15,0,27
+2008,11740,West Fla.,23,23,0,46
+2008,766,West Ga.,20,28,0,48
+2008,1438,West Liberty,23,6,0,29
+2008,767,West Tex. A&M,21,8,0,29
+2008,9630,West Va. Wesleyan,10,18,0,28
+2008,768,West Virginia,26,11,0,37
+2008,1439,West Virginia St.,20,10,0,30
+2008,769,Western Caro.,10,21,0,31
+2008,770,Western Conn. St.,15,12,0,27
+2008,771,Western Ill.,12,18,0,30
+2008,772,Western Ky.,29,7,0,36
+2008,774,Western Mich.,20,12,0,32
+2008,1445,Western N.M.,17,12,0,29
+2008,775,Western New Eng.,16,11,0,27
+2008,1446,Western Ore.,15,12,0,27
+2008,2759,Western St.,10,17,0,27
+2008,1448,Western Wash.,15,12,0,27
+2008,777,Westfield St.,19,9,0,28
+2008,1450,Westminster (MO),17,8,0,25
+2008,1451,Westminster (PA),7,19,0,26
+2008,778,Wheaton (IL),22,8,0,30
+2008,779,Wheaton (MA),13,12,0,25
+2008,12799,Wheeling Jesuit,13,15,0,28
+2008,8896,Wheelock,1,24,0,25
+2008,780,Whitman,5,19,0,24
+2008,781,Whittier,27,18,0,45
+2008,1454,Whitworth,21,7,0,28
+2008,782,Wichita St.,11,20,0,31
+2008,783,Widener,22,6,0,28
+2008,784,Wilkes,13,12,0,25
+2008,785,Willamette,11,15,0,26
+2008,786,William & Mary,17,16,0,33
+2008,789,Williams,17,8,0,25
+2008,1460,Wilmington (DE),10,16,0,26
+2008,1461,Wilmington (OH),16,10,0,26
+2008,1462,Wingate,24,7,0,31
+2008,790,Winona St.,38,1,0,39
+2008,791,Winston-Salem,12,18,0,30
+2008,792,Winthrop,22,12,0,34
+2008,8911,Wis. Lutheran,18,8,0,26
+2008,793,Wis.-Eau Claire,12,15,0,27
+2008,795,Wis.-La Crosse,11,15,0,26
+2008,798,Wis.-Oshkosh,17,9,0,26
+2008,799,Wis.-Parkside,16,11,0,27
+2008,800,Wis.-Platteville,19,7,0,26
+2008,801,Wis.-River Falls,9,16,0,25
+2008,802,Wis.-Stevens Point,23,7,0,30
+2008,803,Wis.-Stout,7,19,0,26
+2008,804,Wis.-Superior,12,15,0,27
+2008,805,Wis.-Whitewater,24,5,0,29
+2008,796,Wisconsin,31,5,0,36
+2008,806,Wittenberg,16,10,0,26
+2008,787,Wm. Paterson,19,7,0,26
+2008,2915,Wofford,16,16,0,32
+2008,807,Wooster,23,5,0,28
+2008,809,Worcester St.,10,16,0,26
+2008,808,WPI,21,7,0,28
+2008,810,Wright St.,21,10,0,31
+2008,811,Wyoming,12,18,0,30
+2008,812,Xavier,30,7,0,37
+2008,813,Yale,13,15,0,28
+2008,814,Yeshiva,11,16,0,27
+2008,2730,York (NY),22,9,0,31
+2008,815,York (PA),18,8,0,26
+2008,817,Youngstown St.,9,21,0,30

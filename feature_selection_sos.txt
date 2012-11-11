@@ -1,0 +1,471 @@
+[1] 210  23
+Start:  AIC=2775.06
+minutes_played ~ height + position + offensive + defensive + 
+    strength + schedule_offensive + schedule_defensive + schedule_strength + 
+    schedule_offensive_all + schedule_defensive_all + games + 
+    fgp + ftp + rebounds_per_game + assists_per_game + steals_per_game + 
+    points_per_game + rebounds + assists + blocks + steals + 
+    points
+
+                         Df Sum of Sq      RSS    AIC
+- position                2    431313 92045945 2772.1
+- fgp                     1      2022 91616654 2773.1
+- points                  1     18610 91633241 2773.1
+- games                   1     21893 91636524 2773.1
+- schedule_offensive      1     39874 91654505 2773.2
+- schedule_offensive_all  1     49968 91664600 2773.2
+- schedule_defensive_all  1     55265 91669896 2773.2
+- schedule_defensive      1     66574 91681206 2773.2
+- height                  1    107624 91722255 2773.3
+- points_per_game         1    145611 91760242 2773.4
+- rebounds_per_game       1    186271 91800903 2773.5
+- blocks                  1    213564 91828196 2773.6
+- rebounds                1    284051 91898682 2773.7
+- ftp                     1    342751 91957382 2773.8
+- steals                  1    631535 92246167 2774.5
+- steals_per_game         1    818107 92432738 2774.9
+- defensive               1    820493 92435124 2774.9
+- offensive               1    855989 92470621 2775.0
+<none>                                91614632 2775.1
+- schedule_strength       1    943091 92557722 2775.2
+- strength                1   1239598 92854230 2775.9
+- assists_per_game        1   1443393 93058025 2776.3
+- assists                 1   2355094 93969726 2778.4
+
+Step:  AIC=2772.05
+minutes_played ~ height + offensive + defensive + strength + 
+    schedule_offensive + schedule_defensive + schedule_strength + 
+    schedule_offensive_all + schedule_defensive_all + games + 
+    fgp + ftp + rebounds_per_game + assists_per_game + steals_per_game + 
+    points_per_game + rebounds + assists + blocks + steals + 
+    points
+
+                         Df Sum of Sq      RSS    AIC
+- fgp                     1        37 92045982 2770.1
+- points                  1      6949 92052894 2770.1
+- schedule_offensive      1     35727 92081672 2770.1
+- schedule_offensive_all  1     45156 92091101 2770.2
+- games                   1     45375 92091320 2770.2
+- schedule_defensive_all  1     50479 92096424 2770.2
+- schedule_defensive      1     61130 92107075 2770.2
+- points_per_game         1    100751 92146695 2770.3
+- rebounds_per_game       1    165246 92211191 2770.4
+- blocks                  1    249732 92295677 2770.6
+- ftp                     1    274163 92320108 2770.7
+- rebounds                1    294783 92340728 2770.7
+- height                  1    350306 92396251 2770.8
+- steals                  1    636353 92682298 2771.5
+- defensive               1    764970 92810915 2771.8
+- offensive               1    791168 92837113 2771.8
+- steals_per_game         1    822953 92868897 2771.9
+<none>                                92045945 2772.1
+- schedule_strength       1    918801 92964746 2772.1
+- strength                1   1164915 93210860 2772.7
+- assists_per_game        1   1540257 93586202 2773.5
++ position                2    431313 91614632 2775.1
+- assists                 1   2458365 94504310 2775.6
+
+Step:  AIC=2770.05
+minutes_played ~ height + offensive + defensive + strength + 
+    schedule_offensive + schedule_defensive + schedule_strength + 
+    schedule_offensive_all + schedule_defensive_all + games + 
+    ftp + rebounds_per_game + assists_per_game + steals_per_game + 
+    points_per_game + rebounds + assists + blocks + steals + 
+    points
+
+                         Df Sum of Sq      RSS    AIC
+- points                  1      6930 92052912 2768.1
+- schedule_offensive      1     36159 92082141 2768.1
+- schedule_offensive_all  1     45686 92091668 2768.2
+- games                   1     45713 92091695 2768.2
+- schedule_defensive_all  1     51069 92097050 2768.2
+- schedule_defensive      1     61827 92107809 2768.2
+- points_per_game         1    101907 92147889 2768.3
+- rebounds_per_game       1    165695 92211677 2768.4
+- blocks                  1    249962 92295943 2768.6
+- ftp                     1    277246 92323228 2768.7
+- rebounds                1    296842 92342824 2768.7
+- height                  1    357276 92403258 2768.9
+- steals                  1    636807 92682789 2769.5
+- defensive               1    765259 92811241 2769.8
+- offensive               1    791775 92837757 2769.8
+- steals_per_game         1    823841 92869823 2769.9
+<none>                                92045982 2770.1
+- schedule_strength       1    919505 92965487 2770.1
+- strength                1   1164886 93210868 2770.7
+- assists_per_game        1   1540285 93586266 2771.5
++ fgp                     1        37 92045945 2772.1
++ position                2    429328 91616654 2773.1
+- assists                 1   2459551 94505533 2773.6
+
+Step:  AIC=2768.06
+minutes_played ~ height + offensive + defensive + strength + 
+    schedule_offensive + schedule_defensive + schedule_strength + 
+    schedule_offensive_all + schedule_defensive_all + games + 
+    ftp + rebounds_per_game + assists_per_game + steals_per_game + 
+    points_per_game + rebounds + assists + blocks + steals
+
+                         Df Sum of Sq      RSS    AIC
+- schedule_offensive      1     33806 92086718 2766.1
+- schedule_offensive_all  1     42994 92095906 2766.2
+- schedule_defensive_all  1     48270 92101182 2766.2
+- schedule_defensive      1     58713 92111625 2766.2
+- games                   1    129566 92182478 2766.4
+- rebounds_per_game       1    158910 92211822 2766.4
+- blocks                  1    252290 92305202 2766.6
+- ftp                     1    278399 92331311 2766.7
+- rebounds                1    291029 92343941 2766.7
+- height                  1    350442 92403354 2766.9
+- steals                  1    629878 92682790 2767.5
+- steals_per_game         1    817059 92869971 2767.9
+- defensive               1    878857 92931769 2768.1
+<none>                                92052912 2768.1
+- schedule_strength       1    912860 92965772 2768.1
+- offensive               1    918695 92971607 2768.2
+- strength                1   1332826 93385738 2769.1
+- assists_per_game        1   1645059 93697971 2769.8
++ points                  1      6930 92045982 2770.1
++ fgp                     1        18 92052894 2770.1
++ position                2    418922 91633990 2771.1
+- assists                 1   2658624 94711536 2772.0
+- points_per_game         1   5002723 97055635 2777.2
+
+Step:  AIC=2766.14
+minutes_played ~ height + offensive + defensive + strength + 
+    schedule_defensive + schedule_strength + schedule_offensive_all + 
+    schedule_defensive_all + games + ftp + rebounds_per_game + 
+    assists_per_game + steals_per_game + points_per_game + rebounds + 
+    assists + blocks + steals
+
+                         Df Sum of Sq      RSS    AIC
+- games                   1    126534 92213252 2764.4
+- rebounds_per_game       1    152634 92239353 2764.5
+- blocks                  1    251011 92337729 2764.7
+- ftp                     1    277919 92364637 2764.8
+- rebounds                1    281338 92368057 2764.8
+- height                  1    364387 92451105 2765.0
+- steals                  1    612944 92699663 2765.5
+- steals_per_game         1    799796 92886514 2765.9
+- defensive               1    845073 92931791 2766.1
+<none>                                92086718 2766.1
+- offensive               1    884905 92971623 2766.2
+- schedule_strength       1    978971 93065689 2766.4
+- schedule_offensive_all  1   1064170 93150888 2766.6
+- strength                1   1300814 93387532 2767.1
+- schedule_defensive      1   1510617 93597335 2767.6
+- assists_per_game        1   1613688 93700406 2767.8
+- schedule_defensive_all  1   1725445 93812163 2768.0
++ schedule_offensive      1     33806 92052912 2768.1
++ points                  1      4577 92082141 2768.1
++ fgp                     1       161 92086558 2768.1
++ position                2    415204 91671515 2769.2
+- assists                 1   2624833 94711552 2770.0
+- points_per_game         1   4995570 97082288 2775.2
+
+Step:  AIC=2764.43
+minutes_played ~ height + offensive + defensive + strength + 
+    schedule_defensive + schedule_strength + schedule_offensive_all + 
+    schedule_defensive_all + ftp + rebounds_per_game + assists_per_game + 
+    steals_per_game + points_per_game + rebounds + assists + 
+    blocks + steals
+
+                         Df Sum of Sq      RSS    AIC
+- rebounds_per_game       1     28113 92241365 2762.5
+- rebounds                1    189108 92402360 2762.9
+- ftp                     1    266678 92479930 2763.0
+- blocks                  1    273242 92486494 2763.1
+- height                  1    363663 92576915 2763.2
+- defensive               1    805806 93019058 2764.2
+- offensive               1    842938 93056190 2764.3
+<none>                                92213252 2764.4
+- schedule_strength       1    950021 93163273 2764.6
+- steals                  1   1024459 93237711 2764.8
+- schedule_offensive_all  1   1044715 93257967 2764.8
+- strength                1   1251964 93465216 2765.3
+- steals_per_game         1   1291186 93504438 2765.3
+- schedule_defensive      1   1474356 93687608 2765.8
+- assists_per_game        1   1581762 93795014 2766.0
++ games                   1    126534 92086718 2766.1
++ points                  1     82210 92131042 2766.2
+- schedule_defensive_all  1   1692066 93905318 2766.2
++ schedule_offensive      1     30774 92182478 2766.4
++ fgp                     1         6 92213246 2766.4
++ position                2    441301 91771951 2767.4
+- assists                 1   2757518 94970770 2768.6
+- points_per_game         1   4958496 97171748 2773.4
+
+Step:  AIC=2762.49
+minutes_played ~ height + offensive + defensive + strength + 
+    schedule_defensive + schedule_strength + schedule_offensive_all + 
+    schedule_defensive_all + ftp + assists_per_game + steals_per_game + 
+    points_per_game + rebounds + assists + blocks + steals
+
+                         Df Sum of Sq      RSS    AIC
+- ftp                     1    259929 92501294 2761.1
+- blocks                  1    288157 92529522 2761.2
+- height                  1    348037 92589402 2761.3
+- defensive               1    808090 93049455 2762.3
+- offensive               1    848864 93090229 2762.4
+<none>                                92241365 2762.5
+- schedule_strength       1    972823 93214188 2762.7
+- schedule_offensive_all  1   1066822 93308187 2762.9
+- rebounds                1   1145071 93386436 2763.1
+- strength                1   1261274 93502639 2763.3
+- steals                  1   1295629 93536994 2763.4
+- schedule_defensive      1   1502462 93743827 2763.9
+- assists_per_game        1   1576587 93817952 2764.1
+- steals_per_game         1   1651256 93892621 2764.2
+- schedule_defensive_all  1   1719632 93960997 2764.4
++ rebounds_per_game       1     28113 92213252 2764.4
++ schedule_offensive      1     27935 92213430 2764.4
++ games                   1      2012 92239353 2764.5
++ points                  1       876 92240489 2764.5
++ fgp                     1        17 92241348 2764.5
++ position                2    405835 91835530 2765.6
+- assists                 1   2796416 95037781 2766.8
+- points_per_game         1   4938782 97180147 2771.4
+
+Step:  AIC=2761.08
+minutes_played ~ height + offensive + defensive + strength + 
+    schedule_defensive + schedule_strength + schedule_offensive_all + 
+    schedule_defensive_all + assists_per_game + steals_per_game + 
+    points_per_game + rebounds + assists + blocks + steals
+
+                         Df Sum of Sq      RSS    AIC
+- height                  1    340631 92841925 2759.8
+- blocks                  1    430788 92932082 2760.1
+- defensive               1    797084 93298378 2760.9
+- offensive               1    839171 93340466 2761.0
+- schedule_strength       1    874238 93375532 2761.1
+<none>                                92501294 2761.1
+- schedule_offensive_all  1    963177 93464471 2761.3
+- strength                1   1241989 93743283 2761.9
+- rebounds                1   1340553 93841847 2762.1
+- schedule_defensive      1   1403226 93904520 2762.2
+- steals                  1   1448076 93949370 2762.3
++ ftp                     1    259929 92241365 2762.5
+- schedule_defensive_all  1   1637394 94138688 2762.8
++ schedule_offensive      1     27981 92473314 2763.0
++ rebounds_per_game       1     21364 92479930 2763.0
+- assists_per_game        1   1767612 94268906 2763.1
++ fgp                     1      3966 92497329 2763.1
++ games                   1      2991 92498303 2763.1
++ points                  1      1913 92499381 2763.1
+- steals_per_game         1   1868630 94369924 2763.3
++ position                2    347980 92153314 2764.3
+- assists                 1   3014720 95516014 2765.8
+- points_per_game         1   5269887 97771181 2770.7
+
+Step:  AIC=2759.85
+minutes_played ~ offensive + defensive + strength + schedule_defensive + 
+    schedule_strength + schedule_offensive_all + schedule_defensive_all + 
+    assists_per_game + steals_per_game + points_per_game + rebounds + 
+    assists + blocks + steals
+
+                         Df Sum of Sq      RSS    AIC
+- blocks                  1    702676 93544601 2759.4
+- defensive               1    865247 93707172 2759.8
+<none>                                92841925 2759.8
+- offensive               1    914568 93756493 2759.9
+- schedule_strength       1    928707 93770632 2759.9
+- schedule_offensive_all  1   1025252 93867177 2760.2
+- strength                1   1323981 94165906 2760.8
++ height                  1    340631 92501294 2761.1
+- schedule_defensive      1   1504846 94346771 2761.2
++ ftp                     1    252522 92589402 2761.3
+- steals                  1   1558001 94399926 2761.3
++ schedule_offensive      1     41413 92800512 2761.8
+- schedule_defensive_all  1   1760706 94602631 2761.8
++ fgp                     1     18235 92823690 2761.8
++ games                   1     10065 92831860 2761.8
++ rebounds_per_game       1      8332 92833593 2761.8
++ points                  1      3044 92838881 2761.8
+- assists_per_game        1   1843305 94685230 2762.0
+- steals_per_game         1   1945814 94787739 2762.2
++ position                2    589977 92251948 2762.5
+- rebounds                1   2710792 95552717 2763.9
+- assists                 1   2970754 95812679 2764.5
+- points_per_game         1   5100043 97941968 2769.1
+
+Step:  AIC=2759.44
+minutes_played ~ offensive + defensive + strength + schedule_defensive + 
+    schedule_strength + schedule_offensive_all + schedule_defensive_all + 
+    assists_per_game + steals_per_game + points_per_game + rebounds + 
+    assists + steals
+
+                         Df Sum of Sq      RSS    AIC
+- defensive               1    776691 94321292 2759.2
+- offensive               1    818250 94362851 2759.3
+<none>                                93544601 2759.4
++ blocks                  1    702676 92841925 2759.8
+- schedule_strength       1   1088850 94633451 2759.9
++ height                  1    612519 92932082 2760.1
+- schedule_offensive_all  1   1182149 94726750 2760.1
+- strength                1   1210313 94754914 2760.1
++ ftp                     1    445966 93098635 2760.4
+- steals                  1   1489089 95033690 2760.8
+- schedule_defensive      1   1648610 95193211 2761.1
++ schedule_offensive      1     42900 93501701 2761.3
++ fgp                     1     30180 93514422 2761.4
++ rebounds_per_game       1     16575 93528026 2761.4
++ games                   1      8567 93536034 2761.4
++ points                  1      1652 93542949 2761.4
+- assists_per_game        1   1831450 95376051 2761.5
+- steals_per_game         1   1836993 95381594 2761.5
+- schedule_defensive_all  1   1875344 95419946 2761.6
++ position                2    810963 92733638 2761.6
+- assists                 1   2890312 96434913 2763.8
+- points_per_game         1   4480400 98025001 2767.3
+- rebounds                1   5808417 99353018 2770.1
+
+Step:  AIC=2759.17
+minutes_played ~ offensive + strength + schedule_defensive + 
+    schedule_strength + schedule_offensive_all + schedule_defensive_all + 
+    assists_per_game + steals_per_game + points_per_game + rebounds + 
+    assists + steals
+
+                         Df Sum of Sq       RSS    AIC
+- offensive               1     64178  94385470 2757.3
+<none>                                 94321292 2759.2
++ defensive               1    776691  93544601 2759.4
++ height                  1    672572  93648720 2759.7
++ blocks                  1    614120  93707172 2759.8
+- schedule_strength       1   1265029  95586320 2760.0
+- steals                  1   1351221  95672513 2760.2
+- schedule_offensive_all  1   1357528  95678819 2760.2
++ ftp                     1    416295  93904997 2760.2
+- steals_per_game         1   1668665  95989957 2760.9
+- assists_per_game        1   1757921  96079212 2761.1
++ fgp                     1     44759  94276533 2761.1
+- schedule_defensive      1   1787696  96108988 2761.1
++ points                  1     18603  94302689 2761.1
++ rebounds_per_game       1     16468  94304823 2761.1
++ games                   1      3673  94317618 2761.2
++ schedule_offensive      1       864  94320427 2761.2
+- schedule_defensive_all  1   1959207  96280499 2761.5
++ position                2    738935  93582357 2761.5
+- assists                 1   2812802  97134094 2763.3
+- points_per_game         1   4233011  98554302 2766.4
+- strength                1   4780751  99102043 2767.6
+- rebounds                1   5985881 100307173 2770.1
+
+Step:  AIC=2757.32
+minutes_played ~ strength + schedule_defensive + schedule_strength + 
+    schedule_offensive_all + schedule_defensive_all + assists_per_game + 
+    steals_per_game + points_per_game + rebounds + assists + 
+    steals
+
+                         Df Sum of Sq       RSS    AIC
+<none>                                 94385470 2757.3
++ height                  1    684939  93700530 2757.8
++ blocks                  1    599113  93786357 2758.0
+- schedule_strength       1   1254780  95640250 2758.1
+- schedule_offensive_all  1   1343069  95728539 2758.3
++ ftp                     1    418227  93967243 2758.4
+- steals                  1   1415455  95800925 2758.4
+- steals_per_game         1   1739751  96125220 2759.2
++ offensive               1     64178  94321292 2759.2
+- schedule_defensive      1   1762939  96148409 2759.2
++ fgp                     1     39427  94346043 2759.2
++ defensive               1     22619  94362851 2759.3
++ rebounds_per_game       1     22561  94362909 2759.3
++ points                  1     17050  94368420 2759.3
++ schedule_offensive      1      1403  94384066 2759.3
++ games                   1      1324  94384146 2759.3
+- assists_per_game        1   1844982  96230451 2759.4
+- schedule_defensive_all  1   1923403  96308873 2759.6
++ position                2    682335  93703135 2759.8
+- assists                 1   2919072  97304542 2761.7
+- points_per_game         1   4183162  98568632 2764.4
+- strength                1   5811016 100196486 2767.9
+- rebounds                1   5948006 100333475 2768.2
+Stepwise Model Path 
+Analysis of Deviance Table
+
+Initial Model:
+minutes_played ~ height + position + offensive + defensive + 
+    strength + schedule_offensive + schedule_defensive + schedule_strength + 
+    schedule_offensive_all + schedule_defensive_all + games + 
+    fgp + ftp + rebounds_per_game + assists_per_game + steals_per_game + 
+    points_per_game + rebounds + assists + blocks + steals + 
+    points
+
+Final Model:
+minutes_played ~ strength + schedule_defensive + schedule_strength + 
+    schedule_offensive_all + schedule_defensive_all + assists_per_game + 
+    steals_per_game + points_per_game + rebounds + assists + 
+    steals
+
+
+                   Step Df   Deviance Resid. Df Resid. Dev      AIC
+1                                           186   91614632 2775.059
+2            - position  2 431313.169       188   92045945 2772.045
+3                 - fgp  1     36.923       189   92045982 2770.045
+4              - points  1   6930.293       190   92052912 2768.061
+5  - schedule_offensive  1  33806.311       191   92086718 2766.138
+6               - games  1 126533.692       192   92213252 2764.426
+7   - rebounds_per_game  1  28112.920       193   92241365 2762.490
+8                 - ftp  1 259929.186       194   92501294 2761.081
+9              - height  1 340630.768       195   92841925 2759.853
+10             - blocks  1 702676.219       196   93544601 2759.437
+11          - defensive  1 776690.511       197   94321292 2759.173
+12          - offensive  1  64178.222       198   94385470 2757.316
+           (Intercept)               strength     schedule_defensive 
+          1.295637e+05           2.202340e+03          -3.465590e+05 
+     schedule_strength schedule_offensive_all schedule_defensive_all 
+         -1.343366e+05           1.393842e+05           2.082242e+05 
+      assists_per_game        steals_per_game        points_per_game 
+         -5.783710e+02           1.625650e+03           3.831452e+01 
+              rebounds                assists                 steals 
+          2.348481e+00           2.181846e+01          -4.369898e+01 
+[1] 3355.27
+[1] 94385470
+
+Call:
+lm(formula = minutes_played ~ strength + schedule_defensive + 
+    schedule_strength + schedule_offensive_all + schedule_defensive_all + 
+    assists_per_game + steals_per_game + points_per_game + rebounds + 
+    assists + steals, data = players)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-1492.2  -509.1  -101.3   446.4  1844.3 
+
+Coefficients:
+                         Estimate Std. Error t value Pr(>|t|)    
+(Intercept)             1.296e+05  8.436e+04   1.536 0.126151    
+strength                2.202e+03  6.308e+02   3.491 0.000592 ***
+schedule_defensive     -3.466e+05  1.802e+05  -1.923 0.055904 .  
+schedule_strength      -1.343e+05  8.280e+04  -1.622 0.106304    
+schedule_offensive_all  1.394e+05  8.304e+04   1.679 0.094821 .  
+schedule_defensive_all  2.082e+05  1.037e+05   2.009 0.045927 *  
+assists_per_game       -5.784e+02  2.940e+02  -1.967 0.050542 .  
+steals_per_game         1.626e+03  8.509e+02   1.910 0.057527 .  
+points_per_game         3.831e+01  1.293e+01   2.962 0.003427 ** 
+rebounds                2.349e+00  6.648e-01   3.532 0.000512 ***
+assists                 2.182e+01  8.817e+00   2.475 0.014180 *  
+steals                 -4.370e+01  2.536e+01  -1.723 0.086419 .  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1 
+
+Residual standard error: 690.4 on 198 degrees of freedom
+Multiple R-squared: 0.2729,	Adjusted R-squared: 0.2325 
+F-statistic: 6.755 on 11 and 198 DF,  p-value: 1.347e-09 
+
+
+Call:
+lm(formula = minutes_played ~ strength + schedule_defensive + 
+    schedule_strength + schedule_offensive_all + schedule_defensive_all + 
+    assists_per_game + steals_per_game + points_per_game + rebounds + 
+    assists + steals, data = players)
+
+Coefficients:
+           (Intercept)                strength      schedule_defensive  
+             1.296e+05               2.202e+03              -3.466e+05  
+     schedule_strength  schedule_offensive_all  schedule_defensive_all  
+            -1.343e+05               1.394e+05               2.082e+05  
+      assists_per_game         steals_per_game         points_per_game  
+            -5.784e+02               1.626e+03               3.831e+01  
+              rebounds                 assists                  steals  
+             2.348e+00               2.182e+01              -4.370e+01  
+

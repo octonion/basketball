@@ -1,0 +1,1028 @@
+year,team_id,team_name,wins,losses,ties,total_games
+2009,26172,A&M-Corpus Chris,18,15,0,33
+2009,2,Abilene Christian,10,16,0,26
+2009,30123,Academy of Art,0,20,0,20
+2009,929,Adams St.,4,23,0,27
+2009,3,Adelphi,20,9,0,29
+2009,4,Adrian,8,17,0,25
+2009,721,Air Force,10,21,0,31
+2009,5,Akron,23,13,0,36
+2009,10,Ala.-Huntsville,17,11,0,28
+2009,8,Alabama,18,14,0,32
+2009,6,Alabama A&M,8,19,0,27
+2009,7,Alabama St.,22,10,0,32
+2009,11,Alas. Anchorage,15,14,0,29
+2009,12,Alas. Fairbanks,6,19,0,25
+2009,14,Albany (NY),15,16,0,31
+2009,13,Albany St. (GA),13,15,0,28
+2009,2798,Albertus Magnus,14,13,0,27
+2009,15,Albion,15,11,0,26
+2009,16,Albright,17,9,0,26
+2009,17,Alcorn St.,6,25,0,31
+2009,934,Alderson-Broaddus,27,6,0,33
+2009,18,Alfred,8,17,0,25
+2009,19,Allegheny,12,15,0,27
+2009,21,Alma,6,19,0,25
+2009,938,Alvernia,10,15,0,25
+2009,23,American,24,8,0,32
+2009,22,American Int'l,15,13,0,28
+2009,24,Amherst,21,7,0,28
+2009,939,Anderson (IN),15,12,0,27
+2009,13028,Anderson (SC),15,14,0,29
+2009,25,Angelo St.,20,9,0,29
+2009,26,Anna Maria,6,19,0,25
+2009,27,Appalachian St.,13,18,0,31
+2009,966,Arcadia,8,17,0,25
+2009,29,Arizona,21,14,0,35
+2009,28,Arizona St.,25,10,0,35
+2009,8411,Ark.-Monticello,20,9,0,29
+2009,2678,Ark.-Pine Bluff,13,18,0,31
+2009,31,Arkansas,14,16,0,30
+2009,30,Arkansas St.,13,17,0,30
+2009,947,Arkansas Tech,23,9,0,32
+2009,33,Armstrong,23,7,0,30
+2009,725,Army,11,19,0,30
+2009,35,Ashland,10,16,0,26
+2009,36,Assumption,23,10,0,33
+2009,37,Auburn,24,12,0,36
+2009,38,Augsburg,15,12,0,27
+2009,39,Augusta St.,30,5,0,35
+2009,40,Augustana (IL),18,8,0,26
+2009,41,Augustana (SD),21,10,0,31
+2009,42,Aurora,16,13,0,29
+2009,953,Austin,13,13,0,26
+2009,43,Austin Peay,19,14,0,33
+2009,44,Averett,21,9,0,30
+2009,45,Babson,13,14,0,27
+2009,46,Baldwin Wallace,22,28,0,50
+2009,47,Ball St.,14,17,0,31
+2009,958,Baptist Bible (PA),13,36,0,49
+2009,962,Bard,1,24,0,25
+2009,49,Barry,13,15,0,28
+2009,15646,Barton,25,7,0,32
+2009,58,Baruch,23,6,0,29
+2009,50,Bates,13,12,0,25
+2009,51,Baylor,24,15,0,39
+2009,26107,Becker,22,8,0,30
+2009,52,Bellarmine,26,7,0,33
+2009,14927,Belmont,20,13,0,33
+2009,2683,Belmont Abbey,20,9,0,29
+2009,53,Beloit,4,19,0,23
+2009,54,Bemidji St.,8,19,0,27
+2009,55,Benedict,24,6,0,30
+2009,296,Benedictine (IL),19,8,0,27
+2009,56,Bentley,26,7,0,33
+2009,59,Bethany (WV),27,17,0,44
+2009,30038,Bethany Lutheran,13,14,0,27
+2009,60,Bethel (MN),20,7,0,27
+2009,61,Bethune-Cookman,17,16,0,33
+2009,62,Binghamton,23,9,0,32
+2009,28593,Birmingham-So.,11,14,0,25
+2009,64,Blackburn,5,20,0,25
+2009,984,Bloomfield,23,7,0,30
+2009,65,Bloomsburg,4,23,0,27
+2009,985,Bluefield St.,3,25,0,28
+2009,987,Bluffton,15,11,0,26
+2009,66,Boise St.,19,13,0,32
+2009,67,Boston College,22,12,0,34
+2009,68,Boston U.,17,13,0,30
+2009,69,Bowdoin,17,9,0,26
+2009,70,Bowie St.,15,13,0,28
+2009,71,Bowling Green,19,14,0,33
+2009,72,Bradley,21,15,0,36
+2009,73,Brandeis,18,9,0,27
+2009,30094,Brevard,12,15,0,27
+2009,74,Bridgeport,22,9,0,31
+2009,75,Bridgewater (VA),15,12,0,27
+2009,76,Bridgewater St.,22,7,0,29
+2009,78,Brockport,31,27,0,58
+2009,79,Brooklyn,23,6,0,29
+2009,80,Brown,9,19,0,28
+2009,81,Bryant,8,21,0,29
+2009,83,Bucknell,7,23,0,30
+2009,84,Buena Vista,23,3,0,26
+2009,86,Buffalo,21,12,0,33
+2009,85,Buffalo St.,25,25,0,50
+2009,87,Butler,26,6,0,32
+2009,77,BYU,25,8,0,33
+2009,2685,BYU-Hawaii,40,7,0,47
+2009,362,LIU Post,30,1,0,31
+2009,88,Cabrini,47,11,0,58
+2009,105,Cal Lutheran,18,8,0,26
+2009,90,Cal Poly,7,21,0,28
+2009,91,Cal Poly Pomona,50,14,0,64
+2009,94,CSU Bakersfield,8,21,0,29
+2009,95,Cal St. Chico,23,32,0,55
+2009,92,Cal St. Dom. Hills,37,20,0,57
+2009,98,Cal St. East Bay,25,29,0,54
+2009,97,Cal St. Fullerton,15,17,0,32
+2009,100,Cal St. L.A.,26,29,0,55
+2009,30055,Cal St. Monterey Bay,24,32,0,56
+2009,101,Cal St. Northridge,17,14,0,31
+2009,93,Cal St. San B'dino,20,10,0,30
+2009,103,Cal St. Stanislaus,17,35,0,52
+2009,995,Caldwell,12,16,0,28
+2009,107,California,22,11,0,33
+2009,106,California (PA),13,13,0,26
+2009,89,Caltech,1,24,0,25
+2009,114,Calvin,19,8,0,27
+2009,996,Cameron,14,14,0,28
+2009,115,Campbell,14,16,0,30
+2009,116,Canisius,11,20,0,31
+2009,117,Capital,41,15,0,56
+2009,118,Carleton,16,10,0,26
+2009,119,Carnegie Mellon,20,7,0,27
+2009,120,Carroll (WI),16,8,0,24
+2009,1000,Carson-Newman,7,21,0,28
+2009,121,Carthage,15,10,0,25
+2009,122,Case,8,17,0,25
+2009,123,Castleton,2,23,0,25
+2009,1001,Catawba,22,10,0,32
+2009,124,Catholic,18,10,0,28
+2009,23624,Cazenovia,7,20,0,27
+2009,480,CCNY,2,23,0,25
+2009,125,Centenary (LA),8,23,0,31
+2009,12884,Centenary (NJ),24,28,0,52
+2009,126,Central (IA),13,13,0,26
+2009,1004,Central Ark.,10,19,0,29
+2009,127,Central Conn. St.,13,17,0,30
+2009,129,Central Mich.,12,19,0,31
+2009,130,Central Mo.,43,6,0,49
+2009,1009,Central Okla.,24,6,0,30
+2009,1010,Central Wash.,18,7,0,25
+2009,132,Centre,23,5,0,28
+2009,1012,Chadron St.,8,19,0,27
+2009,133,Chaminade,22,23,0,45
+2009,134,Chapman,24,3,0,27
+2009,1013,Charleston (WV),13,15,0,28
+2009,48,Charleston So.,9,20,0,29
+2009,458,Charlotte,11,20,0,31
+2009,693,Chattanooga,18,17,0,35
+2009,21323,Chestnut Hill,6,22,0,28
+2009,135,Cheyney,18,9,0,27
+2009,137,Chicago,6,19,0,25
+2009,136,Chicago St.,19,13,0,32
+2009,8875,Chowan,17,10,0,27
+2009,139,Chris. Newport,18,9,0,27
+2009,1015,Christian Bros.,25,7,0,32
+2009,140,Cincinnati,18,14,0,32
+2009,141,Citadel,20,13,0,33
+2009,8580,City Tech,12,14,0,26
+2009,30058,Claflin,25,4,0,29
+2009,142,Claremont-M-S,21,7,0,28
+2009,143,Clarion,11,16,0,27
+2009,145,Clark (MA),10,16,0,26
+2009,144,Clark Atlanta,15,14,0,29
+2009,146,Clarkson,15,11,0,26
+2009,20576,Clayton St.,15,14,0,29
+2009,147,Clemson,23,9,0,32
+2009,148,Cleveland St.,26,11,0,37
+2009,722,Coast Guard,12,13,0,25
+2009,149,Coastal Caro.,11,20,0,31
+2009,30083,Cobleskill St.,8,16,0,24
+2009,150,Coe,10,15,0,25
+2009,1023,Coker,15,14,0,29
+2009,1014,Col. of Charleston,27,9,0,36
+2009,151,Colby,17,8,0,25
+2009,152,Colby-Sawyer,20,8,0,28
+2009,153,Colgate,10,20,0,30
+2009,11403,Colo. Christian,21,13,0,34
+2009,157,Colorado,9,22,0,31
+2009,154,Colorado Col.,5,20,0,25
+2009,155,Colorado Mines,14,13,0,27
+2009,156,Colorado St.,9,22,0,31
+2009,2720,Colorado St.-Pueblo,15,14,0,29
+2009,158,Columbia,12,16,0,28
+2009,159,Columbus St.,8,19,0,27
+2009,1028,Concord,10,18,0,28
+2009,162,Concordia (NY),7,23,0,30
+2009,24400,Concordia (TX),10,16,0,26
+2009,1036,Concordia (WI),13,13,0,26
+2009,160,Concordia Chicago,10,14,0,24
+2009,161,Concordia-M'head,11,14,0,25
+2009,9081,Concordia-St. Paul,13,15,0,28
+2009,164,Connecticut,31,5,0,36
+2009,163,Connecticut Col.,13,12,0,25
+2009,165,Coppin St.,13,19,0,32
+2009,167,Cornell,21,10,0,31
+2009,166,Cornell College,21,7,0,28
+2009,169,Creighton,27,8,0,35
+2009,30035,Crown (MN),0,24,0,24
+2009,170,Curry,9,16,0,25
+2009,1059,D'Youville,10,16,0,26
+2009,1044,Dallas,9,18,0,27
+2009,1045,Dallas Baptist,24,7,0,31
+2009,2691,Daniel Webster,18,10,0,28
+2009,172,Dartmouth,9,19,0,28
+2009,173,Davidson,27,8,0,35
+2009,174,Davis & Elkins,7,21,0,28
+2009,175,Dayton,27,8,0,35
+2009,1050,Defiance,18,9,0,27
+2009,180,Delaware,13,19,0,32
+2009,178,Delaware St.,8,24,0,32
+2009,179,Delaware Valley,13,13,0,26
+2009,181,Delta St.,21,9,0,30
+2009,182,Denison,8,18,0,26
+2009,183,Denver,15,16,0,31
+2009,176,DePaul,9,24,0,33
+2009,177,DePauw,19,7,0,26
+2009,20,DeSales,25,6,0,31
+2009,184,Detroit,7,23,0,30
+2009,185,Dickinson,12,12,0,24
+2009,186,Dist. Columbia,11,16,0,27
+2009,30095,Dixie St.,30,15,0,45
+2009,30118,Dominican (CA),7,14,0,21
+2009,1332,Dominican (IL),10,15,0,25
+2009,8956,Dominican (NY),10,17,0,27
+2009,2692,Dowling,12,17,0,29
+2009,189,Drake,17,16,0,33
+2009,190,Drew,4,21,0,25
+2009,191,Drexel,15,14,0,29
+2009,1057,Drury,13,14,0,27
+2009,192,Dubuque,14,12,0,26
+2009,193,Duke,30,7,0,37
+2009,194,Duquesne,21,13,0,34
+2009,195,Earlham,3,22,0,25
+2009,196,East Carolina,13,17,0,30
+2009,8965,East Central,6,24,0,30
+2009,197,East Stroudsburg,16,11,0,27
+2009,198,East Tenn. St.,23,11,0,34
+2009,1062,East Tex. Baptist,14,11,0,25
+2009,203,East. Mennonite,15,11,0,26
+2009,8968,Eastern,17,9,0,26
+2009,200,Eastern Conn. St.,12,14,0,26
+2009,201,Eastern Ill.,12,18,0,30
+2009,202,Eastern Ky.,18,13,0,31
+2009,204,Eastern Mich.,8,24,0,32
+2009,206,Eastern N.M.,4,23,0,27
+2009,1064,Eastern Nazarene,7,18,0,25
+2009,207,Eastern Wash.,12,18,0,30
+2009,208,Eckerd,13,14,0,27
+2009,1066,Edgewood,13,13,0,26
+2009,209,Edinboro,18,10,0,28
+2009,210,Elizabeth City St.,21,7,0,28
+2009,211,Elizabethtown,14,12,0,26
+2009,212,Elmhurst,20,8,0,28
+2009,213,Elmira,4,21,0,25
+2009,532,Elms,26,2,0,28
+2009,1068,Elon,11,20,0,31
+2009,214,Emerson,17,9,0,26
+2009,215,Emmanuel (MA),17,11,0,28
+2009,217,Emory,7,18,0,25
+2009,216,Emory & Henry,11,15,0,26
+2009,1071,Emporia St.,25,18,0,43
+2009,8981,Endicott,10,15,0,25
+2009,1072,Erskine,12,19,0,31
+2009,218,Eureka,12,13,0,25
+2009,219,Evansville,17,14,0,31
+2009,220,Fairfield,17,15,0,32
+2009,222,Fairleigh Dickinson,7,23,0,30
+2009,1076,Fairmont St.,20,9,0,29
+2009,27892,Farmingdale St.,27,4,0,31
+2009,223,Fayetteville St.,13,15,0,28
+2009,221,FDU-Florham,8,17,0,25
+2009,23157,Felician,16,13,0,29
+2009,224,Ferris St.,14,14,0,28
+2009,225,Ferrum,14,12,0,26
+2009,1079,Findlay,36,0,0,36
+2009,30032,Finlandia,5,14,0,19
+2009,227,Fitchburg St.,8,16,0,24
+2009,231,FIU,13,20,0,33
+2009,229,Fla. Atlantic,6,26,0,32
+2009,28755,Fla. Gulf Coast,11,20,0,31
+2009,233,Fla. Southern,29,7,0,36
+2009,30092,Flagler,12,15,0,27
+2009,235,Florida,25,11,0,36
+2009,228,Florida A&M,10,21,0,31
+2009,234,Florida St.,25,10,0,35
+2009,230,Florida Tech,13,15,0,28
+2009,11538,Fontbonne,18,9,0,27
+2009,236,Fordham,3,25,0,28
+2009,9011,Fort Hays St.,33,10,0,43
+2009,1083,Fort Lewis,24,10,0,34
+2009,237,Fort Valley St.,13,16,0,29
+2009,238,Framingham St.,15,13,0,28
+2009,1085,Francis Marion,16,12,0,28
+2009,30069,Franciscan,4,21,0,25
+2009,239,Frank. & Marsh.,26,7,0,33
+2009,2694,Franklin,17,10,0,27
+2009,241,Franklin Pierce,11,17,0,28
+2009,242,Fredonia St.,29,24,0,53
+2009,96,Fresno St.,13,21,0,34
+2009,243,Frostburg St.,17,10,0,27
+2009,244,Furman,6,24,0,30
+2009,253,Ga. Southern,8,22,0,30
+2009,1097,Ga. Southwestern,10,18,0,28
+2009,245,Gallaudet,16,33,0,49
+2009,246,Gannon,30,4,0,34
+2009,1092,Gardner-Webb,13,17,0,30
+2009,30084,Geneva,17,24,0,41
+2009,1094,George Fox,8,17,0,25
+2009,248,George Mason,22,11,0,33
+2009,249,George Washington,10,18,0,28
+2009,251,Georgetown,16,15,0,31
+2009,257,Georgia,12,20,0,32
+2009,1096,Georgia College,22,7,0,29
+2009,254,Georgia St.,12,20,0,32
+2009,255,Georgia Tech,12,19,0,31
+2009,258,Gettysburg,18,9,0,27
+2009,1098,Glenville St.,20,9,0,29
+2009,8366,Goldey-Beacom,14,15,0,29
+2009,260,Gonzaga,28,6,0,34
+2009,1099,Gordon,20,7,0,27
+2009,1467,Goucher,6,17,0,23
+2009,261,Grambling,6,23,0,29
+2009,1104,Grand Canyon,23,29,0,52
+2009,262,Grand Valley St.,21,10,0,31
+2009,794,Green Bay,22,11,0,33
+2009,11062,Green Mountain,16,11,0,27
+2009,263,Greensboro,9,16,0,25
+2009,1111,Greenville,12,13,0,25
+2009,264,Grinnell,18,7,0,25
+2009,265,Grove City,21,20,0,41
+2009,1112,Guilford,26,6,0,32
+2009,266,Gust. Adolphus,13,14,0,27
+2009,12399,Gwynedd-Mercy,36,19,0,55
+2009,267,Hamilton,18,7,0,25
+2009,268,Hamline,9,16,0,25
+2009,269,Hampden-Sydney,14,14,0,28
+2009,270,Hampton,16,16,0,32
+2009,1115,Hanover,9,16,0,25
+2009,271,Hardin-Simmons,9,16,0,25
+2009,1116,Harding,18,12,0,30
+2009,272,Hartford,7,26,0,33
+2009,273,Hartwick,15,12,0,27
+2009,275,Harvard,14,14,0,28
+2009,276,Haverford,12,13,0,25
+2009,277,Hawaii,13,17,0,30
+2009,2697,Hawaii Hilo,28,20,0,48
+2009,2696,Hawaii Pacific,27,21,0,48
+2009,278,Heidelberg,21,30,0,51
+2009,1123,Henderson St.,5,21,0,26
+2009,1124,Hendrix,17,10,0,27
+2009,19651,High Point,9,21,0,30
+2009,8398,Hilbert,4,21,0,25
+2009,280,Hillsdale,16,11,0,27
+2009,281,Hiram,16,10,0,26
+2009,282,Hobart,8,17,0,25
+2009,283,Hofstra,21,11,0,32
+2009,285,Holy Cross,18,14,0,32
+2009,1126,Holy Family,8,20,0,28
+2009,8404,Hood,24,26,0,50
+2009,286,Hope,21,8,0,29
+2009,288,Houston,21,12,0,33
+2009,287,Houston Baptist,5,25,0,30
+2009,290,Howard,8,23,0,31
+2009,2741,Howard Payne,7,18,0,25
+2009,291,Humboldt St.,42,20,0,62
+2009,292,Hunter,8,18,0,26
+2009,1130,Huntingdon,13,13,0,26
+2009,1133,Husson,16,12,0,28
+2009,295,Idaho,17,16,0,33
+2009,294,Idaho St.,13,19,0,32
+2009,300,Ill. Wesleyan,13,12,0,25
+2009,302,Ill.-Chicago,16,15,0,31
+2009,301,Illinois,24,10,0,34
+2009,297,Illinois Col.,11,12,0,23
+2009,299,Illinois St.,24,10,0,34
+2009,303,Immaculata,22,30,0,52
+2009,2743,Incarnate Word,23,7,0,30
+2009,306,Indiana,6,25,0,31
+2009,307,Indiana (PA),22,8,0,30
+2009,305,Indiana St.,11,21,0,32
+2009,309,Indianapolis,9,18,0,27
+2009,310,Iona,12,19,0,31
+2009,312,Iowa,15,17,0,32
+2009,311,Iowa St.,15,17,0,32
+2009,308,IPFW,13,17,0,30
+2009,313,Ithaca,24,3,0,27
+2009,2699,IUPUI,16,14,0,30
+2009,314,Jackson St.,18,15,0,33
+2009,316,Jacksonville,18,14,0,32
+2009,315,Jacksonville St.,11,17,0,28
+2009,317,James Madison,21,15,0,36
+2009,320,John Carroll,44,10,0,54
+2009,321,John Jay,7,19,0,26
+2009,322,Johns Hopkins,12,13,0,25
+2009,22626,Johnson & Wales (RI),10,16,0,26
+2009,323,Johnson C. Smith,23,8,0,31
+2009,324,Johnson St.,12,14,0,26
+2009,325,Juniata,7,18,0,25
+2009,326,Kalamazoo,10,15,0,25
+2009,328,Kansas,27,8,0,35
+2009,327,Kansas St.,22,12,0,34
+2009,329,Kean,12,14,0,26
+2009,330,Keene St.,12,14,0,26
+2009,1157,Kennesaw St.,7,22,0,29
+2009,331,Kent St.,19,15,0,34
+2009,334,Kentucky,22,14,0,36
+2009,332,Kentucky St.,9,20,0,29
+2009,335,Kenyon,16,11,0,27
+2009,1159,Keuka,11,11,0,22
+2009,30047,Keystone,36,17,0,53
+2009,336,King's (PA),11,14,0,25
+2009,337,Knox,2,21,0,23
+2009,339,Kutztown,28,5,0,33
+2009,333,Ky. Wesleyan,19,9,0,28
+2009,1163,La Roche,14,12,0,26
+2009,340,La Salle,18,13,0,31
+2009,30043,La Sierra,4,22,0,26
+2009,341,La Verne,6,19,0,25
+2009,671,La.-Lafayette,10,20,0,30
+2009,498,La.-Monroe,10,20,0,30
+2009,342,Lafayette,8,22,0,30
+2009,1162,LaGrange,7,19,0,26
+2009,2746,Lake Erie,6,20,0,26
+2009,344,Lake Forest,7,16,0,23
+2009,345,Lake Superior St.,22,9,0,31
+2009,1164,Lakeland,10,15,0,25
+2009,346,Lamar,15,15,0,30
+2009,30085,Lancaster Bible,9,18,0,27
+2009,1167,Lander,12,16,0,28
+2009,347,Lane,22,8,0,30
+2009,8486,Lasell,19,10,0,29
+2009,348,Lawrence,19,7,0,26
+2009,349,Le Moyne,20,11,0,31
+2009,351,Lebanon Valley,12,13,0,25
+2009,13302,Lees-McRae,2,29,0,31
+2009,352,Lehigh,15,14,0,29
+2009,279,Lehman,21,9,0,30
+2009,350,LeMoyne-Owen,17,14,0,31
+2009,1170,Lenoir-Rhyne,18,11,0,29
+2009,24317,Lesley,5,20,0,25
+2009,8490,LeTourneau,16,10,0,26
+2009,354,Lewis,16,12,0,28
+2009,22235,Lewis & Clark,16,10,0,26
+2009,355,Liberty,23,12,0,35
+2009,1174,Limestone,10,19,0,29
+2009,356,Lincoln (MO),4,20,0,24
+2009,357,Lincoln (PA),8,18,0,26
+2009,1176,Lincoln Memorial,14,14,0,28
+2009,1179,Linfield,12,14,0,26
+2009,28600,Lipscomb,17,14,0,31
+2009,359,Livingstone,14,14,0,28
+2009,360,Lock Haven,5,22,0,27
+2009,99,Long Beach St.,15,15,0,30
+2009,361,LIU Brooklyn,16,14,0,30
+2009,363,Longwood,17,14,0,31
+2009,364,Loras,16,11,0,27
+2009,1182,Louisiana Col.,4,21,0,25
+2009,366,Louisiana Tech,15,18,0,33
+2009,367,Louisville,31,6,0,37
+2009,371,Loyola Chicago,14,18,0,32
+2009,369,Loyola Maryland,12,20,0,32
+2009,370,Loyola Marymount,3,28,0,31
+2009,365,LSU,27,8,0,35
+2009,372,Luther,7,17,0,24
+2009,373,Lycoming,11,13,0,24
+2009,374,Lynchburg,4,22,0,26
+2009,30065,Lyndon St.,10,13,0,23
+2009,20794,Lynn,16,12,0,28
+2009,376,Macalester,0,25,0,25
+2009,377,MacMurray,6,19,0,25
+2009,380,Maine,9,21,0,30
+2009,378,Maine Maritime,9,17,0,26
+2009,1192,Manchester,11,14,0,25
+2009,381,Manhattan,16,14,0,30
+2009,382,Manhattanville,17,10,0,27
+2009,384,Mansfield,15,12,0,27
+2009,1194,Maranatha Baptist,6,20,0,26
+2009,1196,Marian (WI),10,16,0,26
+2009,385,Marietta,22,29,0,51
+2009,386,Marist,10,23,0,33
+2009,387,Marquette,25,10,0,35
+2009,1199,Mars Hill,17,11,0,28
+2009,388,Marshall,15,17,0,32
+2009,8597,Martin Luther,17,9,0,26
+2009,30075,Mary,7,20,0,27
+2009,1203,Mary Hardin-Baylor,19,8,0,27
+2009,390,Mary Washington,23,27,0,50
+2009,392,Maryland,21,14,0,35
+2009,394,Marymount (VA),29,24,0,53
+2009,395,Maryville (MO),15,11,0,26
+2009,396,Maryville (TN),20,7,0,27
+2009,397,Marywood,25,26,0,51
+2009,486,MCLA,1,24,0,25
+2009,401,Mass.-Boston,4,22,0,26
+2009,656,Mass.-Dartmouth,27,4,0,31
+2009,368,Mass.-Lowell,21,8,0,29
+2009,400,Massachusetts,12,18,0,30
+2009,773,McDaniel,18,8,0,26
+2009,8530,McMurry,19,8,0,27
+2009,402,McNeese St.,11,18,0,29
+2009,393,UMES,7,23,0,30
+2009,379,Me.-Farmington,13,12,0,25
+2009,23725,Medaille,21,7,0,28
+2009,403,Medgar Evers,1,24,0,25
+2009,404,Memphis,33,4,0,37
+2009,406,Mercer,17,15,0,32
+2009,724,Merchant Marine,15,12,0,27
+2009,407,Mercy,0,27,0,27
+2009,408,Mercyhurst,16,11,0,27
+2009,410,Merrimack,21,9,0,30
+2009,11416,Colorado Mesa,16,12,0,28
+2009,411,Messiah,9,16,0,25
+2009,412,Methodist,10,17,0,27
+2009,413,Metro St.,27,4,0,31
+2009,415,Miami (FL),19,13,0,32
+2009,414,Miami (OH),17,13,0,30
+2009,418,Michigan,21,14,0,35
+2009,416,Michigan St.,31,7,0,38
+2009,417,Michigan Tech,14,15,0,29
+2009,419,Middle Tenn.,18,14,0,32
+2009,420,Middlebury,24,4,0,28
+2009,1222,Midwestern St.,25,7,0,32
+2009,422,Miles,13,16,0,29
+2009,423,Millersville,10,17,0,27
+2009,424,Millikin,16,9,0,25
+2009,426,Millsaps,9,16,0,25
+2009,797,Milwaukee,17,14,0,31
+2009,20220,Milwaukee Engr.,18,8,0,26
+2009,427,Minn. Duluth,20,11,0,31
+2009,383,Minn. St. Mankato,26,9,0,35
+2009,1240,Minn. St. Moorhead,9,16,0,25
+2009,27854,Minn.-Crookston,5,22,0,27
+2009,1226,Minn.-Morris,14,13,0,27
+2009,428,Minnesota,22,11,0,33
+2009,16142,Misericordia,11,14,0,25
+2009,433,Ole Miss,16,15,0,31
+2009,429,Mississippi Col.,20,7,0,27
+2009,430,Mississippi St.,23,13,0,36
+2009,432,Mississippi Val.,7,25,0,32
+2009,434,Missouri,31,7,0,38
+2009,435,Missouri S&T,9,17,0,26
+2009,669,Missouri St.,11,20,0,31
+2009,398,MIT,21,9,0,30
+2009,30042,Mitchell,8,18,0,26
+2009,9012,Mo. Southern St.,28,17,0,45
+2009,9013,Mo. Western St.,24,20,0,44
+2009,436,Mo.-St. Louis,14,13,0,27
+2009,437,Molloy,8,20,0,28
+2009,439,Monmouth,8,23,0,31
+2009,438,Monmouth (IL),8,15,0,23
+2009,205,Mont. St. Billings,10,17,0,27
+2009,441,Montana,17,12,0,29
+2009,440,Montana St.,14,17,0,31
+2009,442,Montclair St.,21,7,0,28
+2009,1238,Montevallo,15,16,0,31
+2009,443,Moravian,10,15,0,25
+2009,444,Morehead St.,20,16,0,36
+2009,445,Morehouse,9,19,0,28
+2009,446,Morgan St.,23,12,0,35
+2009,30067,Morrisville St.,3,21,0,24
+2009,27901,Mount Ida,11,14,0,25
+2009,1245,Mount Olive,18,10,0,28
+2009,452,Mount Union,23,28,0,51
+2009,30036,Mt. Aloysius,8,17,0,25
+2009,8567,Mt. St. Joseph,6,19,0,25
+2009,1468,Mt. St. Mary (NY),9,16,0,25
+2009,450,Mt. St. Mary's,19,14,0,33
+2009,451,Mt. St. Vincent,12,14,0,26
+2009,453,Muhlenberg,16,11,0,27
+2009,454,Murray St.,19,12,0,31
+2009,455,Muskingum,22,30,0,52
+2009,488,N.C. A&T,16,16,0,32
+2009,489,N.C. Central,4,27,0,31
+2009,491,N.C. Wesleyan,14,12,0,26
+2009,8577,N.M. Highlands,20,8,0,28
+2009,726,Navy,19,11,0,30
+2009,461,Nazareth,13,14,0,27
+2009,462,Neb. Wesleyan,10,15,0,25
+2009,1156,Neb.-Kearney,11,15,0,26
+2009,464,Neb. Omaha,29,13,0,42
+2009,463,Nebraska,18,13,0,31
+2009,1254,Neumann,27,27,0,54
+2009,466,Nevada,21,13,0,34
+2009,467,New England Col.,2,22,0,24
+2009,469,New Hampshire,14,16,0,30
+2009,470,New Haven,8,19,0,27
+2009,319,New Jersey City,10,15,0,25
+2009,473,New Mexico,22,12,0,34
+2009,472,New Mexico St.,17,15,0,32
+2009,474,New Orleans,11,19,0,30
+2009,475,SUNY New Paltz,18,33,0,51
+2009,479,New York U.,17,11,0,28
+2009,1257,Newberry,21,8,0,29
+2009,21772,Newbury,7,19,0,26
+2009,30054,Newman,15,12,0,27
+2009,482,Niagara,26,9,0,35
+2009,483,Nicholls St.,20,11,0,31
+2009,484,Nichols,13,13,0,26
+2009,471,NJIT,1,30,0,31
+2009,485,Norfolk St.,13,18,0,31
+2009,487,North Ala.,18,10,0,28
+2009,457,North Carolina,34,4,0,38
+2009,490,North Carolina St.,16,14,0,30
+2009,492,North Central (IL),16,10,0,26
+2009,30039,North Central (MN),9,13,0,22
+2009,494,North Dakota,16,12,0,28
+2009,493,North Dakota St.,26,7,0,33
+2009,2711,North Florida,8,22,0,30
+2009,30052,North Ga.,15,12,0,27
+2009,9223,North Greenville,12,17,0,29
+2009,496,North Park,8,17,0,25
+2009,497,North Texas,20,12,0,32
+2009,500,Northeastern,19,13,0,32
+2009,12810,Northeastern St.,11,16,0,27
+2009,501,Northern Ariz.,8,19,0,27
+2009,502,Northern Colo.,14,18,0,32
+2009,503,Northern Ill.,10,20,0,30
+2009,505,Northern Ky.,24,7,0,31
+2009,506,Northern Mich.,11,16,0,27
+2009,1266,Northern St.,19,11,0,30
+2009,1267,Northland,6,19,0,25
+2009,507,Northwest Mo. St.,20,21,0,41
+2009,1274,Northwest Nazarene,14,13,0,27
+2009,509,Northwestern,17,14,0,31
+2009,30031,Northwestern (MN),19,10,0,29
+2009,508,Northwestern St.,11,20,0,31
+2009,510,Northwood (MI),13,15,0,28
+2009,511,Norwich,7,19,0,26
+2009,513,Notre Dame,21,15,0,36
+2009,30056,Notre Dame de Namur,9,41,0,50
+2009,24639,Nova Southeastern,16,11,0,27
+2009,1277,Nyack,11,19,0,30
+2009,477,NYIT,13,15,0,28
+2009,514,Oakland,23,13,0,36
+2009,1278,Oakland City,13,16,0,29
+2009,515,Oberlin,5,20,0,25
+2009,516,Occidental,11,14,0,25
+2009,2713,Oglethorpe,16,10,0,26
+2009,519,Ohio,15,17,0,32
+2009,517,Ohio Northern,30,22,0,52
+2009,518,Ohio St.,22,11,0,33
+2009,15207,Ohio Valley,5,23,0,28
+2009,520,Ohio Wesleyan,17,8,0,25
+2009,24342,Okla. Panhandle,4,23,0,27
+2009,522,Oklahoma,30,6,0,36
+2009,521,Oklahoma St.,23,12,0,35
+2009,523,Old Dominion,25,10,0,35
+2009,524,Old Westbury,12,15,0,27
+2009,525,Olivet,13,14,0,27
+2009,526,SUNY Oneonta,38,17,0,55
+2009,527,Oral Roberts,16,15,0,31
+2009,529,Oregon,8,23,0,31
+2009,528,Oregon St.,18,18,0,36
+2009,530,Oswego St.,29,24,0,53
+2009,531,Otterbein,13,37,0,50
+2009,1289,Ouachita Baptist,13,14,0,27
+2009,23008,Ozarks (AR),10,15,0,25
+2009,533,Pace,9,19,0,28
+2009,534,Pacific,21,13,0,34
+2009,2751,Pacific (OR),9,16,0,25
+2009,1297,Pacific Lutheran,10,15,0,25
+2009,535,Paine,8,21,0,29
+2009,30045,Palm Beach Atl.,9,19,0,28
+2009,540,Penn,10,18,0,28
+2009,539,Penn St.,27,11,0,38
+2009,25719,Penn St.-Altoona,14,13,0,27
+2009,538,Penn St.-Behrend,18,10,0,28
+2009,30044,Penn St.-Berks,10,17,0,27
+2009,30081,Penn St.-Harrisburg,8,18,0,26
+2009,541,Pepperdine,9,23,0,32
+2009,542,Pfeiffer,16,12,0,28
+2009,1305,Cairn,8,43,0,51
+2009,543,Philadelphia U.,25,6,0,31
+2009,21830,Piedmont,8,18,0,26
+2009,1315,Pitt.-Bradford,17,12,0,29
+2009,11839,Pitt.-Greensburg,8,17,0,25
+2009,546,Pitt.-Johnstown,24,8,0,32
+2009,1314,Pittsburg St.,17,24,0,41
+2009,545,Pittsburgh,31,5,0,36
+2009,547,Plattsburgh St.,29,24,0,53
+2009,548,Plymouth St.,12,14,0,26
+2009,481,Polytechnic (NY),3,22,0,25
+2009,549,Pomona-Pitzer,14,13,0,27
+2009,551,Portland,19,13,0,32
+2009,550,Portland St.,23,10,0,33
+2009,1318,Post,17,10,0,27
+2009,553,Prairie View,17,16,0,33
+2009,1320,Presbyterian,12,17,0,29
+2009,30034,Presentation,10,16,0,26
+2009,554,Princeton,13,14,0,27
+2009,555,Principia,1,23,0,24
+2009,556,Providence,19,14,0,33
+2009,557,Puget Sound,25,4,0,29
+2009,30029,Purchase St.,15,11,0,26
+2009,559,Purdue,27,10,0,37
+2009,11504,Queens (NC),7,21,0,28
+2009,560,Queens (NY),10,18,0,28
+2009,561,Quincy,16,12,0,28
+2009,562,Quinnipiac,15,16,0,31
+2009,563,Radford,21,12,0,33
+2009,564,Ramapo,14,11,0,25
+2009,566,Randolph,6,19,0,25
+2009,565,Randolph-Macon,20,6,0,26
+2009,567,Redlands,10,15,0,25
+2009,568,Regis (CO),7,20,0,27
+2009,569,Regis (MA),10,14,0,24
+2009,570,Rensselaer,15,13,0,28
+2009,572,Rhode Island,23,11,0,34
+2009,571,Rhode Island Col.,23,6,0,29
+2009,573,Rhodes,8,16,0,24
+2009,574,Rice,10,22,0,32
+2009,681,Richard Stockton,30,3,0,33
+2009,575,Richmond,20,16,0,36
+2009,576,Rider,19,13,0,32
+2009,577,Ripon,9,13,0,22
+2009,18422,Rivier,16,13,0,29
+2009,578,Roanoke,19,7,0,26
+2009,579,Robert Morris,24,11,0,35
+2009,581,Rochester (NY),16,9,0,25
+2009,580,Rochester Inst.,19,9,0,28
+2009,582,Rockford,17,10,0,27
+2009,1328,Rockhurst,19,11,0,30
+2009,583,Roger Williams,12,14,0,26
+2009,584,Rollins,20,10,0,30
+2009,585,Rose-Hulman,9,16,0,25
+2009,15882,Rosemont,6,19,0,25
+2009,259,Rowan,12,13,0,25
+2009,586,Rust,13,11,0,24
+2009,587,Rutgers,11,21,0,32
+2009,588,Rutgers-Camden,6,19,0,25
+2009,589,Rutgers-Newark,17,13,0,30
+2009,11276,S.C. Aiken,25,8,0,33
+2009,10411,S.C. Upstate,9,21,0,30
+2009,102,Sacramento St.,2,27,0,29
+2009,590,Sacred Heart,17,14,0,31
+2009,591,Saginaw Valley,9,17,0,26
+2009,19117,Salem Int'l,3,25,0,28
+2009,621,Salem St.,23,7,0,30
+2009,622,Salisbury,24,26,0,50
+2009,623,Salve Regina,14,14,0,28
+2009,624,Sam Houston St.,18,12,0,30
+2009,625,Samford,16,16,0,32
+2009,627,San Diego,16,16,0,32
+2009,626,San Diego St.,26,10,0,36
+2009,628,San Fran. St.,31,28,0,59
+2009,629,San Francisco,11,19,0,30
+2009,630,San Jose St.,13,17,0,30
+2009,631,Santa Clara,16,17,0,33
+2009,632,Savannah St.,15,14,0,29
+2009,1355,Schreiner,6,19,0,25
+2009,633,Scranton,21,7,0,28
+2009,1356,Seattle,21,8,0,29
+2009,634,Seattle Pacific,19,10,0,29
+2009,635,Seton Hall,17,15,0,32
+2009,30063,Seton Hill,10,18,0,28
+2009,652,Sewanee,7,19,0,26
+2009,636,Shaw,12,16,0,28
+2009,637,Shenandoah,10,17,0,27
+2009,10870,Shepherd,13,16,0,29
+2009,638,Shippensburg,12,15,0,27
+2009,639,Siena,27,8,0,35
+2009,641,Simpson,7,18,0,25
+2009,660,SIU Edwardsville,10,20,0,30
+2009,642,Skidmore,8,17,0,25
+2009,643,Slippery Rock,21,8,0,29
+2009,663,SMU,9,21,0,30
+2009,645,Sonoma St.,23,33,0,56
+2009,646,South Ala.,20,13,0,33
+2009,648,South Carolina,21,10,0,31
+2009,647,South Carolina St.,17,14,0,31
+2009,650,South Dakota,20,9,0,29
+2009,649,South Dakota St.,13,20,0,33
+2009,651,South Fla.,9,22,0,31
+2009,654,Southeast Mo. St.,3,27,0,30
+2009,655,Southeastern La.,13,17,0,30
+2009,1371,Southeastern Okla.,5,22,0,27
+2009,1376,Southern Ark.,12,14,0,26
+2009,657,Southern California,22,13,0,35
+2009,658,Southern Conn. St.,2,25,0,27
+2009,659,Southern Ill.,13,18,0,31
+2009,661,Southern Ind.,27,7,0,34
+2009,662,Southern Me.,5,21,0,26
+2009,664,Southern Miss.,15,17,0,32
+2009,468,Southern N.H.,18,12,0,30
+2009,665,Southern U.,8,23,0,31
+2009,667,Southern Utah,11,20,0,31
+2009,1379,Southern Vt.,7,18,0,25
+2009,2755,Southwest Baptist,40,8,0,48
+2009,8736,Southwest Minn. St.,28,7,0,35
+2009,8746,Southwestern (TX),18,10,0,28
+2009,8744,Southwestern Okla.,19,11,0,30
+2009,673,Springfield,15,13,0,28
+2009,592,St. Andrews,6,21,0,27
+2009,593,St. Anselm,17,13,0,30
+2009,594,St. Augustine's,19,10,0,29
+2009,596,St. Bonaventure,15,15,0,30
+2009,598,St. Cloud St.,22,9,0,31
+2009,1334,St. Edward's,17,11,0,28
+2009,599,St. Francis (NY),10,20,0,30
+2009,600,Saint Francis (PA),6,23,0,29
+2009,601,St. John Fisher,17,10,0,27
+2009,602,Saint John's (MN),14,12,0,26
+2009,603,St. John's (NY),16,18,0,34
+2009,606,Saint Joseph's,17,15,0,32
+2009,30072,St. Joseph's (Brkln),11,13,0,24
+2009,604,St. Joseph's (IN),15,13,0,28
+2009,1340,St. Joseph's (L.I.),24,4,0,28
+2009,605,St. Joseph's (ME),21,8,0,29
+2009,607,St. Lawrence,22,7,0,29
+2009,608,Saint Leo,15,16,0,31
+2009,609,Saint Louis,18,14,0,32
+2009,1343,Saint Martin's,22,8,0,30
+2009,610,St. Mary's (CA),28,7,0,35
+2009,611,St. Mary's (MD),43,8,0,51
+2009,612,Saint Mary's (MN),7,18,0,25
+2009,1346,St. Mary's (TX),17,11,0,28
+2009,613,Saint Michael's,10,15,0,25
+2009,614,St. Norbert,18,6,0,24
+2009,615,St. Olaf,10,15,0,25
+2009,616,St. Paul's,6,22,0,28
+2009,617,Saint Peter's,11,19,0,30
+2009,1347,Saint Rose,11,17,0,28
+2009,618,St. Scholastica,16,10,0,26
+2009,620,St. Thomas (MN),30,1,0,31
+2009,1348,St. Thomas Aquinas,10,17,0,27
+2009,30064,Saint Vincent,27,14,0,41
+2009,674,Stanford,20,14,0,34
+2009,675,Staten Island,6,20,0,26
+2009,676,Stephen F. Austin,24,8,0,32
+2009,678,Stetson,13,17,0,30
+2009,679,Stevens,13,13,0,26
+2009,21852,Stevenson,8,42,0,50
+2009,680,Stillman,7,20,0,27
+2009,682,Stonehill,21,8,0,29
+2009,683,Stony Brook,16,14,0,30
+2009,684,Suffolk,3,22,0,25
+2009,1390,Sul Ross St.,8,17,0,25
+2009,168,SUNY Cortland,28,26,0,54
+2009,247,SUNY Geneseo,24,27,0,51
+2009,478,SUNY Maritime,15,13,0,28
+2009,552,SUNY Potsdam,17,34,0,51
+2009,9500,SUNYIT,23,7,0,30
+2009,685,Susquehanna,18,8,0,26
+2009,686,Swarthmore,3,21,0,24
+2009,688,Syracuse,28,10,0,38
+2009,689,Tampa,16,12,0,28
+2009,1395,Tarleton St.,18,10,0,28
+2009,712,TCNJ,10,15,0,25
+2009,698,TCU,14,17,0,31
+2009,690,Temple,22,12,0,34
+2009,694,Tennessee,21,13,0,34
+2009,691,Tennessee St.,12,18,0,30
+2009,692,Tennessee Tech,12,18,0,30
+2009,30090,Tex. A&M Int'l,9,18,0,27
+2009,199,Tex. A&M-Commerce,17,11,0,28
+2009,696,Tex. A&M-Kingsville,19,11,0,30
+2009,30088,Tex. Permian Basin,9,18,0,27
+2009,536,Tex.-Pan American,10,17,0,27
+2009,703,Texas,23,12,0,35
+2009,697,Texas A&M,24,10,0,34
+2009,1400,Texas Lutheran,6,19,0,25
+2009,699,Texas Southern,7,25,0,32
+2009,670,Texas St.,14,16,0,30
+2009,700,Texas Tech,14,19,0,33
+2009,702,Texas-Arlington,16,14,0,30
+2009,23121,Texas-Dallas,26,5,0,31
+2009,30028,Texas-Tyler,12,14,0,26
+2009,707,Thiel,8,32,0,40
+2009,2758,Thomas (ME),15,10,0,25
+2009,1402,Thomas More,31,13,0,44
+2009,1403,Tiffin,2,25,0,27
+2009,709,Toledo,7,25,0,32
+2009,711,Towson,12,22,0,34
+2009,28749,Transylvania,21,6,0,27
+2009,30037,Trine,7,19,0,26
+2009,713,Trinity (CT),9,15,0,24
+2009,715,Trinity (TX),24,5,0,29
+2009,716,Troy,19,13,0,32
+2009,499,Truman,9,33,0,42
+2009,717,Tufts,9,15,0,24
+2009,718,Tulane,14,17,0,31
+2009,719,Tulsa,25,11,0,36
+2009,12830,Tusculum,20,11,0,31
+2009,720,Tuskegee,8,20,0,28
+2009,1255,U New England,24,5,0,29
+2009,9,UAB,22,12,0,34
+2009,32,UALR,23,8,0,31
+2009,108,UC Davis,13,19,0,32
+2009,109,UC Irvine,12,19,0,31
+2009,111,UC Riverside,17,13,0,30
+2009,112,UC San Diego,25,27,0,52
+2009,104,UC Santa Barbara,16,15,0,31
+2009,113,UC Santa Cruz,11,15,0,26
+2009,9754,UC-Colo. Springs,10,18,0,28
+2009,128,UCF,17,14,0,31
+2009,110,UCLA,26,9,0,35
+2009,391,UMBC,15,17,0,32
+2009,2707,UMKC,7,24,0,31
+2009,456,UNC Asheville,15,16,0,31
+2009,459,UNC Greensboro,5,25,0,30
+2009,537,UNC Pembroke,6,21,0,27
+2009,460,UNC Wilmington,7,25,0,32
+2009,504,UNI,23,11,0,34
+2009,727,Union (NY),13,11,0,24
+2009,465,UNLV,21,11,0,32
+2009,728,Upper Iowa,5,22,0,27
+2009,730,Ursinus,12,13,0,25
+2009,28594,USciences,7,20,0,27
+2009,695,UT Martin,22,10,0,32
+2009,732,Utah,24,10,0,34
+2009,731,Utah St.,30,5,0,35
+2009,30024,Utah Valley,17,11,0,28
+2009,704,UTEP,23,14,0,37
+2009,733,Utica,17,9,0,26
+2009,706,UTSA,19,13,0,32
+2009,745,Va. Wesleyan,17,13,0,30
+2009,734,Valdosta St.,24,7,0,31
+2009,735,Valparaiso,9,22,0,31
+2009,736,Vanderbilt,19,12,0,31
+2009,737,Vassar,10,15,0,25
+2009,740,VCU,24,10,0,34
+2009,738,Vermont,24,9,0,33
+2009,739,Villanova,30,8,0,38
+2009,746,Virginia,10,18,0,28
+2009,743,Virginia St.,14,18,0,32
+2009,742,Virginia Tech,19,15,0,34
+2009,744,Virginia Union,21,7,0,28
+2009,741,VMI,24,8,0,32
+2009,747,Wabash,14,13,0,27
+2009,748,Wagner,16,14,0,30
+2009,749,Wake Forest,24,7,0,31
+2009,750,Wartburg,15,13,0,28
+2009,751,Wash. & Jeff.,28,18,0,46
+2009,752,Wash. & Lee,16,13,0,29
+2009,2814,Washburn,23,21,0,44
+2009,756,Washington,26,9,0,35
+2009,1029,Washington Adventist,1,26,0,27
+2009,753,Washington Col.,12,13,0,25
+2009,754,Washington St.,17,16,0,33
+2009,755,Washington-St. Louis,29,2,0,31
+2009,757,Wayne St. (MI),12,15,0,27
+2009,1433,Wayne St. (NE),11,16,0,27
+2009,1434,Waynesburg,8,31,0,39
+2009,758,Weber St.,21,10,0,31
+2009,759,Webster,14,12,0,26
+2009,761,Wells,14,14,0,28
+2009,762,Wentworth Inst.,10,16,0,26
+2009,763,Wesley,35,17,0,52
+2009,764,Wesleyan (CT),7,17,0,24
+2009,358,West Ala.,13,15,0,28
+2009,765,West Chester,18,10,0,28
+2009,11740,West Fla.,13,12,0,25
+2009,766,West Ga.,7,20,0,27
+2009,1438,West Liberty,23,7,0,30
+2009,767,West Tex. A&M,16,11,0,27
+2009,9630,West Va. Wesleyan,10,18,0,28
+2009,768,West Virginia,23,12,0,35
+2009,1439,West Virginia St.,24,6,0,30
+2009,769,Western Caro.,16,15,0,31
+2009,770,Western Conn. St.,14,12,0,26
+2009,771,Western Ill.,9,20,0,29
+2009,772,Western Ky.,25,9,0,34
+2009,774,Western Mich.,10,21,0,31
+2009,1445,Western N.M.,10,17,0,27
+2009,775,Western New Eng.,9,16,0,25
+2009,1446,Western Ore.,10,17,0,27
+2009,2759,Western St.,14,14,0,28
+2009,1448,Western Wash.,21,6,0,27
+2009,777,Westfield St.,18,10,0,28
+2009,1450,Westminster (MO),20,7,0,27
+2009,1451,Westminster (PA),15,28,0,43
+2009,778,Wheaton (IL),26,4,0,30
+2009,779,Wheaton (MA),14,12,0,26
+2009,12799,Wheeling Jesuit,14,16,0,30
+2009,8896,Wheelock,10,17,0,27
+2009,780,Whitman,9,16,0,25
+2009,781,Whittier,16,10,0,26
+2009,1454,Whitworth,23,6,0,29
+2009,782,Wichita St.,17,17,0,34
+2009,783,Widener,23,6,0,29
+2009,784,Wilkes,15,11,0,26
+2009,785,Willamette,12,11,0,23
+2009,786,William & Mary,10,20,0,30
+2009,789,Williams,17,9,0,26
+2009,1460,Wilmington (DE),7,20,0,27
+2009,1461,Wilmington (OH),34,17,0,51
+2009,1462,Wingate,12,16,0,28
+2009,790,Winona St.,24,9,0,33
+2009,791,Winston-Salem,8,22,0,30
+2009,792,Winthrop,11,19,0,30
+2009,8911,Wis. Lutheran,15,13,0,28
+2009,793,Wis.-Eau Claire,15,11,0,26
+2009,795,Wis.-La Crosse,10,15,0,25
+2009,798,Wis.-Oshkosh,16,11,0,27
+2009,799,Wis.-Parkside,7,20,0,27
+2009,800,Wis.-Platteville,23,6,0,29
+2009,801,Wis.-River Falls,11,15,0,26
+2009,802,Wis.-Stevens Point,24,5,0,29
+2009,803,Wis.-Stout,8,17,0,25
+2009,804,Wis.-Superior,11,14,0,25
+2009,805,Wis.-Whitewater,23,6,0,29
+2009,796,Wisconsin,20,13,0,33
+2009,806,Wittenberg,13,13,0,26
+2009,787,Wm. Paterson,20,7,0,27
+2009,2915,Wofford,16,14,0,30
+2009,807,Wooster,23,7,0,30
+2009,809,Worcester St.,12,14,0,26
+2009,808,WPI,21,6,0,27
+2009,810,Wright St.,20,13,0,33
+2009,811,Wyoming,19,14,0,33
+2009,812,Xavier,27,8,0,35
+2009,813,Yale,13,15,0,28
+2009,814,Yeshiva,7,17,0,24
+2009,2730,York (NY),14,14,0,28
+2009,815,York (PA),28,23,0,51
+2009,817,Youngstown St.,11,19,0,30

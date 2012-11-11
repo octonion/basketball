@@ -1,0 +1,22 @@
+The shell script "demo.sh" loads scraped data alias tables
+between the two data sets (NCAA and Basketball Reference)
+for schools and players. It then runs sample R code that does
+a simple stepwise regression to detect some NCAA features
+that impact NBA playing time 1 year out from the draft.
+
+You won't be able to run these without installing PostgreSQL,
+R etc., but I've included two text files showing the results. The
+first is "shell_output.txt" which shows the output of the "demo.sh"
+script (including the total time take - about 12 seconds).
+
+The file "feature_selection.txt" shows the results of the stepwise
+regression.
+
+This is the final model - no surprise, the pick number dominates
+in a non-linear way. Also settled on were height, position, games,
+assists per game and steals per game. I did not examine any
+interaction terms, nor did I look at other measures of NBA value,
+but these are straightforward given the database (up to the
+limitations of my scraped data, of course). I haven't included nor
+attempted to estimate NCAA strength of schedule yet, either
+(this is just a demo).

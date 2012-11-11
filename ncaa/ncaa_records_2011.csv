@@ -1,0 +1,1040 @@
+year,team_id,team_name,wins,losses,ties,total_games
+2011,26172,A&M-Corpus Chris,10,21,0,31
+2011,2,Abilene Christian,9,17,0,26
+2011,30123,Academy of Art,5,21,0,26
+2011,929,Adams St.,20,9,0,29
+2011,3,Adelphi,20,11,0,31
+2011,4,Adrian,13,13,0,26
+2011,721,Air Force,16,16,0,32
+2011,5,Akron,23,13,0,36
+2011,10,Ala.-Huntsville,29,5,0,34
+2011,8,Alabama,25,12,0,37
+2011,6,Alabama A&M,13,15,0,28
+2011,7,Alabama St.,17,18,0,35
+2011,11,Alas. Anchorage,24,10,0,34
+2011,12,Alas. Fairbanks,8,17,0,25
+2011,14,Albany (NY),16,16,0,32
+2011,13,Albany St. (GA),7,22,0,29
+2011,2798,Albertus Magnus,18,11,0,29
+2011,15,Albion,15,12,0,27
+2011,16,Albright,15,10,0,25
+2011,17,Alcorn St.,4,24,0,28
+2011,934,Alderson-Broaddus,19,12,0,31
+2011,18,Alfred,8,17,0,25
+2011,19,Allegheny,7,19,0,26
+2011,21,Alma,6,19,0,25
+2011,938,Alvernia,18,7,0,25
+2011,23,American,22,9,0,31
+2011,22,American Int'l,20,9,0,29
+2011,24,Amherst,25,4,0,29
+2011,939,Anderson (IN),18,9,0,27
+2011,13028,Anderson (SC),21,12,0,33
+2011,25,Angelo St.,11,15,0,26
+2011,26,Anna Maria,18,10,0,28
+2011,27,Appalachian St.,16,15,0,31
+2011,966,Arcadia,7,18,0,25
+2011,29,Arizona,30,8,0,38
+2011,28,Arizona St.,12,19,0,31
+2011,30105,Ark.-Fort Smith,19,10,0,29
+2011,8411,Ark.-Monticello,14,13,0,27
+2011,2678,Ark.-Pine Bluff,7,24,0,31
+2011,31,Arkansas,18,13,0,31
+2011,30,Arkansas St.,17,15,0,32
+2011,947,Arkansas Tech,25,6,0,31
+2011,33,Armstrong,14,12,0,26
+2011,725,Army,11,19,0,30
+2011,35,Ashland,13,13,0,26
+2011,36,Assumption,12,17,0,29
+2011,37,Auburn,11,20,0,31
+2011,38,Augsburg,15,10,0,25
+2011,39,Augusta St.,30,4,0,34
+2011,40,Augustana (IL),27,4,0,31
+2011,41,Augustana (SD),18,9,0,27
+2011,42,Aurora,15,12,0,27
+2011,953,Austin,12,14,0,26
+2011,43,Austin Peay,20,14,0,34
+2011,44,Averett,3,23,0,26
+2011,45,Babson,10,15,0,25
+2011,46,Baldwin Wallace,9,16,0,25
+2011,47,Ball St.,19,13,0,32
+2011,958,Baptist Bible (PA),7,18,0,25
+2011,962,Bard,2,23,0,25
+2011,49,Barry,9,18,0,27
+2011,15646,Barton,18,10,0,28
+2011,58,Baruch,15,12,0,27
+2011,50,Bates,12,13,0,25
+2011,51,Baylor,18,13,0,31
+2011,26107,Becker,24,5,0,29
+2011,52,Bellarmine,33,2,0,35
+2011,14927,Belmont,30,5,0,35
+2011,2683,Belmont Abbey,14,14,0,28
+2011,53,Beloit,9,14,0,23
+2011,54,Bemidji St.,11,15,0,26
+2011,55,Benedict,21,8,0,29
+2011,296,Benedictine (IL),21,8,0,29
+2011,56,Bentley,24,8,0,32
+2011,973,Berry,16,11,0,27
+2011,59,Bethany (WV),21,8,0,29
+2011,30038,Bethany Lutheran,11,15,0,26
+2011,60,Bethel (MN),7,18,0,25
+2011,61,Bethune-Cookman,21,13,0,34
+2011,62,Binghamton,8,23,0,31
+2011,28593,Birmingham-So.,23,4,0,27
+2011,64,Blackburn,6,19,0,25
+2011,984,Bloomfield,24,9,0,33
+2011,65,Bloomsburg,11,15,0,26
+2011,985,Bluefield St.,6,21,0,27
+2011,987,Bluffton,15,11,0,26
+2011,66,Boise St.,22,13,0,35
+2011,67,Boston College,21,13,0,34
+2011,68,Boston U.,21,14,0,35
+2011,69,Bowdoin,14,10,0,24
+2011,70,Bowie St.,23,6,0,29
+2011,71,Bowling Green,14,19,0,33
+2011,72,Bradley,12,20,0,32
+2011,73,Brandeis,19,9,0,28
+2011,30094,Brevard,13,14,0,27
+2011,74,Bridgeport,19,9,0,28
+2011,75,Bridgewater (VA),8,18,0,26
+2011,76,Bridgewater St.,19,10,0,29
+2011,78,Brockport,15,14,0,29
+2011,79,Brooklyn,15,12,0,27
+2011,80,Brown,11,17,0,28
+2011,81,Bryant,9,21,0,30
+2011,83,Bucknell,25,9,0,34
+2011,84,Buena Vista,11,15,0,26
+2011,86,Buffalo,20,14,0,34
+2011,85,Buffalo St.,23,7,0,30
+2011,87,Butler,28,10,0,38
+2011,77,BYU,32,5,0,37
+2011,2685,BYU-Hawaii,22,9,0,31
+2011,362,LIU Post,21,10,0,31
+2011,88,Cabrini,24,6,0,30
+2011,105,Cal Lutheran,14,12,0,26
+2011,90,Cal Poly,15,15,0,30
+2011,91,Cal Poly Pomona,17,11,0,28
+2011,94,CSU Bakersfield,9,19,0,28
+2011,95,Cal St. Chico,14,13,0,27
+2011,92,Cal St. Dom. Hills,23,7,0,30
+2011,98,Cal St. East Bay,4,22,0,26
+2011,97,Cal St. Fullerton,11,20,0,31
+2011,100,Cal St. L.A.,15,13,0,28
+2011,30055,Cal St. Monterey Bay,9,17,0,26
+2011,101,Cal St. Northridge,14,18,0,32
+2011,93,Cal St. San B'dino,17,10,0,27
+2011,103,Cal St. Stanislaus,12,15,0,27
+2011,995,Caldwell,10,16,0,26
+2011,107,California,18,15,0,33
+2011,106,California (PA),15,12,0,27
+2011,89,Caltech,5,20,0,25
+2011,114,Calvin,16,12,0,28
+2011,996,Cameron,17,12,0,29
+2011,115,Campbell,12,19,0,31
+2011,116,Canisius,15,15,0,30
+2011,117,Capital,18,9,0,27
+2011,118,Carleton,18,8,0,26
+2011,119,Carnegie Mellon,7,17,0,24
+2011,120,Carroll (WI),12,11,0,23
+2011,1000,Carson-Newman,11,16,0,27
+2011,121,Carthage,16,9,0,25
+2011,122,Case,9,16,0,25
+2011,123,Castleton,15,12,0,27
+2011,1001,Catawba,13,15,0,28
+2011,124,Catholic,21,9,0,30
+2011,23624,Cazenovia,5,20,0,25
+2011,480,CCNY,3,22,0,25
+2011,125,Centenary (LA),1,29,0,30
+2011,12884,Centenary (NJ),9,16,0,25
+2011,126,Central (IA),12,13,0,25
+2011,1004,Central Ark.,5,24,0,29
+2011,127,Central Conn. St.,19,12,0,31
+2011,129,Central Mich.,10,21,0,31
+2011,130,Central Mo.,18,11,0,29
+2011,1009,Central Okla.,30,4,0,34
+2011,30049,Central St. (OH),14,12,0,26
+2011,1010,Central Wash.,26,4,0,30
+2011,132,Centre,21,6,0,27
+2011,1012,Chadron St.,6,20,0,26
+2011,133,Chaminade,20,9,0,29
+2011,134,Chapman,25,4,0,29
+2011,1013,Charleston (WV),15,13,0,28
+2011,48,Charleston So.,16,16,0,32
+2011,458,Charlotte,10,20,0,30
+2011,693,Chattanooga,16,16,0,32
+2011,21323,Chestnut Hill,12,16,0,28
+2011,135,Cheyney,19,9,0,28
+2011,137,Chicago,10,15,0,25
+2011,136,Chicago St.,6,26,0,32
+2011,8875,Chowan,5,22,0,27
+2011,139,Chris. Newport,18,9,0,27
+2011,1015,Christian Bros.,17,11,0,28
+2011,140,Cincinnati,26,9,0,35
+2011,141,Citadel,10,22,0,32
+2011,8580,City Tech,5,19,0,24
+2011,30058,Claflin,12,16,0,28
+2011,142,Claremont-M-S,16,10,0,26
+2011,143,Clarion,15,11,0,26
+2011,145,Clark (MA),10,15,0,25
+2011,144,Clark Atlanta,22,9,0,31
+2011,1020,Clarke,1,1,0,2
+2011,146,Clarkson,12,13,0,25
+2011,20576,Clayton St.,19,10,0,29
+2011,147,Clemson,22,12,0,34
+2011,148,Cleveland St.,27,9,0,36
+2011,722,Coast Guard,11,14,0,25
+2011,149,Coastal Caro.,28,6,0,34
+2011,30083,Cobleskill St.,10,16,0,26
+2011,150,Coe,16,10,0,26
+2011,1023,Coker,14,14,0,28
+2011,1014,Col. of Charleston,26,11,0,37
+2011,151,Colby,11,13,0,24
+2011,152,Colby-Sawyer,12,13,0,25
+2011,153,Colgate,7,23,0,30
+2011,11403,Colo. Christian,7,20,0,27
+2011,157,Colorado,24,14,0,38
+2011,154,Colorado Col.,14,12,0,26
+2011,155,Colorado Mines,25,6,0,31
+2011,156,Colorado St.,19,13,0,32
+2011,2720,Colorado St.-Pueblo,11,15,0,26
+2011,158,Columbia,15,13,0,28
+2011,159,Columbus St.,11,15,0,26
+2011,1028,Concord,11,16,0,27
+2011,162,Concordia (NY),10,16,0,26
+2011,24400,Concordia (TX),15,11,0,26
+2011,1036,Concordia (WI),23,5,0,28
+2011,160,Concordia Chicago,15,10,0,25
+2011,161,Concordia-M'head,14,12,0,26
+2011,9081,Concordia-St. Paul,16,11,0,27
+2011,164,Connecticut,32,9,0,41
+2011,163,Connecticut Col.,12,13,0,25
+2011,165,Coppin St.,16,14,0,30
+2011,167,Cornell,10,18,0,28
+2011,166,Cornell College,8,17,0,25
+2011,169,Creighton,23,16,0,39
+2011,30035,Crown (MN),5,20,0,25
+2011,170,Curry,4,21,0,25
+2011,1059,D'Youville,6,19,0,25
+2011,1044,Dallas,4,23,0,27
+2011,1045,Dallas Baptist,20,12,0,32
+2011,2691,Daniel Webster,11,14,0,25
+2011,172,Dartmouth,5,23,0,28
+2011,173,Davidson,18,15,0,33
+2011,174,Davis & Elkins,10,17,0,27
+2011,175,Dayton,22,14,0,36
+2011,1050,Defiance,13,12,0,25
+2011,180,Delaware,14,17,0,31
+2011,178,Delaware St.,9,21,0,30
+2011,179,Delaware Valley,17,11,0,28
+2011,181,Delta St.,15,13,0,28
+2011,182,Denison,8,18,0,26
+2011,183,Denver,13,17,0,30
+2011,176,DePaul,7,24,0,31
+2011,177,DePauw,19,9,0,28
+2011,20,DeSales,20,9,0,29
+2011,184,Detroit,17,16,0,33
+2011,185,Dickinson,15,12,0,27
+2011,186,Dist. Columbia,11,15,0,26
+2011,30095,Dixie St.,22,7,0,29
+2011,30118,Dominican (CA),4,22,0,26
+2011,1332,Dominican (IL),8,17,0,25
+2011,8956,Dominican (NY),16,13,0,29
+2011,2692,Dowling,8,19,0,27
+2011,189,Drake,13,18,0,31
+2011,190,Drew,14,12,0,26
+2011,191,Drexel,21,10,0,31
+2011,1057,Drury,23,8,0,31
+2011,192,Dubuque,17,11,0,28
+2011,193,Duke,32,5,0,37
+2011,194,Duquesne,19,13,0,32
+2011,195,Earlham,2,23,0,25
+2011,196,East Carolina,18,16,0,34
+2011,8965,East Central,10,17,0,27
+2011,197,East Stroudsburg,16,12,0,28
+2011,198,East Tenn. St.,24,12,0,36
+2011,1062,East Tex. Baptist,17,9,0,26
+2011,203,East. Mennonite,22,5,0,27
+2011,8968,Eastern,12,12,0,24
+2011,200,Eastern Conn. St.,21,10,0,31
+2011,201,Eastern Ill.,9,20,0,29
+2011,202,Eastern Ky.,15,16,0,31
+2011,204,Eastern Mich.,9,22,0,31
+2011,206,Eastern N.M.,13,14,0,27
+2011,1064,Eastern Nazarene,9,16,0,25
+2011,1065,Eastern Ore.,2,1,0,3
+2011,207,Eastern Wash.,10,20,0,30
+2011,208,Eckerd,22,8,0,30
+2011,1066,Edgewood,18,10,0,28
+2011,209,Edinboro,13,15,0,28
+2011,210,Elizabeth City St.,18,10,0,28
+2011,211,Elizabethtown,16,8,0,24
+2011,212,Elmhurst,8,17,0,25
+2011,213,Elmira,2,23,0,25
+2011,532,Elms,20,8,0,28
+2011,1068,Elon,14,17,0,31
+2011,214,Emerson,10,16,0,26
+2011,215,Emmanuel (MA),6,19,0,25
+2011,217,Emory,20,5,0,25
+2011,216,Emory & Henry,4,22,0,26
+2011,1071,Emporia St.,16,14,0,30
+2011,8981,Endicott,17,10,0,27
+2011,1072,Erskine,3,23,0,26
+2011,218,Eureka,3,22,0,25
+2011,219,Evansville,16,16,0,32
+2011,220,Fairfield,25,8,0,33
+2011,222,Fairleigh Dickinson,5,24,0,29
+2011,1076,Fairmont St.,17,10,0,27
+2011,27892,Farmingdale St.,16,10,0,26
+2011,223,Fayetteville St.,15,14,0,29
+2011,221,FDU-Florham,6,19,0,25
+2011,23157,Felician,14,13,0,27
+2011,224,Ferris St.,24,8,0,32
+2011,225,Ferrum,23,5,0,28
+2011,1079,Findlay,24,4,0,28
+2011,30032,Finlandia,6,17,0,23
+2011,227,Fitchburg St.,4,19,0,23
+2011,231,FIU,11,19,0,30
+2011,229,Fla. Atlantic,21,11,0,32
+2011,28755,Fla. Gulf Coast,10,20,0,30
+2011,233,Fla. Southern,23,9,0,32
+2011,30092,Flagler,10,16,0,26
+2011,235,Florida,29,8,0,37
+2011,228,Florida A&M,12,20,0,32
+2011,234,Florida St.,23,11,0,34
+2011,230,Florida Tech,19,12,0,31
+2011,11538,Fontbonne,5,19,0,24
+2011,236,Fordham,7,21,0,28
+2011,9011,Fort Hays St.,26,7,0,33
+2011,1083,Fort Lewis,24,8,0,32
+2011,237,Fort Valley St.,8,21,0,29
+2011,238,Framingham St.,10,15,0,25
+2011,1085,Francis Marion,16,11,0,27
+2011,30069,Franciscan,4,21,0,25
+2011,239,Frank. & Marsh.,23,6,0,29
+2011,2694,Franklin,8,17,0,25
+2011,241,Franklin Pierce,6,21,0,27
+2011,242,Fredonia St.,6,18,0,24
+2011,96,Fresno St.,14,17,0,31
+2011,243,Frostburg St.,11,14,0,25
+2011,244,Furman,22,11,0,33
+2011,253,Ga. Southern,5,27,0,32
+2011,1097,Ga. Southwestern,20,9,0,29
+2011,245,Gallaudet,17,11,0,28
+2011,246,Gannon,15,11,0,26
+2011,1092,Gardner-Webb,11,21,0,32
+2011,30084,Geneva,18,9,0,27
+2011,1094,George Fox,8,17,0,25
+2011,248,George Mason,27,7,0,34
+2011,249,George Washington,17,14,0,31
+2011,251,Georgetown,21,11,0,32
+2011,257,Georgia,21,12,0,33
+2011,1096,Georgia College,16,10,0,26
+2011,254,Georgia St.,12,19,0,31
+2011,255,Georgia Tech,13,18,0,31
+2011,258,Gettysburg,14,12,0,26
+2011,1098,Glenville St.,5,21,0,26
+2011,8366,Goldey-Beacom,19,11,0,30
+2011,260,Gonzaga,25,10,0,35
+2011,1099,Gordon,11,15,0,26
+2011,1467,Goucher,6,15,0,21
+2011,261,Grambling,12,21,0,33
+2011,1104,Grand Canyon,14,12,0,26
+2011,262,Grand Valley St.,19,8,0,27
+2011,794,Green Bay,14,18,0,32
+2011,11062,Green Mountain,0,20,0,20
+2011,263,Greensboro,12,15,0,27
+2011,1111,Greenville,12,13,0,25
+2011,264,Grinnell,18,7,0,25
+2011,265,Grove City,5,21,0,26
+2011,1112,Guilford,16,10,0,26
+2011,266,Gust. Adolphus,15,13,0,28
+2011,12399,Gwynedd-Mercy,21,7,0,28
+2011,267,Hamilton,16,10,0,26
+2011,268,Hamline,16,11,0,27
+2011,269,Hampden-Sydney,17,10,0,27
+2011,270,Hampton,24,9,0,33
+2011,1115,Hanover,19,8,0,27
+2011,271,Hardin-Simmons,17,10,0,27
+2011,1116,Harding,25,5,0,30
+2011,272,Hartford,11,20,0,31
+2011,273,Hartwick,17,11,0,28
+2011,275,Harvard,23,7,0,30
+2011,276,Haverford,14,12,0,26
+2011,277,Hawaii,19,13,0,32
+2011,2697,Hawaii Hilo,16,11,0,27
+2011,2696,Hawaii Pacific,12,16,0,28
+2011,278,Heidelberg,12,15,0,27
+2011,1123,Henderson St.,7,19,0,26
+2011,1124,Hendrix,10,16,0,26
+2011,19651,High Point,12,19,0,31
+2011,8398,Hilbert,12,15,0,27
+2011,280,Hillsdale,20,6,0,26
+2011,281,Hiram,14,12,0,26
+2011,282,Hobart,21,7,0,28
+2011,283,Hofstra,21,12,0,33
+2011,285,Holy Cross,8,21,0,29
+2011,1126,Holy Family,6,21,0,27
+2011,8404,Hood,13,13,0,26
+2011,286,Hope,23,7,0,30
+2011,288,Houston,12,18,0,30
+2011,287,Houston Baptist,5,26,0,31
+2011,290,Howard,6,24,0,30
+2011,2741,Howard Payne,5,20,0,25
+2011,291,Humboldt St.,26,4,0,30
+2011,292,Hunter,13,14,0,27
+2011,1130,Huntingdon,12,14,0,26
+2011,1133,Husson,21,7,0,28
+2011,295,Idaho,18,14,0,32
+2011,294,Idaho St.,9,20,0,29
+2011,300,Ill. Wesleyan,20,9,0,29
+2011,302,Ill.-Chicago,7,24,0,31
+2011,30050,Ill.-Springfield,8,17,0,25
+2011,301,Illinois,20,14,0,34
+2011,297,Illinois Col.,16,8,0,24
+2011,299,Illinois St.,12,19,0,31
+2011,303,Immaculata,10,16,0,26
+2011,2743,Incarnate Word,16,10,0,26
+2011,306,Indiana,12,20,0,32
+2011,307,Indiana (PA),26,6,0,32
+2011,305,Indiana St.,20,14,0,34
+2011,309,Indianapolis,19,9,0,28
+2011,310,Iona,25,12,0,37
+2011,312,Iowa,11,20,0,31
+2011,311,Iowa St.,16,16,0,32
+2011,308,IPFW,18,12,0,30
+2011,313,Ithaca,20,7,0,27
+2011,2699,IUPUI,19,14,0,33
+2011,314,Jackson St.,17,15,0,32
+2011,316,Jacksonville,20,12,0,32
+2011,315,Jacksonville St.,5,25,0,30
+2011,317,James Madison,21,12,0,33
+2011,320,John Carroll,19,9,0,28
+2011,321,John Jay,9,17,0,26
+2011,322,Johns Hopkins,7,18,0,25
+2011,22626,Johnson & Wales (RI),21,9,0,30
+2011,323,Johnson C. Smith,17,11,0,28
+2011,324,Johnson St.,8,17,0,25
+2011,325,Juniata,12,13,0,25
+2011,326,Kalamazoo,9,17,0,26
+2011,328,Kansas,35,3,0,38
+2011,327,Kansas St.,23,11,0,34
+2011,329,Kean,18,8,0,26
+2011,330,Keene St.,17,11,0,28
+2011,1157,Kennesaw St.,8,23,0,31
+2011,331,Kent St.,25,12,0,37
+2011,334,Kentucky,29,9,0,38
+2011,332,Kentucky St.,15,13,0,28
+2011,335,Kenyon,9,16,0,25
+2011,1159,Keuka,5,17,0,22
+2011,30047,Keystone,21,6,0,27
+2011,30051,King (TN),19,15,0,34
+2011,336,King's (PA),15,10,0,25
+2011,337,Knox,2,21,0,23
+2011,339,Kutztown,16,11,0,27
+2011,333,Ky. Wesleyan,19,10,0,29
+2011,1163,La Roche,25,3,0,28
+2011,340,La Salle,15,18,0,33
+2011,30043,La Sierra,1,4,0,5
+2011,341,La Verne,13,13,0,26
+2011,671,La.-Lafayette,14,15,0,29
+2011,498,La.-Monroe,7,24,0,31
+2011,342,Lafayette,13,19,0,32
+2011,1162,LaGrange,5,22,0,27
+2011,2746,Lake Erie,7,19,0,26
+2011,344,Lake Forest,12,11,0,23
+2011,345,Lake Superior St.,15,12,0,27
+2011,1164,Lakeland,15,11,0,26
+2011,346,Lamar,13,17,0,30
+2011,30085,Lancaster Bible,14,15,0,29
+2011,1167,Lander,10,16,0,26
+2011,347,Lane,6,22,0,28
+2011,8486,Lasell,6,19,0,25
+2011,348,Lawrence,11,12,0,23
+2011,349,Le Moyne,12,15,0,27
+2011,351,Lebanon Valley,23,7,0,30
+2011,13302,Lees-McRae,6,20,0,26
+2011,352,Lehigh,16,15,0,31
+2011,279,Lehman,12,14,0,26
+2011,350,LeMoyne-Owen,10,19,0,29
+2011,1170,Lenoir-Rhyne,4,22,0,26
+2011,24317,Lesley,6,19,0,25
+2011,8490,LeTourneau,3,22,0,25
+2011,354,Lewis,17,14,0,31
+2011,22235,Lewis & Clark,18,8,0,26
+2011,355,Liberty,19,13,0,32
+2011,1174,Limestone,23,7,0,30
+2011,356,Lincoln (MO),3,23,0,26
+2011,357,Lincoln (PA),4,23,0,27
+2011,30066,Lincoln Christian,2,2,0,4
+2011,1176,Lincoln Memorial,27,3,0,30
+2011,1179,Linfield,9,16,0,25
+2011,28600,Lipscomb,17,13,0,30
+2011,359,Livingstone,17,12,0,29
+2011,360,Lock Haven,1,24,0,25
+2011,99,Long Beach St.,22,12,0,34
+2011,361,LIU Brooklyn,27,6,0,33
+2011,363,Longwood,12,19,0,31
+2011,364,Loras,11,14,0,25
+2011,1182,Louisiana Col.,11,13,0,24
+2011,366,Louisiana Tech,12,20,0,32
+2011,367,Louisville,25,10,0,35
+2011,371,Loyola Chicago,16,15,0,31
+2011,369,Loyola Maryland,15,15,0,30
+2011,370,Loyola Marymount,11,21,0,32
+2011,365,LSU,11,21,0,32
+2011,372,Luther,19,9,0,28
+2011,373,Lycoming,15,10,0,25
+2011,374,Lynchburg,11,15,0,26
+2011,30065,Lyndon St.,12,15,0,27
+2011,20794,Lynn,7,20,0,27
+2011,376,Macalester,2,23,0,25
+2011,377,MacMurray,13,13,0,26
+2011,380,Maine,15,15,0,30
+2011,378,Maine Maritime,10,15,0,25
+2011,1192,Manchester,22,7,0,29
+2011,381,Manhattan,6,25,0,31
+2011,382,Manhattanville,14,11,0,25
+2011,384,Mansfield,18,10,0,28
+2011,1194,Maranatha Baptist,8,19,0,27
+2011,1196,Marian (WI),4,21,0,25
+2011,385,Marietta,27,4,0,31
+2011,386,Marist,6,27,0,33
+2011,387,Marquette,22,15,0,37
+2011,1199,Mars Hill,10,16,0,26
+2011,388,Marshall,22,12,0,34
+2011,8597,Martin Luther,8,17,0,25
+2011,30075,Mary,23,6,0,29
+2011,1203,Mary Hardin-Baylor,23,8,0,31
+2011,390,Mary Washington,16,10,0,26
+2011,392,Maryland,19,14,0,33
+2011,394,Marymount (VA),6,19,0,25
+2011,395,Maryville (MO),7,19,0,26
+2011,396,Maryville (TN),16,10,0,26
+2011,397,Marywood,13,14,0,27
+2011,486,MCLA,17,10,0,27
+2011,401,Mass.-Boston,8,17,0,25
+2011,656,Mass.-Dartmouth,11,15,0,26
+2011,368,Mass.-Lowell,20,10,0,30
+2011,400,Massachusetts,15,15,0,30
+2011,773,McDaniel,13,13,0,26
+2011,8530,McMurry,21,8,0,29
+2011,402,McNeese St.,21,12,0,33
+2011,393,UMES,9,22,0,31
+2011,379,Me.-Farmington,10,15,0,25
+2011,30040,Me.-Presque Isle,5,16,0,21
+2011,23725,Medaille,21,8,0,29
+2011,403,Medgar Evers,17,12,0,29
+2011,404,Memphis,25,10,0,35
+2011,406,Mercer,15,18,0,33
+2011,724,Merchant Marine,14,12,0,26
+2011,407,Mercy,2,24,0,26
+2011,408,Mercyhurst,20,7,0,27
+2011,410,Merrimack,13,14,0,27
+2011,11416,Colorado Mesa,18,10,0,28
+2011,411,Messiah,12,13,0,25
+2011,412,Methodist,10,16,0,26
+2011,413,Metro St.,22,8,0,30
+2011,415,Miami (FL),21,15,0,36
+2011,414,Miami (OH),16,17,0,33
+2011,418,Michigan,21,14,0,35
+2011,416,Michigan St.,19,15,0,34
+2011,417,Michigan Tech,17,11,0,28
+2011,419,Middle Tenn.,16,16,0,32
+2011,420,Middlebury,28,2,0,30
+2011,1222,Midwestern St.,25,9,0,34
+2011,422,Miles,10,17,0,27
+2011,423,Millersville,10,15,0,25
+2011,424,Millikin,1,23,0,24
+2011,426,Millsaps,10,15,0,25
+2011,797,Milwaukee,19,14,0,33
+2011,20220,Milwaukee Engr.,19,7,0,26
+2011,427,Minn. Duluth,10,16,0,26
+2011,383,Minn. St. Mankato,28,5,0,33
+2011,1240,Minn. St. Moorhead,15,12,0,27
+2011,27854,Minn.-Crookston,7,19,0,26
+2011,1226,Minn.-Morris,15,12,0,27
+2011,428,Minnesota,17,14,0,31
+2011,16142,Misericordia,15,12,0,27
+2011,433,Ole Miss,20,14,0,34
+2011,429,Mississippi Col.,13,13,0,26
+2011,430,Mississippi St.,17,14,0,31
+2011,432,Mississippi Val.,13,19,0,32
+2011,434,Missouri,23,11,0,34
+2011,435,Missouri S&T,7,18,0,25
+2011,669,Missouri St.,26,9,0,35
+2011,398,MIT,20,9,0,29
+2011,30042,Mitchell,1,22,0,23
+2011,9012,Mo. Southern St.,26,5,0,31
+2011,9013,Mo. Western St.,12,16,0,28
+2011,436,Mo.-St. Louis,16,11,0,27
+2011,437,Molloy,9,18,0,27
+2011,439,Monmouth,9,21,0,30
+2011,438,Monmouth (IL),3,20,0,23
+2011,205,Mont. St. Billings,8,18,0,26
+2011,441,Montana,21,11,0,32
+2011,440,Montana St.,13,18,0,31
+2011,442,Montclair St.,20,8,0,28
+2011,1238,Montevallo,19,11,0,30
+2011,443,Moravian,9,16,0,25
+2011,444,Morehead St.,25,10,0,35
+2011,445,Morehouse,14,14,0,28
+2011,446,Morgan St.,17,14,0,31
+2011,30067,Morrisville St.,12,13,0,25
+2011,27901,Mount Ida,9,17,0,26
+2011,1245,Mount Olive,14,13,0,27
+2011,452,Mount Union,10,16,0,26
+2011,30036,Mt. Aloysius,10,16,0,26
+2011,8567,Mt. St. Joseph,7,18,0,25
+2011,1468,Mt. St. Mary (NY),19,9,0,28
+2011,450,Mt. St. Mary's,11,21,0,32
+2011,451,Mt. St. Vincent,15,11,0,26
+2011,453,Muhlenberg,13,12,0,25
+2011,454,Murray St.,23,9,0,32
+2011,455,Muskingum,8,17,0,25
+2011,488,N.C. A&T,15,17,0,32
+2011,489,N.C. Central,15,15,0,30
+2011,491,N.C. Wesleyan,21,7,0,28
+2011,8577,N.M. Highlands,19,8,0,27
+2011,726,Navy,11,20,0,31
+2011,461,Nazareth,15,10,0,25
+2011,462,Neb. Wesleyan,10,17,0,27
+2011,1156,Neb.-Kearney,13,14,0,27
+2011,464,Neb. Omaha,19,9,0,28
+2011,463,Nebraska,19,13,0,32
+2011,1254,Neumann,16,12,0,28
+2011,466,Nevada,13,19,0,32
+2011,467,New England Col.,17,8,0,25
+2011,469,New Hampshire,12,18,0,30
+2011,470,New Haven,8,18,0,26
+2011,319,New Jersey City,19,10,0,29
+2011,473,New Mexico,22,13,0,35
+2011,472,New Mexico St.,16,17,0,33
+2011,474,New Orleans,16,6,0,22
+2011,475,SUNY New Paltz,11,14,0,25
+2011,479,New York U.,16,11,0,27
+2011,1257,Newberry,13,14,0,27
+2011,21772,Newbury,11,15,0,26
+2011,30054,Newman,15,12,0,27
+2011,482,Niagara,9,23,0,32
+2011,483,Nicholls St.,14,14,0,28
+2011,484,Nichols,7,17,0,24
+2011,471,NJIT,15,15,0,30
+2011,485,Norfolk St.,12,20,0,32
+2011,487,North Ala.,13,16,0,29
+2011,457,North Carolina,29,8,0,37
+2011,490,North Carolina St.,15,16,0,31
+2011,492,North Central (IL),15,11,0,26
+2011,30039,North Central (MN),14,15,0,29
+2011,494,North Dakota,19,15,0,34
+2011,493,North Dakota St.,14,15,0,29
+2011,2711,North Florida,15,19,0,34
+2011,30052,North Ga.,10,16,0,26
+2011,9223,North Greenville,22,7,0,29
+2011,496,North Park,10,15,0,25
+2011,497,North Texas,22,11,0,33
+2011,500,Northeastern,11,20,0,31
+2011,12810,Northeastern St.,9,17,0,26
+2011,501,Northern Ariz.,19,13,0,32
+2011,502,Northern Colo.,21,11,0,32
+2011,503,Northern Ill.,9,21,0,30
+2011,505,Northern Ky.,21,9,0,30
+2011,506,Northern Mich.,9,17,0,26
+2011,1266,Northern St.,12,14,0,26
+2011,1267,Northland,3,22,0,25
+2011,507,Northwest Mo. St.,10,16,0,26
+2011,1274,Northwest Nazarene,15,12,0,27
+2011,509,Northwestern,20,14,0,34
+2011,30031,Northwestern (MN),21,7,0,28
+2011,508,Northwestern St.,18,14,0,32
+2011,510,Northwood (MI),10,18,0,28
+2011,511,Norwich,16,11,0,27
+2011,513,Notre Dame,27,7,0,34
+2011,30056,Notre Dame de Namur,6,20,0,26
+2011,24639,Nova Southeastern,12,15,0,27
+2011,1277,Nyack,2,24,0,26
+2011,477,NYIT,13,15,0,28
+2011,514,Oakland,25,10,0,35
+2011,1278,Oakland City,16,11,0,27
+2011,515,Oberlin,2,23,0,25
+2011,516,Occidental,12,14,0,26
+2011,2713,Oglethorpe,15,12,0,27
+2011,519,Ohio,19,16,0,35
+2011,517,Ohio Northern,13,13,0,26
+2011,518,Ohio St.,34,3,0,37
+2011,15207,Ohio Valley,8,19,0,27
+2011,520,Ohio Wesleyan,16,11,0,27
+2011,24342,Okla. Panhandle,6,22,0,28
+2011,522,Oklahoma,14,18,0,32
+2011,521,Oklahoma St.,20,14,0,34
+2011,523,Old Dominion,27,7,0,34
+2011,524,Old Westbury,13,14,0,27
+2011,525,Olivet,13,13,0,26
+2011,526,SUNY Oneonta,9,17,0,26
+2011,527,Oral Roberts,19,16,0,35
+2011,529,Oregon,21,18,0,39
+2011,528,Oregon St.,11,20,0,31
+2011,530,Oswego St.,24,5,0,29
+2011,531,Otterbein,13,13,0,26
+2011,1289,Ouachita Baptist,11,15,0,26
+2011,23008,Ozarks (AR),6,19,0,25
+2011,533,Pace,11,16,0,27
+2011,534,Pacific,16,15,0,31
+2011,2751,Pacific (OR),4,21,0,25
+2011,1297,Pacific Lutheran,15,10,0,25
+2011,535,Paine,11,17,0,28
+2011,30045,Palm Beach Atl.,12,13,0,25
+2011,540,Penn,13,15,0,28
+2011,539,Penn St.,19,15,0,34
+2011,30114,Penn St.-Abington,3,22,0,25
+2011,25719,Penn St.-Altoona,4,21,0,25
+2011,538,Penn St.-Behrend,23,5,0,28
+2011,30044,Penn St.-Berks,8,17,0,25
+2011,30081,Penn St.-Harrisburg,15,11,0,26
+2011,541,Pepperdine,12,21,0,33
+2011,542,Pfeiffer,11,16,0,27
+2011,1305,Cairn,0,25,0,25
+2011,543,Philadelphia U.,15,12,0,27
+2011,21830,Piedmont,10,16,0,26
+2011,1315,Pitt.-Bradford,9,17,0,26
+2011,11839,Pitt.-Greensburg,9,16,0,25
+2011,546,Pitt.-Johnstown,18,10,0,28
+2011,1314,Pittsburg St.,13,13,0,26
+2011,545,Pittsburgh,28,6,0,34
+2011,547,Plattsburgh St.,17,10,0,27
+2011,548,Plymouth St.,11,14,0,25
+2011,481,Polytechnic (NY),0,25,0,25
+2011,549,Pomona-Pitzer,8,17,0,25
+2011,551,Portland,20,12,0,32
+2011,550,Portland St.,14,16,0,30
+2011,1318,Post,17,11,0,28
+2011,553,Prairie View,10,22,0,32
+2011,1320,Presbyterian,13,18,0,31
+2011,30034,Presentation,9,16,0,25
+2011,554,Princeton,25,7,0,32
+2011,555,Principia,8,15,0,23
+2011,556,Providence,15,17,0,32
+2011,557,Puget Sound,10,15,0,25
+2011,30029,Purchase St.,24,5,0,29
+2011,559,Purdue,26,8,0,34
+2011,11504,Queens (NC),21,8,0,29
+2011,560,Queens (NY),20,8,0,28
+2011,561,Quincy,16,11,0,27
+2011,562,Quinnipiac,22,10,0,32
+2011,563,Radford,5,24,0,29
+2011,564,Ramapo,20,7,0,27
+2011,566,Randolph,18,10,0,28
+2011,565,Randolph-Macon,25,5,0,30
+2011,567,Redlands,16,12,0,28
+2011,568,Regis (CO),6,20,0,26
+2011,569,Regis (MA),15,12,0,27
+2011,570,Rensselaer,17,8,0,25
+2011,572,Rhode Island,20,14,0,34
+2011,571,Rhode Island Col.,21,8,0,29
+2011,573,Rhodes,7,18,0,25
+2011,574,Rice,14,18,0,32
+2011,681,Richard Stockton,16,11,0,27
+2011,575,Richmond,29,8,0,37
+2011,576,Rider,23,11,0,34
+2011,577,Ripon,14,10,0,24
+2011,18422,Rivier,12,14,0,26
+2011,578,Roanoke,12,15,0,27
+2011,579,Robert Morris,18,14,0,32
+2011,581,Rochester (NY),22,6,0,28
+2011,580,Rochester Inst.,11,14,0,25
+2011,582,Rockford,10,15,0,25
+2011,1328,Rockhurst,8,19,0,27
+2011,583,Roger Williams,17,9,0,26
+2011,584,Rollins,25,7,0,32
+2011,585,Rose-Hulman,16,10,0,26
+2011,15882,Rosemont,7,18,0,25
+2011,259,Rowan,12,14,0,26
+2011,586,Rust,17,8,0,25
+2011,587,Rutgers,15,17,0,32
+2011,588,Rutgers-Camden,6,17,0,23
+2011,589,Rutgers-Newark,19,8,0,27
+2011,11276,S.C. Aiken,17,10,0,27
+2011,10411,S.C. Upstate,5,25,0,30
+2011,102,Sacramento St.,7,21,0,28
+2011,590,Sacred Heart,11,18,0,29
+2011,11036,Sage Colleges,13,13,0,26
+2011,591,Saginaw Valley,13,14,0,27
+2011,19117,Salem Int'l,11,15,0,26
+2011,621,Salem St.,20,7,0,27
+2011,622,Salisbury,12,15,0,27
+2011,623,Salve Regina,17,11,0,28
+2011,624,Sam Houston St.,18,13,0,31
+2011,625,Samford,12,19,0,31
+2011,627,San Diego,6,24,0,30
+2011,626,San Diego St.,34,3,0,37
+2011,628,San Fran. St.,16,11,0,27
+2011,629,San Francisco,19,15,0,34
+2011,630,San Jose St.,17,16,0,33
+2011,631,Santa Clara,24,14,0,38
+2011,632,Savannah St.,12,18,0,30
+2011,1355,Schreiner,10,15,0,25
+2011,633,Scranton,20,6,0,26
+2011,1356,Seattle,11,20,0,31
+2011,634,Seattle Pacific,20,10,0,30
+2011,635,Seton Hall,13,18,0,31
+2011,30063,Seton Hill,10,20,0,30
+2011,652,Sewanee,9,16,0,25
+2011,636,Shaw,23,9,0,32
+2011,637,Shenandoah,4,21,0,25
+2011,10870,Shepherd,13,16,0,29
+2011,638,Shippensburg,9,17,0,26
+2011,639,Siena,13,18,0,31
+2011,641,Simpson,12,15,0,27
+2011,660,SIU Edwardsville,8,21,0,29
+2011,642,Skidmore,18,10,0,28
+2011,643,Slippery Rock,21,11,0,32
+2011,663,SMU,20,15,0,35
+2011,645,Sonoma St.,11,15,0,26
+2011,646,South Ala.,12,16,0,28
+2011,648,South Carolina,14,16,0,30
+2011,647,South Carolina St.,10,22,0,32
+2011,650,South Dakota,18,15,0,33
+2011,649,South Dakota St.,19,12,0,31
+2011,651,South Fla.,10,23,0,33
+2011,654,Southeast Mo. St.,10,22,0,32
+2011,655,Southeastern La.,15,14,0,29
+2011,1371,Southeastern Okla.,3,23,0,26
+2011,1376,Southern Ark.,11,15,0,26
+2011,657,Southern California,19,15,0,34
+2011,658,Southern Conn. St.,12,15,0,27
+2011,659,Southern Ill.,13,19,0,32
+2011,661,Southern Ind.,24,6,0,30
+2011,662,Southern Me.,10,15,0,25
+2011,664,Southern Miss.,22,10,0,32
+2011,468,Southern N.H.,11,15,0,26
+2011,665,Southern U.,4,26,0,30
+2011,667,Southern Utah,11,19,0,30
+2011,1379,Southern Vt.,16,11,0,27
+2011,2755,Southwest Baptist,12,17,0,29
+2011,8736,Southwest Minn. St.,12,14,0,26
+2011,8746,Southwestern (TX),6,19,0,25
+2011,8744,Southwestern Okla.,16,13,0,29
+2011,23260,Spalding,19,9,0,28
+2011,673,Springfield,15,11,0,26
+2011,592,St. Andrews,13,14,0,27
+2011,593,St. Anselm,19,9,0,28
+2011,594,St. Augustine's,9,18,0,27
+2011,596,St. Bonaventure,16,15,0,31
+2011,598,St. Cloud St.,15,14,0,29
+2011,1334,St. Edward's,9,17,0,26
+2011,599,St. Francis (NY),15,15,0,30
+2011,600,Saint Francis (PA),9,21,0,30
+2011,601,St. John Fisher,15,12,0,27
+2011,602,Saint John's (MN),14,11,0,25
+2011,603,St. John's (NY),21,12,0,33
+2011,606,Saint Joseph's,11,22,0,33
+2011,30072,St. Joseph's (Brkln),8,18,0,26
+2011,604,St. Joseph's (IN),11,16,0,27
+2011,1340,St. Joseph's (L.I.),22,7,0,29
+2011,605,St. Joseph's (ME),20,8,0,28
+2011,607,St. Lawrence,11,13,0,24
+2011,608,Saint Leo,12,16,0,28
+2011,609,Saint Louis,12,19,0,31
+2011,1343,Saint Martin's,14,15,0,29
+2011,610,St. Mary's (CA),25,9,0,34
+2011,611,St. Mary's (MD),25,6,0,31
+2011,612,Saint Mary's (MN),9,16,0,25
+2011,1346,St. Mary's (TX),15,12,0,27
+2011,613,Saint Michael's,13,15,0,28
+2011,614,St. Norbert,20,6,0,26
+2011,615,St. Olaf,17,9,0,26
+2011,616,St. Paul's,8,18,0,26
+2011,617,Saint Peter's,20,14,0,34
+2011,1347,Saint Rose,22,9,0,31
+2011,618,St. Scholastica,9,16,0,25
+2011,620,St. Thomas (MN),30,3,0,33
+2011,1348,St. Thomas Aquinas,5,21,0,26
+2011,30064,Saint Vincent,19,8,0,27
+2011,674,Stanford,15,16,0,31
+2011,675,Staten Island,17,11,0,28
+2011,676,Stephen F. Austin,18,11,0,29
+2011,678,Stetson,8,23,0,31
+2011,679,Stevens,22,7,0,29
+2011,21852,Stevenson,6,19,0,25
+2011,680,Stillman,24,8,0,32
+2011,682,Stonehill,22,8,0,30
+2011,683,Stony Brook,15,17,0,32
+2011,684,Suffolk,8,18,0,26
+2011,1390,Sul Ross St.,9,16,0,25
+2011,168,SUNY Cortland,10,16,0,26
+2011,247,SUNY Geneseo,11,14,0,25
+2011,478,SUNY Maritime,8,17,0,25
+2011,552,SUNY Potsdam,8,18,0,26
+2011,9500,SUNYIT,14,11,0,25
+2011,685,Susquehanna,11,14,0,25
+2011,686,Swarthmore,6,19,0,25
+2011,688,Syracuse,27,8,0,35
+2011,689,Tampa,22,7,0,29
+2011,1395,Tarleton St.,24,6,0,30
+2011,712,TCNJ,4,21,0,25
+2011,698,TCU,11,22,0,33
+2011,690,Temple,26,8,0,34
+2011,694,Tennessee,19,15,0,34
+2011,691,Tennessee St.,14,16,0,30
+2011,692,Tennessee Tech,20,13,0,33
+2011,30090,Tex. A&M Int'l,19,11,0,30
+2011,199,Tex. A&M-Commerce,18,9,0,27
+2011,696,Tex. A&M-Kingsville,9,17,0,26
+2011,30088,Tex. Permian Basin,16,12,0,28
+2011,536,Tex.-Pan American,6,25,0,31
+2011,703,Texas,28,8,0,36
+2011,697,Texas A&M,24,9,0,33
+2011,1400,Texas Lutheran,11,13,0,24
+2011,699,Texas Southern,19,13,0,32
+2011,670,Texas St.,16,16,0,32
+2011,700,Texas Tech,13,19,0,32
+2011,702,Texas-Arlington,13,16,0,29
+2011,23121,Texas-Dallas,21,7,0,28
+2011,30028,Texas-Tyler,12,14,0,26
+2011,707,Thiel,20,7,0,27
+2011,2758,Thomas (ME),15,11,0,26
+2011,1402,Thomas More,13,14,0,27
+2011,1403,Tiffin,8,18,0,26
+2011,709,Toledo,4,28,0,32
+2011,711,Towson,4,26,0,30
+2011,28749,Transylvania,18,9,0,27
+2011,30037,Trine,12,14,0,26
+2011,713,Trinity (CT),14,12,0,26
+2011,715,Trinity (TX),16,11,0,27
+2011,716,Troy,8,21,0,29
+2011,499,Truman,7,19,0,26
+2011,717,Tufts,13,12,0,25
+2011,718,Tulane,13,17,0,30
+2011,719,Tulsa,19,13,0,32
+2011,12830,Tusculum,12,18,0,30
+2011,720,Tuskegee,19,9,0,28
+2011,1255,U New England,4,21,0,25
+2011,9,UAB,22,9,0,31
+2011,32,UALR,19,17,0,36
+2011,108,UC Davis,10,20,0,30
+2011,109,UC Irvine,13,19,0,32
+2011,111,UC Riverside,12,19,0,31
+2011,112,UC San Diego,11,17,0,28
+2011,104,UC Santa Barbara,18,14,0,32
+2011,113,UC Santa Cruz,12,14,0,26
+2011,9754,UC-Colo. Springs,9,17,0,26
+2011,128,UCF,21,12,0,33
+2011,110,UCLA,23,11,0,34
+2011,391,UMBC,5,25,0,30
+2011,2707,UMKC,16,14,0,30
+2011,456,UNC Asheville,20,14,0,34
+2011,459,UNC Greensboro,7,24,0,31
+2011,537,UNC Pembroke,18,12,0,30
+2011,460,UNC Wilmington,13,18,0,31
+2011,504,UNI,20,14,0,34
+2011,727,Union (NY),11,14,0,25
+2011,465,UNLV,24,9,0,33
+2011,728,Upper Iowa,8,18,0,26
+2011,730,Ursinus,12,13,0,25
+2011,28594,USciences,12,13,0,25
+2011,695,UT Martin,12,21,0,33
+2011,732,Utah,13,18,0,31
+2011,731,Utah St.,30,4,0,34
+2011,30024,Utah Valley,19,11,0,30
+2011,704,UTEP,25,10,0,35
+2011,733,Utica,13,11,0,24
+2011,706,UTSA,20,14,0,34
+2011,745,Va. Wesleyan,25,5,0,30
+2011,734,Valdosta St.,21,9,0,30
+2011,735,Valparaiso,23,12,0,35
+2011,736,Vanderbilt,23,11,0,34
+2011,737,Vassar,3,22,0,25
+2011,740,VCU,28,12,0,40
+2011,738,Vermont,23,9,0,32
+2011,739,Villanova,21,12,0,33
+2011,746,Virginia,16,15,0,31
+2011,743,Virginia St.,6,21,0,27
+2011,742,Virginia Tech,22,12,0,34
+2011,744,Virginia Union,15,9,0,24
+2011,741,VMI,18,13,0,31
+2011,747,Wabash,20,6,0,26
+2011,748,Wagner,13,17,0,30
+2011,749,Wake Forest,8,24,0,32
+2011,750,Wartburg,10,14,0,24
+2011,751,Wash. & Jeff.,11,15,0,26
+2011,752,Wash. & Lee,14,13,0,27
+2011,2814,Washburn,18,10,0,28
+2011,756,Washington,24,11,0,35
+2011,1029,Washington Adventist,10,18,0,28
+2011,753,Washington Col.,7,18,0,25
+2011,754,Washington St.,22,13,0,35
+2011,755,Washington-St. Louis,13,12,0,25
+2011,757,Wayne St. (MI),22,8,0,30
+2011,1433,Wayne St. (NE),13,14,0,27
+2011,1434,Waynesburg,6,20,0,26
+2011,758,Weber St.,18,14,0,32
+2011,759,Webster,20,7,0,27
+2011,761,Wells,17,12,0,29
+2011,762,Wentworth Inst.,18,11,0,29
+2011,763,Wesley,18,11,0,29
+2011,764,Wesleyan (CT),11,13,0,24
+2011,358,West Ala.,11,15,0,26
+2011,765,West Chester,14,12,0,26
+2011,11740,West Fla.,9,17,0,26
+2011,766,West Ga.,15,12,0,27
+2011,1438,West Liberty,33,1,0,34
+2011,767,West Tex. A&M,23,7,0,30
+2011,9630,West Va. Wesleyan,19,11,0,30
+2011,768,West Virginia,21,12,0,33
+2011,1439,West Virginia St.,20,10,0,30
+2011,769,Western Caro.,18,15,0,33
+2011,770,Western Conn. St.,22,6,0,28
+2011,771,Western Ill.,7,23,0,30
+2011,772,Western Ky.,16,16,0,32
+2011,774,Western Mich.,21,13,0,34
+2011,1445,Western N.M.,14,16,0,30
+2011,775,Western New Eng.,4,21,0,25
+2011,1446,Western Ore.,13,16,0,29
+2011,2759,Western St.,8,19,0,27
+2011,1448,Western Wash.,16,11,0,27
+2011,777,Westfield St.,12,15,0,27
+2011,1450,Westminster (MO),17,10,0,27
+2011,1451,Westminster (PA),7,19,0,26
+2011,778,Wheaton (IL),18,8,0,26
+2011,779,Wheaton (MA),8,16,0,24
+2011,12799,Wheeling Jesuit,16,12,0,28
+2011,8896,Wheelock,10,16,0,26
+2011,780,Whitman,19,8,0,27
+2011,781,Whittier,12,13,0,25
+2011,1454,Whitworth,28,2,0,30
+2011,782,Wichita St.,29,8,0,37
+2011,783,Widener,13,13,0,26
+2011,784,Wilkes,15,10,0,25
+2011,785,Willamette,7,18,0,25
+2011,786,William & Mary,10,22,0,32
+2011,789,Williams,29,3,0,32
+2011,1460,Wilmington (DE),8,18,0,26
+2011,1461,Wilmington (OH),10,16,0,26
+2011,1462,Wingate,19,10,0,29
+2011,790,Winona St.,20,10,0,30
+2011,791,Winston-Salem,19,8,0,27
+2011,792,Winthrop,13,17,0,30
+2011,8911,Wis. Lutheran,5,21,0,26
+2011,793,Wis.-Eau Claire,9,16,0,25
+2011,795,Wis.-La Crosse,14,12,0,26
+2011,798,Wis.-Oshkosh,11,14,0,25
+2011,799,Wis.-Parkside,9,18,0,27
+2011,800,Wis.-Platteville,17,10,0,27
+2011,801,Wis.-River Falls,20,8,0,28
+2011,802,Wis.-Stevens Point,26,4,0,30
+2011,803,Wis.-Stout,10,15,0,25
+2011,804,Wis.-Superior,15,12,0,27
+2011,805,Wis.-Whitewater,17,9,0,26
+2011,796,Wisconsin,25,9,0,34
+2011,806,Wittenberg,20,9,0,29
+2011,787,Wm. Paterson,12,13,0,25
+2011,2915,Wofford,21,13,0,34
+2011,807,Wooster,31,3,0,34
+2011,809,Worcester St.,6,20,0,26
+2011,808,WPI,23,6,0,29
+2011,810,Wright St.,19,14,0,33
+2011,811,Wyoming,10,21,0,31
+2011,812,Xavier,24,8,0,32
+2011,813,Yale,15,13,0,28
+2011,814,Yeshiva,7,18,0,25
+2011,2730,York (NY),9,17,0,26
+2011,815,York (PA),17,9,0,26
+2011,817,Youngstown St.,9,21,0,30
