@@ -24,9 +24,9 @@ rm /tmp/bbref_basic.csv
 #psql basketball -f create_bbref_players.sql
 psql basketball -f create_bbref_schools.sql
 
-cp bbref/games.csv /tmp/bbref_games.csv
+cat bbref/games*.csv >> /tmp/games.csv
 psql basketball -f load_bbref_games.sql
-rm /tmp/bbref_games.csv
+rm /tmp/games.csv
 
 psql basketball -f create_bbref_teams.sql
 

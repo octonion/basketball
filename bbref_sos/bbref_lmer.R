@@ -17,7 +17,7 @@ ln(r.team_score::float) as log_ps
 from bbref.results r
 where
 TRUE
-and r.year between 2002 and 2012
+and r.year between 2002 and 2013
 and r.team_score>0
 and r.opponent_score>0
 and not(r.team_score,r.opponent_score)=(0,0)

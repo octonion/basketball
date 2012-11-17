@@ -16,7 +16,7 @@ create table bbref.games (
 	notes				text
 );
 
-copy bbref.games from '/tmp/bbref_games.csv' with delimiter as ',' csv header quote as '"';
+copy bbref.games from '/tmp/games.csv' with delimiter as ',' csv quote as '"';
 
 alter table bbref.games
 add column visitor_id text;
