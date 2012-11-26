@@ -84,7 +84,7 @@ g.opponent_id,
  and g.school_id is not NULL
  and g.opponent_id is not NULL
  and not(g.game_date is null)
- and g.year between 2002 and 2012
+ and g.year between 2002 and 2013
 -- and c1.n >=20
 -- and c2.n >=20
 
@@ -130,7 +130,7 @@ g.school_id,
  and g.school_id is not NULL
  and g.opponent_id is not NULL
  and not(g.game_date is null)
- and g.year between 2002 and 2012
+ and g.year between 2002 and 2013
 -- and c1.n >=20
 -- and c2.n >=20
 );
