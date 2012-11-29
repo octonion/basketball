@@ -3,7 +3,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,A&M-Corpus Christi,26172,Denver,183,11/14/2012,51,68,Away,"",-,"4,777"
 2013,A&M-Corpus Christi,26172,Utah St.,731,11/17/2012,68,77,Away,"",-,"9,673"
 2013,A&M-Corpus Christi,26172,Houston,288,11/25/2012,75,77,Home,"",-,"1,194"
-2013,A&M-Corpus Christi,26172,Toledo,709,11/28/2012,0,0,Away,"",-,0
+2013,A&M-Corpus Christi,26172,Toledo,709,11/28/2012,68,80,Away,"",-,"3,689"
 2013,A&M-Corpus Christi,26172,Iowa,312,12/01/2012,0,0,Away,"",-,0
 2013,A&M-Corpus Christi,26172,South Ala.,646,12/16/2012,0,0,Away,"",-,0
 2013,A&M-Corpus Christi,26172,Texas A&M,697,12/18/2012,0,0,Away,"",-,0
@@ -164,7 +164,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Air Force,721,Regis (CO),568,11/18/2012,83,43,Home,"",-,"1,547"
 2013,Air Force,721,Montana St.,440,11/21/2012,86,72,Home,"",-,"1,851"
 2013,Air Force,721,Colorado,157,11/25/2012,74,89,Away,"",-,"10,607"
-2013,Air Force,721,Jackson St.,314,11/28/2012,0,0,Home,"",-,0
+2013,Air Force,721,Jackson St.,314,11/28/2012,76,47,Home,"",-,"1,547"
 2013,Air Force,721,Wichita St.,782,12/02/2012,0,0,Home,"",-,0
 2013,Air Force,721,Ark.-Pine Bluff,2678,12/08/2012,0,0,Home,"",-,0
 2013,Air Force,721,UC Riverside,111,12/22/2012,0,0,Away,"",-,0
@@ -471,7 +471,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Albion,15,Wabash,747,11/18/2012,51,53,Home,"",-,133
 2013,Albion,15,Franklin,2694,11/24/2012,70,76,Neutral,"Greencastle, IN",-,0
 2013,Albion,15,Purdue-North Cent.,,11/25/2012,91,80,Neutral,Neal Fieldhouse; Greenca,-,75
-2013,Albion,15,Heidelberg,278,11/28/2012,0,0,Away,"",-,0
+2013,Albion,15,Heidelberg,278,11/28/2012,58,66,Away,"",-,0
 2013,Albion,15,Elmhurst,212,12/01/2012,0,0,Home,"",-,0
 2013,Albion,15,Kenyon,335,12/08/2012,0,0,Home,"",-,0
 2013,Albion,15,North Park,496,12/18/2012,0,0,Home,"",-,0
@@ -580,8 +580,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Alfred,18,Pitt.-Bradford,1315,11/16/2012,69,75,Neutral,"Houghton, N.Y. (Nielsen",-,0
 2013,Alfred,18,Penn St-Gr Allegheny,,11/17/2012,80,44,Neutral,"Houghton, NY",-,0
 2013,Alfred,18,Penn College,,11/20/2012,53,61,Away,"",-,0
-2013,Alfred,18,Hilbert,8398,11/24/2012,0,0,Home,"",-,0
+2013,Alfred,18,Hilbert,8398,11/24/2012,67,77,Home,"",-,100
 2013,Alfred,18,Wells,761,11/28/2012,0,0,Away,"",-,0
+2013,Alfred,18,Wells,761,11/28/2012,77,79,Away,"",1 OT,455
 2013,Alfred,18,Cazenovia,23624,12/01/2012,0,0,Home,"",-,0
 2013,Alfred,18,St. John Fisher,601,12/04/2012,0,0,Away,"",-,0
 2013,Alfred,18,Morrisville St.,30067,12/08/2012,0,0,Away,"",-,0
@@ -653,7 +654,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Alma,21,Albion,15,02/13/2013,0,0,Away,"",-,0
 2013,Alma,21,Kalamazoo,326,02/16/2013,0,0,Away,"",-,0
 2013,Alvernia,938,Delaware Valley,179,11/20/2012,85,80,Away,"",-,125
-2013,Alvernia,938,Lycoming,373,11/28/2012,62,75,Away,"",-,0
+2013,Alvernia,938,Lycoming,373,11/28/2012,62,75,Away,"",-,455
 2013,Alvernia,938,Albright,16,12/01/2012,0,0,Away,"",-,0
 2013,Alvernia,938,Lancaster Bible,30085,12/03/2012,0,0,Home,"",-,0
 2013,Alvernia,938,Stevenson,21852,12/05/2012,0,0,Home,"",-,0
@@ -1001,7 +1002,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Ark.-Fort Smith,30105,McMurry,8530,03/02/2013,0,0,Away,"",-,0
 2013,Ark.-Monticello,8411,Champion Bapt.,,11/09/2012,87,65,Home,"",-,377
 2013,Ark.-Monticello,8411,Arkansas St.,30,11/13/2012,47,76,Away,"",-,"2,745"
-2013,Ark.-Monticello,8411,Southwest Baptist,2755,11/15/2012,0,0,Away,"",-,0
+2013,Ark.-Monticello,8411,Southwest Baptist,2755,11/15/2012,69,78,Away,"",-,"1,324"
 2013,Ark.-Monticello,8411,Crowley's Ridge,,11/17/2012,0,0,Home,"",-,0
 2013,Ark.-Monticello,8411,Delta St.,181,11/20/2012,51,48,Away,"",-,889
 2013,Ark.-Monticello,8411,Southwestern Okla.,8744,11/29/2012,0,0,Away,"",-,0
@@ -1197,7 +1198,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Army,725,American,23,02/23/2013,0,0,Away,"",-,0
 2013,Army,725,Holy Cross,285,02/27/2013,0,0,Home,"",-,0
 2013,Army,725,Lehigh,352,03/02/2013,0,0,Away,"",-,0
-2013,Ashland,35,Oberlin,515,11/13/2012,0,0,Home,"",-,0
+2013,Ashland,35,Oberlin,515,11/13/2012,72,47,Home,"",-,358
 2013,Ashland,35,Cincinnati Christian,,11/15/2012,0,0,Home,"",-,0
 2013,Ashland,35,Urbana,30104,11/20/2012,68,71,Away,"",-,477
 2013,Ashland,35,Grand Valley St.,262,11/29/2012,0,0,Home,"",-,0
@@ -1384,8 +1385,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Augustana (SD),41,Winona St.,790,02/23/2013,0,0,Home,"",-,0
 2013,Aurora,42,Augustana (IL),40,11/15/2012,82,85,Home,"",-,888
 2013,Aurora,42,North Central (IL),492,11/20/2012,77,84,Away,"",-,850
-2013,Aurora,42,Wis.-Whitewater,805,11/23/2012,0,0,Neutral,"Kenosha, WI",-,0
-2013,Aurora,42,Iowa Wesleyan,30173,11/24/2012,0,0,Neutral,"Kenosha, WI",-,0
+2013,Aurora,42,Wis.-Whitewater,805,11/23/2012,68,107,Neutral,"Kenosha, Wis./Tarble Are",-,250
+2013,Aurora,42,Iowa Wesleyan,30173,11/24/2012,88,82,Neutral,"Kenosha, Wis./Tarble Are",-,45
 2013,Aurora,42,Wis. Lutheran,8911,11/27/2012,80,54,Away,"",-,145
 2013,Aurora,42,Edgewood,1066,12/01/2012,0,0,Away,"",-,0
 2013,Aurora,42,Concordia Chicago,160,12/05/2012,0,0,Away,"",-,0
@@ -1437,8 +1438,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Austin Peay,43,DePaul,176,11/17/2012,67,98,Away,"",-,"7,398"
 2013,Austin Peay,43,Western Caro.,769,11/20/2012,72,71,Neutral,"Cancun, MEX",-,902
 2013,Austin Peay,43,Gardner-Webb,1092,11/21/2012,62,72,Neutral,"Cancun, MEX",-,355
-2013,Austin Peay,43,Berea,30171,11/28/2012,0,0,Home,"",-,0
-2013,Austin Peay,43,Berea,,11/28/2012,108,53,Home,"",-,"2,023"
+2013,Austin Peay,43,Berea,30171,11/28/2012,108,53,Home,"",-,"2,023"
 2013,Austin Peay,43,Fairfield,220,12/01/2012,0,0,Home,"",-,0
 2013,Austin Peay,43,Oakland City,1278,12/05/2012,0,0,Home,"",-,0
 2013,Austin Peay,43,Memphis,404,12/08/2012,0,0,Away,"",-,0
@@ -2176,7 +2176,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Blackburn,64,Millikin,424,11/20/2012,0,0,Home,"",-,0
 2013,Blackburn,64,Rhodes,573,11/24/2012,47,74,Away,"",-,75
 2013,Blackburn,64,Hendrix,1124,11/25/2012,67,72,Neutral,"Memphis, Tenn. (Mallory-",-,50
-2013,Blackburn,64,Webster,759,11/28/2012,0,0,Away,"",-,0
+2013,Blackburn,64,Webster,759,11/28/2012,54,87,Away,"",-,210
 2013,Blackburn,64,Fontbonne,11538,12/01/2012,0,0,Home,"",-,0
 2013,Blackburn,64,Dubuque,192,12/08/2012,0,0,Away,"",-,0
 2013,Blackburn,64,Aurora,42,12/17/2012,0,0,Away,"",-,0
@@ -2365,7 +2365,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Boston U.,68,George Washington,249,11/17/2012,59,72,Home,"",-,"1,007"
 2013,Boston U.,68,Rutgers,587,11/20/2012,79,81,Away,"",-,"4,382"
 2013,Boston U.,68,George Mason,248,11/24/2012,45,48,Away,"",-,"4,375"
-2013,Boston U.,68,Coastal Caro.,149,11/28/2012,0,0,Home,"",-,0
+2013,Boston U.,68,Coastal Caro.,149,11/28/2012,74,44,Home,"",-,705
 2013,Boston U.,68,Saint Peter's,617,12/01/2012,0,0,Away,"",-,0
 2013,Boston U.,68,Coastal Caro.,149,12/06/2012,0,0,Away,"",-,0
 2013,Boston U.,68,Harvard,275,12/11/2012,0,0,Away,"",-,0
@@ -2608,7 +2608,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Bridgewater St.,76,Plymouth St.,548,11/16/2012,70,64,Home,"",-,525
 2013,Bridgewater St.,76,Springfield,673,11/17/2012,75,88,Home,"",-,350
 2013,Bridgewater St.,76,Rhode Island Col.,571,11/20/2012,53,56,Away,"",-,525
-2013,Bridgewater St.,76,Mass.-Dartmouth,656,11/27/2012,0,0,Home,"",-,0
+2013,Bridgewater St.,76,Mass.-Dartmouth,656,11/27/2012,94,82,Home,"",-,350
 2013,Bridgewater St.,76,Wheaton (MA),779,12/01/2012,0,0,Away,"",-,0
 2013,Bridgewater St.,76,Anna Maria,26,12/04/2012,0,0,Away,"",-,0
 2013,Bridgewater St.,76,Trinity (CT),713,12/08/2012,0,0,Away,"",-,0
@@ -2629,6 +2629,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Bridgewater St.,76,Salem St.,621,02/12/2013,0,0,Home,"",-,0
 2013,Bridgewater St.,76,MCLA,486,02/16/2013,0,0,Away,"",-,0
 2013,Brockport,78,Baruch,58,11/20/2012,58,64,Away,"",-,257
+2013,Brockport,78,St. John Fisher,601,11/28/2012,72,85,Away,"",-,549
+2013,Brockport,78,Rochester Inst.,580,11/30/2012,0,0,Neutral,"Rochester, NY",-,0
 2013,Brockport,78,Oswego St.,530,12/04/2012,0,0,Home,"",-,0
 2013,Brockport,78,SUNY New Paltz,475,12/07/2012,0,0,Away,"",-,0
 2013,Brockport,78,SUNY Oneonta,526,12/08/2012,0,0,Away,"",-,0
@@ -2982,10 +2984,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Cabrini,88,Gwynedd-Mercy,12399,02/06/2013,0,0,Home,"",-,0
 2013,Cabrini,88,Rosemont,15882,02/09/2013,0,0,Home,"",-,0
 2013,Cabrini,88,Marywood,397,02/13/2013,0,0,Away,"",-,0
-2013,Cal Lutheran,105,La Sierra,,11/19/2012,0,0,Home,"",-,0
+2013,Cal Lutheran,105,La Sierra,,11/19/2012,64,40,Home,"",-,202
 2013,Cal Lutheran,105,George Fox,1094,11/23/2012,59,73,Neutral,"Honolulu, HI (Kalani HS)",-,118
 2013,Cal Lutheran,105,Pacific (OR),2751,11/24/2012,70,73,Neutral,"Honolulu, Hawaii (Kalani",-,102
-2013,Cal Lutheran,105,Pacifica,,11/28/2012,0,0,Home,"",-,0
+2013,Cal Lutheran,105,Pacifica,,11/28/2012,71,59,Home,"",-,88
 2013,Cal Lutheran,105,Caltech,89,12/01/2012,0,0,Home,"",-,0
 2013,Cal Lutheran,105,Pomona-Pitzer,549,12/05/2012,0,0,Away,"",-,0
 2013,Cal Lutheran,105,Claremont-M-S,142,12/12/2012,0,0,Home,"",-,0
@@ -3427,7 +3429,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Caltech,89,Rensselaer,570,11/18/2012,97,106,Neutral,"Kern Center, Milwaukee,",-,107
 2013,Caltech,89,La Sierra,,11/21/2012,44,58,Home,"",-,132
 2013,Caltech,89,Macalester,376,11/24/2012,61,73,Home,"",-,179
-2013,Caltech,89,Redlands,567,11/28/2012,0,0,Home,"",-,0
+2013,Caltech,89,Redlands,567,11/28/2012,74,106,Home,"",-,127
 2013,Caltech,89,Cal Lutheran,105,12/01/2012,0,0,Away,"",-,0
 2013,Caltech,89,Master's,,12/04/2012,0,0,Away,"",-,0
 2013,Caltech,89,Claremont-M-S,142,12/08/2012,0,0,Away,"",-,0
@@ -3587,6 +3589,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Carleton,118,Elmhurst,212,11/15/2012,68,56,Home,"",-,217
 2013,Carleton,118,Hawaii Pacific,2696,11/24/2012,74,71,Away,"",-,176
 2013,Carleton,118,Northern St.,1266,11/28/2012,0,0,Away,"",-,0
+2013,Carleton,118,Northern St.,1266,11/28/2012,59,66,Away,"",-,"3,013"
 2013,Carleton,118,Bethel (MN),60,12/01/2012,0,0,Home,"",-,0
 2013,Carleton,118,Saint John's (MN),602,12/03/2012,0,0,Home,"",-,0
 2013,Carleton,118,Wartburg,750,12/06/2012,0,0,Away,"",-,0
@@ -3638,7 +3641,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Carroll (WI),120,Carthage,121,11/17/2012,75,74,Home,"",-,467
 2013,Carroll (WI),120,Rose-Hulman,585,11/20/2012,65,59,Home,"",1 OT,323
 2013,Carroll (WI),120,North Central (IL),492,11/24/2012,83,93,Away,"",-,253
-2013,Carroll (WI),120,Lake Forest,344,11/28/2012,0,0,Away,"",-,0
+2013,Carroll (WI),120,Lake Forest,344,11/28/2012,80,57,Away,"",-,175
 2013,Carroll (WI),120,Lawrence,348,12/04/2012,0,0,Home,"",-,0
 2013,Carroll (WI),120,Monmouth (IL),438,12/08/2012,0,0,Away,"",-,0
 2013,Carroll (WI),120,Milwaukee Engr.,20220,12/12/2012,0,0,Home,"",-,0
@@ -3909,8 +3912,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Central (IA),126,Monmouth (IL),438,11/15/2012,96,82,Home,"",-,400
 2013,Central (IA),126,Fontbonne,11538,11/17/2012,80,66,Home,"",-,500
 2013,Central (IA),126,Cornell College,166,11/20/2012,74,71,Away,"",-,385
-2013,Central (IA),126,Eureka,218,11/24/2012,0,0,Away,"",-,0
-2013,Central (IA),126,William Penn,,11/28/2012,0,0,Home,"",-,0
+2013,Central (IA),126,Eureka,218,11/24/2012,94,82,Away,"",-,185
+2013,Central (IA),126,William Penn,,11/28/2012,83,92,Home,"",-,750
 2013,Central (IA),126,Iowa Wesleyan,30173,12/01/2012,0,0,Home,"",-,0
 2013,Central (IA),126,Crown (MN),30035,12/03/2012,0,0,Away,"",-,0
 2013,Central (IA),126,Amer. Inst. Business,,12/05/2012,0,0,Home,"",-,0
@@ -4199,7 +4202,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Chaminade,133,Hawaii Pacific,2696,03/02/2013,0,0,Home,"",-,0
 2013,Chapman,134,La Sierra,,11/15/2012,83,72,Home,"",-,168
 2013,Chapman,134,Arizona Christian,,11/20/2012,63,81,Away,"",-,350
-2013,Chapman,134,Pomona-Pitzer,549,11/28/2012,0,0,Away,"",-,0
+2013,Chapman,134,Pomona-Pitzer,549,11/28/2012,54,60,Away,"",-,147
 2013,Chapman,134,Occidental,516,12/01/2012,0,0,Home,"",-,0
 2013,Chapman,134,Whittier,781,12/05/2012,0,0,Away,"",-,0
 2013,Chapman,134,Vanguard,,12/08/2012,0,0,Home,"",-,0
@@ -4253,7 +4256,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Charleston So.,48,Hiwassee,,11/15/2012,105,69,Home,"",-,888
 2013,Charleston So.,48,East Tenn. St.,198,11/20/2012,57,59,Home,"",-,901
 2013,Charleston So.,48,Alabama,8,11/23/2012,46,59,Away,"",-,"12,425"
-2013,Charleston So.,48,Col. of Charleston,1014,11/28/2012,0,0,Home,"",-,0
+2013,Charleston So.,48,Col. of Charleston,1014,11/28/2012,67,72,Home,"",-,"1,001"
 2013,Charleston So.,48,Barber-Scotia,,12/01/2012,0,0,Home,"",-,0
 2013,Charleston So.,48,Citadel,141,12/04/2012,0,0,Home,"",-,0
 2013,Charleston So.,48,East Tenn. St.,198,12/18/2012,0,0,Away,"",-,0
@@ -4605,12 +4608,12 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Claflin,30058,Fort Valley St.,237,02/16/2013,0,0,Home,"",-,0
 2013,Claflin,30058,Paine,535,02/18/2013,0,0,Home,"",-,0
 2013,Claflin,30058,Benedict,55,02/21/2013,0,0,Away,"",-,0
-2013,Claremont-M-S,142,San Diego Christian,,11/15/2012,0,0,Home,"",-,0
-2013,Claremont-M-S,142,Westmont,,11/17/2012,0,0,Home,"",-,0
+2013,Claremont-M-S,142,San Diego Christian,,11/15/2012,81,89,Home,"",-,0
+2013,Claremont-M-S,142,Westmont,,11/17/2012,61,67,Home,"",-,400
 2013,Claremont-M-S,142,Point Loma,30149,11/20/2012,40,42,Away,"",-,0
 2013,Claremont-M-S,142,UC Santa Cruz,113,11/23/2012,59,61,Home,"",-,212
 2013,Claremont-M-S,142,Master's,,11/24/2012,68,53,Neutral,"Claremont, CA (Voelkel G",-,247
-2013,Claremont-M-S,142,Occidental,516,11/28/2012,71,59,Away,"",-,0
+2013,Claremont-M-S,142,Occidental,516,11/28/2012,71,59,Away,"",-,496
 2013,Claremont-M-S,142,Whittier,781,12/01/2012,0,0,Home,"",-,0
 2013,Claremont-M-S,142,La Verne,341,12/05/2012,0,0,Away,"",-,0
 2013,Claremont-M-S,142,Caltech,89,12/08/2012,0,0,Home,"",-,0
@@ -4844,7 +4847,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Coastal Caro.,149,Tennessee Tech,692,11/15/2012,69,71,Away,"",-,"1,231"
 2013,Coastal Caro.,149,Johnson & Wales (NC),,11/20/2012,96,40,Home,"",-,"1,643"
 2013,Coastal Caro.,149,FIU,231,11/24/2012,77,87,Home,"",-,"1,639"
-2013,Coastal Caro.,149,Boston U.,68,11/28/2012,0,0,Away,"",-,0
+2013,Coastal Caro.,149,Boston U.,68,11/28/2012,44,74,Away,"",-,705
 2013,Coastal Caro.,149,Boston U.,68,12/06/2012,0,0,Home,"",-,0
 2013,Coastal Caro.,149,Toccoa Falls,,12/13/2012,0,0,Home,"",-,0
 2013,Coastal Caro.,149,Clemson,147,12/19/2012,0,0,Home,"",-,0
@@ -4948,7 +4951,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Col. of Charleston,1014,Auburn,37,11/16/2012,51,55,Home,"",-,"4,780"
 2013,Col. of Charleston,1014,Boston College,67,11/18/2012,71,67,Home,"",-,"4,262"
 2013,Col. of Charleston,1014,Baylor,51,11/24/2012,63,59,Away,"",-,"5,768"
-2013,Col. of Charleston,1014,Charleston So.,48,11/28/2012,0,0,Away,"",-,0
+2013,Col. of Charleston,1014,Charleston So.,48,11/28/2012,72,67,Away,"",-,"1,001"
 2013,Col. of Charleston,1014,Elon,1068,12/01/2012,0,0,Away,"",-,0
 2013,Col. of Charleston,1014,Louisville,367,12/04/2012,0,0,Home,"",-,0
 2013,Col. of Charleston,1014,Anderson (SC),13028,12/13/2012,0,0,Home,"",-,0
@@ -5095,7 +5098,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Colorado,157,Kansas,328,12/08/2012,0,0,Away,"",-,0
 2013,Colorado,157,Fresno St.,96,12/12/2012,0,0,Away,"",-,0
 2013,Colorado,157,Northern Ariz.,501,12/21/2012,0,0,Home,"",-,0
-2013,Colorado,157,Texas Southern,699,12/27/2012,85,80,Home,"",2 OT,"8,325"
 2013,Colorado,157,Hartford,272,12/29/2012,0,0,Home,"",-,0
 2013,Colorado,157,Arizona,29,01/03/2013,0,0,Away,"",-,0
 2013,Colorado,157,Arizona St.,28,01/06/2013,0,0,Away,"",-,0
@@ -5518,7 +5520,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Coppin St.,165,Fla. Atlantic,229,11/17/2012,61,64,Neutral,"Elon, NC",-,0
 2013,Coppin St.,165,Colgate,153,11/18/2012,84,88,Neutral,"Elon, NC",-,0
 2013,Coppin St.,165,Cheyney,135,11/24/2012,98,78,Home,"",-,389
-2013,Coppin St.,165,Loyola Maryland,369,11/28/2012,0,0,Home,"",-,0
+2013,Coppin St.,165,Loyola Maryland,369,11/28/2012,51,67,Home,"",-,"2,011"
 2013,Coppin St.,165,Indiana,306,12/01/2012,0,0,Away,"",-,0
 2013,Coppin St.,165,Saint Joseph's,606,12/04/2012,0,0,Home,"",-,0
 2013,Coppin St.,165,Marshall,388,12/08/2012,0,0,Away,"",-,0
@@ -5551,7 +5553,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Cornell,167,Arizona St.,28,11/20/2012,53,64,Away,"",-,"4,595"
 2013,Cornell,167,Presbyterian,1320,11/23/2012,89,55,Neutral,"Las Vegas, NV",-,200
 2013,Cornell,167,Longwood,363,11/24/2012,84,78,Neutral,"Las Vegas, NV",-,200
-2013,Cornell,167,Stony Brook,683,11/28/2012,0,0,Home,"",-,0
+2013,Cornell,167,Stony Brook,683,11/28/2012,53,76,Home,"",-,"1,816"
 2013,Cornell,167,Colgate,153,12/01/2012,0,0,Home,"",-,0
 2013,Cornell,167,Vanderbilt,736,12/17/2012,0,0,Away,"",-,0
 2013,Cornell,167,Duke,193,12/19/2012,0,0,Away,"",-,0
@@ -5634,6 +5636,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Crown (MN),30035,Grinnell,264,11/17/2012,100,111,Neutral,"Waverly, IA",-,0
 2013,Crown (MN),30035,Wis.-Eau Claire,793,11/24/2012,53,71,Home,"",-,132
 2013,Crown (MN),30035,Minn.-Crookston,27854,11/28/2012,0,0,Away,"",-,0
+2013,Crown (MN),30035,Minn.-Crookston,27854,11/28/2012,56,55,Away,"",-,155
 2013,Crown (MN),30035,Buena Vista,84,12/01/2012,0,0,Home,"",-,0
 2013,Crown (MN),30035,Central (IA),126,12/03/2012,0,0,Home,"",-,0
 2013,Crown (MN),30035,Saint Mary's (MN),612,12/08/2012,0,0,Away,"",-,0
@@ -5684,7 +5687,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,DYouville,1059,Medgar Evers,403,11/17/2012,69,100,Home,"",-,69
 2013,DYouville,1059,Fredonia St.,242,11/20/2012,69,91,Away,"",-,222
 2013,DYouville,1059,SUNY Geneseo,247,11/24/2012,66,120,Home,"",-,139
-2013,DYouville,1059,Hilbert,8398,11/28/2012,0,0,Away,"",-,0
+2013,DYouville,1059,Hilbert,8398,11/28/2012,55,94,Away,"",-,337
 2013,DYouville,1059,La Roche,1163,12/01/2012,0,0,Home,"",-,0
 2013,DYouville,1059,Franciscan,30069,12/08/2012,0,0,Home,"",-,0
 2013,DYouville,1059,TBA,,12/14/2012,0,0,Neutral,"Rochester, NY",-,0
@@ -5925,7 +5928,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Delaware,180,Kansas St.,327,11/21/2012,63,66,Neutral,"New York, NY",-,"7,230"
 2013,Delaware,180,Pittsburgh,545,11/23/2012,59,85,Neutral,"New York, NY",-,"7,198"
 2013,Delaware,180,Temple,690,11/25/2012,75,80,Away,"",-,"5,158"
-2013,Delaware,180,Lafayette,342,11/28/2012,0,0,Away,"",-,0
+2013,Delaware,180,Lafayette,342,11/28/2012,60,63,Away,"",-,"1,079"
 2013,Delaware,180,Duke,193,12/01/2012,0,0,Away,"",-,0
 2013,Delaware,180,Radford,563,12/04/2012,0,0,Home,"",-,0
 2013,Delaware,180,Delaware St.,178,12/08/2012,0,0,Home,"",-,0
@@ -5957,7 +5960,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Delaware St.,178,Northwestern,509,11/20/2012,50,69,Away,"",-,"5,012"
 2013,Delaware St.,178,Fairleigh Dickinson,222,11/23/2012,62,63,Neutral,"South Padre Island, TX",-,0
 2013,Delaware St.,178,Navy,726,11/24/2012,53,63,Neutral,"South Padre Island, TX",-,0
-2013,Delaware St.,178,Eastern Ky.,202,11/28/2012,0,0,Away,"",-,0
+2013,Delaware St.,178,Eastern Ky.,202,11/28/2012,51,84,Away,"",-,"1,175"
 2013,Delaware St.,178,UMES,393,12/01/2012,0,0,Home,"",-,0
 2013,Delaware St.,178,Delaware,180,12/08/2012,0,0,Away,"",-,0
 2013,Delaware St.,178,Penn St.,539,12/15/2012,0,0,Away,"",-,0
@@ -6035,7 +6038,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Denison,182,Earlham,195,11/17/2012,78,49,Away,"",-,178
 2013,Denison,182,Hanover,1115,11/18/2012,84,87,Away,"",-,150
 2013,Denison,182,Case,122,11/20/2012,56,69,Home,"",-,180
-2013,Denison,182,Hiram,281,11/28/2012,0,0,Home,"",-,0
+2013,Denison,182,Hiram,281,11/28/2012,68,52,Home,"",-,425
 2013,Denison,182,Wabash,747,12/01/2012,0,0,Away,"",-,0
 2013,Denison,182,Marietta,385,12/05/2012,0,0,Away,"",-,0
 2013,Denison,182,Oberlin,515,12/10/2012,0,0,Away,"",-,0
@@ -6144,7 +6147,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,DeSales,20,Centenary (NJ),12884,11/17/2012,66,63,Away,"",-,142
 2013,DeSales,20,Moravian,443,11/20/2012,64,66,Away,"",1 OT,783
 2013,DeSales,20,Penn St.-Berks,30044,11/26/2012,87,82,Away,"",-,183
-2013,DeSales,20,FDU-Florham,221,11/28/2012,0,0,Home,"",-,0
+2013,DeSales,20,FDU-Florham,221,11/28/2012,82,71,Home,"",-,300
 2013,DeSales,20,Wilkes,784,12/01/2012,0,0,Away,"",-,0
 2013,DeSales,20,Catholic,124,12/05/2012,0,0,Home,"",-,0
 2013,DeSales,20,Penn St-Wilkes Barre,,12/08/2012,0,0,Home,"",-,0
@@ -6518,7 +6521,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Duke,193,Minnesota,428,11/22/2012,89,71,Neutral,"Nassau, Bahamas",-,"3,511"
 2013,Duke,193,VCU,740,11/23/2012,67,58,Neutral,"Nassau, Bahamas",-,"3,474"
 2013,Duke,193,Louisville,367,11/24/2012,76,71,Neutral,"Nassau, Bahamas",-,"3,511"
-2013,Duke,193,Ohio St.,518,11/28/2012,0,0,Home,"",-,0
+2013,Duke,193,Ohio St.,518,11/28/2012,73,68,Home,"",-,"9,314"
 2013,Duke,193,Delaware,180,12/01/2012,0,0,Home,"",-,0
 2013,Duke,193,Temple,690,12/08/2012,0,0,Neutral,"East Rutherford, NJ",-,0
 2013,Duke,193,Cornell,167,12/19/2012,0,0,Home,"",-,0
@@ -6575,7 +6578,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Duquesne,194,Richmond,575,03/09/2013,0,0,Away,"",-,0
 2013,Earlham,195,Thomas More,1402,11/15/2012,62,98,Away,"",-,223
 2013,Earlham,195,Denison,182,11/17/2012,49,78,Home,"",-,178
-2013,Earlham,195,Oberlin,515,11/18/2012,0,0,Home,"",-,0
+2013,Earlham,195,Oberlin,515,11/18/2012,76,55,Home,"",-,125
 2013,Earlham,195,Trine,30037,11/24/2012,61,88,Home,"",-,225
 2013,Earlham,195,Kalamazoo,326,11/25/2012,56,68,Home,"",-,205
 2013,Earlham,195,DePauw,177,11/28/2012,65,77,Home,"",-,237
@@ -6740,7 +6743,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,East. Mennonite,203,Ferrum,225,11/17/2012,91,81,Home,"",1 OT,738
 2013,East. Mennonite,203,Frostburg St.,243,11/20/2012,101,79,Home,"",-,395
 2013,East. Mennonite,203,Marymount (VA),394,11/25/2012,83,72,Home,"",-,422
-2013,East. Mennonite,203,Guilford,1112,11/28/2012,0,0,Away,"",-,0
+2013,East. Mennonite,203,Guilford,1112,11/28/2012,64,67,Away,"",-,322
 2013,East. Mennonite,203,Roanoke,578,12/01/2012,0,0,Away,"",-,0
 2013,East. Mennonite,203,Goucher,1467,12/03/2012,0,0,Away,"",-,0
 2013,East. Mennonite,203,Randolph-Macon,565,12/08/2012,0,0,Home,"",-,0
@@ -6848,7 +6851,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Eastern Ky.,202,Towson,711,11/17/2012,71,69,Home,"",1 OT,"1,400"
 2013,Eastern Ky.,202,Radford,563,11/18/2012,83,75,Home,"",-,"1,050"
 2013,Eastern Ky.,202,Norfolk St.,485,11/24/2012,68,44,Home,"",-,"1,225"
-2013,Eastern Ky.,202,Delaware St.,178,11/28/2012,0,0,Home,"",-,0
+2013,Eastern Ky.,202,Delaware St.,178,11/28/2012,84,51,Home,"",-,"1,175"
 2013,Eastern Ky.,202,Western Caro.,769,12/01/2012,0,0,Home,"",-,0
 2013,Eastern Ky.,202,N.C. Central,489,12/04/2012,0,0,Away,"",-,0
 2013,Eastern Ky.,202,Chattanooga,693,12/08/2012,0,0,Away,"",-,0
@@ -7094,7 +7097,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Elizabethtown,211,Bridgewater (VA),75,11/17/2012,76,78,Neutral,"Harrisonburg, VA",-,0
 2013,Elizabethtown,211,Lebanon Valley,351,11/20/2012,65,72,Away,"",-,475
 2013,Elizabethtown,211,Susquehanna,685,11/25/2012,66,64,Home,"",-,410
-2013,Elizabethtown,211,Widener,783,11/28/2012,0,0,Away,"",-,0
+2013,Elizabethtown,211,Widener,783,11/28/2012,70,80,Away,"",-,465
 2013,Elizabethtown,211,Messiah,411,12/01/2012,0,0,Home,"",-,0
 2013,Elizabethtown,211,Lycoming,373,12/05/2012,0,0,Home,"",-,0
 2013,Elizabethtown,211,Hood,8404,12/08/2012,0,0,Home,"",-,0
@@ -7348,7 +7351,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Emporia St.,1071,Pittsburg St.,1314,03/02/2013,0,0,Away,"",-,0
 2013,Endicott,8981,Framingham St.,238,11/16/2012,74,62,Neutral,"Nashua, N.H. (Muldoon Fi",-,175
 2013,Endicott,8981,Rivier,18422,11/17/2012,65,60,Away,"",-,100
-2013,Endicott,8981,Salve Regina,623,11/28/2012,0,0,Home,"",-,0
+2013,Endicott,8981,Salve Regina,623,11/28/2012,78,84,Home,"",-,0
 2013,Endicott,8981,Roger Williams,583,12/01/2012,0,0,Home,"",-,0
 2013,Endicott,8981,Wheelock,8896,12/06/2012,0,0,Home,"",-,0
 2013,Endicott,8981,Clark (MA),145,12/08/2012,0,0,Away,"",-,0
@@ -7398,9 +7401,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Erskine,1072,Barton,15646,02/23/2013,0,0,Home,"",-,0
 2013,Erskine,1072,Limestone,1174,02/26/2013,0,0,Home,"",-,0
 2013,Eureka,218,Lincoln Christian,,11/15/2012,0,0,Away,"",-,0
-2013,Eureka,218,Monmouth (IL),438,11/20/2012,0,0,Home,"",-,0
+2013,Eureka,218,Monmouth (IL),438,11/20/2012,82,80,Home,"",-,255
 2013,Eureka,218,Rockford,582,11/23/2012,82,63,Home,"",-,190
-2013,Eureka,218,Central (IA),126,11/24/2012,0,0,Home,"",-,0
+2013,Eureka,218,Central (IA),126,11/24/2012,82,94,Home,"",-,185
 2013,Eureka,218,MacMurray,377,11/28/2012,0,0,Home,"",-,0
 2013,Eureka,218,Spalding,23260,12/01/2012,0,0,Away,"",-,0
 2013,Eureka,218,North Park,496,12/05/2012,0,0,Away,"",-,0
@@ -7573,7 +7576,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Fayetteville St.,223,Lenoir-Rhyne,1170,11/16/2012,51,55,Neutral,"Mount Olive, N.C. (Korne",-,653
 2013,Fayetteville St.,223,Mount Olive,1245,11/17/2012,66,85,Away,"",-,"1,109"
 2013,Fayetteville St.,223,Barton,15646,11/20/2012,65,75,Home,"",-,850
-2013,Fayetteville St.,223,Virginia-Lynchburg,,11/27/2012,0,0,Home,"",-,0
+2013,Fayetteville St.,223,Virginia-Lynchburg,,11/27/2012,82,68,Home,"",-,745
 2013,Fayetteville St.,223,Barber-Scotia,,12/11/2012,0,0,Away,"",-,0
 2013,Fayetteville St.,223,Virginia-Lynchburg,,12/14/2012,0,0,Away,"",-,0
 2013,Fayetteville St.,223,Brevard,30094,12/30/2012,0,0,Away,"",-,0
@@ -7595,7 +7598,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Fayetteville St.,223,Saint Augustine's,594,02/23/2013,0,0,Away,"",-,0
 2013,FDU-Florham,221,Stevens,679,11/20/2012,0,0,Home,"",-,0
 2013,FDU-Florham,221,Wm. Paterson,787,11/26/2012,61,69,Home,"",-,228
-2013,FDU-Florham,221,DeSales,20,11/28/2012,0,0,Away,"",-,0
+2013,FDU-Florham,221,DeSales,20,11/28/2012,71,82,Away,"",-,300
 2013,FDU-Florham,221,King's (PA),336,12/01/2012,0,0,Home,"",-,0
 2013,FDU-Florham,221,Brooklyn,79,12/03/2012,0,0,Away,"",-,0
 2013,FDU-Florham,221,Drew,190,12/05/2012,0,0,Home,"",-,0
@@ -7837,7 +7840,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Fla. Gulf Coast,28755,Alcorn,17,11/21/2012,50,48,Home,"",-,"1,370"
 2013,Fla. Gulf Coast,28755,Toledo,709,11/22/2012,72,66,Home,"",-,676
 2013,Fla. Gulf Coast,28755,St. John's (NY),603,11/24/2012,68,79,Away,"",-,"4,003"
-2013,Fla. Gulf Coast,28755,Samford,625,11/28/2012,0,0,Away,"",-,0
+2013,Fla. Gulf Coast,28755,Samford,625,11/28/2012,86,62,Away,"",-,"1,087"
 2013,Fla. Gulf Coast,28755,Loyola Maryland,369,12/01/2012,0,0,Home,"",-,0
 2013,Fla. Gulf Coast,28755,Iowa St.,311,12/04/2012,0,0,Away,"",-,0
 2013,Fla. Gulf Coast,28755,FIU,231,12/13/2012,0,0,Home,"",-,0
@@ -8035,7 +8038,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Fontbonne,11538,Washington-St. Louis,755,11/20/2012,62,85,Away,"",-,347
 2013,Fontbonne,11538,Edgewood,1066,11/23/2012,82,83,Home,"",-,180
 2013,Fontbonne,11538,Milwaukee Engr.,20220,11/24/2012,74,82,Home,"",-,120
-2013,Fontbonne,11538,Rose-Hulman,585,11/28/2012,0,0,Away,"",-,0
+2013,Fontbonne,11538,Rose-Hulman,585,11/28/2012,54,72,Away,"",-,525
 2013,Fontbonne,11538,Blackburn,64,12/01/2012,0,0,Away,"",-,0
 2013,Fontbonne,11538,Millikin,424,12/04/2012,0,0,Away,"",-,0
 2013,Fontbonne,11538,Augustana (IL),40,12/13/2012,0,0,Home,"",-,0
@@ -8219,7 +8222,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Franciscan,30069,Mass.-Boston,401,11/17/2012,71,87,Neutral,"Owings Mills, Md.",-,276
 2013,Franciscan,30069,Gallaudet,245,11/18/2012,72,85,Neutral,"Owings Mills, Md.",-,155
 2013,Franciscan,30069,Oberlin,515,11/24/2012,57,69,Home,"",-,0
-2013,Franciscan,30069,Penn St.-Altoona,25719,11/28/2012,0,0,Home,"",-,0
+2013,Franciscan,30069,Penn St.-Altoona,25719,11/28/2012,69,73,Home,"",-,200
 2013,Franciscan,30069,Hilbert,8398,12/01/2012,0,0,Home,"",-,0
 2013,Franciscan,30069,Pitt.-Greensburg,11839,12/05/2012,0,0,Away,"",-,0
 2013,Franciscan,30069,D'Youville,1059,12/08/2012,0,0,Away,"",-,0
@@ -8269,7 +8272,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Franklin,2694,Centre,132,11/19/2012,72,78,Away,"",-,284
 2013,Franklin,2694,Albion,15,11/24/2012,76,70,Neutral,"Greencastle, IN",-,0
 2013,Franklin,2694,DePauw,177,11/25/2012,55,72,Away,"",-,221
-2013,Franklin,2694,Millikin,424,11/28/2012,0,0,Away,"",-,0
+2013,Franklin,2694,Millikin,424,11/28/2012,82,73,Away,"",-,405
 2013,Franklin,2694,Bluffton,987,12/01/2012,0,0,Home,"",-,0
 2013,Franklin,2694,Hanover,1115,12/05/2012,0,0,Away,"",-,0
 2013,Franklin,2694,Earlham,195,12/08/2012,0,0,Home,"",-,0
@@ -8625,7 +8628,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,George Mason,248,New Mexico,473,11/18/2012,69,70,Neutral,"St. Thomas, Vir Isl",-,"2,875"
 2013,George Mason,248,Quinnipiac,562,11/19/2012,74,58,Neutral,"St. Thomas, Vir Isl",-,0
 2013,George Mason,248,Boston U.,68,11/24/2012,48,45,Home,"",-,"4,375"
-2013,George Mason,248,Rhode Island,572,11/28/2012,0,0,Away,"",-,0
+2013,George Mason,248,Rhode Island,572,11/28/2012,55,52,Away,"",-,"4,056"
 2013,George Mason,248,Maryland,392,12/02/2012,0,0,Neutral,"Washington, DC",-,0
 2013,George Mason,248,UMBC,391,12/04/2012,0,0,Home,"",-,0
 2013,George Mason,248,UNI,504,12/08/2012,0,0,Home,"",-,0
@@ -8882,6 +8885,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Goldey-Beacom,8366,Bentley,56,11/17/2012,43,66,Home,"",-,142
 2013,Goldey-Beacom,8366,USciences,28594,11/20/2012,56,55,Home,"",-,312
 2013,Goldey-Beacom,8366,Nova Southeastern,24639,11/23/2012,0,0,Away,"",-,0
+2013,Goldey-Beacom,8366,Nova Southeastern,24639,11/23/2012,85,87,Away,"",-,250
 2013,Goldey-Beacom,8366,P.R.-Mayaguez,24361,11/24/2012,110,68,Neutral,"NSU Arena, Fort Lauderda",-,100
 2013,Goldey-Beacom,8366,Mercy,407,11/28/2012,85,76,Away,"",-,177
 2013,Goldey-Beacom,8366,Concordia (NY),162,11/30/2012,0,0,Away,"",-,0
@@ -9018,8 +9022,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Grand Canyon,1104,UC San Diego,112,11/17/2012,65,52,Away,"",-,324
 2013,Grand Canyon,1104,Northwest Nazarene,1274,11/23/2012,74,68,Home,"",-,"1,171"
 2013,Grand Canyon,1104,Cal St. Dom. Hills,92,11/24/2012,78,69,Home,"",-,"1,751"
-2013,Grand Canyon,1104,Arizona Christian,,11/26/2012,0,0,Home,"",-,0
-2013,Grand Canyon,1104,Vanguard,,11/28/2012,0,0,Home,"",-,0
+2013,Grand Canyon,1104,Arizona Christian,,11/26/2012,78,67,Home,"",-,"2,068"
+2013,Grand Canyon,1104,Vanguard,,11/28/2012,76,60,Home,"",-,"2,077"
 2013,Grand Canyon,1104,Hawaii Hilo,2697,12/03/2012,0,0,Home,"",-,0
 2013,Grand Canyon,1104,Chaminade,133,12/05/2012,0,0,Home,"",-,0
 2013,Grand Canyon,1104,Mont. St. Billings,205,12/14/2012,0,0,Home,"",-,0
@@ -9176,7 +9180,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Grinnell,264,Crown (MN),30035,11/17/2012,111,100,Neutral,"Waverly, IA",-,0
 2013,Grinnell,264,Faith Bapt. Bible,,11/20/2012,179,104,Home,"",-,"1,014"
 2013,Grinnell,264,William Penn,,11/25/2012,116,131,Home,"",-,"1,711"
-2013,Grinnell,264,Knox,337,11/28/2012,0,0,Away,"",-,0
+2013,Grinnell,264,Knox,337,11/28/2012,113,76,Away,"",-,"1,500"
 2013,Grinnell,264,Ripon,577,12/01/2012,0,0,Home,"",-,0
 2013,Grinnell,264,Monmouth (IL),438,12/04/2012,0,0,Away,"",-,0
 2013,Grinnell,264,St. Norbert,614,12/08/2012,0,0,Away,"",-,0
@@ -9222,7 +9226,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Guilford,1112,Southern Va.,30164,11/16/2012,71,67,Home,"",-,496
 2013,Guilford,1112,William Peace,17094,11/17/2012,93,56,Home,"",-,311
 2013,Guilford,1112,Averett,44,11/20/2012,77,82,Away,"",-,158
-2013,Guilford,1112,East. Mennonite,203,11/28/2012,0,0,Home,"",-,0
+2013,Guilford,1112,East. Mennonite,203,11/28/2012,67,64,Home,"",-,322
 2013,Guilford,1112,Randolph-Macon,565,12/01/2012,0,0,Home,"",-,0
 2013,Guilford,1112,Greensboro,263,12/05/2012,0,0,Home,"",-,0
 2013,Guilford,1112,Va. Wesleyan,745,12/08/2012,0,0,Away,"",-,0
@@ -9322,7 +9326,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Hamline,268,Wis. Lutheran,8911,11/17/2012,92,86,Home,"",1 OT,475
 2013,Hamline,268,Wis.-Eau Claire,793,11/20/2012,84,78,Home,"",-,411
 2013,Hamline,268,Northwestern (MN),30031,11/24/2012,0,0,Away,"",-,0
-2013,Hamline,268,Saint John's (MN),602,11/28/2012,0,0,Home,"",-,0
+2013,Hamline,268,Saint John's (MN),602,11/28/2012,75,59,Home,"",-,715
 2013,Hamline,268,St. Thomas (MN),620,12/01/2012,0,0,Home,"",-,0
 2013,Hamline,268,Saint Mary's (MN),612,12/03/2012,0,0,Home,"",-,0
 2013,Hamline,268,Augsburg,38,12/05/2012,0,0,Away,"",-,0
@@ -9510,7 +9514,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Hartwick,273,Regis (MA),569,11/17/2012,70,67,Away,"",-,250
 2013,Hartwick,273,Union (NY),727,11/20/2012,0,0,Home,"",-,0
 2013,Hartwick,273,Wells,761,11/25/2012,0,0,Home,"",-,0
-2013,Hartwick,273,SUNY Oneonta,526,11/28/2012,0,0,Away,"",-,0
+2013,Hartwick,273,SUNY Oneonta,526,11/28/2012,70,39,Away,"",-,712
 2013,Hartwick,273,Keuka,1159,11/30/2012,0,0,Home,"",-,0
 2013,Hartwick,273,Morrisville St.,30067,12/01/2012,0,0,Home,"",-,0
 2013,Hartwick,273,Utica,733,12/04/2012,0,0,Home,"",-,0
@@ -9669,7 +9673,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Heidelberg,278,Miami-Middletown,,11/17/2012,0,0,Home,"",-,0
 2013,Heidelberg,278,Finlandia,30032,11/24/2012,0,0,Neutral,"Alma, MI",-,0
 2013,Heidelberg,278,Alma,21,11/25/2012,66,69,Away,"",-,163
-2013,Heidelberg,278,Albion,15,11/28/2012,0,0,Home,"",-,0
+2013,Heidelberg,278,Albion,15,11/28/2012,66,58,Home,"",-,0
 2013,Heidelberg,278,John Carroll,320,12/01/2012,0,0,Home,"",-,0
 2013,Heidelberg,278,Capital,117,12/05/2012,0,0,Home,"",-,0
 2013,Heidelberg,278,Mount Union,452,12/08/2012,0,0,Away,"",-,0
@@ -9774,9 +9778,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Hilbert,8398,Fredonia St.,242,11/15/2012,83,59,Home,"",-,350
 2013,Hilbert,8398,St. John Fisher,601,11/17/2012,48,65,Home,"",-,326
 2013,Hilbert,8398,Cazenovia,23624,11/20/2012,78,51,Home,"",-,197
-2013,Hilbert,8398,Alfred,18,11/24/2012,0,0,Away,"",-,0
+2013,Hilbert,8398,Alfred,18,11/24/2012,77,67,Away,"",-,100
 2013,Hilbert,8398,Keuka,1159,11/26/2012,73,66,Away,"",-,125
-2013,Hilbert,8398,D'Youville,1059,11/28/2012,0,0,Home,"",-,0
+2013,Hilbert,8398,D'Youville,1059,11/28/2012,94,55,Home,"",-,337
 2013,Hilbert,8398,Franciscan,30069,12/01/2012,0,0,Away,"",-,0
 2013,Hilbert,8398,Medaille,23725,12/05/2012,0,0,Away,"",-,0
 2013,Hilbert,8398,Penn St.-Altoona,25719,12/08/2012,0,0,Home,"",-,0
@@ -9823,7 +9827,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Hillsdale,280,Walsh,30141,02/23/2013,0,0,Away,"",-,0
 2013,Hillsdale,280,Findlay,1079,03/02/2013,0,0,Away,"",-,0
 2013,Hiram,281,Mount Union,452,11/24/2012,93,84,Home,"",-,364
-2013,Hiram,281,Denison,182,11/28/2012,0,0,Away,"",-,0
+2013,Hiram,281,Denison,182,11/28/2012,52,68,Away,"",-,425
 2013,Hiram,281,Notre Dame (OH),30126,12/01/2012,0,0,Away,"",-,0
 2013,Hiram,281,Oberlin,515,12/05/2012,0,0,Home,"",-,0
 2013,Hiram,281,Youngstown St.,817,12/08/2012,0,0,Away,"",-,0
@@ -9852,8 +9856,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Hobart,282,Dickinson,185,11/16/2012,68,71,Neutral,"Grantham, Pa.",-,0
 2013,Hobart,282,Messiah,411,11/17/2012,69,56,Away,"",-,272
 2013,Hobart,282,Buffalo St.,85,11/20/2012,74,80,Home,"",-,125
-2013,Hobart,282,TBA,,11/28/2012,0,0,Home,"",-,0
-2013,Hobart,282,TBA,,11/30/2012,0,0,Neutral,"Geneva, NY",-,0
+2013,Hobart,282,Roberts Wesleyan,,11/28/2012,0,0,Home,"",-,0
+2013,Hobart,282,Nazareth,461,11/30/2012,0,0,Neutral,"Rochester, NY",-,0
 2013,Hobart,282,TBA,,12/01/2012,0,0,Neutral,"Geneva, NY",-,0
 2013,Hobart,282,Rochester (NY),581,12/08/2012,0,0,Away,"",-,0
 2013,Hobart,282,Hartwick,273,12/30/2012,0,0,Home,"",-,0
@@ -10400,7 +10404,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Illinois Col.,297,Dubuque,192,11/17/2012,60,66,Home,"",-,500
 2013,Illinois Col.,297,Ill. Wesleyan,300,11/20/2012,65,74,Away,"",-,442
 2013,Illinois Col.,297,Lawrence,348,11/25/2012,76,78,Home,"",-,250
-2013,Illinois Col.,297,Monmouth (IL),438,11/28/2012,0,0,Away,"",-,0
+2013,Illinois Col.,297,Monmouth (IL),438,11/28/2012,63,65,Away,"",-,450
 2013,Illinois Col.,297,Lake Forest,344,12/01/2012,0,0,Home,"",-,0
 2013,Illinois Col.,297,Ripon,577,12/08/2012,0,0,Home,"",-,0
 2013,Illinois Col.,297,Grinnell,264,12/11/2012,0,0,Away,"",-,0
@@ -10712,7 +10716,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,IPFW,308,Eastern Ill.,201,11/18/2012,67,68,Neutral,"Ypsilanti, MI",-,364
 2013,IPFW,308,Judson (IL),,11/20/2012,92,22,Home,"",-,0
 2013,IPFW,308,Dartmouth,172,11/24/2012,70,66,Away,"",-,889
-2013,IPFW,308,Navy,726,11/28/2012,0,0,Away,"",-,0
+2013,IPFW,308,Navy,726,11/28/2012,49,54,Away,"",-,998
 2013,IPFW,308,Miami (OH),414,12/01/2012,0,0,Home,"",-,0
 2013,IPFW,308,Valparaiso,735,12/05/2012,0,0,Away,"",-,0
 2013,IPFW,308,Drake,189,12/08/2012,0,0,Away,"",-,0
@@ -10795,7 +10799,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Jackson St.,314,Baylor,51,11/11/2012,47,78,Away,"",-,"5,846"
 2013,Jackson St.,314,Tulsa,719,11/21/2012,66,86,Away,"",-,"4,134"
 2013,Jackson St.,314,Texas Tech,700,11/26/2012,75,84,Away,"",-,"7,404"
-2013,Jackson St.,314,Air Force,721,11/28/2012,0,0,Away,"",-,0
+2013,Jackson St.,314,Air Force,721,11/28/2012,47,76,Away,"",-,"1,547"
 2013,Jackson St.,314,North Texas,497,12/08/2012,0,0,Away,"",-,0
 2013,Jackson St.,314,St. Mary's (CA),610,12/11/2012,0,0,Away,"",-,0
 2013,Jackson St.,314,Washington St.,754,12/13/2012,0,0,Away,"",-,0
@@ -10826,7 +10830,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Jacksonville,316,UALR,32,11/21/2012,56,78,Away,"",-,"2,905"
 2013,Jacksonville,316,Rider,576,11/23/2012,71,86,Neutral,"Puerto Vallarta, MEX",-,112
 2013,Jacksonville,316,Milwaukee,797,11/24/2012,71,66,Neutral,"Puerto Vallarta, MEX",-,257
-2013,Jacksonville,316,South Carolina St.,647,11/28/2012,0,0,Away,"",-,0
+2013,Jacksonville,316,South Carolina St.,647,11/28/2012,72,74,Away,"",-,975
 2013,Jacksonville,316,South Carolina,648,12/07/2012,0,0,Away,"",-,0
 2013,Jacksonville,316,Wofford,2915,12/18/2012,0,0,Home,"",-,0
 2013,Jacksonville,316,Furman,244,12/22/2012,0,0,Home,"",-,0
@@ -10962,7 +10966,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Johns Hopkins,322,Bluffton,987,11/17/2012,58,56,Neutral,"Cleveland, OH - Horsburg",-,194
 2013,Johns Hopkins,322,Haverford,276,11/20/2012,72,46,Away,"",-,187
 2013,Johns Hopkins,322,Goucher,1467,11/26/2012,72,52,Away,"",-,583
-2013,Johns Hopkins,322,Goucher,1467,11/26/2012,72,52,Away,"",-,583
 2013,Johns Hopkins,322,Gettysburg,258,11/29/2012,0,0,Away,"",-,0
 2013,Johns Hopkins,322,Dickinson,185,12/01/2012,0,0,Home,"",-,0
 2013,Johns Hopkins,322,McDaniel,773,12/05/2012,0,0,Away,"",-,0
@@ -11061,7 +11064,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Johnson St.,324,Husson,1133,02/15/2013,0,0,Home,"",-,0
 2013,Johnson St.,324,Maine Maritime,378,02/16/2013,0,0,Home,"",-,0
 2013,Juniata,325,Kean,329,11/16/2012,53,49,Home,"",-,875
-2013,Juniata,325,Mt. Aloysius,30036,11/17/2012,0,0,Home,"",-,0
+2013,Juniata,325,Mt. Aloysius,30036,11/17/2012,80,62,Home,"",-,625
 2013,Juniata,325,Wash. & Jeff.,751,11/20/2012,64,53,Home,"",-,0
 2013,Juniata,325,Dickinson,185,11/24/2012,68,59,Home,"",-,483
 2013,Juniata,325,Carnegie Mellon,119,11/27/2012,76,70,Away,"",1 OT,152
@@ -11198,7 +11201,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Keene St.,330,Husson,1133,11/15/2012,90,78,Away,"",-,750
 2013,Keene St.,330,WPI,808,11/17/2012,54,71,Home,"",-,"1,600"
 2013,Keene St.,330,Elms,532,11/20/2012,71,66,Away,"",-,234
-2013,Keene St.,330,Springfield,673,11/27/2012,0,0,Home,"",-,0
+2013,Keene St.,330,Springfield,673,11/27/2012,72,75,Home,"",-,"1,450"
 2013,Keene St.,330,Mass.-Dartmouth,656,11/30/2012,0,0,Away,"",-,0
 2013,Keene St.,330,Plattsburgh St.,547,12/04/2012,0,0,Home,"",-,0
 2013,Keene St.,330,Mass.-Boston,401,12/08/2012,0,0,Home,"",-,0
@@ -11464,7 +11467,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Kings (PA),336,Wilkes,784,02/16/2013,0,0,Home,"",-,0
 2013,Knox,337,MacMurray,377,11/15/2012,67,97,Home,"",-,450
 2013,Knox,337,Lake Forest,344,11/25/2012,55,70,Home,"",-,300
-2013,Knox,337,Grinnell,264,11/28/2012,0,0,Home,"",-,0
+2013,Knox,337,Grinnell,264,11/28/2012,76,113,Home,"",-,"1,500"
 2013,Knox,337,Lawrence,348,12/01/2012,0,0,Away,"",-,0
 2013,Knox,337,Cornell College,166,12/04/2012,0,0,Home,"",-,0
 2013,Knox,337,Beloit,53,12/08/2012,0,0,Home,"",-,0
@@ -11682,7 +11685,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Lafayette,342,Maryland,392,11/20/2012,74,83,Away,"",-,"10,882"
 2013,Lafayette,342,Princeton,554,11/24/2012,53,72,Home,"",-,"1,544"
 2013,Lafayette,342,Monmouth,439,11/26/2012,60,65,Away,"",-,"1,375"
-2013,Lafayette,342,Delaware,180,11/28/2012,0,0,Home,"",-,0
+2013,Lafayette,342,Delaware,180,11/28/2012,63,60,Home,"",-,"1,079"
 2013,Lafayette,342,LIU Brooklyn,361,12/01/2012,0,0,Away,"",-,0
 2013,Lafayette,342,Saint Francis (PA),600,12/04/2012,0,0,Home,"",-,0
 2013,Lafayette,342,Fairleigh Dickinson,222,12/07/2012,0,0,Away,"",-,0
@@ -11761,7 +11764,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Lake Forest,344,Lakeland,1164,11/16/2012,112,113,Away,"",3 OT,779
 2013,Lake Forest,344,Carthage,121,11/20/2012,57,69,Home,"",-,324
 2013,Lake Forest,344,Knox,337,11/25/2012,70,55,Away,"",-,300
-2013,Lake Forest,344,Carroll (WI),120,11/28/2012,0,0,Home,"",-,0
+2013,Lake Forest,344,Carroll (WI),120,11/28/2012,57,80,Home,"",-,175
 2013,Lake Forest,344,Illinois Col.,297,12/01/2012,0,0,Away,"",-,0
 2013,Lake Forest,344,St. Norbert,614,12/04/2012,0,0,Away,"",-,0
 2013,Lake Forest,344,Chicago,137,12/08/2012,0,0,Home,"",-,0
@@ -11914,9 +11917,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Lander,1167,Georgia College,1096,02/28/2013,0,0,Home,"",-,0
 2013,Lander,1167,Francis Marion,1085,03/02/2013,0,0,Home,"",-,0
 2013,Lane,347,Fisk,,11/17/2012,82,73,Away,"",-,807
-2013,Lane,347,North Ala.,487,11/26/2012,0,0,Away,"",-,0
+2013,Lane,347,North Ala.,487,11/26/2012,77,93,Away,"",-,"1,022"
 2013,Lane,347,Rust,586,11/30/2012,0,0,Neutral,"Memphis, TN",-,0
-2013,Lane,347,Knoxville,,12/01/2012,0,0,Neutral,"Memphis, TN",-,0
+2013,Lane,347,Selma,,12/01/2012,0,0,Neutral,"Memphis, TN",-,0
 2013,Lane,347,Fort Valley St.,237,01/03/2013,0,0,Away,"",-,0
 2013,Lane,347,Clark Atlanta,144,01/05/2013,0,0,Away,"",-,0
 2013,Lane,347,Claflin,30058,01/07/2013,0,0,Home,"",-,0
@@ -11986,7 +11989,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Lawrence,348,Lake Forest,344,02/12/2013,0,0,Away,"",-,0
 2013,Lawrence,348,Grinnell,264,02/16/2013,0,0,Home,"",-,0
 2013,Le Moyne,349,Pace,533,11/14/2012,73,56,Away,"",-,350
-2013,Le Moyne,349,Saint Rose,1347,11/20/2012,0,0,Home,"",-,0
+2013,Le Moyne,349,Saint Rose,1347,11/20/2012,66,68,Home,"",-,0
 2013,Le Moyne,349,American Int'l,22,11/28/2012,74,82,Away,"",-,262
 2013,Le Moyne,349,New Haven,470,12/01/2012,0,0,Home,"",-,0
 2013,Le Moyne,349,Southern Conn. St.,658,12/04/2012,0,0,Away,"",-,0
@@ -12015,7 +12018,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Lebanon Valley,351,Middlebury,420,11/17/2012,63,72,Home,"",-,340
 2013,Lebanon Valley,351,Elizabethtown,211,11/20/2012,72,65,Home,"",-,475
 2013,Lebanon Valley,351,Moravian,443,11/25/2012,65,79,Away,"",-,237
-2013,Lebanon Valley,351,Messiah,411,11/28/2012,0,0,Home,"",-,0
+2013,Lebanon Valley,351,Messiah,411,11/28/2012,58,65,Home,"",-,475
 2013,Lebanon Valley,351,Widener,783,12/01/2012,0,0,Home,"",-,0
 2013,Lebanon Valley,351,Arcadia,966,12/05/2012,0,0,Away,"",-,0
 2013,Lebanon Valley,351,Alvernia,938,12/08/2012,0,0,Away,"",-,0
@@ -12754,7 +12757,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Loyola Maryland,369,Albany (NY),14,11/18/2012,67,64,Neutral,"Uncasville, CT",-,"3,863"
 2013,Loyola Maryland,369,Rhode Island,572,11/23/2012,58,54,Away,"",1 OT,"3,614"
 2013,Loyola Maryland,369,Towson,711,11/26/2012,65,53,Home,"",-,"1,376"
-2013,Loyola Maryland,369,Coppin St.,165,11/28/2012,0,0,Away,"",-,0
+2013,Loyola Maryland,369,Coppin St.,165,11/28/2012,67,51,Away,"",-,"2,011"
 2013,Loyola Maryland,369,FGCU,28755,12/01/2012,0,0,Away,"",-,0
 2013,Loyola Maryland,369,Niagara,482,12/05/2012,0,0,Home,"",-,0
 2013,Loyola Maryland,369,Saint Peter's,617,12/08/2012,0,0,Away,"East Rutherford, NJ",-,0
@@ -12864,7 +12867,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Lycoming,373,Salisbury,622,11/17/2012,82,85,Home,"",-,456
 2013,Lycoming,373,Susquehanna,685,11/20/2012,80,69,Away,"",-,336
 2013,Lycoming,373,Wilkes,784,11/25/2012,109,102,Away,"",1 OT,215
-2013,Lycoming,373,Alvernia,938,11/28/2012,75,62,Home,"",-,0
+2013,Lycoming,373,Alvernia,938,11/28/2012,75,62,Home,"",-,455
 2013,Lycoming,373,Hood,8404,12/01/2012,0,0,Home,"",-,0
 2013,Lycoming,373,Elizabethtown,211,12/05/2012,0,0,Away,"",-,0
 2013,Lycoming,373,Arcadia,966,12/08/2012,0,0,Home,"",-,0
@@ -12889,7 +12892,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Lynchburg,374,Goucher,1467,11/23/2012,80,64,Neutral,"SAlem, VA",-,258
 2013,Lynchburg,374,Johnson & Wales (RI),22626,11/24/2012,110,90,Neutral,"Salem, VA",-,185
 2013,Lynchburg,374,Averett,44,11/26/2012,82,69,Away,"",-,162
-2013,Lynchburg,374,Randolph-Macon,565,11/28/2012,0,0,Away,"",-,0
+2013,Lynchburg,374,Randolph-Macon,565,11/28/2012,73,78,Away,"",-,705
 2013,Lynchburg,374,Piedmont,21830,12/01/2012,0,0,Home,"",-,0
 2013,Lynchburg,374,Va. Wesleyan,745,12/04/2012,0,0,Home,"",-,0
 2013,Lynchburg,374,Gordon,1099,12/07/2012,0,0,Neutral,"Manhattanville, NY",-,0
@@ -12965,7 +12968,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Macalester,376,Northwestern (MN),30031,11/20/2012,71,79,Home,"",-,300
 2013,Macalester,376,Occidental,516,11/23/2012,81,75,Away,"",-,757
 2013,Macalester,376,Caltech,89,11/24/2012,73,61,Away,"",-,179
-2013,Macalester,376,St. Thomas (MN),620,11/28/2012,0,0,Home,"",-,0
+2013,Macalester,376,St. Thomas (MN),620,11/28/2012,40,88,Home,"",-,400
 2013,Macalester,376,St. Olaf,615,12/01/2012,0,0,Home,"",-,0
 2013,Macalester,376,Saint John's (MN),602,12/05/2012,0,0,Away,"",-,0
 2013,Macalester,376,Lakeland,1164,12/30/2012,0,0,Home,"",-,0
@@ -13417,7 +13420,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Mary Hardin-Baylor,1203,Southwestern (TX),8746,11/20/2012,73,50,Home,"",-,975
 2013,Mary Hardin-Baylor,1203,Whitworth,1454,11/23/2012,61,70,Away,"",-,610
 2013,Mary Hardin-Baylor,1203,Whitman,780,11/25/2012,84,94,Away,"",-,100
-2013,Mary Hardin-Baylor,1203,Trinity (TX),715,11/28/2012,0,0,Away,"",-,0
+2013,Mary Hardin-Baylor,1203,Trinity (TX),715,11/28/2012,57,56,Away,"",1 OT,311
 2013,Mary Hardin-Baylor,1203,LeTourneau,8490,12/01/2012,0,0,Home,"",-,0
 2013,Mary Hardin-Baylor,1203,Mississippi Col.,429,12/08/2012,0,0,Away,"",-,0
 2013,Mary Hardin-Baylor,1203,Louisiana Col.,1182,12/10/2012,0,0,Away,"",-,0
@@ -13656,7 +13659,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Mass.-Dartmouth,656,Wheaton (MA),779,11/16/2012,61,65,Home,"",-,"1,300"
 2013,Mass.-Dartmouth,656,Trinity (CT),713,11/17/2012,59,61,Home,"",-,400
 2013,Mass.-Dartmouth,656,Brandeis,73,11/20/2012,59,87,Away,"",-,150
-2013,Mass.-Dartmouth,656,Bridgewater St.,76,11/27/2012,0,0,Away,"",-,0
+2013,Mass.-Dartmouth,656,Bridgewater St.,76,11/27/2012,82,94,Away,"",-,350
 2013,Mass.-Dartmouth,656,Keene St.,330,11/30/2012,0,0,Home,"",-,0
 2013,Mass.-Dartmouth,656,Worcester St.,809,12/04/2012,0,0,Home,"",-,0
 2013,Mass.-Dartmouth,656,Curry,170,12/06/2012,0,0,Home,"",-,0
@@ -13708,7 +13711,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Massachusetts,400,Providence,556,11/15/2012,77,75,Neutral,"San Juan, PR",-,"4,103"
 2013,Massachusetts,400,North Carolina St.,490,11/16/2012,76,94,Neutral,"San Juan, PR",-,0
 2013,Massachusetts,400,Tennessee,694,11/18/2012,69,83,Neutral,"San Juan, PR",-,"6,872"
-2013,Massachusetts,400,Siena,639,11/28/2012,0,0,Away,"",-,0
+2013,Massachusetts,400,Siena,639,11/28/2012,64,63,Away,"",-,"5,739"
 2013,Massachusetts,400,Miami (FL),415,12/01/2012,0,0,Home,"",-,0
 2013,Massachusetts,400,Northeastern,500,12/04/2012,0,0,Away,"",-,0
 2013,Massachusetts,400,Elon,1068,12/15/2012,0,0,Neutral,"Springfield, MA",-,0
@@ -14028,7 +14031,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Mercy,407,Caldwell,995,11/14/2012,80,85,Home,"",-,158
 2013,Mercy,407,Nyack,1277,11/17/2012,64,67,Home,"",-,190
 2013,Mercy,407,Goldey-Beacom,8366,11/28/2012,76,85,Home,"",-,177
-2013,Mercy,407,Queens (NY),560,12/01/2012,0,0,Home,"",-,0
+2013,Mercy,407,Queens (NY),560,12/01/2012,0,0,Away,"",-,0
 2013,Mercy,407,Roberts Wesleyan,30150,12/08/2012,0,0,Away,"",-,0
 2013,Mercy,407,Pace,533,12/12/2012,0,0,Home,"",-,0
 2013,Mercy,407,Chestnut Hill,21323,12/15/2012,0,0,Away,"",-,0
@@ -14039,7 +14042,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Mercy,407,LIU Post,362,01/16/2013,0,0,Away,"",-,0
 2013,Mercy,407,Dowling,2692,01/19/2013,0,0,Home,"",-,0
 2013,Mercy,407,Molloy,437,01/23/2013,0,0,Away,"",-,0
-2013,Mercy,407,Queens (NY),560,01/26/2013,0,0,Away,"",-,0
+2013,Mercy,407,Queens (NY),560,01/26/2013,0,0,Home,"",-,0
 2013,Mercy,407,Roberts Wesleyan,30150,01/31/2013,0,0,Home,"",-,0
 2013,Mercy,407,Dist. Columbia,186,02/02/2013,0,0,Home,"",-,0
 2013,Mercy,407,Bridgeport,74,02/06/2013,0,0,Away,"",-,0
@@ -14133,7 +14136,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Messiah,411,Keystone,30047,11/16/2012,79,82,Home,"",1 OT,892
 2013,Messiah,411,Hobart,282,11/17/2012,56,69,Home,"",-,272
 2013,Messiah,411,York (PA),815,11/20/2012,75,62,Away,"",-,321
-2013,Messiah,411,Lebanon Valley,351,11/28/2012,0,0,Away,"",-,0
+2013,Messiah,411,Lebanon Valley,351,11/28/2012,65,58,Away,"",-,475
 2013,Messiah,411,Elizabethtown,211,12/01/2012,0,0,Away,"",-,0
 2013,Messiah,411,Hood,8404,12/05/2012,0,0,Away,"",-,0
 2013,Messiah,411,Albright,16,12/08/2012,0,0,Home,"",-,0
@@ -14183,7 +14186,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Metro St.,413,Minot St.,30125,11/09/2012,75,54,Home,"",-,241
 2013,Metro St.,413,Winona St.,790,11/16/2012,84,72,Away,"",-,"1,519"
 2013,Metro St.,413,Bemidji St.,54,11/17/2012,67,41,Neutral,McCown Gymnasium (Winona,-,876
-2013,Metro St.,413,Johnson & Wales (CO),,11/20/2012,0,0,Home,"",-,0
+2013,Metro St.,413,Johnson & Wales (CO),,11/20/2012,95,73,Home,"",-,208
 2013,Metro St.,413,Regis (CO),568,12/01/2012,0,0,Home,"",-,0
 2013,Metro St.,413,UC-Colo. Springs,9754,12/07/2012,0,0,Away,"",-,0
 2013,Metro St.,413,Colorado St.-Pueblo,2720,12/08/2012,0,0,Away,"",-,0
@@ -14210,7 +14213,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Miami (FL),415,FGCU,28755,11/13/2012,51,63,Away,"",-,"4,552"
 2013,Miami (FL),415,Jacksonville,316,11/16/2012,73,57,Home,"",-,"3,135"
 2013,Miami (FL),415,Detroit,184,11/24/2012,77,62,Home,"",-,"2,946"
-2013,Miami (FL),415,Michigan St.,416,11/28/2012,0,0,Home,"",-,0
+2013,Miami (FL),415,Michigan St.,416,11/28/2012,67,59,Home,"",-,"5,791"
 2013,Miami (FL),415,Massachusetts,400,12/01/2012,0,0,Away,"",-,0
 2013,Miami (FL),415,Charlotte,458,12/14/2012,0,0,Home,"",-,0
 2013,Miami (FL),415,UCF,128,12/18/2012,0,0,Away,"",-,0
@@ -14301,7 +14304,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Michigan St.,416,Boise St.,66,11/20/2012,74,70,Home,"",-,"14,797"
 2013,Michigan St.,416,Oakland,514,11/23/2012,70,52,Home,"",-,"14,797"
 2013,Michigan St.,416,La.-Lafayette,671,11/25/2012,63,60,Home,"",-,"14,797"
-2013,Michigan St.,416,Miami (FL),415,11/28/2012,0,0,Away,"",-,0
+2013,Michigan St.,416,Miami (FL),415,11/28/2012,59,67,Away,"",-,"5,791"
 2013,Michigan St.,416,Nicholls St.,483,12/01/2012,0,0,Home,"",-,0
 2013,Michigan St.,416,Ark.-Pine Bluff,2678,12/05/2012,0,0,Home,"",-,0
 2013,Michigan St.,416,Loyola Chicago,371,12/08/2012,0,0,Home,"",-,0
@@ -14490,7 +14493,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Millikin,424,Loras,364,11/16/2012,76,78,Neutral,"Shirk Center, Bloomingto",-,604
 2013,Millikin,424,Coe,150,11/17/2012,0,0,Neutral,"Bloomington, IL",-,0
 2013,Millikin,424,Blackburn,64,11/20/2012,0,0,Away,"",-,0
-2013,Millikin,424,Franklin,2694,11/28/2012,0,0,Home,"",-,0
+2013,Millikin,424,Franklin,2694,11/28/2012,73,82,Home,"",-,405
 2013,Millikin,424,Principia,555,12/01/2012,0,0,Home,"",-,0
 2013,Millikin,424,Fontbonne,11538,12/04/2012,0,0,Home,"",-,0
 2013,Millikin,424,Mo. Baptist,,12/07/2012,0,0,Neutral,"Greenville, IL",-,0
@@ -14645,7 +14648,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Minn. St. Mankato,383,Sioux Falls,30128,02/22/2013,0,0,Home,"",-,0
 2013,Minn. St. Mankato,383,Southwest Minn. St.,8736,02/23/2013,0,0,Home,"",-,0
 2013,Minn. St. Moorhead,1240,Lincoln (MO),356,11/09/2012,72,67,Neutral,"Bolivar, Mo. - Meyer Spo",-,156
-2013,Minn. St. Moorhead,1240,Southwest Baptist,2755,11/10/2012,0,0,Away,"",-,0
+2013,Minn. St. Moorhead,1240,Southwest Baptist,2755,11/10/2012,92,69,Away,"",-,567
 2013,Minn. St. Moorhead,1240,Minn.-Morris,1226,11/16/2012,88,58,Home,"",-,"1,001"
 2013,Minn. St. Moorhead,1240,Concordia-M'head,161,11/20/2012,70,57,Away,"",-,362
 2013,Minn. St. Moorhead,1240,Valley City St.,,11/27/2012,0,0,Home,"",-,0
@@ -14675,7 +14678,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Minn.-Crookston,27854,Presentation,30034,11/09/2012,0,0,Home,"",-,0
 2013,Minn.-Crookston,27854,Finlandia,30032,11/15/2012,81,75,Away,"",-,175
 2013,Minn.-Crookston,27854,Mayville St.,,11/20/2012,0,0,Away,"",-,0
-2013,Minn.-Crookston,27854,Crown (MN),30035,11/28/2012,0,0,Home,"",-,0
+2013,Minn.-Crookston,27854,Crown (MN),30035,11/28/2012,55,56,Home,"",-,155
 2013,Minn.-Crookston,27854,Bemidji St.,54,12/01/2012,0,0,Away,"",-,0
 2013,Minn.-Crookston,27854,Minn. Duluth,427,12/07/2012,0,0,Away,"",-,0
 2013,Minn.-Crookston,27854,St. Cloud St.,598,12/08/2012,0,0,Away,"",-,0
@@ -14702,7 +14705,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Minn.-Morris,1226,Minn. St. Moorhead,1240,11/16/2012,58,88,Away,"",-,"1,001"
 2013,Minn.-Morris,1226,Jamestown,,11/20/2012,0,0,Away,"",-,0
 2013,Minn.-Morris,1226,Mayville St.,,11/27/2012,0,0,Away,"",-,0
-2013,Minn.-Morris,1226,Presentation,30034,11/28/2012,0,0,Away,"",-,0
+2013,Minn.-Morris,1226,Presentation,30034,11/28/2012,83,79,Away,"",-,0
 2013,Minn.-Morris,1226,Valley City St.,,12/04/2012,0,0,Home,"",-,0
 2013,Minn.-Morris,1226,Mayville St.,,12/07/2012,0,0,Home,"",-,0
 2013,Minn.-Morris,1226,Saint John's (MN),602,12/13/2012,0,0,Away,"",-,0
@@ -15165,8 +15168,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Monmouth,439,Mt. St. Mary's,450,02/28/2013,0,0,Home,"",-,0
 2013,Monmouth,439,Wagner,748,03/02/2013,0,0,Home,"",-,0
 2013,Monmouth (IL),438,Central (IA),126,11/15/2012,82,96,Away,"",-,400
-2013,Monmouth (IL),438,Eureka,218,11/20/2012,0,0,Away,"",-,0
-2013,Monmouth (IL),438,Illinois Col.,297,11/28/2012,0,0,Home,"",-,0
+2013,Monmouth (IL),438,Eureka,218,11/20/2012,80,82,Away,"",-,255
+2013,Monmouth (IL),438,Illinois Col.,297,11/28/2012,65,63,Home,"",-,450
 2013,Monmouth (IL),438,Beloit,53,12/01/2012,0,0,Away,"",-,0
 2013,Monmouth (IL),438,Grinnell,264,12/04/2012,0,0,Home,"",-,0
 2013,Monmouth (IL),438,Carroll (WI),120,12/08/2012,0,0,Home,"",-,0
@@ -15485,7 +15488,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Mount Ida,27901,Norwich,511,02/05/2013,0,0,Away,"",-,0
 2013,Mount Ida,27901,Suffolk,684,02/12/2013,0,0,Home,"",-,0
 2013,Mount Ida,27901,Anna Maria,26,02/16/2013,0,0,Away,"",-,0
-2013,Mount Olive,1245,West Virginia St.,1439,11/16/2012,0,0,Home,"",-,0
+2013,Mount Olive,1245,West Virginia St.,1439,11/16/2012,68,72,Home,"",-,"1,026"
 2013,Mount Olive,1245,Fayetteville St.,223,11/17/2012,85,66,Home,"",-,"1,109"
 2013,Mount Olive,1245,North Greenville,9223,11/19/2012,80,85,Home,"",-,382
 2013,Mount Olive,1245,King (TN),30051,11/27/2012,0,0,Home,"",-,0
@@ -15538,9 +15541,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Mount Union,452,Wilmington (OH),1461,02/16/2013,0,0,Home,"",-,0
 2013,Mount Union,452,TBA,,02/18/2013,0,0,Away,"",-,0
 2013,Mt. Aloysius,30036,Penn St.-Altoona,25719,11/16/2012,88,64,Neutral,"Huntingdon, Pa.",-,80
-2013,Mt. Aloysius,30036,Juniata,325,11/17/2012,0,0,Away,"",-,0
+2013,Mt. Aloysius,30036,Juniata,325,11/17/2012,62,80,Away,"",-,625
 2013,Mt. Aloysius,30036,Penn St.-New Kens.,,11/20/2012,75,52,Home,"",-,250
-2013,Mt. Aloysius,30036,Pitt.-Greensburg,11839,11/28/2012,0,0,Away,"",-,0
+2013,Mt. Aloysius,30036,Pitt.-Greensburg,11839,11/28/2012,78,67,Away,"",-,250
 2013,Mt. Aloysius,30036,Medaille,23725,12/01/2012,0,0,Home,"",-,0
 2013,Mt. Aloysius,30036,Frostburg St.,243,12/05/2012,0,0,Away,"",-,0
 2013,Mt. Aloysius,30036,Penn St.-Behrend,538,12/08/2012,0,0,Away,"",-,0
@@ -15864,7 +15867,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Navy,726,TCU,698,11/20/2012,45,47,Away,"",-,"3,829"
 2013,Navy,726,Prairie View,553,11/23/2012,40,42,Neutral,"South Padre Island, TX",-,0
 2013,Navy,726,Delaware St.,178,11/24/2012,63,53,Neutral,"South Padre Island, TX",-,0
-2013,Navy,726,IPFW,308,11/28/2012,0,0,Home,"",-,0
+2013,Navy,726,IPFW,308,11/28/2012,54,49,Home,"",-,998
 2013,Navy,726,Tulane,718,12/01/2012,0,0,Away,"",-,0
 2013,Navy,726,Monmouth,439,12/05/2012,0,0,Away,"",-,0
 2013,Navy,726,Mt. St. Mary's,450,12/07/2012,0,0,Away,"",-,0
@@ -15891,8 +15894,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Nazareth,461,New Jersey City,319,11/17/2012,64,58,Neutral,"Rochester, NY (Kidera Gy",-,100
 2013,Nazareth,461,Rochester (NY),581,11/20/2012,64,98,Away,"",-,550
 2013,Nazareth,461,Buffalo St.,85,11/24/2012,97,89,Away,"",-,168
-2013,Nazareth,461,TBA,,11/28/2012,0,0,Neutral,"Rochester, NY",-,0
-2013,Nazareth,461,TBA,,11/30/2012,0,0,Neutral,"Rochester, NY",-,0
+2013,Nazareth,461,SUNY Geneseo,247,11/28/2012,0,0,Neutral,"Rochester, NY",-,0
+2013,Nazareth,461,Hobart,282,11/30/2012,0,0,Neutral,"Rochester, NY",-,0
 2013,Nazareth,461,TBA,,12/01/2012,0,0,Neutral,"Rochester, NY",-,0
 2013,Nazareth,461,Wells,761,12/04/2012,0,0,Away,"",-,0
 2013,Nazareth,461,Houghton,30160,12/07/2012,0,0,Home,"",-,0
@@ -16056,7 +16059,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Nevada,466,Green Bay,794,11/17/2012,71,69,Home,"",-,"6,691"
 2013,Nevada,466,Southern Utah,667,11/18/2012,79,61,Home,"",-,"5,885"
 2013,Nevada,466,Marshall,388,11/24/2012,82,89,Away,"",-,"5,583"
-2013,Nevada,466,UC Davis,108,11/28/2012,0,0,Home,"",-,0
+2013,Nevada,466,UC Davis,108,11/28/2012,84,83,Home,"",-,"5,892"
 2013,Nevada,466,Drake,189,11/30/2012,0,0,Home,"",-,0
 2013,Nevada,466,Pacific,534,12/04/2012,0,0,Away,"",-,0
 2013,Nevada,466,Washington,756,12/08/2012,0,0,Away,"",-,0
@@ -16163,7 +16166,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,New Jersey City,319,St. Joseph's (L.I.),1340,11/16/2012,0,0,Neutral,"Rochester, NY",-,0
 2013,New Jersey City,319,Nazareth,461,11/17/2012,58,64,Neutral,"Rochester, NY (Kidera Gy",-,100
 2013,New Jersey City,319,Ramapo,564,11/20/2012,60,67,Home,"",-,672
-2013,New Jersey City,319,Rutgers-Newark,589,11/28/2012,0,0,Away,"",-,0
+2013,New Jersey City,319,Rutgers-Newark,589,11/28/2012,39,51,Away,"",-,205
 2013,New Jersey City,319,Rowan,259,12/01/2012,0,0,Home,"",-,0
 2013,New Jersey City,319,New York U.,479,12/03/2012,0,0,Away,"",-,0
 2013,New Jersey City,319,Richard Stockton,681,12/05/2012,0,0,Away,"",-,0
@@ -16548,7 +16551,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,North Ala.,487,Morehouse,445,11/16/2012,89,74,Neutral,"Carrollton, Ga. (The Col",-,109
 2013,North Ala.,487,Miles,422,11/17/2012,100,47,Neutral,"Carrollton, GA (The Coli",-,106
 2013,North Ala.,487,Ga. Southwestern,1097,11/24/2012,64,58,Away,"",-,369
-2013,North Ala.,487,Lane,347,11/26/2012,0,0,Home,"",-,0
+2013,North Ala.,487,Lane,347,11/26/2012,93,77,Home,"",-,"1,022"
 2013,North Ala.,487,West Florida,11740,11/29/2012,0,0,Home,"",-,0
 2013,North Ala.,487,Valdosta St.,734,12/01/2012,0,0,Home,"",-,0
 2013,North Ala.,487,Oakwood,,12/04/2012,0,0,Home,"",-,0
@@ -16747,7 +16750,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,North Florida,2711,Savannah St.,632,11/14/2012,47,54,Away,"",-,"1,055"
 2013,North Florida,2711,Kansas St.,327,11/18/2012,55,74,Away,"",-,"12,119"
 2013,North Florida,2711,Florida St.,234,11/21/2012,67,75,Away,"",-,"6,685"
-2013,North Florida,2711,Bethune-Cookman,61,11/27/2012,0,0,Away,"",-,0
 2013,North Florida,2711,Bethune-Cookman,61,11/27/2012,71,65,Away,"",-,"2,817"
 2013,North Florida,2711,Florida A&M,228,11/29/2012,0,0,Home,"",-,0
 2013,North Florida,2711,Minnesota,428,12/01/2012,0,0,Away,"",-,0
@@ -17088,7 +17090,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Northern St.,1266,Cal St. Dom. Hills,92,11/11/2012,0,0,Neutral,"Anaheim, CA",-,0
 2013,Northern St.,1266,Dakota St.,,11/16/2012,0,0,Home,"",-,0
 2013,Northern St.,1266,Dickinson St.,,11/18/2012,0,0,Home,"",-,0
-2013,Northern St.,1266,Carleton,118,11/28/2012,0,0,Home,"",-,0
+2013,Northern St.,1266,Carleton,118,11/28/2012,66,59,Home,"",-,"3,013"
 2013,Northern St.,1266,Minn. St. Moorhead,1240,12/01/2012,0,0,Home,"",-,0
 2013,Northern St.,1266,Mary,30075,12/07/2012,0,0,Away,"",-,0
 2013,Northern St.,1266,Minot St.,30125,12/08/2012,0,0,Away,"",-,0
@@ -17222,10 +17224,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Northwestern,509,Penn St.,539,03/07/2013,0,0,Home,"",-,0
 2013,Northwestern,509,Michigan St.,416,03/10/2013,0,0,Away,"",-,0
 2013,Northwestern (MN),30031,Saint Mary's (MN),612,11/16/2012,0,0,Home,"",-,0
-2013,Northwestern (MN),30031,Wis.-River Falls,801,11/17/2012,0,0,Home,"",-,0
+2013,Northwestern (MN),30031,Wis.-River Falls,801,11/17/2012,78,69,Home,"",-,"1,123"
 2013,Northwestern (MN),30031,Macalester,376,11/20/2012,79,71,Away,"",-,300
 2013,Northwestern (MN),30031,Hamline,268,11/24/2012,0,0,Home,"",-,0
-2013,Northwestern (MN),30031,Wis.-Superior,804,11/28/2012,0,0,Home,"",-,0
+2013,Northwestern (MN),30031,Wis.-Superior,804,11/28/2012,97,68,Home,"",-,"1,023"
 2013,Northwestern (MN),30031,Buena Vista,84,11/30/2012,0,0,Home,"",-,0
 2013,Northwestern (MN),30031,Luther,372,12/07/2012,0,0,Away,"",-,0
 2013,Northwestern (MN),30031,North Central (MN),30039,12/11/2012,0,0,Away,"",-,0
@@ -17383,7 +17385,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Notre Dame de Namur,30056,Fresno Pacific,30147,02/26/2013,0,0,Home,"",-,0
 2013,Notre Dame de Namur,30056,Holy Names,30175,03/02/2013,0,0,Home,"",-,0
 2013,Nova Southeastern,24639,St. Thomas (FL),,11/15/2012,0,0,Home,"",-,0
-2013,Nova Southeastern,24639,Goldey-Beacom,8366,11/23/2012,0,0,Home,"",-,0
+2013,Nova Southeastern,24639,Goldey-Beacom,8366,11/23/2012,87,85,Home,"",-,250
 2013,Nova Southeastern,24639,Charleston (WV),1013,11/24/2012,0,0,Home,"",-,0
 2013,Nova Southeastern,24639,Saint Leo,608,12/11/2012,0,0,Away,"",-,0
 2013,Nova Southeastern,24639,Southern Ind.,661,12/14/2012,0,0,Neutral,"Louisville, KY",-,0
@@ -17519,9 +17521,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Oakland City,1278,TBA,,02/13/2013,0,0,Home,"",-,0
 2013,Oakland City,1278,Trevecca Nazarene,30002,02/16/2013,0,0,Away,"",-,0
 2013,Oakland City,1278,St. Louis Christian,,02/23/2013,0,0,Home,"",-,0
-2013,Oberlin,515,Ashland,35,11/13/2012,0,0,Away,"",-,0
+2013,Oberlin,515,Ashland,35,11/13/2012,47,72,Away,"",-,358
 2013,Oberlin,515,Hanover,1115,11/17/2012,41,83,Away,"",-,691
-2013,Oberlin,515,Earlham,195,11/18/2012,0,0,Away,"",-,0
+2013,Oberlin,515,Earlham,195,11/18/2012,55,76,Away,"",-,125
 2013,Oberlin,515,Franciscan,30069,11/24/2012,69,57,Away,"",-,0
 2013,Oberlin,515,Wooster,807,11/25/2012,66,74,Home,"",-,211
 2013,Oberlin,515,Kalamazoo,326,11/28/2012,53,55,Home,"",-,178
@@ -17548,7 +17550,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Occidental,516,Bethesda Christian,,11/20/2012,95,91,Home,"",-,583
 2013,Occidental,516,Macalester,376,11/23/2012,75,81,Home,"",-,757
 2013,Occidental,516,Pacifica,,11/24/2012,94,85,Home,"",-,341
-2013,Occidental,516,Claremont-M-S,142,11/28/2012,59,71,Home,"",-,0
+2013,Occidental,516,Claremont-M-S,142,11/28/2012,59,71,Home,"",-,496
 2013,Occidental,516,Chapman,134,12/01/2012,0,0,Away,"",-,0
 2013,Occidental,516,Redlands,567,12/05/2012,0,0,Home,"",-,0
 2013,Occidental,516,Whitworth,1454,12/15/2012,0,0,Home,"",-,0
@@ -17656,7 +17658,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Ohio St.,518,Rhode Island,572,11/17/2012,69,58,Neutral,"Uncasville, CT",-,"6,003"
 2013,Ohio St.,518,Washington,756,11/18/2012,77,66,Neutral,"Uncasville, CT",-,"3,863"
 2013,Ohio St.,518,UMKC,2707,11/23/2012,91,45,Home,"",-,"17,478"
-2013,Ohio St.,518,Duke,193,11/28/2012,0,0,Away,"",-,0
+2013,Ohio St.,518,Duke,193,11/28/2012,68,73,Away,"",-,"9,314"
 2013,Ohio St.,518,Northern Ky.,505,12/01/2012,0,0,Home,"",-,0
 2013,Ohio St.,518,Long Beach St.,99,12/08/2012,0,0,Home,"",-,0
 2013,Ohio St.,518,Savannah St.,632,12/12/2012,0,0,Home,"",-,0
@@ -17906,7 +17908,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Olivet,525,Calvin,114,02/16/2013,0,0,Away,"",-,0
 2013,Oneonta St.,526,Scranton,633,11/16/2012,55,63,Away,"",-,700
 2013,Oneonta St.,526,York (PA),815,11/17/2012,92,77,Neutral,"Scranton, Pa. - Long Cen",-,125
-2013,Oneonta St.,526,Hartwick,273,11/28/2012,0,0,Home,"",-,0
+2013,Oneonta St.,526,Hartwick,273,11/28/2012,39,70,Home,"",-,712
 2013,Oneonta St.,526,Buffalo St.,85,11/30/2012,0,0,Away,"",-,0
 2013,Oneonta St.,526,Fredonia St.,242,12/01/2012,0,0,Away,"",-,0
 2013,Oneonta St.,526,Skidmore,642,12/04/2012,0,0,Home,"",-,0
@@ -18415,7 +18417,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Penn St.-Altoona,25719,Mt. Aloysius,30036,11/16/2012,64,88,Neutral,"Huntingdon, Pa.",-,80
 2013,Penn St.-Altoona,25719,Kean,329,11/17/2012,71,65,Neutral,"Huntington, Pa. (Kennedy",-,70
 2013,Penn St.-Altoona,25719,Waynesburg,1434,11/24/2012,60,72,Away,"",-,85
-2013,Penn St.-Altoona,25719,Franciscan,30069,11/28/2012,0,0,Away,"",-,0
+2013,Penn St.-Altoona,25719,Franciscan,30069,11/28/2012,73,69,Away,"",-,200
 2013,Penn St.-Altoona,25719,Pitt.-Bradford,1315,12/01/2012,0,0,Home,"",-,0
 2013,Penn St.-Altoona,25719,La Roche,1163,12/05/2012,0,0,Away,"",-,0
 2013,Penn St.-Altoona,25719,Hilbert,8398,12/08/2012,0,0,Away,"",-,0
@@ -18439,7 +18441,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Penn St.-Behrend,538,Wells,761,11/16/2012,77,43,Home,"",-,276
 2013,Penn St.-Behrend,538,John Carroll,320,11/17/2012,71,69,Home,"",-,250
 2013,Penn St.-Behrend,538,Thiel,707,11/20/2012,0,0,Home,"",-,0
-2013,Penn St.-Behrend,538,Pitt.-Bradford,1315,11/28/2012,0,0,Home,"",-,0
+2013,Penn St.-Behrend,538,Pitt.-Bradford,1315,11/28/2012,58,41,Home,"",-,0
 2013,Penn St.-Behrend,538,Pitt.-Greensburg,11839,12/01/2012,0,0,Away,"",-,0
 2013,Penn St.-Behrend,538,Mt. Aloysius,30036,12/08/2012,0,0,Home,"",-,0
 2013,Penn St.-Behrend,538,Medaille,23725,12/13/2012,0,0,Away,"",-,0
@@ -18621,6 +18623,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Philadelphia U.,543,Chestnut Hill,21323,02/26/2013,0,0,Home,"",-,0
 2013,Piedmont,21830,Oglethorpe,2713,11/20/2012,71,84,Home,"",-,306
 2013,Piedmont,21830,Johnson,,11/28/2012,0,0,Away,"",-,0
+2013,Piedmont,21830,Johnson & Wales (NC),,11/28/2012,85,95,Away,"",-,145
 2013,Piedmont,21830,Lynchburg,374,12/01/2012,0,0,Away,"",-,0
 2013,Piedmont,21830,Hampden-Sydney,269,12/02/2012,0,0,Away,"",-,0
 2013,Piedmont,21830,Warren Wilson,,12/06/2012,0,0,Home,"",-,0
@@ -18647,7 +18650,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Pitt.-Bradford,1315,Alfred,18,11/16/2012,75,69,Neutral,"Houghton, N.Y. (Nielsen",-,0
 2013,Pitt.-Bradford,1315,Houghton,30160,11/17/2012,71,70,Away,"",-,0
 2013,Pitt.-Bradford,1315,Westminster (PA),1451,11/20/2012,66,64,Home,"",-,181
-2013,Pitt.-Bradford,1315,Penn St.-Behrend,538,11/28/2012,0,0,Away,"",-,0
+2013,Pitt.-Bradford,1315,Penn St.-Behrend,538,11/28/2012,41,58,Away,"",-,0
 2013,Pitt.-Bradford,1315,Penn St.-Altoona,25719,12/01/2012,0,0,Away,"",-,0
 2013,Pitt.-Bradford,1315,Juniata,325,12/04/2012,0,0,Home,"",-,0
 2013,Pitt.-Bradford,1315,Pitt.-Greensburg,11839,12/08/2012,0,0,Home,"",-,0
@@ -18673,7 +18676,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Pitt.-Greensburg,11839,Waynesburg,1434,11/16/2012,74,61,Neutral,"Beaver Falls, PA",-,125
 2013,Pitt.-Greensburg,11839,Geneva,30084,11/17/2012,77,75,Away,"",-,322
 2013,Pitt.-Greensburg,11839,Mount Union,452,11/20/2012,70,81,Away,"",-,654
-2013,Pitt.-Greensburg,11839,Mt. Aloysius,30036,11/28/2012,0,0,Home,"",-,0
+2013,Pitt.-Greensburg,11839,Mt. Aloysius,30036,11/28/2012,67,78,Home,"",-,250
 2013,Pitt.-Greensburg,11839,Penn St.-Behrend,538,12/01/2012,0,0,Home,"",-,0
 2013,Pitt.-Greensburg,11839,Franciscan,30069,12/05/2012,0,0,Home,"",-,0
 2013,Pitt.-Greensburg,11839,Pitt.-Bradford,1315,12/08/2012,0,0,Away,"",-,0
@@ -18856,7 +18859,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Pomona-Pitzer,549,La Sierra,,11/17/2012,87,64,Home,"",-,147
 2013,Pomona-Pitzer,549,Master's,,11/23/2012,58,77,Neutral,"Claremont, CA (Ducey Gym",-,152
 2013,Pomona-Pitzer,549,UC Santa Cruz,113,11/24/2012,77,45,Neutral,"Claremont, CA",-,0
-2013,Pomona-Pitzer,549,Chapman,134,11/28/2012,0,0,Home,"",-,0
+2013,Pomona-Pitzer,549,Chapman,134,11/28/2012,60,54,Home,"",-,147
 2013,Pomona-Pitzer,549,Redlands,567,12/01/2012,0,0,Away,"",-,0
 2013,Pomona-Pitzer,549,Cal Lutheran,105,12/05/2012,0,0,Home,"",-,0
 2013,Pomona-Pitzer,549,La Verne,341,12/08/2012,0,0,Away,"",-,0
@@ -19027,7 +19030,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Presentation,30034,Dakota St.,,11/20/2012,58,77,Away,"",-,0
 2013,Presentation,30034,Cent. Christian (MO),,11/23/2012,49,96,Neutral,"Oskaloosa, Iowa--Penn Gy",-,0
 2013,Presentation,30034,Crossroads,,11/24/2012,79,69,Neutral,"Oskaloosa, Iowa--Penn Gy",-,100
-2013,Presentation,30034,Minn.-Morris,1226,11/28/2012,0,0,Home,"",-,0
+2013,Presentation,30034,Minn.-Morris,1226,11/28/2012,79,83,Home,"",-,0
 2013,Presentation,30034,Neb. Christian,,11/30/2012,0,0,Away,"",-,0
 2013,Presentation,30034,Union (NE),,12/01/2012,0,0,Away,"",-,0
 2013,Presentation,30034,Trinity Bible (ND),,12/04/2012,0,0,Home,"",-,0
@@ -19244,7 +19247,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Queens (NY),560,Felician,23157,11/13/2012,67,86,Away,"",-,211
 2013,Queens (NY),560,New Haven,470,11/18/2012,44,68,Away,"",-,142
 2013,Queens (NY),560,Post,1318,11/24/2012,67,83,Away,"",-,104
-2013,Queens (NY),560,Mercy,407,12/01/2012,0,0,Away,"",-,0
+2013,Queens (NY),560,Mercy,407,12/01/2012,0,0,Home,"",-,0
 2013,Queens (NY),560,NYIT,477,12/08/2012,0,0,Home,"",-,0
 2013,Queens (NY),560,Caldwell,995,12/17/2012,0,0,Away,"",-,0
 2013,Queens (NY),560,Franklin Pierce,241,01/02/2013,0,0,Neutral,"Orangeburg, NY",-,0
@@ -19255,7 +19258,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Queens (NY),560,Bridgeport,74,01/16/2013,0,0,Home,"",-,0
 2013,Queens (NY),560,Roberts Wesleyan,30150,01/19/2013,0,0,Home,"",-,0
 2013,Queens (NY),560,Dist. Columbia,186,01/23/2013,0,0,Away,"",-,0
-2013,Queens (NY),560,Mercy,407,01/26/2013,0,0,Home,"",-,0
+2013,Queens (NY),560,Mercy,407,01/26/2013,0,0,Away,"",-,0
 2013,Queens (NY),560,NYIT,477,01/30/2013,0,0,Away,"",-,0
 2013,Queens (NY),560,St. Thomas Aquinas,1348,02/02/2013,0,0,Away,"",-,0
 2013,Queens (NY),560,LIU Post,362,02/06/2013,0,0,Home,"",-,0
@@ -19405,7 +19408,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Randolph-Macon,565,Transylvania,28749,11/17/2012,54,56,Neutral,"Owings Mills, Md.",-,294
 2013,Randolph-Macon,565,St. Mary's (MD),611,11/18/2012,49,59,Neutral,"Owings Mills, MD",-,0
 2013,Randolph-Macon,565,Ferrum,225,11/25/2012,81,57,Away,"",-,180
-2013,Randolph-Macon,565,Lynchburg,374,11/28/2012,0,0,Home,"",-,0
+2013,Randolph-Macon,565,Lynchburg,374,11/28/2012,78,73,Home,"",-,705
 2013,Randolph-Macon,565,Guilford,1112,12/01/2012,0,0,Away,"",-,0
 2013,Randolph-Macon,565,East. Mennonite,203,12/08/2012,0,0,Away,"",-,0
 2013,Randolph-Macon,565,Catholic,124,12/17/2012,0,0,Away,"",-,0
@@ -19426,10 +19429,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Randolph-Macon,565,East. Mennonite,203,02/09/2013,0,0,Home,"",-,0
 2013,Randolph-Macon,565,Shenandoah,637,02/13/2013,0,0,Away,"",-,0
 2013,Randolph-Macon,565,Randolph,566,02/16/2013,0,0,Home,"",-,0
-2013,Redlands,567,San Diego Christian,,11/17/2012,0,0,Away,"",-,0
-2013,Redlands,567,Concordia (CA),,11/23/2012,0,0,Away,"",-,0
-2013,Redlands,567,Vanguard,,11/24/2012,0,0,Neutral,"Irvine, CA",-,0
-2013,Redlands,567,Caltech,89,11/28/2012,0,0,Away,"",-,0
+2013,Redlands,567,San Diego Christian,,11/17/2012,85,84,Away,"",-,141
+2013,Redlands,567,Concordia (CA),,11/23/2012,86,110,Neutral,"Costa Mesa, Calif.",-,87
+2013,Redlands,567,Vanguard,,11/24/2012,89,95,Neutral,"Irvine, CA",-,0
+2013,Redlands,567,Caltech,89,11/28/2012,106,74,Away,"",-,127
 2013,Redlands,567,Pomona-Pitzer,549,12/01/2012,0,0,Home,"",-,0
 2013,Redlands,567,Occidental,516,12/05/2012,0,0,Away,"",-,0
 2013,Redlands,567,UC Santa Cruz,113,12/07/2012,0,0,Home,"",-,0
@@ -19533,7 +19536,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Rhode Island,572,Seton Hall,635,11/18/2012,55,60,Neutral,"Uncasville, CT",-,"3,865"
 2013,Rhode Island,572,Loyola Maryland,369,11/23/2012,54,58,Home,"",1 OT,"3,614"
 2013,Rhode Island,572,Auburn,37,11/25/2012,78,72,Away,"",2 OT,"4,557"
-2013,Rhode Island,572,George Mason,248,11/28/2012,0,0,Home,"",-,0
+2013,Rhode Island,572,George Mason,248,11/28/2012,52,55,Home,"",-,"4,056"
 2013,Rhode Island,572,Vermont,738,12/01/2012,0,0,Home,"",-,0
 2013,Rhode Island,572,Providence,556,12/06/2012,0,0,Away,"",-,0
 2013,Rhode Island,572,SMU,663,12/15/2012,0,0,Home,"",-,0
@@ -19668,7 +19671,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Richmond,575,William & Mary,786,11/20/2012,86,78,Home,"",2 OT,"4,052"
 2013,Richmond,575,Wofford,2915,11/20/2012,64,58,Home,"",-,"3,867"
 2013,Richmond,575,Ohio,519,11/24/2012,48,73,Away,"",-,"4,211"
-2013,Richmond,575,William & Mary,786,11/28/2012,0,0,Home,"",-,0
+2013,Richmond,575,William & Mary,786,11/28/2012,86,78,Home,"",2 OT,"4,052"
 2013,Richmond,575,Wake Forest,749,12/01/2012,0,0,Home,"",-,0
 2013,Richmond,575,Old Dominion,523,12/04/2012,0,0,Away,"",-,0
 2013,Richmond,575,James Madison,317,12/08/2012,0,0,Away,"",-,0
@@ -19832,8 +19835,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Rochester (NY),581,Cobleskill St.,30083,11/24/2012,101,48,Home,"",-,300
 2013,Rochester (NY),581,Ohio Wesleyan,520,11/25/2012,83,68,Home,"",-,190
 2013,Rochester (NY),581,Rochester Inst.,580,11/28/2012,66,59,Neutral,"Geneva, NY",-,0
-2013,Rochester (NY),581,TBA,,11/28/2012,0,0,Neutral,"Geneva, NY",-,0
-2013,Rochester (NY),581,TBA,,11/30/2012,0,0,Neutral,"TBA, NY",-,0
+2013,Rochester (NY),581,St. John Fisher,601,11/30/2012,0,0,Home,"",-,0
 2013,Rochester (NY),581,TBA,,12/01/2012,0,0,Neutral,"TBA, NY",-,0
 2013,Rochester (NY),581,Hamilton,267,12/05/2012,0,0,Away,"",-,0
 2013,Rochester (NY),581,Hobart,282,12/08/2012,0,0,Home,"",-,0
@@ -19854,8 +19856,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Rochester (NY),581,Emory,217,02/23/2013,0,0,Away,"",-,0
 2013,Rochester Inst.,580,Keuka,1159,11/20/2012,71,57,Away,"",-,125
 2013,Rochester Inst.,580,Rochester (NY),581,11/28/2012,59,66,Neutral,"Geneva, NY",-,0
-2013,Rochester Inst.,580,TBA,,11/28/2012,0,0,Neutral,"Rochester, NY",-,0
-2013,Rochester Inst.,580,TBA,,11/30/2012,0,0,Neutral,"Rochester, NY",-,0
+2013,Rochester Inst.,580,Brockport,78,11/30/2012,0,0,Neutral,"Rochester, NY",-,0
 2013,Rochester Inst.,580,TBA,,12/01/2012,0,0,Neutral,"Rochester, NY",-,0
 2013,Rochester Inst.,580,Union (NY),727,12/08/2012,0,0,Home,"",-,0
 2013,Rochester Inst.,580,Baptist Bible (PA),958,12/11/2012,0,0,Home,"",-,0
@@ -19984,7 +19985,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Rose-Hulman,585,Milwaukee Engr.,20220,11/18/2012,55,28,Away,"",-,207
 2013,Rose-Hulman,585,Carroll (WI),120,11/20/2012,59,65,Away,"",1 OT,323
 2013,Rose-Hulman,585,Wabash,747,11/26/2012,61,37,Away,"",-,793
-2013,Rose-Hulman,585,Fontbonne,11538,11/28/2012,0,0,Home,"",-,0
+2013,Rose-Hulman,585,Fontbonne,11538,11/28/2012,72,54,Home,"",-,525
 2013,Rose-Hulman,585,Defiance,1050,12/01/2012,0,0,Home,"",-,0
 2013,Rose-Hulman,585,Manchester,1192,12/05/2012,0,0,Away,"",-,0
 2013,Rose-Hulman,585,Bluffton,987,12/08/2012,0,0,Away,"",-,0
@@ -20138,7 +20139,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Rutgers-Newark,589,Wash. & Lee,752,11/17/2012,78,73,Home,"",-,178
 2013,Rutgers-Newark,589,Rutgers-Camden,588,11/20/2012,66,72,Home,"",-,197
 2013,Rutgers-Newark,589,Stevens,679,11/25/2012,55,58,Away,"",-,178
-2013,Rutgers-Newark,589,New Jersey City,319,11/28/2012,0,0,Home,"",-,0
+2013,Rutgers-Newark,589,New Jersey City,319,11/28/2012,51,39,Home,"",-,205
 2013,Rutgers-Newark,589,Montclair St.,442,12/01/2012,0,0,Away,"",-,0
 2013,Rutgers-Newark,589,Wm. Paterson,787,12/05/2012,0,0,Away,"",-,0
 2013,Rutgers-Newark,589,Richard Stockton,681,12/08/2012,0,0,Home,"",-,0
@@ -20403,7 +20404,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Salve Regina,623,Johnson & Wales (RI),22626,11/15/2012,79,75,Home,"",1 OT,234
 2013,Salve Regina,623,Babson,45,11/17/2012,62,74,Away,"",-,225
 2013,Salve Regina,623,Wentworth Inst.,762,11/18/2012,83,78,Neutral,"Babson Park, Mass. (Staa",1 OT,100
-2013,Salve Regina,623,Endicott,8981,11/28/2012,0,0,Away,"",-,0
+2013,Salve Regina,623,Endicott,8981,11/28/2012,84,78,Away,"",-,0
 2013,Salve Regina,623,U New England,1255,12/01/2012,0,0,Home,"",-,0
 2013,Salve Regina,623,Rhode Island Col.,571,12/04/2012,0,0,Home,"",-,0
 2013,Salve Regina,623,Wheaton (MA),779,12/06/2012,0,0,Home,"",-,0
@@ -20463,7 +20464,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Samford,625,Toledo,709,11/21/2012,69,82,Neutral,"Fort Myers, FL",-,"1,370"
 2013,Samford,625,Alcorn,17,11/22/2012,65,69,Neutral,"Fort Myers, FL",1 OT,676
 2013,Samford,625,Texas-Arlington,702,11/24/2012,58,65,Home,"",-,417
-2013,Samford,625,FGCU,28755,11/28/2012,0,0,Home,"",-,0
+2013,Samford,625,FGCU,28755,11/28/2012,62,86,Home,"",-,"1,087"
 2013,Samford,625,Ga. Southern,253,12/01/2012,0,0,Home,"",-,0
 2013,Samford,625,Kentucky,334,12/04/2012,0,0,Away,"",-,0
 2013,Samford,625,Bowling Green,71,12/08/2012,0,0,Away,"",-,0
@@ -20990,7 +20991,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Siena,639,Northern Ky.,505,11/17/2012,56,52,Neutral,"San Diego, CA",-,647
 2013,Siena,639,San Diego,627,11/18/2012,60,77,Away,"",-,"1,114"
 2013,Siena,639,Maine,380,11/25/2012,66,72,Away,"",-,975
-2013,Siena,639,Massachusetts,400,11/28/2012,0,0,Home,"",-,0
+2013,Siena,639,Massachusetts,400,11/28/2012,63,64,Home,"",-,"5,739"
 2013,Siena,639,Albany (NY),14,12/01/2012,0,0,Home,"",-,0
 2013,Siena,639,St. Bonaventure,596,12/04/2012,0,0,Away,"",-,0
 2013,Siena,639,Rider,576,12/07/2012,0,0,Home,"",-,0
@@ -21240,7 +21241,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,South Carolina St.,647,NJIT,471,11/18/2012,77,74,Home,"",-,235
 2013,South Carolina St.,647,Albany (NY),14,11/20/2012,55,83,Home,"",-,414
 2013,South Carolina St.,647,NJIT,471,11/24/2012,63,72,Away,"",-,177
-2013,South Carolina St.,647,Jacksonville,316,11/28/2012,0,0,Home,"",-,0
+2013,South Carolina St.,647,Jacksonville,316,11/28/2012,74,72,Home,"",-,975
 2013,South Carolina St.,647,Norfolk St.,485,12/03/2012,0,0,Home,"",-,0
 2013,South Carolina St.,647,Maryland,392,12/08/2012,0,0,Away,"",-,0
 2013,South Carolina St.,647,Albany (NY),14,12/12/2012,0,0,Away,"",-,0
@@ -21746,9 +21747,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Southern Vt.,1379,Mitchell,30042,02/09/2013,0,0,Home,"",-,0
 2013,Southern Vt.,1379,Lesley,24317,02/16/2013,0,0,Away,"",-,0
 2013,Southwest Baptist,2755,Wayne St. (NE),1433,11/09/2012,43,66,Home,"",-,"1,359"
-2013,Southwest Baptist,2755,Minn. St. Moorhead,1240,11/10/2012,0,0,Home,"",-,0
+2013,Southwest Baptist,2755,Minn. St. Moorhead,1240,11/10/2012,69,92,Home,"",-,567
 2013,Southwest Baptist,2755,Drury,1057,11/13/2012,44,73,Away,"",-,"2,511"
-2013,Southwest Baptist,2755,Ark.-Monticello,8411,11/15/2012,0,0,Home,"",-,0
+2013,Southwest Baptist,2755,Ark.-Monticello,8411,11/15/2012,78,69,Home,"",-,"1,324"
 2013,Southwest Baptist,2755,Missouri S&T,435,11/17/2012,61,75,Away,"",-,225
 2013,Southwest Baptist,2755,Alas. Fairbanks,12,11/23/2012,91,63,Neutral,"Bellingham, Wash. (Carve",-,86
 2013,Southwest Baptist,2755,Western Wash.,1448,11/24/2012,68,88,Away,"",-,522
@@ -21880,7 +21881,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Springfield,673,Becker,26107,11/16/2012,86,84,Neutral,"Bridgewater, Mass.",1 OT,150
 2013,Springfield,673,Bridgewater St.,76,11/17/2012,88,75,Away,"",-,350
 2013,Springfield,673,Lyndon St.,30065,11/20/2012,87,60,Away,"",-,150
-2013,Springfield,673,Keene St.,330,11/27/2012,0,0,Away,"",-,0
+2013,Springfield,673,Keene St.,330,11/27/2012,75,72,Away,"",-,"1,450"
 2013,Springfield,673,Westfield St.,777,11/30/2012,0,0,Away,"",-,0
 2013,Springfield,673,Amherst,24,12/01/2012,0,0,Neutral,"Westfield, MA",-,0
 2013,Springfield,673,Western New Eng.,775,12/04/2012,0,0,Away,"",-,0
@@ -22101,8 +22102,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,St. Francis (PA),600,Bryant,81,03/02/2013,0,0,Away,"",-,0
 2013,St. John Fisher,601,Fredonia St.,242,11/16/2012,79,60,Neutral,"Hamburg, NY",-,257
 2013,St. John Fisher,601,Hilbert,8398,11/17/2012,65,48,Away,"",-,326
-2013,St. John Fisher,601,TBA,,11/28/2012,0,0,Home,"",-,0
-2013,St. John Fisher,601,TBA,,11/30/2012,0,0,Neutral,"Geneva, NY",-,0
+2013,St. John Fisher,601,Brockport,78,11/28/2012,85,72,Home,"",-,549
+2013,St. John Fisher,601,Rochester (NY),581,11/30/2012,0,0,Away,"",-,0
 2013,St. John Fisher,601,TBA,,12/01/2012,0,0,Neutral,"Geneva, NY",-,0
 2013,St. John Fisher,601,Alfred,18,12/04/2012,0,0,Home,"",-,0
 2013,St. John Fisher,601,Elmira,213,12/07/2012,0,0,Home,"",-,0
@@ -22127,6 +22128,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,St. Johns (MN),602,St. Cloud St.,598,11/16/2012,48,67,Home,"",-,"2,889"
 2013,St. Johns (MN),602,Wis.-Stevens Point,802,11/20/2012,52,82,Away,"",-,"1,080"
 2013,St. Johns (MN),602,Hamline,268,11/28/2012,0,0,Away,"",-,0
+2013,St. Johns (MN),602,Hamline,268,11/28/2012,59,75,Away,"",-,715
 2013,St. Johns (MN),602,Gust. Adolphus,266,12/01/2012,0,0,Away,"",-,0
 2013,St. Johns (MN),602,Carleton,118,12/03/2012,0,0,Away,"",-,0
 2013,St. Johns (MN),602,Macalester,376,12/05/2012,0,0,Home,"",-,0
@@ -22473,7 +22475,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,St. Marys (MN),612,Northwestern (MN),30031,11/16/2012,0,0,Away,"",-,0
 2013,St. Marys (MN),612,North Central (MN),30039,11/17/2012,78,83,Away,"",-,417
 2013,St. Marys (MN),612,Dominican (IL),1332,11/20/2012,53,56,Away,"",-,55
-2013,St. Marys (MN),612,St. Olaf,615,11/28/2012,0,0,Home,"",-,0
+2013,St. Marys (MN),612,St. Olaf,615,11/28/2012,62,80,Home,"",-,72
 2013,St. Marys (MN),612,Hamline,268,12/03/2012,0,0,Away,"",-,0
 2013,St. Marys (MN),612,St. Thomas (MN),620,12/05/2012,0,0,Home,"",-,0
 2013,St. Marys (MN),612,Crown (MN),30035,12/08/2012,0,0,Home,"",-,0
@@ -22573,7 +22575,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,St. Olaf,615,Bethany Lutheran,30038,11/15/2012,74,66,Away,"",-,200
 2013,St. Olaf,615,Wis.-Stevens Point,802,11/17/2012,81,82,Home,"",-,249
 2013,St. Olaf,615,Luther,372,11/19/2012,75,81,Home,"",-,310
-2013,St. Olaf,615,Saint Mary's (MN),612,11/28/2012,0,0,Away,"",-,0
+2013,St. Olaf,615,Saint Mary's (MN),612,11/28/2012,80,62,Away,"",-,72
 2013,St. Olaf,615,Macalester,376,12/01/2012,0,0,Away,"",-,0
 2013,St. Olaf,615,Gust. Adolphus,266,12/03/2012,0,0,Home,"",-,0
 2013,St. Olaf,615,Wis.-Eau Claire,793,12/28/2012,0,0,Away,"",-,0
@@ -22626,7 +22628,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,St. Rose,1347,Mercy,407,11/10/2012,69,53,Home,"",-,389
 2013,St. Rose,1347,Concordia (NY),162,11/11/2012,85,56,Home,"",-,219
 2013,St. Rose,1347,New Haven,470,11/14/2012,83,69,Home,"",-,489
-2013,St. Rose,1347,Le Moyne,349,11/20/2012,0,0,Away,"",-,0
+2013,St. Rose,1347,Le Moyne,349,11/20/2012,68,66,Away,"",-,0
 2013,St. Rose,1347,Adelphi,3,11/28/2012,0,0,Home,"",-,0
 2013,St. Rose,1347,Pace,533,12/01/2012,0,0,Away,"",-,0
 2013,St. Rose,1347,Assumption,36,12/05/2012,0,0,Home,"",-,0
@@ -22653,7 +22655,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,St. Scholastica,618,Bethel (MN),60,11/17/2012,61,75,Neutral,Robertson Center Gym,-,523
 2013,St. Scholastica,618,Wis.-River Falls,801,11/24/2012,43,69,Neutral,"Superior, WI",-,0
 2013,St. Scholastica,618,Wis.-Superior,804,11/25/2012,54,72,Away,"",-,347
-2013,St. Scholastica,618,Wis.-Eau Claire,793,11/28/2012,0,0,Away,"",-,0
+2013,St. Scholastica,618,Wis.-Eau Claire,793,11/28/2012,70,84,Away,"",-,302
 2013,St. Scholastica,618,Finlandia,30032,12/01/2012,0,0,Home,"",-,0
 2013,St. Scholastica,618,Pacific Lutheran,1297,12/03/2012,0,0,Away,"",-,0
 2013,St. Scholastica,618,Puget Sound,557,12/04/2012,0,0,Away,"",-,0
@@ -22676,8 +22678,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,St. Scholastica,618,Northwestern (MN),30031,02/16/2013,0,0,Home,"",-,0
 2013,St. Thomas (MN),620,Whitman,780,11/15/2012,104,81,Away,"",-,300
 2013,St. Thomas (MN),620,Whitworth,1454,11/17/2012,70,65,Away,"",-,"1,275"
-2013,St. Thomas (MN),620,Wis.-River Falls,801,11/20/2012,0,0,Home,"",-,0
-2013,St. Thomas (MN),620,Macalester,376,11/28/2012,0,0,Away,"",-,0
+2013,St. Thomas (MN),620,Wis.-River Falls,801,11/20/2012,75,62,Home,"",-,775
+2013,St. Thomas (MN),620,Macalester,376,11/28/2012,88,40,Away,"",-,400
 2013,St. Thomas (MN),620,Hamline,268,12/01/2012,0,0,Away,"",-,0
 2013,St. Thomas (MN),620,Concordia-M'head,161,12/03/2012,0,0,Home,"",-,0
 2013,St. Thomas (MN),620,Saint Mary's (MN),612,12/05/2012,0,0,Away,"",-,0
@@ -22972,7 +22974,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Stony Brook,683,Sacred Heart,590,11/18/2012,62,64,Home,"",-,"1,137"
 2013,Stony Brook,683,Canisius,116,11/24/2012,82,75,Home,"",-,"1,014"
 2013,Stony Brook,683,Connecticut,164,11/25/2012,62,73,Away,"",-,"8,474"
-2013,Stony Brook,683,Cornell,167,11/28/2012,0,0,Away,"",-,0
+2013,Stony Brook,683,Cornell,167,11/28/2012,76,53,Away,"",-,"1,816"
 2013,Stony Brook,683,Eastern Ill.,201,12/01/2012,0,0,Home,"",-,0
 2013,Stony Brook,683,St. Francis (NY),599,12/11/2012,0,0,Away,"",-,0
 2013,Stony Brook,683,Sacred Heart,590,12/18/2012,0,0,Away,"",-,0
@@ -23074,8 +23076,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,SUNY Geneseo,247,New York U.,479,11/17/2012,74,84,Away,"",-,585
 2013,SUNY Geneseo,247,Gwynedd-Mercy,12399,11/18/2012,99,77,Neutral,Coles Sports Center - Ne,-,211
 2013,SUNY Geneseo,247,D'Youville,1059,11/24/2012,120,66,Away,"",-,139
-2013,SUNY Geneseo,247,To Be Announced,,11/28/2012,0,0,Neutral,"Rochester, NY",-,0
-2013,SUNY Geneseo,247,To Be Announced,,11/30/2012,0,0,Neutral,"Rochester, NY",-,0
+2013,SUNY Geneseo,247,Nazareth,461,11/28/2012,0,0,Neutral,"Rochester, NY",-,0
+2013,SUNY Geneseo,247,Roberts Wesleyan,,11/30/2012,0,0,Neutral,"Rochester, NY",-,0
 2013,SUNY Geneseo,247,To Be Announced,,12/01/2012,0,0,Neutral,"Rochester, NY",-,0
 2013,SUNY Geneseo,247,SUNY Cortland,168,12/04/2012,0,0,Home,"",-,0
 2013,SUNY Geneseo,247,SUNY Oneonta,526,12/07/2012,0,0,Away,"",-,0
@@ -23458,7 +23460,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Tennessee Tech,692,Coastal Caro.,149,11/15/2012,71,69,Home,"",-,"1,231"
 2013,Tennessee Tech,692,East Tenn. St.,198,11/17/2012,65,62,Away,"",-,"2,526"
 2013,Tennessee Tech,692,Evansville,219,11/20/2012,50,62,Home,"",-,"2,027"
-2013,Tennessee Tech,692,Loyola Chicago,371,11/28/2012,0,0,Away,"",-,0
 2013,Tennessee Tech,692,Loyola Chicago,371,11/28/2012,78,81,Away,"",-,"1,812"
 2013,Tennessee Tech,692,Lipscomb,28600,11/30/2012,0,0,Away,"",-,0
 2013,Tennessee Tech,692,Berea,30171,12/03/2012,0,0,Home,"",-,0
@@ -23719,7 +23720,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Texas Southern,699,Kansas St.,327,12/18/2012,0,0,Away,"",-,0
 2013,Texas Southern,699,FIU,231,12/22/2012,0,0,Home,"",-,0
 2013,Texas Southern,699,Akron,5,12/27/2012,0,0,Away,"",-,0
-2013,Texas Southern,699,Colorado,157,12/27/2012,80,85,Away,"",2 OT,"8,325"
 2013,Texas Southern,699,Southern U.,665,01/02/2013,0,0,Away,"",-,0
 2013,Texas Southern,699,Alcorn,17,01/04/2013,0,0,Away,"",-,0
 2013,Texas Southern,699,Prairie View,553,01/06/2013,0,0,Away,"",-,0
@@ -23982,7 +23982,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Toledo,709,UNI,504,11/14/2012,81,84,Away,"",1 OT,"3,257"
 2013,Toledo,709,Samford,625,11/21/2012,82,69,Neutral,"Fort Myers, FL",-,"1,370"
 2013,Toledo,709,FGCU,28755,11/22/2012,66,72,Away,"",-,676
-2013,Toledo,709,A&M-Corpus Christi,26172,11/28/2012,0,0,Home,"",-,0
+2013,Toledo,709,A&M-Corpus Christi,26172,11/28/2012,80,68,Home,"",-,"3,689"
 2013,Toledo,709,Cleveland St.,148,12/01/2012,0,0,Away,"",-,0
 2013,Toledo,709,Detroit,184,12/05/2012,0,0,Away,"",-,0
 2013,Toledo,709,Eastern Ill.,201,12/08/2012,0,0,Away,"",-,0
@@ -24114,7 +24114,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Trinity (TX),715,Chicago,137,11/18/2012,49,64,Away,"",-,613
 2013,Trinity (TX),715,Texas Lutheran,1400,11/20/2012,0,0,Home,"",-,0
 2013,Trinity (TX),715,Schreiner,1355,11/26/2012,0,0,Home,"",-,0
-2013,Trinity (TX),715,Mary Hardin-Baylor,1203,11/28/2012,0,0,Home,"",-,0
+2013,Trinity (TX),715,Mary Hardin-Baylor,1203,11/28/2012,56,57,Home,"",1 OT,311
 2013,Trinity (TX),715,Centenary (LA),125,11/30/2012,0,0,Away,"",-,0
 2013,Trinity (TX),715,Austin,953,12/01/2012,0,0,Away,"",-,0
 2013,Trinity (TX),715,Howard Payne,2741,12/17/2012,0,0,Neutral,"Georgetown, TX",-,0
@@ -24421,7 +24421,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,UC Davis,108,Oklahoma St.,521,11/09/2012,65,73,Away,"",-,"9,853"
 2013,UC Davis,108,Northern Ariz.,501,11/18/2012,82,85,Home,"",-,"1,345"
 2013,UC Davis,108,Sacramento St.,102,11/20/2012,87,76,Away,"",-,"1,269"
-2013,UC Davis,108,Nevada,466,11/28/2012,0,0,Away,"",-,0
+2013,UC Davis,108,Nevada,466,11/28/2012,83,84,Away,"",-,"5,892"
 2013,UC Davis,108,Idaho,295,12/01/2012,0,0,Away,"",-,0
 2013,UC Davis,108,San Jose St.,630,12/05/2012,0,0,Home,"",-,0
 2013,UC Davis,108,Stanford,674,12/15/2012,0,0,Away,"",-,0
@@ -25178,7 +25178,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Utica,733,SUNYIT,9500,11/20/2012,97,80,Home,"",-,159
 2013,Utica,733,New York U.,479,11/24/2012,57,78,Neutral,"Clinton, NY",-,175
 2013,Utica,733,Union (NY),727,11/25/2012,69,86,Neutral,"Clinton, NY",-,147
-2013,Utica,733,SUNY Canton,30165,11/28/2012,0,0,Away,"",-,0
+2013,Utica,733,SUNY Canton,,11/28/2012,89,66,Away,"",-,0
 2013,Utica,733,Hartwick,273,12/04/2012,0,0,Away,"",-,0
 2013,Utica,733,Stevens,679,12/07/2012,0,0,Home,"",-,0
 2013,Utica,733,Union (NY),727,12/11/2012,0,0,Away,"",-,0
@@ -25460,7 +25460,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Virginia,746,Seattle,1356,11/17/2012,83,43,Home,"",-,"9,160"
 2013,Virginia,746,Lamar,346,11/19/2012,63,44,Home,"",-,"1,444"
 2013,Virginia,746,North Texas,497,11/20/2012,80,64,Home,"",-,"1,745"
-2013,Virginia,746,Wisconsin,796,11/28/2012,0,0,Away,"",-,0
+2013,Virginia,746,Wisconsin,796,11/28/2012,60,54,Away,"",-,"16,690"
 2013,Virginia,746,Green Bay,794,12/01/2012,0,0,Home,"",-,0
 2013,Virginia,746,Tennessee,694,12/05/2012,0,0,Home,"",-,0
 2013,Virginia,746,Mississippi Val.,432,12/08/2012,0,0,Home,"",-,0
@@ -25708,7 +25708,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Wash. & Jeff.,751,Hood,8404,11/18/2012,70,71,Home,"",1 OT,200
 2013,Wash. & Jeff.,751,Juniata,325,11/20/2012,53,64,Away,"",-,0
 2013,Wash. & Jeff.,751,Muskingum,455,11/24/2012,81,79,Home,"",-,150
-2013,Wash. & Jeff.,751,Westminster (PA),1451,11/28/2012,0,0,Home,"",-,0
+2013,Wash. & Jeff.,751,Westminster (PA),1451,11/28/2012,92,87,Home,"",1 OT,335
 2013,Wash. & Jeff.,751,Thiel,707,12/01/2012,0,0,Away,"",-,0
 2013,Wash. & Jeff.,751,Saint Vincent,30064,12/05/2012,0,0,Home,"",-,0
 2013,Wash. & Jeff.,751,Thomas More,1402,12/08/2012,0,0,Away,"",-,0
@@ -26028,7 +26028,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Webster,759,Rust,586,11/18/2012,100,84,Home,"",-,197
 2013,Webster,759,Cincinnati Christian,,11/23/2012,78,82,Neutral,Derek Smith Gymnasium,-,0
 2013,Webster,759,Asbury,,11/24/2012,93,91,Neutral,Derek Smith Gymnasium,1 OT,0
-2013,Webster,759,Blackburn,64,11/28/2012,0,0,Home,"",-,0
+2013,Webster,759,Blackburn,64,11/28/2012,87,54,Home,"",-,210
 2013,Webster,759,Greenville,1111,12/01/2012,0,0,Away,"",-,0
 2013,Webster,759,Washington-St. Louis,755,12/05/2012,0,0,Home,"",-,0
 2013,Webster,759,Elmhurst,212,12/08/2012,0,0,Away,"",-,0
@@ -26053,7 +26053,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Wells,761,Grove City,265,11/17/2012,0,0,Neutral,"Erie, PA",-,0
 2013,Wells,761,Keystone,30047,11/20/2012,0,0,Home,"",-,0
 2013,Wells,761,Hartwick,273,11/25/2012,0,0,Away,"",-,0
-2013,Wells,761,Alfred,18,11/28/2012,0,0,Home,"",-,0
+2013,Wells,761,Alfred,18,11/28/2012,79,77,Home,"",1 OT,455
 2013,Wells,761,Ithaca,313,11/30/2012,0,0,Away,"",-,0
 2013,Wells,761,Nazareth,461,12/04/2012,0,0,Home,"",-,0
 2013,Wells,761,Cazenovia,23624,12/06/2012,0,0,Home,"",-,0
@@ -26366,7 +26366,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,West Virginia,768,Iowa St.,311,03/09/2013,0,0,Home,"",-,0
 2013,West Virginia St.,1439,Kutztown,339,11/09/2012,76,72,Neutral,Mercyhurst Athletic Cent,-,0
 2013,West Virginia St.,1439,Mercyhurst,408,11/10/2012,40,63,Away,"",-,274
-2013,West Virginia St.,1439,Mount Olive,1245,11/16/2012,0,0,Away,"",-,0
+2013,West Virginia St.,1439,Mount Olive,1245,11/16/2012,72,68,Away,"",-,"1,026"
 2013,West Virginia St.,1439,Lenoir-Rhyne,1170,11/17/2012,0,0,Neutral,"Mount Olive, NC",-,0
 2013,West Virginia St.,1439,Seton Hill,30063,11/20/2012,0,0,Away,"",-,0
 2013,West Virginia St.,1439,Concord,1028,11/29/2012,0,0,Home,"",-,0
@@ -26722,7 +26722,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Westminster (PA),1451,Mount Union,452,11/16/2012,67,58,Home,"",-,600
 2013,Westminster (PA),1451,Muskingum,455,11/17/2012,78,60,Home,"",-,450
 2013,Westminster (PA),1451,Pitt.-Bradford,1315,11/20/2012,64,66,Away,"",-,181
-2013,Westminster (PA),1451,Wash. & Jeff.,751,11/28/2012,0,0,Away,"",-,0
+2013,Westminster (PA),1451,Wash. & Jeff.,751,11/28/2012,87,92,Away,"",1 OT,335
 2013,Westminster (PA),1451,Saint Vincent,30064,12/01/2012,0,0,Away,"",-,0
 2013,Westminster (PA),1451,Thiel,707,12/05/2012,0,0,Home,"",-,0
 2013,Westminster (PA),1451,La Roche,1163,12/17/2012,0,0,Home,"",-,0
@@ -26951,7 +26951,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Widener,783,Skidmore,642,11/17/2012,55,56,Home,"",1 OT,215
 2013,Widener,783,Cabrini,88,11/24/2012,60,81,Neutral,"Aston, Pa. - The Mirenda",-,323
 2013,Widener,783,Cabrini,88,11/27/2012,60,81,Neutral,"Aston, Pa. - The Mirenda",-,323
-2013,Widener,783,Elizabethtown,211,11/28/2012,0,0,Home,"",-,0
+2013,Widener,783,Elizabethtown,211,11/28/2012,80,70,Home,"",-,465
 2013,Widener,783,Lebanon Valley,351,12/01/2012,0,0,Away,"",-,0
 2013,Widener,783,Albright,16,12/05/2012,0,0,Away,"",-,0
 2013,Widener,783,Stevenson,21852,12/08/2012,0,0,Home,"",-,0
@@ -27029,7 +27029,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,William & Mary,786,Richmond,575,11/20/2012,78,86,Away,"",2 OT,"4,052"
 2013,William & Mary,786,Miami (OH),414,11/21/2012,59,72,Home,"",-,"3,851"
 2013,William & Mary,786,Wake Forest,749,11/23/2012,57,63,Away,"",-,"7,264"
-2013,William & Mary,786,Richmond,575,11/28/2012,0,0,Away,"",-,0
+2013,William & Mary,786,Richmond,575,11/28/2012,78,86,Away,"",2 OT,"4,052"
 2013,William & Mary,786,Old Dominion,523,12/01/2012,0,0,Home,"",-,0
 2013,William & Mary,786,Howard,290,12/06/2012,0,0,Home,"",-,0
 2013,William & Mary,786,Radford,563,12/08/2012,0,0,Away,"",-,0
@@ -27266,7 +27266,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Wis.-Eau Claire,793,Hamline,268,11/20/2012,78,84,Away,"",-,411
 2013,Wis.-Eau Claire,793,Crown (MN),30035,11/24/2012,71,53,Away,"",-,132
 2013,Wis.-Eau Claire,793,Loras,364,11/26/2012,71,58,Away,"",-,275
-2013,Wis.-Eau Claire,793,St. Scholastica,618,11/28/2012,0,0,Home,"",-,0
+2013,Wis.-Eau Claire,793,St. Scholastica,618,11/28/2012,84,70,Home,"",-,302
 2013,Wis.-Eau Claire,793,Wis.-La Crosse,795,12/01/2012,0,0,Home,"",-,0
 2013,Wis.-Eau Claire,793,Wis.-Platteville,800,12/05/2012,0,0,Away,"",-,0
 2013,Wis.-Eau Claire,793,Wis.-Whitewater,805,12/08/2012,0,0,Away,"",-,0
@@ -27388,8 +27388,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Wis.-Platteville,800,Wis.-La Crosse,795,02/09/2013,0,0,Home,"",-,0
 2013,Wis.-Platteville,800,Wis.-Eau Claire,793,02/13/2013,0,0,Away,"",-,0
 2013,Wis.-River Falls,801,North Central (MN),30039,11/16/2012,89,69,Away,"",-,201
-2013,Wis.-River Falls,801,Northwestern (MN),30031,11/17/2012,0,0,Away,"",-,0
-2013,Wis.-River Falls,801,St. Thomas (MN),620,11/20/2012,0,0,Away,"",-,0
+2013,Wis.-River Falls,801,Northwestern (MN),30031,11/17/2012,69,78,Away,"",-,"1,123"
+2013,Wis.-River Falls,801,St. Thomas (MN),620,11/20/2012,62,75,Away,"",-,775
 2013,Wis.-River Falls,801,St. Scholastica,618,11/24/2012,69,43,Neutral,"Superior, WI",-,0
 2013,Wis.-River Falls,801,Concordia-M'head,161,11/25/2012,90,84,Neutral,"Superior, WI",1 OT,0
 2013,Wis.-River Falls,801,Wis.-Platteville,800,12/01/2012,0,0,Home,"",-,0
@@ -27467,7 +27467,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Wis.-Superior,804,Augsburg,38,11/19/2012,74,86,Home,"",-,369
 2013,Wis.-Superior,804,Concordia-M'head,161,11/24/2012,90,95,Home,"",2 OT,215
 2013,Wis.-Superior,804,St. Scholastica,618,11/25/2012,72,54,Home,"",-,347
-2013,Wis.-Superior,804,Northwestern (MN),30031,11/28/2012,0,0,Away,"",-,0
+2013,Wis.-Superior,804,Northwestern (MN),30031,11/28/2012,68,97,Away,"",-,"1,023"
 2013,Wis.-Superior,804,Wis.-Stevens Point,802,12/01/2012,0,0,Home,"",-,0
 2013,Wis.-Superior,804,Wis.-Stout,803,12/05/2012,0,0,Home,"",-,0
 2013,Wis.-Superior,804,Wis.-La Crosse,795,12/08/2012,0,0,Home,"",-,0
@@ -27489,7 +27489,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Wis.-Superior,804,Wis.-Whitewater,805,02/09/2013,0,0,Away,"",-,0
 2013,Wis.-Superior,804,Wis.-La Crosse,795,02/16/2013,0,0,Away,"",-,0
 2013,Wis.-Whitewater,805,Beloit,53,11/17/2012,75,68,Home,"",-,"1,015"
-2013,Wis.-Whitewater,805,Aurora,42,11/23/2012,0,0,Neutral,"Kenosha, WI",-,0
+2013,Wis.-Whitewater,805,Aurora,42,11/23/2012,107,68,Neutral,"Kenosha, Wis./Tarble Are",-,250
 2013,Wis.-Whitewater,805,Carthage,121,11/24/2012,74,69,Away,"",-,475
 2013,Wis.-Whitewater,805,Ill. Wesleyan,300,11/27/2012,71,65,Away,"",-,807
 2013,Wis.-Whitewater,805,Wis.-Stout,803,12/01/2012,0,0,Away,"",-,0
@@ -27519,7 +27519,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Wisconsin,796,Presbyterian,1320,11/20/2012,88,43,Home,"",-,"16,656"
 2013,Wisconsin,796,Creighton,169,11/23/2012,74,84,Neutral,"Las Vegas, NV",-,"3,500"
 2013,Wisconsin,796,Arkansas,31,11/24/2012,77,70,Neutral,"Las Vegas, NV",-,"2,700"
-2013,Wisconsin,796,Virginia,746,11/28/2012,0,0,Home,"",-,0
+2013,Wisconsin,796,Virginia,746,11/28/2012,54,60,Home,"",-,"16,690"
 2013,Wisconsin,796,California,107,12/02/2012,0,0,Home,"",-,0
 2013,Wisconsin,796,Neb. Omaha,464,12/04/2012,0,0,Home,"",-,0
 2013,Wisconsin,796,Marquette,387,12/08/2012,0,0,Away,"",-,0
@@ -27572,7 +27572,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2013,Wm. Paterson,787,DeSales,20,11/16/2012,59,54,Neutral,"Hackettstown, N.J.",-,0
 2013,Wm. Paterson,787,Stevens,679,11/17/2012,55,71,Neutral,"Hackettstown, NJ",-,94
 2013,Wm. Paterson,787,TCNJ,712,11/20/2012,94,63,Home,"",-,650
-2013,Wm. Paterson,787,FDU-Florham,221,11/26/2012,0,0,Away,"",-,0
 2013,Wm. Paterson,787,FDU-Florham,221,11/26/2012,69,61,Away,"",-,228
 2013,Wm. Paterson,787,Montclair St.,442,11/28/2012,78,58,Home,"",-,800
 2013,Wm. Paterson,787,Richard Stockton,681,12/01/2012,0,0,Away,"",-,0

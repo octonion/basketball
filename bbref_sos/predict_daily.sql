@@ -17,5 +17,5 @@ join bbref._factors o
   on (o.parameter,o.level)=('field','offense_home')
 join bbref._factors d
   on (d.parameter,d.level)=('field','defense_home')
-where p.game_date::date=current_date-1
+where p.game_date::date=current_date
 order by p.home_id asc;

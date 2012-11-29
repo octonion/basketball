@@ -10,7 +10,7 @@ INSERT 0 30
   5 | Los Angeles Clippers   | 1.049 | 1.027 | 0.978 | 1.008
   6 | Miami Heat             | 1.045 | 1.050 | 1.005 | 1.007
   7 | Denver Nuggets         | 1.026 | 1.024 | 0.998 | 1.003
-  8 | Brooklyn Nets          | 1.025 | 0.985 | 0.962 | 0.998
+  8 | Brooklyn Nets          | 1.024 | 0.985 | 0.962 | 0.998
   9 | Los Angeles Lakers     | 1.022 | 1.009 | 0.987 | 1.000
  10 | Atlanta Hawks          | 1.021 | 0.989 | 0.968 | 0.999
  11 | Houston Rockets        | 1.021 | 1.033 | 1.012 | 1.002
