@@ -1,11 +1,11 @@
 #!/bin/bash
 
-cmd="psql --tuples-only --command \"select count(*) from pg_database where datname = 'basketball';\""
+cmd="psql template1 --tuples-only --command \"select count(*) from pg_database where datname = 'basketball';\""
 
 db_exists=`eval $cmd`
  
-if [ $db_exists -eq 0 ] ; then
-   cmd="psql -t -c \"create database basketball\" > /dev/null 2>&1"
+if [ $db_exists -eq 0 ]; then
+   cmd="psql template1 -t -c \"create database basketball\" > /dev/null 2>&1"
 #   cmd="psql -t -c \"$sql\" > /dev/null 2>&1"
 #   cmd="createdb basketball"
    eval $cmd
