@@ -1,0 +1,1813 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+					<title>NBA GT In Game</title>
+				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0"/>
+		<meta name="apple-mobile-web-app-capable" content="yes"/>
+		<meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+		<link rel="apple-touch-icon" href="/webapp/icon.png"/>
+		<link rel="apple-touch-icon-precomposed" href="/webapp/icon.png"/>
+		<link rel="apple-touch-startup-image" href="/webapp/startup.png"/>
+		<link rel="stylesheet" type="text/css" href="/s/store/-1/webapp/styles/webapp.css"/>
+		<link rel="stylesheet" type="text/css" href="/s/store/-1/webapp/styles/cbs_cbswebapp.css"/>
+		<script src="/s/store/-1/webapp/scripts/jquery-1.5.min.js">//jquery</script> 
+		<script language="javascript" type="application/javascript" src="/s/store/-1/webapp/scripts/iscroll.js">//iscroll</script>
+		<script language="javascript" type="application/javascript" src="/s/store/-1/webapp/scripts/webapp.js">//webapp</script>
+		<script language="javascript" type="application/javascript" src="/s/store/-1/webapp/scripts/cbs_cbswebapp.js">//retailer</script>
+				<script language='javascript' type='application/javascript'>function hideAddrBar(){setTimeout(function() { window.scrollTo(0, 1);}, 300);}hideAddrBar();</script> <link type='text/css' rel='stylesheet' href='http://fonts.googleapis.com/css?family=Exo:400,500,600,700'/><script language='javascript' type='application/javascript' src='/s/store/-1/webapp/scripts/swipe.js'>Swipe</script>
+		
+		
+	</head>
+	<body>
+
+<style type="text/css">
+	.cbsMenuContainer{
+		cursor:pointer;
+		border-top: 1px solid #5c5e61;
+		border-right: 2px solid #CCCDCD;
+		position: absolute;
+		width: 80%;
+		left: -81%;
+		font-family: 'Exo', sans-serif;
+		font-style: normal;
+		background: -moz-linear-gradient(left, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.6) 100%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(0,0,0,0.6)), color-stop(100%,rgba(0,0,0,0.6))); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(left, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%); /* Chrome10+,Safari5.1+ */
+		z-index: 121;
+		top: 50px;
+	}
+	.cbsMenuContainer ul{
+		list-style:none;
+		display:block;
+		float:left;
+		width: 100%;
+		padding: 0;
+		margin:0;
+	}
+	.cbsMenuContainer li{
+		float:left;
+		padding: 0;
+		margin: 0;
+		text-align:left;
+		width: 100%;
+		height: 56px;
+		font-size: 17px;
+		border-bottom: 1px solid #5c5e61;
+	}
+	.vsText{
+		font-family: 'Exo';
+		font-style: normal;
+		font-weight: 700;
+		font-size: 16px; 
+		color: #ffffff; 
+	}	
+	.vsScoreText{
+		font-family: Arial;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 10px; 
+		color: #ffffff; 
+	}	
+	.vsGameTracker{
+		background: url('/s/store/-1/webapp/cbs/images/header_cbsLogo.png') no-repeat center;
+		background-size: 143px 45px;
+		background-position-y: 0px;			
+		cursor:pointer;
+		font-family: 'Exo';
+		font-style: normal;
+		font-weight: 700;
+		font-size: 10px; 
+		color: #559cd6; 
+	}
+</style>
+<script type="text/javascript">
+	selectedArena = "NBA";	
+	mArrowRtGr = "/s/store/-1/webapp/cbs/images/menu_arrow_right.png";
+	mArrowRtWt = "/s/store/-1/webapp/cbs/images/menu_arrow_right_white.png";
+	mArrowDn = "/s/store/-1/webapp/cbs/images/menu_arrow_down.png";
+	highlightMenuFlag = "true"
+	if(highlightMenuFlag == "true"){
+		menuId = "menu3";
+		mIndex = "3";
+		prevMenuIndex = "3";
+		menuCount = "13";
+		subMenusId = "subMenus3";
+		subMenuCount = "6";
+		subMenuId = "NBA_sm_1";
+		arrowId = "arrow3";
+		smArrowId = "NBA_smArrow_1";
+		selSubMenuIndex = "1";
+	}
+</script>
+
+<div id="cbsHeader" class="headerBg" style="left: 0px;top: 0px;">
+<table width="100%" cellpadding="0" cellspacing="0"><tr><td id="menuImg" style="padding-left: 5px; cursor:pointer;" width="25%" onclick="toggleMenu();" valign="middle">				<img src="/s/store/-1/webapp/cbs/images/header_menu.png" height="50px" style="display: block;"/>
+</td>			
+<td width="50%" align="center" class="vsGameTracker" onclick="window.location.href='/s/36896/Home?platform=webapp'" valign="middle">					<span style="display: inline-block;padding: 28px 0px 0px 70px;">GAMETRACKER</span>		
+</td><td style="height: 45px" width="25%" align="center" valign="middle">					<div id="hdr_vsOpen"  onclick="showVSData('/s/data.do?pageId=PushScore&siteId=107433&gameDate=11-26-2012&conference=&isPushDown=true&platform=ajax','hdr_vsOpen')" style="display: block;cursor: pointer;">
+						<div class="vsText" style="padding-top: 5px;">VS</div>
+						<div class="vsScoreText">Scores</div>
+					</div>
+					<div style="display: none;cursor: pointer;" onclick="showVSData('', 'hdr_vsClose')" id="hdr_vsClose">
+						<img src="/s/store/-1/webapp/cbs/images/vs_scores_close.png"  height="15px" width="15px" style="display: block;vertical-align: middle;"/>
+					</div>
+</td></tr></table></div>
+<div id="cbsMenuContainer" class="cbsMenuContainer">
+		<ul>
+							<li id="homeLink" class="menuUnSelected" onclick="loadCBSHomeSite('/s/36896/Home?platform=webapp')">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 12px" width="80%" valign="middle">											HOME
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">											<img src="/s/store/-1/webapp/cbs/images/home_icon.png" width="20px" height="20px"/>
+</td></tr></table>							</li>
+					<li id="menu1" class="menuUnSelected" onclick="toggleSubMenu('1', '13', '')">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 12px" width="80%" valign="middle">									NFL
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">									<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="arrow1" />
+</td></tr></table>					</li>
+						<ul id="subMenus1" style="display:none">
+									<li id="NFL_sm_0" class="subMenuUnSelected" onclick="loadSiteSection('NFL', '/s/36902/Home?platform=webapp', '6', '0');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													HOME
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NFL_smArrow_0"/>
+</td></tr></table>									</li>	
+									<li id="NFL_sm_1" class="subMenuUnSelected" onclick="loadSiteSection('NFL', '/s/36902/Scores?platform=webapp', '6', '1');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													SCORES
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NFL_smArrow_1"/>
+</td></tr></table>									</li>	
+									<li id="NFL_sm_2" class="subMenuUnSelected" onclick="loadSiteSection('NFL', '/s/36902/Standings?platform=webapp', '6', '2');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													STANDINGS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NFL_smArrow_2"/>
+</td></tr></table>									</li>	
+									<li id="NFL_sm_3" class="subMenuUnSelected" onclick="loadSiteSection('NFL', '/s/36902/Teams?platform=webapp', '6', '3');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													TEAMS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NFL_smArrow_3"/>
+</td></tr></table>									</li>	
+									<li id="NFL_sm_4" class="subMenuUnSelected" onclick="loadSiteSection('NFL', '/s/36902/PowerRankings?platform=webapp', '6', '4');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													POWER RANKINGS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NFL_smArrow_4"/>
+</td></tr></table>									</li>	
+									<li id="NFL_sm_5" class="subMenuUnSelected" onclick="loadSiteSection('NFL', '/s/36902/PlayerStatsLeader?platform=webapp', '6', '5');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													PLAYER STATS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NFL_smArrow_5"/>
+</td></tr></table>									</li>	
+						</ul>
+					<li id="menu2" class="menuUnSelected" onclick="toggleSubMenu('2', '13', '')">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 12px" width="80%" valign="middle">									MLB
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">									<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="arrow2" />
+</td></tr></table>					</li>
+						<ul id="subMenus2" style="display:none">
+									<li id="MLB_sm_0" class="subMenuUnSelected" onclick="loadSiteSection('MLB', '/s/36897/Home?platform=webapp', '6', '0');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													HOME
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="MLB_smArrow_0"/>
+</td></tr></table>									</li>
+									<li id="MLB_sm_1" class="subMenuUnSelected" onclick="loadSiteSection('MLB', '/s/36897/Scores?platform=webapp', '6', '1');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													SCORES
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="MLB_smArrow_1"/>
+</td></tr></table>									</li>
+									<li id="MLB_sm_2" class="subMenuUnSelected" onclick="loadSiteSection('MLB', '/s/36897/Standings?platform=webapp', '6', '2');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													STANDINGS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="MLB_smArrow_2"/>
+</td></tr></table>									</li>
+									<li id="MLB_sm_3" class="subMenuUnSelected" onclick="loadSiteSection('MLB', '/s/36897/Teams?platform=webapp', '6', '3');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													TEAMS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="MLB_smArrow_3"/>
+</td></tr></table>									</li>
+									<li id="MLB_sm_4" class="subMenuUnSelected" onclick="loadSiteSection('MLB', '/s/36897/PowerRankings?platform=webapp', '6', '4');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													POWER RANKINGS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="MLB_smArrow_4"/>
+</td></tr></table>									</li>
+									<li id="MLB_sm_5" class="subMenuUnSelected" onclick="loadSiteSection('MLB', '/s/36897/PlayerStatsLeader?platform=webapp', '6', '5');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													PLAYER STATS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="MLB_smArrow_5"/>
+</td></tr></table>									</li>
+						</ul>
+					<li id="menu3" class="menuUnSelected" onclick="toggleSubMenu('3', '13', '')">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 12px" width="80%" valign="middle">									NBA
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">									<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="arrow3" />
+</td></tr></table>					</li>
+						<ul id="subMenus3" style="display:none">
+									<li id="NBA_sm_0" class="subMenuUnSelected" onclick="loadSiteSection('NBA', '/s/36899/Home?platform=webapp', '6', '0');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													HOME
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NBA_smArrow_0"/>
+</td></tr></table>									</li>
+									<li id="NBA_sm_1" class="subMenuUnSelected" onclick="loadSiteSection('NBA', '/s/36899/Scores?platform=webapp', '6', '1');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													SCORES
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NBA_smArrow_1"/>
+</td></tr></table>									</li>
+									<li id="NBA_sm_2" class="subMenuUnSelected" onclick="loadSiteSection('NBA', '/s/36899/Standings?platform=webapp', '6', '2');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													STANDINGS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NBA_smArrow_2"/>
+</td></tr></table>									</li>
+									<li id="NBA_sm_3" class="subMenuUnSelected" onclick="loadSiteSection('NBA', '/s/36899/Teams?platform=webapp', '6', '3');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													TEAMS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NBA_smArrow_3"/>
+</td></tr></table>									</li>
+									<li id="NBA_sm_4" class="subMenuUnSelected" onclick="loadSiteSection('NBA', '/s/36899/PowerRankings?platform=webapp', '6', '4');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													POWER RANKINGS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NBA_smArrow_4"/>
+</td></tr></table>									</li>
+									<li id="NBA_sm_5" class="subMenuUnSelected" onclick="loadSiteSection('NBA', '/s/36899/PlayerStatsLeader?platform=webapp', '6', '5');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													PLAYER STATS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NBA_smArrow_5"/>
+</td></tr></table>									</li>
+						</ul>
+					<li id="menu4" class="menuUnSelected" onclick="toggleSubMenu('4', '13', '')">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 12px" width="80%" valign="middle">									NHL
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">									<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="arrow4" />
+</td></tr></table>					</li>
+						<ul id="subMenus4" style="display:none">
+									<li id="NHL_sm_0" class="subMenuUnSelected" onclick="loadSiteSection('NHL', '/s/36903/Home?platform=webapp', '6', '0');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													HOME
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NHL_smArrow_0"/>
+</td></tr></table>									</li>
+									<li id="NHL_sm_1" class="subMenuUnSelected" onclick="loadSiteSection('NHL', '/s/36903/Scores?platform=webapp', '6', '1');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													SCORES
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NHL_smArrow_1"/>
+</td></tr></table>									</li>
+									<li id="NHL_sm_2" class="subMenuUnSelected" onclick="loadSiteSection('NHL', '/s/36903/Standings?platform=webapp', '6', '2');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													STANDINGS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NHL_smArrow_2"/>
+</td></tr></table>									</li>
+									<li id="NHL_sm_3" class="subMenuUnSelected" onclick="loadSiteSection('NHL', '/s/36903/Teams?platform=webapp', '6', '3');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													TEAMS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NHL_smArrow_3"/>
+</td></tr></table>									</li>
+									<li id="NHL_sm_4" class="subMenuUnSelected" onclick="loadSiteSection('NHL', '/s/36903/PowerRankings?platform=webapp', '6', '4');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													POWER RANKINGS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NHL_smArrow_4"/>
+</td></tr></table>									</li>
+									<li id="NHL_sm_5" class="subMenuUnSelected" onclick="loadSiteSection('NHL', '/s/36903/PlayerStatsLeader?platform=webapp', '6', '5');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													PLAYER STATS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NHL_smArrow_5"/>
+</td></tr></table>									</li>
+						</ul>
+					<li id="menu5" class="menuUnSelected" onclick="toggleSubMenu('5', '13', '')">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 12px" width="80%" valign="middle">									NCAA FOOTBALL
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">									<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="arrow5"/>
+</td></tr></table>					</li>
+						<ul id="subMenus5" style="display:none">
+									<li id="NCAAF_sm_0" class="subMenuUnSelected" onclick="loadSiteSection('NCAAF', '/s/36901/Home?platform=webapp', '6', '0');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													HOME
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NCAAF_smArrow_0"/>
+</td></tr></table>									</li>
+									<li id="NCAAF_sm_1" class="subMenuUnSelected" onclick="loadSiteSection('NCAAF', '/s/36901/Scores?platform=webapp', '6', '1');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													SCORES
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NCAAF_smArrow_1"/>
+</td></tr></table>									</li>
+									<li id="NCAAF_sm_2" class="subMenuUnSelected" onclick="loadSiteSection('NCAAF', '/s/36901/Standings?platform=webapp', '6', '2');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													STANDINGS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NCAAF_smArrow_2"/>
+</td></tr></table>									</li>
+									<li id="NCAAF_sm_3" class="subMenuUnSelected" onclick="loadSiteSection('NCAAF', '/s/36901/Teams?platform=webapp', '6', '3');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													TEAMS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NCAAF_smArrow_3"/>
+</td></tr></table>									</li>
+									<li id="NCAAF_sm_4" class="subMenuUnSelected" onclick="loadSiteSection('NCAAF', '/s/36901/Rankings?platform=webapp', '6', '4');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													RANKINGS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NCAAF_smArrow_4"/>
+</td></tr></table>									</li>
+									<li id="NCAAF_sm_5" class="subMenuUnSelected" onclick="loadSiteSection('NCAAF', '/s/36901/PlayerStatsLeader?platform=webapp', '6', '5');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													PLAYER STATS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NCAAF_smArrow_5"/>
+</td></tr></table>									</li>
+						</ul>
+					<li id="menu6" class="menuUnSelected" onclick="toggleSubMenu('6', '13', '')">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 12px" width="80%" valign="middle">									NCAA BASKETBALL
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">									<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="arrow6"/>
+</td></tr></table>					</li>
+						<ul id="subMenus6" style="display:none">
+									<li id="NCAAB_sm_0" class="subMenuUnSelected" onclick="loadSiteSection('NCAAB', '/s/36900/Home?platform=webapp', '6', '0');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													HOME
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NCAAB_smArrow_0"/>
+</td></tr></table>									</li>
+									<li id="NCAAB_sm_1" class="subMenuUnSelected" onclick="loadSiteSection('NCAAB', '/s/36900/Scores?platform=webapp', '6', '1');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													SCORES
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NCAAB_smArrow_1"/>
+</td></tr></table>									</li>
+									<li id="NCAAB_sm_2" class="subMenuUnSelected" onclick="loadSiteSection('NCAAB', '/s/36900/Standings?platform=webapp', '6', '2');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													STANDINGS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NCAAB_smArrow_2"/>
+</td></tr></table>									</li>
+									<li id="NCAAB_sm_3" class="subMenuUnSelected" onclick="loadSiteSection('NCAAB', '/s/36900/Teams?platform=webapp', '6', '3');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													TEAMS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NCAAB_smArrow_3"/>
+</td></tr></table>									</li>
+									<li id="NCAAB_sm_4" class="subMenuUnSelected" onclick="loadSiteSection('NCAAB', '/s/36900/Rankings?platform=webapp', '6', '4');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													RANKINGS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NCAAB_smArrow_4"/>
+</td></tr></table>									</li>
+									<li id="NCAAB_sm_5" class="subMenuUnSelected" onclick="loadSiteSection('NCAAB', '/s/36900/PlayerStatsLeader?platform=webapp', '6', '5');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													PLAYER STATS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NCAAB_smArrow_5"/>
+</td></tr></table>									</li>
+						</ul>
+					<li id="menu7" class="menuUnSelected" onclick="toggleSubMenu('7', '13', '')">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 12px" width="80%" valign="middle">									GOLF
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">									<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="arrow7"/>
+</td></tr></table>					</li>
+						<ul id="subMenus7" style="display:none">
+									<li id="GOLF_sm_0" class="subMenuUnSelected" onclick="loadSiteSection('GOLF', '/s/36905/Home?platform=webapp', '3', '0');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													HOME
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="GOLF_smArrow_0"/>
+</td></tr></table>									</li>
+									<li id="GOLF_sm_1" class="subMenuUnSelected" onclick="loadSiteSection('GOLF', '/s/36905/Leaderboard?platform=webapp', '3', '1');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													LEADERBOARD
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="GOLF_smArrow_1"/>
+</td></tr></table>									</li>
+									<li id="GOLF_sm_2" class="subMenuUnSelected" onclick="loadSiteSection('GOLF', '/s/36905/Rankings?platform=webapp', '3', '2');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													RANKINGS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="GOLF_smArrow_2"/>
+</td></tr></table>									</li>
+						</ul>
+					<li id="menu8" class="menuUnSelected" onclick="toggleSubMenu('8', '13', '')">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 12px" width="80%" valign="middle">									NASCAR
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">									<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="arrow8"/>
+</td></tr></table>					</li>
+						<ul id="subMenus8" style="display:none">
+									<li id="NASCAR_sm_0" class="subMenuUnSelected" onclick="loadSiteSection('NASCAR', '/s/36898/Home?platform=webapp', '4', '0');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													HOME
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NASCAR_smArrow_0"/>
+</td></tr></table>									</li>
+									<li id="NASCAR_sm_1" class="subMenuUnSelected" onclick="loadSiteSection('NASCAR', '/s/36898/RaceCenter?platform=webapp', '4', '1');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													RACECENTER
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NASCAR_smArrow_1"/>
+</td></tr></table>									</li>
+									<li id="NASCAR_sm_2" class="subMenuUnSelected" onclick="loadSiteSection('NASCAR', '/s/36898/Standings?platform=webapp', '4', '2');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													STANDINGS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NASCAR_smArrow_2"/>
+</td></tr></table>									</li>
+									<li id="NASCAR_sm_3" class="subMenuUnSelected" onclick="loadSiteSection('NASCAR', '/s/36898/PlayerStatsLeader?platform=webapp', '4', '3');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													DRIVER STATS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="NASCAR_smArrow_3"/>
+</td></tr></table>									</li>
+						</ul>
+					<li id="menu9" class="menuUnSelected" onclick="toggleSubMenu('9', '13', '')">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 12px" width="80%" valign="middle">									TENNIS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">									<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="arrow9"/>
+</td></tr></table>					</li>
+						<ul id="subMenus9" style="display:none">
+									<li id="TENNIS_sm_0" class="subMenuUnSelected" onclick="loadSiteSection('TENNIS', '/s/36904/Scores?platform=webapp', '2', '0');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													SCORES
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="TENNIS_smArrow_0"/>
+</td></tr></table>									</li>
+									<li id="TENNIS_sm_1" class="subMenuUnSelected" onclick="loadSiteSection('TENNIS', '/s/36904/Rankings?platform=webapp', '2', '1');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													RANKINGS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="TENNIS_smArrow_1"/>
+</td></tr></table>									</li>
+						</ul>
+					<li id="menu10" class="menuUnSelected" onclick="toggleSubMenu('10', '13', '')">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 12px" width="80%" valign="middle">									VIDEO
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">									<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="arrow10"/>
+</td></tr></table>					</li>
+						<ul id="subMenus10" style="display:none">
+									<li id="VIDEO_sm_0" class="subMenuUnSelected" onclick="loadSiteSection('VIDEO', '/s/36908/Video?lvCat=Top Videos&platform=webapp', '9', '0');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													TOP VIDEOS
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="VIDEO_smArrow_0"/>
+</td></tr></table>									</li>
+									<li id="VIDEO_sm_1" class="subMenuUnSelected" onclick="loadSiteSection('VIDEO', '/s/36908/Video?lvCat=SEC Live&platform=webapp', '9', '1');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													SEC LIVE
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="VIDEO_smArrow_1"/>
+</td></tr></table>									</li>
+									<li id="VIDEO_sm_2" class="subMenuUnSelected" onclick="loadSiteSection('VIDEO', '/s/36908/Video?lvCat=CBK Live&platform=webapp', '9', '2');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													CBK LIVE
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="VIDEO_smArrow_2"/>
+</td></tr></table>									</li>
+									<li id="VIDEO_sm_3" class="subMenuUnSelected" onclick="loadSiteSection('VIDEO', '/s/36908/Video?lvCat=FFB Today&platform=webapp', '9', '3');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													FFB TODAY
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="VIDEO_smArrow_3"/>
+</td></tr></table>									</li>
+									<li id="VIDEO_sm_4" class="subMenuUnSelected" onclick="loadSiteSection('VIDEO', '/s/36908/Video?lvCat=FBB 360&platform=webapp', '9', '4');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													FBB 360
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="VIDEO_smArrow_4"/>
+</td></tr></table>									</li>
+									<li id="VIDEO_sm_5" class="subMenuUnSelected" onclick="loadSiteSection('VIDEO', '/s/36908/Video?lvCat=CFB 360&platform=webapp', '9', '5');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													CFB 360
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="VIDEO_smArrow_5"/>
+</td></tr></table>									</li>
+									<li id="VIDEO_sm_6" class="subMenuUnSelected" onclick="loadSiteSection('VIDEO', '/s/36908/Video?lvCat=Pro Football 360&platform=webapp', '9', '6');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													PRO FOOTBALL 360
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="VIDEO_smArrow_6"/>
+</td></tr></table>									</li>
+									<li id="VIDEO_sm_7" class="subMenuUnSelected" onclick="loadSiteSection('VIDEO', '/s/36908/Video?lvCat= Jim Rome&platform=webapp', '9', '7');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													JIM ROME
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="VIDEO_smArrow_7"/>
+</td></tr></table>									</li>
+									<li id="VIDEO_sm_8" class="subMenuUnSelected" onclick="loadSiteSection('VIDEO', '/s/36908/Video?lvCat=Tim Brando&platform=webapp', '9', '8');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													TIM BRANDO
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="VIDEO_smArrow_8"/>
+</td></tr></table>									</li>
+						</ul>
+					<li id="menu11" class="menuUnSelected" onclick="toggleSubMenu('11', '13', '')">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 12px" width="80%" valign="middle">									FANTASY
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">									<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="arrow11"/>
+</td></tr></table>					</li>
+						<ul id="subMenus11" style="display:none">
+									<li id="FANTASY_sm_0" class="subMenuUnSelected" onclick="loadSiteSection('FANTASY', '/s/36907/Home?appName=FF&platform=webapp', '2', '0');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													FANTASY FOOTBALL
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="FANTASY_smArrow_0"/>
+</td></tr></table>									</li>
+									<li id="FANTASY_sm_1" class="subMenuUnSelected" onclick="loadSiteSection('FANTASY', '/s/36907/Home?appName=FB&platform=webapp', '2', '1');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													FANTASY BASEBALL
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="FANTASY_smArrow_1"/>
+</td></tr></table>									</li>
+						</ul>
+					<li id="menu12" class="menuUnSelected" onclick="toggleSubMenu('12', '13', '');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 12px" width="80%" valign="middle">									HIGH SCHOOL
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">									<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="arrow12"/>
+</td></tr></table>					</li>
+						<ul id="subMenus12" style="display:none">
+									<li id="HIGH_SCHOOL_sm_0" class="subMenuUnSelected" onclick="loadSiteSection('HIGH SCHOOL', 'http://www.maxpreps.com/m/', '1', '0');">
+<table height="100%" width="100%" cellpadding="0" cellspacing="0"><tr><td height="100%" style="padding: 0px 6px 0px 36px;" width="80%" valign="middle">													MAXPREPS.COM
+</td><td height="100%" style="padding: 0px 12px" width="20%" valign="middle">													<img src="/s/store/-1/webapp/cbs/images/menu_arrow_right.png" width="20px" height="20px" id="HIGH SCHOOL_smArrow_0"/>
+</td></tr></table>									</li> 
+						</ul>
+		</ul>	
+</div>
+<script type="text/javascript">
+	$(document).ready(function(){  
+		if(selectedArena == "" || selectedArena == "undefined"){
+			$('#hdrRtLabel').removeClass("hdr_selectedMenu");
+		}else{
+			$('#hdrRtLabel').addClass("hdr_selectedMenu");
+		}
+		if(selectedArena == "FANTASY"){
+			$('.hdr_selectedMenu').text("MOBILE APPS")
+		}else{
+			$('.hdr_selectedMenu').text(selectedArena);
+		}
+		menuContMinHt = parseInt($("#cbsMenuContainer").height());
+	});
+</script>
+<div id="cbsBodyContent" class="cbsBodyContent">
+<div id="cbsBodyContentMask" class="cbsBodyContentMask" onclick="toggleMenu()"> </div>
+<div id="cbsSectionContainer">
+<style>
+	#mWebAD img{
+		display: block;
+		border:none;
+	}
+	#mWebAD a{
+		border:none;
+	}
+	#mWebAD a img{
+		display: block;
+		width: 100%;
+	}
+</style>
+<div id="adBanner" class="mwebADBanner center">
+	<div id="mWebAD">
+<table width="100%" cellpadding="0" cellspacing="0"><tr><td align="center" width="100%">						<a href='http://23.20.251.165/fam/ck.php?p=__pid=ef833598bedc0d28__sid=1732__bid=497604__cb=4e82bffad6__h=1354013598__channel_ids=%2C155%2C__uid=ef833598bedc0d28f278109f266ed7e23dc2bb318858a052__s=f86fede7299a660d9933fb515cb96f24' target='_self'><img src='http://admarvel.s3.amazonaws.com/ads/c81898/13469751890583_GM_MOBILE_OTWTS_Follow_300x50_v2.jpeg' width='300' height='50' alt='' title='' border='0' /></a><img src="http://view.atdmt.com/CNT/view/411774570/direct;wi.1;hi.1/01/" alt="" width="1" height="1"/><img src="http://23.20.251.165/fam/view.php?p=__pid=ef833598bedc0d28__sid=1732__bid=497604__cb=305fa80b2e__h=1354013598__channel_ids=%2C155%2C__uid=ef833598bedc0d28f278109f266ed7e23dc2bb318858a052__s=3ac7b9f338127c6b61503fe23eed2ebe" alt="" width="1" height="1" />
+</td></tr></table>	</div>
+</div>
+<script>
+	autoRefreshAD('/s/data.do?pageId=AD&siteId=107433&platform=ajax', processResponse, 'adBanner', 30000);  
+</script>
+<div id="cbsGTContainerStart">
+	<div id="cbsScorePushDwn" style="display: none;min-height: 480px; background-color: #282828">
+	
+	</div>
+	<div id="cbsGmTrkrContainer" style="display: block;">
+
+<style type="text/css">
+	.hdrleftBgColor{
+		background: -moz-linear-gradient(top, #022f4c 0%, #003657 50%, #012d48 100%);
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(2,47,76,1)), color-stop(50%,rgba(0,54,87,1)), color-stop(100%,rgba(1,45,72,1)));
+		background: -webkit-linear-gradient(top, rgba(2,47,76,1) 0%, rgba(0,54,87,1) 50%, rgba(1,45,72,1) 100%);
+		border-top: 1px solid #000D1A; 	
+		border-top-right-radius:8em;
+	}
+	
+	.hdrRightBgColor{
+		background: -moz-linear-gradient(top, #022f4c 0%, #003657 50%, #012d48 100%);
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(2,47,76,1)), color-stop(50%,rgba(0,54,87,1)), color-stop(100%,rgba(1,45,72,1)));
+		background: -webkit-linear-gradient(top, rgba(2,47,76,1) 0%, rgba(0,54,87,1) 50%, rgba(1,45,72,1) 100%);
+		border-top: 1px solid #000D1A; 	
+		border-top-left-radius:8em;
+	}
+	
+	.hdrMidBgColor{
+		background: -moz-linear-gradient(top, #1e70a2 0%, #1d6a9b 50%, #19628d 100%);
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(30,112,162,1)), color-stop(50%,rgba(29,106,155,1)), color-stop(100%,rgba(25,98,141,1)));
+		background: -webkit-linear-gradient(top, rgba(30,112,162,1) 0%, rgba(29,106,155,1) 50%, rgba(25,98,141,1) 100%);
+	}
+	.hdrBgMainImg{
+		background:url('/s/store/-1/webapp/cbs/basketball_gt/dark_bg_left_nba.png') no-repeat, url('/s/store/-1/webapp/cbs/basketball_gt/dark_bg_middle_image_nba.png') repeat-y, url('/s/store/-1/webapp/cbs/basketball_gt/dark_bg_right_nba.png') no-repeat;
+		background-size:20% 125px, 60.2% 125px, 20% 125px;
+		background-position : left, center, right;
+	}
+	.hdrBgImg_gt{
+		background: url('/s/store/-1/webapp/cbs/images/header_bg.png') no-repeat;
+		background-size: 100% 70px;
+		border-top: 2px solid #2078AC;
+	}
+	.darkBgLeftImg{
+		background: url('/s/store/-1/webapp/cbs/hockey_gt/dark_bg_left_nhl.png') no-repeat;
+		background-size: 100% 86px;
+	}
+	.darkBgRightImg{
+		background: url('/s/store/-1/webapp/cbs/hockey_gt/dark_bg_right_nhl.png') no-repeat;
+		background-size: 100%  86px;
+	}
+	
+	.darkBgLeftImgnba{
+		background: url('/s/store/-1/webapp/cbs/basketball_gt/dark_bg_left_nba.png') no-repeat;
+		background-size: 100% 125px;
+	}
+	.darkBgRightImgnba{
+		background: url('/s/store/-1/webapp/cbs/basketball_gt/dark_bg_right_nba.png') no-repeat;
+		background-size: 100%  125px;
+	}
+	
+	.hdrBgMidImg{
+		background: url('/s/store/-1/webapp/cbs/hockey_gt/dark_bg_middle_image_nhl.png');
+		background-repeat: repeat-y;
+		background-size: 100% 82.9px;
+	}
+	
+	.hdrBgMidImgnba{
+		background: url('/s/store/-1/webapp/cbs/basketball_gt/dark_bg_middle_image_nba.png');
+		background-repeat: repeat-y;
+		background-size: 100% 125px;
+	}
+	
+	.bonusTextImgnba{
+		background: url('/s/store/-1/webapp/cbs/basketball_gt/bonus_text_bg.png') no-repeat;
+		background-size: 30px  30px;
+		width:30px;
+		height:30px;
+		display:inline-block;
+	}
+	
+	.hdrTeamScore{
+		font-family: 'Exo', sans-serif;
+		font-style: normal;
+		font-weight: 700;
+		font-size: 27px; 
+		color: #ffffff; 
+	}
+	
+	.hdrGameStatus{
+		font-family: 'Exo';
+		font-style: normal;
+		font-weight: 700;
+		font-size: 16px; 
+		color: #ffffff; 
+	}
+	
+	.hdrGameDate{
+		font-family: Arial;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 12px; 
+		color: #ffffff; 
+	}
+	
+	.hdrGameTime{
+		font-family: 'Exo';
+		font-style: normal;
+		font-weight: 700;
+		font-size: 16px; 
+		color: #ffffff; 
+	}
+	
+	.hdrTeamRecord{
+		font-family: 'Exo';
+		font-style: normal;
+		font-weight: 700;
+		font-size: 11px; 
+		color: #ffffff; 
+	}
+	
+	.hdrTeamInning{
+		font-family: 'Exo';
+		font-style: normal;
+		font-weight: 400;
+		font-size: 12px; 
+		color: #a8cce2; 
+	}
+	
+	.hdrTv{
+		font-family: Arial;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 12px; 
+		color: #ffffff; 
+	}
+	
+	.teamWinLoss{
+		font-family: 'Exo', sans-serif;
+		font-style: normal;
+		font-weight: 700;
+		font-size: 13px; 
+		color: #ffffff; 
+	}
+	
+	.timeOutsText{
+		font-family: 'Exo', sans-serif;
+		font-style: normal;
+		font-size: 10px; 
+		font-weight: 500;
+		color: #9E9E9E; 
+	}
+	.timeOutsValue{
+		font-family: 'Exo', sans-serif;
+		font-style: normal;
+		font-weight: 700;
+		font-size: 12px; 
+		color: #444444; 
+	}
+	.bonusTextAct{
+		display:inline-block;
+		padding-top:4px;
+		font-family: 'Exo', sans-serif;
+		font-style: normal;
+		font-weight: 700;
+		font-size: 12px; 
+		color:#F99E31;
+	}
+	.bonusTextInact{
+		display:inline-block;
+		padding-top:4px;
+		font-family: 'Exo', sans-serif;
+		font-style: normal;
+		font-weight: 700;
+		font-size: 12px; 
+		color:#C4C2C2;
+	}
+</style>
+	<div id="gtHdrGameStatus">
+		<div id="gtheaderContents">
+				<div id="nflGTHeader">
+<table height="60px" width="100%" class="hdrBgImg_gt" cellpadding="0" cellspacing="0"><tr><td width="20%" onclick="window.location.href='/s/36899/TeamProfile?teamId=356&teamAbbr=SA&platform=webapp'" valign="middle">								<div style="position: relative;width: 60px; height: 60px;">
+									<img src="http://sports.cbsimg.net/images/nba/logos/250x250/SA.png" height="90px" width="90px" style="position: absolute;clip: rect(17px 145px 76px 0px); top: -16px; left: -30px;">
+                                </div>
+</td><td style="padding-top: 4px;" width="5%" align="center" valign="top">								<span class="teamWinLoss"></span>
+</td><td width="15%" align="center" valign="middle">								<span class="hdrTeamScore">118</span>
+</td><td width="20%" align="center" valign="middle">								<span class="hdrGameStatus">FINAL</span>
+</td><td width="15%" align="center" valign="middle">								<span class="hdrTeamScore">92</span>
+</td><td style="padding-top: 4px;" width="5%" align="center" valign="top">								<span class="teamWinLoss"></span>
+</td><td width="20%" align="right" onclick="window.location.href='/s/36899/TeamProfile?teamId=361&teamAbbr=WAS&platform=webapp'" valign="middle">								<div style="position: relative;width: 60px; height: 60px;">
+									<img src="http://sports.cbsimg.net/images/nba/logos/250x250/WAS.png" height="90px" width="90px" style="position: absolute;clip: rect(17px 145px 76px 0px); top: -16px; right: -30px;">
+                                </div>
+</td></tr></table><table width="100%" class="hdrBgMainImg" cellpadding="0" cellspacing="0"><tr><td style="padding: 18px 10px 5px 0px;" width="13%" align="center" class="hdrTeamRecord" valign="top">									12 - 3
+</td><td height="125px" style="padding: 0px 10px;" width="74%" align="center" class="hdrGameDate" valign="top"><table width="100%" cellpadding="0" cellspacing="0"><tr><td style="padding-top:24px" width="100%" align="center" valign="middle">											Mon, Nov. 26
+</td></tr></table></td><td style="padding: 18px 0px 5px 10px;" width="13%" align="center" class="hdrTeamRecord" valign="top">									0 - 12
+</td></tr></table>				</div>
+		</div>
+	</div>
+
+<script>
+	gtMenuIndex = "2";
+	gtStatsMenuIndex = "0";
+</script>
+<div id="gtSubHeaderContainer" class="cbsContainer" style="padding-bottom: 0px">
+<table width="100%" class="gtPageNav" cellpadding="0" cellspacing="0"><tr><td id="ppMenu_0" height="100%" width="33%" align="center" class="gtPageNav_unSel" onclick="'<script>gtMenuIndex = 0;</script>'+highlightGTMenu();window.location.href='/s/36899/GTPreviewRecap?platform=webapp&gs=FINAL&gId=1997092&gDate=20121126&aTId=356&hTId=361&aTAbbr=SA&hTAbbr=WAS&weekNum=&gameDate=11-26-2012&conference='" valign="middle">										RECAP 
+</td><td id="ppMenu_1" height="100%" width="33%" align="center" class="gtPageNav_unSel" onclick="'<script>gtMenuIndex = 1;</script>'+highlightGTMenu();window.location.href='/s/36899/GTPBP?platform=webapp&gs=FINAL&gId=1997092&gDate=20121126&aTId=356&hTId=361&aTAbbr=SA&hTAbbr=WAS&weekNum=&gameDate=11-26-2012&conference='" valign="middle">										PLAY-BY-PLAY 
+</td><td id="gtMenu_2" height="100%" width="34%" align="center" class="gtPageNav_unSel gtMenu_Stats" valign="middle">									<div id="gtStatsId" onclick="toggleGTStatsOptions();" style="width:100%;">
+										MORE &#160;<img src="/s/store/-1/webapp/cbs/images/menu_arrow_down.png" id="gtStatsArrowId" width="12px" height="12px" style="vertical-align:top; padding-top:1px;"/>
+	                    			</div>
+						 				<div id="gtSubMenu" class="gtSubMenuContainer" style="display: none; z-index:5; position: absolute; margin-top: 8px;">
+								 					<div id="subLink0" class="gtPageNav_subNav_unSel" style="text-align: left;" onclick="loadGTStats('/s/36899/GTInGame?platform=webapp&gId=1997092&gs=FINAL&gDate=20121126&aTId=356&hTId=361&aTAbbr=SA&hTAbbr=WAS&selStats=CV&weekNum=&gameDate=11-26-2012&conference=', 'subLink0')">
+								 						SHOT CHART 
+													</div>
+								 					<div id="subLink1" class="gtPageNav_subNav_unSel" style="text-align: left;" onclick="loadGTStats('/s/36899/GTStats?platform=webapp&gId=1997092&gs=FINAL&gDate=20121126&aTId=356&hTId=361&aTAbbr=SA&hTAbbr=WAS&selStats=TS&weekNum=&gameDate=11-26-2012&conference=', 'subLink1')">
+								 						TEAM STATS 
+													</div>
+								 					<div id="subLink2" class="gtPageNav_subNav_unSel" style="text-align: left;" onclick="loadGTStats('/s/36899/GTStats?platform=webapp&gId=1997092&gs=FINAL&gDate=20121126&aTId=356&hTId=361&aTAbbr=SA&hTAbbr=WAS&selStats=PS&weekNum=&gameDate=11-26-2012&conference=', 'subLink2')">
+								 						PLAYER STATS 
+													</div>
+						 				</div>
+</td></tr></table></div>
+<script>
+$(document).ready(function(){ 
+		highlightGTMenu();
+       	if("FINAL" == "INPROGRESS" || "FINAL" == "FINAL"){
+			highlightGTStatsMenu();
+		}
+		if($('#gtSubHeaderContainer').length > 0){
+			var gtMenuOffset = $('#gtSubHeaderContainer').offset();
+			var gtMenuTop = gtMenuOffset.top;
+			gtMenuTop = parseInt(gtMenuTop) + 34 - 50;
+			$('#gtSubMenu').css("top", gtMenuTop);
+		}
+});
+</script>
+<style type="text/css">
+	.quarters{
+		font-family: 'Exo', sans-serif;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 10px; 
+		color: #666666;
+	}
+	.total{
+		font-family: Arial;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 10px; 
+		color: #666666;
+	}
+	.teamAbbr{
+		font-family: Arial;
+		font-style: normal;
+		font-weight: 700;
+		font-size: 16px; 
+		color: #333333;
+	}
+	.score{
+		font-family: Arial;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 16px; 
+		color: #333333;
+	}
+	.border{
+		border-bottom: 1px solid #dddddd;
+		padding-bottom: 10px;
+	}
+	.scoreSumOT{
+		font-family: Arial;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 14px; 
+		color: #333333;
+		background-color: #dddddd;
+		padding-left: 6px;
+	}
+	.playTitle{
+		font-family: 'EXO';
+		font-style: normal;
+		font-weight: 700;
+		font-size: 12px; 
+		color: #082046;
+	}
+	.playDesc{
+		font-family: Arial;
+		font-weight: normal;
+		font-size: 12px; 
+		color: #444444;
+	}
+	.messageNormal{
+		font-family: 'Exo', sans-serif;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 14px; 
+		color: #333333;
+	}
+	.fieldPos{
+		color: #181818;
+		font-size: 12px;
+		font-family: Arial;
+		font-weight: bold;
+		text-align: center;
+	}
+	canvas{
+		-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+		-moz-tap-highlight-color: rgba(0, 0, 0, 0);
+		tap-highlight-color: rgba(0, 0, 0, 0);
+	}
+	.quarterUnSel{
+		font-family: 'Exo', sans-serif;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 16px; 
+		color: #363636;
+		cursor: pointer;
+	}
+	.curQuarter{
+		font-family: 'Exo', sans-serif;
+		font-style: normal;
+		font-weight: 700;
+		font-size: 16px; 
+		color: #082046;
+		cursor: pointer;
+	}
+	.quarterSel{
+		font-family: 'Exo', sans-serif;
+		font-style: normal;
+		font-weight: 500;
+		font-size: 16px; 
+		color: #363636;
+	}
+	.vertSeperator{
+		font-family: 'Exo', sans-serif;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 18px; 
+		color: #9D9D9D;
+	}
+</style>
+<script>
+	var shotsDataArray = new Array();
+	function shotsData(){
+		var pts, x, y, side, team, shotIcon;	
+	}
+	function lastShotData(){
+		var lX, lY, side, team, pImg, pFN, pLN, q, l_h_m, gstats, sType;	
+	}
+</script>
+<div class="cbsContainer" id="cbsNBAGTInGame" style="padding: 12px 5px;">
+	<div id="courtViewContainer">
+		<div id="cvShotsParamContainer" style="display:none;">
+		
+		</div>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="0";
+					shotData.x="17";
+					shotData.y="13";
+					shotData.side="Right";
+					shotData.team="away";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/away_x.png";
+					shotsDataArray[0] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="0";
+					shotData.x="30";
+					shotData.y="5";
+					shotData.side="Right";
+					shotData.team="home";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/home_x.png";
+					shotsDataArray[1] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="2";
+					shotData.x="5";
+					shotData.y="0";
+					shotData.side="Right";
+					shotData.team="away";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/away_o.png";
+					shotsDataArray[2] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="3";
+					shotData.x="29";
+					shotData.y="9";
+					shotData.side="Right";
+					shotData.team="away";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/away_o.png";
+					shotsDataArray[3] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="2";
+					shotData.x="5";
+					shotData.y="0";
+					shotData.side="Right";
+					shotData.team="away";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/away_o.png";
+					shotsDataArray[4] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="2";
+					shotData.x="15";
+					shotData.y="15";
+					shotData.side="Right";
+					shotData.team="home";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/home_o.png";
+					shotsDataArray[5] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="0";
+					shotData.x="26";
+					shotData.y="19";
+					shotData.side="Left";
+					shotData.team="away";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/away_x.png";
+					shotsDataArray[6] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="0";
+					shotData.x="27";
+					shotData.y="16";
+					shotData.side="Right";
+					shotData.team="home";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/home_x.png";
+					shotsDataArray[7] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="0";
+					shotData.x="14";
+					shotData.y="3";
+					shotData.side="Left";
+					shotData.team="away";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/away_x.png";
+					shotsDataArray[8] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="0";
+					shotData.x="8";
+					shotData.y="12";
+					shotData.side="Right";
+					shotData.team="home";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/home_x.png";
+					shotsDataArray[9] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="3";
+					shotData.x="7";
+					shotData.y="23";
+					shotData.side="Right";
+					shotData.team="away";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/away_o.png";
+					shotsDataArray[10] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="0";
+					shotData.x="22";
+					shotData.y="5";
+					shotData.side="Right";
+					shotData.team="home";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/home_x.png";
+					shotsDataArray[11] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="0";
+					shotData.x="5";
+					shotData.y="15";
+					shotData.side="Right";
+					shotData.team="away";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/away_x.png";
+					shotsDataArray[12] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="2";
+					shotData.x="10";
+					shotData.y="11";
+					shotData.side="Right";
+					shotData.team="home";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/home_o.png";
+					shotsDataArray[13] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="0";
+					shotData.x="6";
+					shotData.y="17";
+					shotData.side="Right";
+					shotData.team="away";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/away_x.png";
+					shotsDataArray[14] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="2";
+					shotData.x="20";
+					shotData.y="7";
+					shotData.side="Left";
+					shotData.team="home";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/home_o.png";
+					shotsDataArray[15] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="3";
+					shotData.x="6";
+					shotData.y="25";
+					shotData.side="Left";
+					shotData.team="away";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/away_o.png";
+					shotsDataArray[16] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="0";
+					shotData.x="8";
+					shotData.y="15";
+					shotData.side="Right";
+					shotData.team="away";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/away_x.png";
+					shotsDataArray[17] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="0";
+					shotData.x="16";
+					shotData.y="4";
+					shotData.side="Left";
+					shotData.team="home";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/home_x.png";
+					shotsDataArray[18] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="2";
+					shotData.x="9";
+					shotData.y="18";
+					shotData.side="Left";
+					shotData.team="away";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/away_o.png";
+					shotsDataArray[19] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="3";
+					shotData.x="32";
+					shotData.y="1";
+					shotData.side="Right";
+					shotData.team="home";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/home_o.png";
+					shotsDataArray[20] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="0";
+					shotData.x="13";
+					shotData.y="9";
+					shotData.side="Right";
+					shotData.team="away";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/away_x.png";
+					shotsDataArray[21] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="0";
+					shotData.x="29";
+					shotData.y="8";
+					shotData.side="Left";
+					shotData.team="home";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/home_x.png";
+					shotsDataArray[22] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="0";
+					shotData.x="29";
+					shotData.y="9";
+					shotData.side="Left";
+					shotData.team="home";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/home_x.png";
+					shotsDataArray[23] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="0";
+					shotData.x="27";
+					shotData.y="15";
+					shotData.side="Left";
+					shotData.team="away";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/away_x.png";
+					shotsDataArray[24] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="2";
+					shotData.x="5";
+					shotData.y="0";
+					shotData.side="Right";
+					shotData.team="away";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/away_o.png";
+					shotsDataArray[25] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="2";
+					shotData.x="13";
+					shotData.y="1";
+					shotData.side="Right";
+					shotData.team="home";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/home_o.png";
+					shotsDataArray[26] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="0";
+					shotData.x="5";
+					shotData.y="0";
+					shotData.side="Right";
+					shotData.team="away";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/away_x.png";
+					shotsDataArray[27] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="0";
+					shotData.x="5";
+					shotData.y="0";
+					shotData.side="Right";
+					shotData.team="away";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/away_x.png";
+					shotsDataArray[28] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="0";
+					shotData.x="5";
+					shotData.y="0";
+					shotData.side="Right";
+					shotData.team="away";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/away_x.png";
+					shotsDataArray[29] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="0";
+					shotData.x="5";
+					shotData.y="0";
+					shotData.side="Right";
+					shotData.team="home";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/home_x.png";
+					shotsDataArray[30] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="2";
+					shotData.x="5";
+					shotData.y="0";
+					shotData.side="Right";
+					shotData.team="home";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/home_o.png";
+					shotsDataArray[31] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="0";
+					shotData.x="27";
+					shotData.y="15";
+					shotData.side="Right";
+					shotData.team="away";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/away_x.png";
+					shotsDataArray[32] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="2";
+					shotData.x="5";
+					shotData.y="0";
+					shotData.side="Right";
+					shotData.team="away";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/away_o.png";
+					shotsDataArray[33] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="2";
+					shotData.x="5";
+					shotData.y="0";
+					shotData.side="Right";
+					shotData.team="home";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/home_o.png";
+					shotsDataArray[34] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="3";
+					shotData.x="31";
+					shotData.y="9";
+					shotData.side="Right";
+					shotData.team="away";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/away_o.png";
+					shotsDataArray[35] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="0";
+					shotData.x="32";
+					shotData.y="2";
+					shotData.side="Right";
+					shotData.team="home";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/home_x.png";
+					shotsDataArray[36] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="0";
+					shotData.x="5";
+					shotData.y="0";
+					shotData.side="Right";
+					shotData.team="away";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/away_x.png";
+					shotsDataArray[37] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="0";
+					shotData.x="5";
+					shotData.y="0";
+					shotData.side="Right";
+					shotData.team="away";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/away_x.png";
+					shotsDataArray[38] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="0";
+					shotData.x="25";
+					shotData.y="16";
+					shotData.side="Left";
+					shotData.team="home";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/home_x.png";
+					shotsDataArray[39] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="3";
+					shotData.x="29";
+					shotData.y="13";
+					shotData.side="Left";
+					shotData.team="away";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/away_o.png";
+					shotsDataArray[40] = shotData;
+				</script>
+				<script>
+					var shotData = new shotsData();
+					shotData.pts="0";
+					shotData.x="15";
+					shotData.y="17";
+					shotData.side="Right";
+					shotData.team="home";
+					shotData.shotIcon="/s/store/-1/webapp/cbs/basketball_gt/home_x.png";
+					shotsDataArray[41] = shotData;
+				</script>
+			<script>
+				var lastShot = new lastShotData();
+				lastShot.lX = "16";
+				lastShot.lY = "2";
+				lastShot.side = "Right";
+				lastShot.team = "home";
+				lastShot.pImg="http://sports.cbsimg.net/images/basketball/nba/players/60x80/1661840.jpg";
+				lastShot.pFN="Cartier";
+				lastShot.pLN="Martin";
+				lastShot.q="4th | 0:15";
+				lastShot.l_h_m="h";
+				lastShot.gstats="6 PTS | 1 of 8 FG | 4 of 4 FT";
+				lastShot.sType="Jump Shot, 11ft";
+			</script>
+		<div style="padding-top:12px; text-align: center;" class="center">
+			<canvas style="width: 300px; height: 170px; " id="cbsGTCourtCanvas">
+				Canvas not supported
+			</canvas>
+		</div>
+	</div>
+	<div id="quarterSelector">
+				<input type="hidden" id="gameStatusId" value="FINAL"/>
+<table width="100%" cellpadding="0" cellspacing="0"><tr><td width="10%" align="center" valign="middle">							
+</td><td width="14%" align="center" class="quarterUnSel" onclick="getChartForQuarter('/s/data.do?pageId=GTInGameAJAX&siteId=107433&gId=1997092&gs=FINAL&gDate=20121126&selStats=CV&platform=ajax&selQuart=1', '1', '4');" valign="middle">								1st
+</td><td width="2%" align="center" class="quarterUnSel" valign="middle">								<span class="vertSeperator"> | </span>
+</td><td width="14%" align="center" class="quarterUnSel" onclick="getChartForQuarter('/s/data.do?pageId=GTInGameAJAX&siteId=107433&gId=1997092&gs=FINAL&gDate=20121126&selStats=CV&platform=ajax&selQuart=2', '2', '4');" valign="middle">								2nd
+</td><td width="2%" align="center" class="quarterUnSel" valign="middle">								<span class="vertSeperator"> | </span>
+</td><td width="14%" align="center" class="quarterUnSel" onclick="getChartForQuarter('/s/data.do?pageId=GTInGameAJAX&siteId=107433&gId=1997092&gs=FINAL&gDate=20121126&selStats=CV&platform=ajax&selQuart=3', '3', '4');" valign="middle">								3rd
+</td><td width="2%" align="center" class="quarterUnSel" valign="middle">								<span class="vertSeperator"> | </span>
+</td><td width="14%" align="center" class="curQuarter" onclick="getChartForQuarter('/s/data.do?pageId=GTInGameAJAX&siteId=107433&gId=1997092&gs=FINAL&gDate=20121126&selStats=CV&platform=ajax&selQuart=4', '4', '4');" valign="middle">								4th
+</td><td width="2%" align="center" class="curQuarter" valign="middle">								<span class="vertSeperator"> | </span>
+</td><td width="14%" align="center" class="quarterUnSel" onclick="getChartForQuarter('/s/data.do?pageId=GTInGameAJAX&siteId=107433&gId=1997092&gs=FINAL&gDate=20121126&selStats=CV&platform=ajax&selQuart=ALL', 'ALL', '4');" valign="middle">							ALL
+</td><td width="10%" align="center" valign="middle">							
+</td></tr></table>	</div>
+</div>
+<script type="text/javascript">
+	var cv_aTmLogo = "http://sports.cbsimg.net/images/nba/logos/90x90/SA.png", cv_hTmLogo = "http://sports.cbsimg.net/images/nba/logos/90x90/WAS.png", courtImgUrl = "/s/store/-1/webapp/cbs/basketball_gt/NBA_court_view.png";
+	var courtWidth = 300, courtHt = 170;
+	var courtImgCtx, lastShotAtCenter = "false";
+	var lastShotSelIcon = "/s/store/-1/webapp/cbs/basketball_gt/last_shot_selected.png", lastShotUnSelIcon = "/s/store/-1/webapp/cbs/basketball_gt/last_shot_unselected.png", lastShotClose = "/s/store/-1/webapp/cbs/basketball_gt/lastShotPanel_close.png";
+	var lspImgURL = "/s/store/-1/webapp/cbs/basketball_gt/last_shot_panel.png";
+	var size = [35, 35], size1 = [35, 35], lShotIconCoord, closeButtonCoord;
+	var fNFont = "400 14px 'EXO',Arial", lNFont = "700 14px 'EXO',Arial", lsDataNFont = "Normal 11px Arial"; 
+	var prevLastShot, closeEvent = "false";
+	
+	function initializeClickEventCoords(){
+		lShotIconCoord = new Array();
+		closeButtonCoord = new Array();
+		var s = lastShot.side;
+		var team = lastShot.team;
+		var lx = lastShot.lX;
+		var ly = lastShot.lY;
+		lx = getXCorInPixel(lx, ly, s, team);
+		ly = getYCorInPixel(ly, s, team);
+		
+		var coords = getCorForInfoPanel(parseInt(lx), parseInt(ly), s, team);
+		
+		var x1, y1;
+		
+		var coordsArray = coords.split("-");
+		if(coordsArray.length > 0){
+			x1 = coordsArray[0];
+			x1 = parseInt(x1);
+			y1 = coordsArray[1];
+			y1 = parseInt(y1);
+		}
+		
+		lShotIconCoord[0] = parseInt(lx) - 5;
+		lShotIconCoord[1] = parseInt(ly) + 40;
+		if(lastShotAtCenter == "true"){
+			closeButtonCoord[0] = x1 + 90;
+			closeButtonCoord[1] = 55;
+		}else{
+			closeButtonCoord[0] = x1 + 130;
+			closeButtonCoord[1] = y1 + 40;
+		}
+	}
+	
+	initializeClickEventCoords();
+	
+	function createCVCanvas() {
+		cbsGTCourtCanvas = document.getElementById('cbsGTCourtCanvas');	
+		if (cbsGTCourtCanvas.getContext){					 
+			courtImgCtx = cbsGTCourtCanvas.getContext('2d');
+			var courtImg = new Image();
+			courtImg.onload = function(){
+				cbsGTCourtCanvas.width = courtWidth;
+				cbsGTCourtCanvas.height = courtHt;
+				courtImgCtx.drawImage(courtImg, 0, 0, courtWidth, courtHt);
+				drawTmLogo(cv_aTmLogo, 23);
+				drawTmLogo(cv_hTmLogo, parseInt(courtWidth) - 47);
+				drawShots();
+				drawLastShotIcon();
+				if(closeEvent == "false"){
+					drawLastShotInfoPanel();
+				}
+			}
+			courtImg.src = courtImgUrl;
+		}
+	}
+	
+	function drawTmLogo(teamLogoUrl, xCor){															
+		var teamLogoImg = new Image();
+		teamLogoImg.onload = function(){
+			courtImgCtx.globalAlpha = 1;
+			courtImgCtx.drawImage(teamLogoImg, xCor, parseInt(courtHt)/2 - 20, 25, 30);				
+		}
+		teamLogoImg.src = teamLogoUrl;
+	}
+	function drawShots(){
+		 //loop thru the array
+		 for(var i=0; i<shotsDataArray.length; i++){
+		 	drawHitMiss(shotsDataArray[i]);
+		 }
+	}
+	function getXCorInPixel(x, y, side, team){
+		var xPos = 0;
+		if(team == "away"){
+			xPos = Math.round(x*3.2);
+			if(side == "Right"){
+				if(xPos > 75)
+					xPos = xPos - 13;
+				else
+					xPos = xPos + 8;
+			}else{
+				if(xPos > 75)
+					xPos = xPos - 13;
+				else 
+					xPos = xPos;
+			}
+		}else{
+			xPos = Math.round((courtWidth) - (x*3.2));
+			if(side == "Left"){
+				if(xPos > 75)
+					xPos = xPos - 18;
+				else
+					xPos = xPos - 40;
+			}else{
+				if(xPos > 75)
+					xPos = xPos - 18;
+				else
+					xPos = xPos - 35;
+			}
+		}
+		if(xPos > 280){
+			xPos = 275;
+		}else if(xPos <= 13){
+			xPos = 13;
+		}
+		return xPos;
+	}
+	function getYCorInPixel(y, side, team){
+		var yPos;
+		if(team == "home"){
+			if(side == "Left"){
+				yPos = Math.round((courtHt/2 - 10) - (y*3.4));
+			}else{
+				yPos = Math.round((courtHt/2) + (y*3.4));
+			}
+		}else{
+			if(side == "Right"){
+				yPos = Math.round((courtHt/2 - 10) - (y*3.4));
+			}else{
+				yPos = Math.round((courtHt/2) + (y*3.4));
+			}
+		}
+		if(yPos <= -5){
+			yPos = 0;
+		}else if(yPos >= 140){
+			yPos = 140;
+		}
+		return yPos;
+	}
+	function drawHitMiss(shotData){
+		var pts = shotData.pts;
+		var xCor = shotData.x;
+		var yCor = shotData.y;
+		var side = shotData.side;
+		var team = shotData.team;
+		xCor = getXCorInPixel(xCor, yCor, side, team, pts);
+		yCor = getYCorInPixel(yCor, side, team, pts);
+		
+		var shotIcon = shotData.shotIcon;
+		var shotIconImg = new Image();
+		shotIconImg.onload = function(){
+			courtImgCtx.globalAlpha = 1;
+			courtImgCtx.drawImage(shotIconImg, xCor, yCor, 18, 18);				
+		}
+		shotIconImg.src = shotIcon;
+	}
+	function drawLastShotIcon(){
+		var s = lastShot.side;
+		var team = lastShot.team;
+		var h_m = lastShot.l_h_m;
+		var lx = lastShot.lX;
+		var ly = lastShot.lY;
+		
+		lx = getXCorInPixel(lx, ly, s, team);
+		ly = getYCorInPixel(ly, s, team);
+		var lastShotIcon = lastShotUnSelIcon;
+		if(h_m == "h"){
+			lastShotIcon = lastShotSelIcon;
+		}	
+		var lastShotImg = new Image();
+		lastShotImg.onload = function(){
+			courtImgCtx.globalAlpha = 1;
+			courtImgCtx.drawImage(lastShotImg, lx, ly, 30, 30);				
+		}
+		lastShotImg.src = lastShotIcon;
+	}
+	
+	$("canvas").click(function(e) { 
+		e.preventDefault();
+		var s = lastShot.side;
+		var team = lastShot.team;
+		var h_m = lastShot.l_h_m;
+		var lx = lastShot.lX;
+		var ly = lastShot.lY;
+		
+		lx = getXCorInPixel(lx, ly, s, team);
+		ly = getYCorInPixel(ly, s, team);
+		
+	    if ( testIfOver(this, e, size, lShotIconCoord) ) {
+	        drawLastShotInfoPanel();                
+	    }
+	    if ( testIfOver(this, e, size, closeButtonCoord)) {
+	    	closeEvent = "true";
+			createCVCanvas();
+	    }
+	});
+	$("canvas").mousemove(function(e) { 
+	    if ( testIfOver(this, e, size, lShotIconCoord)) {
+	        $(this).css("cursor", "pointer");  
+	    } else if(testIfOver(this, e, size, closeButtonCoord)){
+	          $(this).css("cursor", "pointer"); 
+	    }else{	
+	    	$(this).css("cursor", "default");
+	    }
+	});
+	function testIfOver(ele,ev,size,coord){
+	    if (
+	        ev.pageX > coord[0] + ele.offsetLeft &&  
+	        ev.pageX < coord[0] + size[0] + ele.offsetLeft &&
+	        ev.pageY > coord[1] + ele.offsetTop &&           
+	        ev.pageY < coord[1] + size[1] + ele.offsetTop
+	    ) {
+	        return true;
+	    }
+	    return false;
+	}
+		
+	function getCorForInfoPanel(lx, ly, s, team){
+		var x1 = 60, y1 = 127, x2 = 260, y2 = 227;
+		if(ly > 45 && ly <= 120 && lx >= 95 && lx <= 131){
+			y1 = ly - 40;
+			x1 = lx + 30;
+			lastShotAtCenter = "true";
+		}else if(ly > 45 && ly <= 120 && lx >= 132 && lx <= 165){
+			y1 = ly - 40;
+			x1 = lx - 120;
+			lastShotAtCenter = "true";
+		}else if(ly >= -10 && ly <= 45 && lx >= 0 && lx <= 131){
+			y1 = ly + 25;
+			x1 = lx - (lx / 2);
+			lastShotAtCenter = "false";
+		}else if(ly > 45 && ly < 100 && lx >= 0 && lx < 95){
+			y1 = ly - 30;
+			x1 = lx + 25;
+			lastShotAtCenter = "false";
+		}else if(ly > 100 && ly <= 170 && lx >= 0 && lx <= 131){
+			y1 = ly - 100;
+			x1 = lx - (lx / 2);
+			lastShotAtCenter = "false";
+		}else if(ly >= -10 && ly <= 45 && lx >= 132 && lx <= 300){
+			y1 = ly + 25;
+			x1 = lx - (173 - (courtWidth - lx - 10));
+			lastShotAtCenter = "false";
+		}else if(ly > 45 && ly < 100 && lx > 165 && lx <= 300){
+			y1 = ly - 35;
+			x1 = lx - 170;
+			lastShotAtCenter = "false";
+		}else if(ly > 100 && ly <= 170 && lx >= 132 && lx <= 300){
+			y1 = ly - 100;
+			x1 = lx - (173 - (courtWidth - lx - 10));
+			lastShotAtCenter = "false";
+		}
+		return x1 + "-" + y1;
+	}
+	
+	function drawLastShotInfoPanel(){
+		var pImgURL = lastShot.pImg;
+		var fN = lastShot.pFN;
+		var lN = lastShot.pLN;
+		lN = $.trim(lN);
+		var lN1 = "", lN2 = "";
+		if(lN.indexOf(" ") == -1){
+			lN1 = lN;
+		}else{
+			var lNStrings = lN.split(" ");
+			if(lNStrings.length > 1){
+				lN1 = lNStrings[0];
+				lN2 = lNStrings[1];
+				if(lN2.length > 9){
+					lN2 = lN2.substring(0,8);
+					lN2 = lN2 + "."
+				}
+			}else{
+				lN1 = lN;
+			}
+		}
+		var qtr = lastShot.q;
+		var gs = lastShot.gstats;
+		var lst = lastShot.sType;
+		
+		var s = lastShot.side;
+		var team = lastShot.team;
+		var lx = lastShot.lX;
+		var ly = lastShot.lY;
+		lx = getXCorInPixel(lx, ly, s, team);
+		ly = getYCorInPixel(ly, s, team);
+		
+		var coords = getCorForInfoPanel(parseInt(lx), parseInt(ly), s, team);
+		
+		var x1, y1;
+		var coordsArray = coords.split("-");
+		if(coordsArray.length > 0){
+			x1 = coordsArray[0];
+			x1 = parseInt(x1);
+			y1 = coordsArray[1];
+			y1 = parseInt(y1);
+		}
+		
+		var lastShotPanelImg = new Image();
+		lastShotPanelImg.onload = function(){
+			if(lastShotAtCenter == "true"){
+				var yCoord = 15;
+				courtImgCtx.drawImage(lastShotPanelImg, x1, yCoord, 120, 135);
+				var plyrImg = new Image();
+				plyrImg.onload = function(){
+					courtImgCtx.drawImage(plyrImg, x1 + 5, yCoord + 5, 45, 55);
+				}
+				plyrImg.src = pImgURL;
+				
+				var plyrImgErr = new Image();
+				plyrImgErr.src = "http://sports.cbsimg.net/images/players/unknown_player.gif";
+				plyrImg.onerror = function(){
+					courtImgCtx.drawImage(plyrImgErr, x1 + 5, yCoord + 5, 45, 55);
+				}				
+				courtImgCtx.font = fNFont;
+				courtImgCtx.textAlign = "left";
+				courtImgCtx.fillStyle = "#444444";
+				courtImgCtx.fillText(fN, x1 + 55, yCoord + 30);
+				courtImgCtx.font = lNFont;
+				courtImgCtx.fillText("X", x1 + 100, yCoord + 20);
+				if(lN2 != "" && lN2 != undefined){
+					courtImgCtx.fillText(lN1, x1 + 55, yCoord + 45);
+					courtImgCtx.fillText(lN2, x1 + 55, yCoord + 60);
+				}else{
+					courtImgCtx.fillText(lN1, x1 + 55, yCoord + 45);
+				}
+				courtImgCtx.font = lsDataNFont;
+				courtImgCtx.fillText(qtr, x1 + 5, yCoord + 75);
+				courtImgCtx.font = lsDataNFont;
+				courtImgCtx.fillText(lst, x1 + 5, yCoord + 90);
+				
+				courtImgCtx.beginPath();
+				courtImgCtx.moveTo(x1 + 5, yCoord + 95);
+				courtImgCtx.lineTo(x1 + 115, yCoord + 95);
+				courtImgCtx.lineWidth = 1;
+				// set line color
+				courtImgCtx.strokeStyle = '#bbbbbb';
+				courtImgCtx.stroke();
+				courtImgCtx.closePath();
+				
+				courtImgCtx.fillStyle = "#444444";
+				courtImgCtx.font = lsDataNFont;
+				var gs1 = "", gs2 = "";
+				if(gs.indexOf("|") != -1){
+					var gsArray = gs.split("|")
+					if(gsArray.length > 0){
+						if(gsArray.length == 3){
+							gs1 = gsArray[0] +" | "+ gsArray[1] + " |";
+							gs2 = gsArray[2];
+							gs2 = $.trim(gs2);
+						}else if(gsArray.length == 2){
+							gs1 = gsArray[0] +" | "+gsArray[1];
+						}else{
+							gs1 = gs;
+						}
+					}
+				}
+				courtImgCtx.fillText(gs1, x1 + 5, yCoord + 110);
+				if(gs2 != "" && gs2 != undefined){
+					courtImgCtx.fillText(gs2, x1 + 5, yCoord + 125);
+				}
+			}else{
+				courtImgCtx.drawImage(lastShotPanelImg, x1, y1, 173, 100);
+				var plyrImg = new Image();
+				plyrImg.onload = function(){
+					courtImgCtx.drawImage(plyrImg, x1 + 5, y1 + 5, 45, 55);
+				}
+				plyrImg.src = pImgURL;
+				
+				var plyrImgErr = new Image();
+				plyrImgErr.src = "http://sports.cbsimg.net/images/players/unknown_player.gif";
+				plyrImg.onerror = function(){
+					courtImgCtx.drawImage(plyrImgErr, x1 + 5, y1 + 5, 45, 55);
+				}
+				
+				courtImgCtx.font = fNFont;
+				courtImgCtx.textAlign = "left";
+				courtImgCtx.fillStyle = "#444444";
+				
+				if(lN2 != "" && lN2 != undefined){
+					courtImgCtx.fillText(fN, x1 + 55, y1 + 16);
+					courtImgCtx.font = lNFont;
+					courtImgCtx.fillText("X", x1 + 150, y1 + 20);
+					courtImgCtx.fillText(lN1, x1 + 55, y1 + 31);
+					courtImgCtx.fillText(lN2, x1 + 55, y1 + 46);
+					courtImgCtx.font = lsDataNFont;
+					courtImgCtx.fillText(qtr, x1 + 55, y1 + 58);
+				}else{
+					courtImgCtx.fillText(fN, x1 + 55, y1 + 25);
+					courtImgCtx.font = lNFont;
+					courtImgCtx.fillText("X", x1 + 150, y1 + 20);
+					courtImgCtx.fillText(lN1, x1 + 55, y1 + 40);
+					courtImgCtx.font = lsDataNFont;
+					courtImgCtx.fillText(qtr, x1 + 55, y1 + 55);
+				}
+				courtImgCtx.font = lsDataNFont;
+				courtImgCtx.fillText(lst, x1 + 7, y1 + 73);
+				
+				courtImgCtx.beginPath();
+				courtImgCtx.moveTo(x1 + 5, y1 + 77);
+				courtImgCtx.lineTo(x1 + 165, y1 + 77);
+				courtImgCtx.lineWidth = 1;
+				// set line color
+				courtImgCtx.strokeStyle = '#bbbbbb';
+				courtImgCtx.stroke();
+				courtImgCtx.closePath();
+				
+				courtImgCtx.fillStyle = "#444444";
+				courtImgCtx.font = lsDataNFont;
+				courtImgCtx.fillText(gs, x1 + 7, y1 + 89);
+			}
+		}
+		lastShotPanelImg.src = lspImgURL;
+	}
+	
+	createCVCanvas();
+	
+	$(document).ready(function() {
+		if("FINAL" == "INPROGRESS"){
+			autoRefreshNBAGTInGame('/s/data.do?pageId=GTInGameAJAX&siteId=107433&gId=1997092&gs=FINAL&gDate=20121126&selStats=CV&platform=ajax', processResponse, 'cbsNBAGTInGame', 30000);
+		}
+	});
+	
+	var nbaGTInGmAR = null; 
+	
+	getChartForQuarter = function(url, selQuart, curQuart){
+		var gtGameStatus = $("#gameStatusId").val();
+		var gtURL = url;
+		if(selQuart != curQuart){
+			if(nbaGTInGmAR != null && nbaGTInGmAR != undefined){
+				nbaGTInGmAR.stop();
+			}
+			if(gtURL != null && gtURL != undefined){ 
+				loadContentThroughAjax(gtURL, processResponse, 'cbsNBAGTInGame', 30000);
+			}
+		}else{
+			if(gtURL != null && gtURL != undefined){ 
+				loadContentThroughAjax(gtURL, processResponse, 'cbsNBAGTInGame', 30000);
+			}
+			if(nbaGTInGmAR != null && nbaGTInGmAR != undefined){
+				nbaGTInGmAR.stop();
+			}
+			if(gtGameStatus != null && gtGameStatus != undefined && gtGameStatus == "INPROGRESS"){
+				autoRefreshNBAGTInGame(gtURL, processResponse, 'cbsNBAGTInGame', 30000);
+			}
+		}
+	}
+
+	autoRefreshNBAGTInGame = function(url, callback, containerId, interval){
+		nbaGTInGmAR = new AutoRefresh(url, containerId, callback, function(){console.log('ERROR : Failed to load autoRefreshAllScoreData')}, interval);
+		nbaGTInGmAR.init();
+	}
+	updateBasketballLSData = function(html){
+		$("#nbaLsContainer").html(html);
+	}
+	updateLast5PlaysData = function(html){
+		$("#last5PlaysContainer").html(html);
+	}
+	updateQuarterSelector = function(html){
+		$("#quarterSelector").html(html);
+	}
+	updateCVData = function(html){
+		$("#cvShotsParamContainer").html(html);
+		var shotsParams = $("#cvShotsDataId").text().trim();
+		var lastShotDatas = $("#lastShotDataId").text().trim();
+		var shotsArray = shotsParams.split('|');
+		if(shotsArray.length > 0){
+			shotsDataArray = new Array();
+			for(var j=0;j<shotsArray.length;j++){
+				var shotDatas = shotsArray[j];
+				if(shotDatas != ''){
+					var shotData = new shotsData();
+					var sDatas = shotDatas.split(',');
+					if(sDatas.length > 0){
+						shotData.pts = sDatas[0].trim();
+						shotData.x = sDatas[1].trim();
+						shotData.y = sDatas[2].trim();
+						shotData.side = sDatas[3].trim();
+						shotData.team = sDatas[4].trim();
+						shotData.shotIcon = sDatas[5].trim();
+						shotsDataArray[j] = shotData;
+					}
+				}
+			}
+		}
+		var lastShotDataArray = lastShotDatas.split(',');
+		if(lastShotDataArray.length > 0){
+			lastShot = new lastShotData();
+			lastShot.lX = lastShotDataArray[0].trim();
+			lastShot.lY = lastShotDataArray[1].trim();
+			lastShot.side = lastShotDataArray[2].trim();
+			lastShot.team = lastShotDataArray[3].trim();
+			lastShot.pImg = lastShotDataArray[4].trim();
+			lastShot.pFN = lastShotDataArray[5].trim();
+			lastShot.pLN = lastShotDataArray[6].trim();
+			lastShot.q = lastShotDataArray[7].trim();
+			lastShot.l_h_m = lastShotDataArray[8].trim();
+			lastShot.gstats = lastShotDataArray[9].trim();
+			lastShot.sType = lastShotDataArray[10].trim();
+		}
+		courtImgCtx.clearRect(0,0, cbsGTCourtCanvas.width, cbsGTCourtCanvas.height);
+		closeEvent = "false";
+		initializeClickEventCoords();
+		createCVCanvas();
+	}
+</script>
+
+<div id="cbs_footer" class="footer">
+<table width="100%" cellpadding="0" cellspacing="0"><tr><td style="padding: 3px 0px" width="100%" align="center" valign="middle">					<a href="http://www.cbssports.com/mobile/redirect/standard">FULL SITE</a>
+						&#160;<img src="/s/store/-1/webapp/cbs/images/gray_dot.png" width="3px" style="vertical-align:middle; padding-bottom:3px;"/>&#160;
+					<a href="http://cbsitou.custhelp.com/app/answers/detail/a_id/1320/">TERMS OF USE</a>
+						</td></tr></table><table width="100%" style="border-spacing: 0px"><tr><td width="100%" valign="middle" align="center" style="padding: 3px 0px">
+					<a href="http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1265">PRIVACY POLICY</a>
+						&#160;<img src="/s/store/-1/webapp/cbs/images/gray_dot.png" width="3px" style="vertical-align:middle; padding-bottom:3px;"/>&#160;
+					<a href="mailto:sports-mobile@cbsinteractive.com?Subject=User%20Feedback%20for%20CBS%20Sports%20Mobile%20Web">HELP/FEEDBACK</a>
+						</td></tr></table><table width="100%" style="border-spacing: 0px"><tr><td width="100%" valign="middle" align="center" style="padding: 3px 0px">
+					<a href="/s/36906/Home?platform=webapp">CBS SPORTS MOBILE APPS</a>
+</td></tr></table><table width="100%" cellpadding="0" cellspacing="0"><tr><td width="100%" align="center" class="copyright" valign="middle">				&#169; 2012 CBS INTERACTIVE. ALL RIGHTS RESERVED.
+</td></tr></table></div>
+</div></div>
+
+<div id="cbsMWeb_DW">
+	<script type="text/javascript" src="http://dw.com.com/js/dw.js"></script> 
+	  <script type="text/javascript">
+		DW.pageParams = {
+		  siteid: '210',
+		  onid: '22063',
+		  ptid: '',
+	    };
+    	DW.clear();
+	</script>
+</div>
+
+<div id="cbsMWeb_Omniture">
+	<script type="text/javascript">
+		var om = {
+				'is_dev':true,
+				'context': {
+				sections: 'nba',
+				page_type: 'gt in game'
+			}
+		}
+	</script>
+	<script language="JavaScript" type="text/javascript" src="/s/store/-1/webapp/cbs/scripts/s_code.js">s_code</script>
+	<script language="JavaScript" type="text/javascript" src="/s/store/-1/webapp/cbs/scripts/s_trackpage.js">trackpage</script>
+</div>
+ <table style="display: none;"> <tr> <td><img src="/common/p?subscriber=subscriber-tFe5tur9LjLxXBb&amp;src=&amp;operator=&amp;device=Apple%20iPhone&amp;pageref=%2FGT%20In%20Game&amp;site=NBA&amp;k=17449166-d29d-42f9-978b-8aa670b3b0fc&amp;r=CBS&amp;p=CBSWEBAPP&amp;clientip=72.197.108.250" width="0px" height="0px" style="display: none;"/></td> </tr> </table> </body> 
+</html>

@@ -15,16 +15,17 @@ select
 r.game_id,
 r.year,
 r.field as field,
-
 r.school_id as team,
 r.school_div_id as o_div,
 r.opponent_id as opponent,
 r.opponent_div_id as d_div,
+r.game_length as game_length,
 ln(r.team_score::float) as log_ps
 from ncaa.results r
 
 where
     r.year between 2002 and 2013
+--and r.game_date < '2012/11/29'::date
 and r.school_div_id is not null
 and r.opponent_div_id is not null
 and r.team_score>0
@@ -48,18 +49,30 @@ pll <- list()
 # Fixed parameters
 
 year <- as.factor(year)
+contrasts(year)<-'contr.sum'
+
 field <- as.factor(field)
+field <- relevel(field, ref = "none")
+
 d_div <- as.factor(d_div)
+
 o_div <- as.factor(o_div)
 
-fp <- data.frame(year,field,d_div,o_div)
+game_length <- as.factor(game_length)
+
+fp <- data.frame(year,field,d_div,o_div,game_length)
 fpn <- names(fp)
 
 # Random parameters
 
 game_id <- as.factor(game_id)
+contrasts(game_id) <- 'contr.sum'
+
 offense <- as.factor(paste(year,"/",team,sep=""))
+contrasts(offense) <- 'contr.sum'
+
 defense <- as.factor(paste(year,"/",opponent,sep=""))
+contrasts(defense) <- 'contr.sum'
 
 rp <- data.frame(offense,defense)
 rpn <- names(rp)
@@ -94,7 +107,7 @@ dim(g)
 model0 <- log_ps ~ year+field+d_div+o_div+(1|offense)+(1|defense)
 fit0 <- lmer(model0,data=g,REML=T,verbose=T) #,control=list(maxIter=5000))
 
-model <- log_ps ~ year+field+d_div+o_div+(1|offense)+(1|defense)+(1|game_id)
+model <- log_ps ~ year+field+d_div+o_div+game_length+(1|offense)+(1|defense)+(1|game_id)
 fit <- lmer(model,data=g,REML=T,verbose=T)
 
 fit

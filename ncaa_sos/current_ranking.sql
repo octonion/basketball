@@ -18,7 +18,7 @@ insert into r
 (school,school_id,div_id,year,str,ofs,dfs,sos)
 (
 select
-coalesce(s.school_name,sf.school_id::text),
+coalesce(sd.school_name,sf.school_id::text),
 sf.school_id,
 sd.div_id as div_id,
 sf.year,
@@ -29,8 +29,8 @@ sf.year,
 (defensive*d.exp_factor)::numeric(4,3) as dfs,
 schedule_strength::numeric(4,3) as sos
 from ncaa._schedule_factors sf
-join ncaa.schools s
-  on (s.school_id)=(sf.school_id)
+--join ncaa.schools s
+--  on (s.school_id)=(sf.school_id)
 join ncaa.schools_divisions sd
 --  on (sd.school_id)=(sf.school_id)
   on (sd.school_id,sd.year)=(sf.school_id,sf.year)

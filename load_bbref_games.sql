@@ -30,6 +30,14 @@ set visitor_id=split_part(visitor_url,'/',3);
 update bbref.games
 set home_id=split_part(home_url,'/',3);
 
+update bbref.games
+set status=''
+where status is null;
+
+update bbref.games
+set status='1OT'
+where status='OT';
+
 alter table bbref.games add column game_id serial primary key;
 
 commit;

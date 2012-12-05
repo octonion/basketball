@@ -1,4 +1,4 @@
-sink("ncaa_lmer.txt")
+sink("ncaa_lmer_geocoding.txt")
 
 library("lme4")
 library("nortest")
@@ -109,13 +109,13 @@ g$log_ps <- log_ps
 dim(g)
 
 model0 <- log_ps ~ year+field+d_div+o_div+(1|offense)+(1|defense)+(1|game_id)
-fit0 <- lmer(model0,data=g,REML=T,verbose=T) #,control=list(maxIter=5000))
+fit0 <- lmer(model0,data=g,REML=F,verbose=T) #,control=list(maxIter=5000))
 
 model1 <- log_ps ~ year+field+d_div+o_div+(1|offense)+(1|defense)+(1|game_id)+team_distance
-fit1 <- lmer(model1,data=g,REML=T,verbose=T)
+fit1 <- lmer(model1,data=g,REML=F,verbose=T)
 
 model <- log_ps ~ year+field+d_div+o_div+(1|offense)+(1|defense)+(1|game_id)+team_distance+opponent_distance
-fit <- lmer(model,data=g,REML=T,verbose=T)
+fit <- lmer(model,data=g,REML=F,verbose=T)
 
 fit
 summary(fit)

@@ -1,5 +1,7 @@
-library("lme4")
+sink("bbref_lmer.txt")
 
+library("lme4")
+library("nortest")
 library("RPostgreSQL")
 
 drv <- dbDriver("PostgreSQL")
@@ -13,6 +15,9 @@ r.year,
 r.field as field,
 r.team_id as team,
 r.opponent_id as opponent,
+r.team_previous as team_previous,
+r.opponent_previous as opponent_previous,
+r.game_length as game_length,
 ln(r.team_score::float) as log_ps
 from bbref.results r
 where
@@ -28,23 +33,33 @@ dim(games)
 
 attach(games)
 
-model <- log_ps ~ 1+year+field+(1|offense)+(1|defense)+(1|game_id)
+model <- log_ps ~ year+field+game_length+team_previous+opponent_previous+(1|offense)+(1|defense)+(1|game_id)
 
 pll <- list()
 
 # Fixed parameters
 
 year <- as.factor(year)
+contrasts(year)<-'contr.sum'
+
 field <- as.factor(field)
 
-fp <- data.frame(year,field)
+team_previous <- as.factor(team_previous)
+opponent_previous <- as.factor(opponent_previous)
+
+fp <- data.frame(year,field,game_length,team_previous,opponent_previous)
 fpn <- names(fp)
 
 # Random parameters
 
 game_id <- as.factor(game_id)
+contrasts(game_id) <- 'contr.sum'
+
 offense <- as.factor(paste(year,"/",team,sep=""))
+contrasts(offense) <- 'contr.sum'
+
 defense <- as.factor(paste(year,"/",opponent,sep=""))
+contrasts(defense) <- 'contr.sum'
 
 rp <- data.frame(offense,defense)
 rpn <- names(rp)
@@ -77,6 +92,8 @@ g$log_ps <- log_ps
 dim(g)
 
 fit <- lmer(model,data=g)
+fit
+summary(fit)
 
 # List of data frames
 

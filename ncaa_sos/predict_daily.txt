@@ -1,0 +1,126 @@
+BEGIN
+SET
+        team        | h_div |  site   |         opp         | v_div | t_score | o_score 
+--------------------+-------+---------+---------------------+-------+---------+---------
+ Abilene Christian  |     2 | home    | Tex. A&M-Commerce   |     2 |    71.3 |    68.4
+ Adelphi            |     2 | home    | Pace                |     2 |    63.6 |    63.0
+ Albertus Magnus    |     3 | home    | Trinity (CT)        |     3 |    70.2 |    69.2
+ Arizona            |     1 | home    | Southern Miss.      |     1 |    76.5 |    61.3
+ Arkansas           |     1 | home    | Oklahoma            |     1 |    76.1 |    72.6
+ Army               |     1 | home    | Marist              |     1 |    65.2 |    60.2
+ Bates              |     3 | home    | U New England       |     3 |    69.8 |    50.2
+ Baylor             |     1 | home    | Northwestern        |     1 |    66.2 |    60.6
+ Becker             |     3 | home    | Daniel Webster      |     3 |    77.3 |    68.0
+ Belmont            |     1 | home    | Lipscomb            |     1 |    82.2 |    62.2
+ Bentley            |     2 | home    | Franklin Pierce     |     2 |    67.7 |    71.6
+ Bloomfield         |     2 | home    | Felician            |     2 |    74.2 |    68.5
+ Boston College     |     1 | home    | Harvard             |     1 |    72.0 |    66.7
+ Bradley            |     1 | home    | George Washington   |     1 |    72.7 |    63.8
+ Brockport          |     3 | home    | Oswego St.          |     3 |    72.8 |    67.6
+ Bucknell           |     1 | home    | Kent St.            |     1 |    73.5 |    62.0
+ Campbell           |     1 | home    | Robert Morris       |     1 |    72.7 |    75.0
+ Carroll (WI)       |     3 | home    | Lawrence            |     3 |    89.6 |    69.0
+ Charleston So.     |     1 | home    | Citadel             |     1 |    74.1 |    61.0
+ Col. of Charleston |     1 | home    | Louisville          |     1 |    56.5 |    67.5
+ Connecticut        |     1 | neutral | North Carolina St.  |     1 |    72.0 |    72.5
+ Coppin St.         |     1 | home    | Saint Joseph's      |     1 |    61.0 |    75.4
+ Curry              |     3 | home    | Williams            |     3 |    73.1 |    81.5
+ Delaware           |     1 | home    | Radford             |     1 |    76.5 |    67.9
+ Elon               |     1 | home    | Dartmouth           |     1 |    64.1 |    55.8
+ Emmanuel (MA)      |     3 | home    | Amherst             |     3 |    67.8 |    88.9
+ Gallaudet          |     3 | home    | Mary Washington     |     3 |    74.1 |    75.9
+ George Mason       |     1 | home    | UMBC                |     1 |    76.1 |    55.2
+ Georgetown         |     1 | neutral | Texas               |     1 |    55.5 |    55.1
+ Georgia Tech       |     1 | home    | Georgia             |     1 |    57.5 |    49.2
+ Green Mountain     |     3 | home    | Cobleskill St.      |     3 |    94.9 |    96.6
+ Hartwick           |     3 | home    | Utica               |     3 |    87.5 |    66.3
+ Hofstra            |     1 | home    | Wagner              |     1 |    54.9 |    66.8
+ Howard             |     1 | home    | American            |     1 |    52.6 |    54.5
+ Hunter             |     3 | home    | Connecticut Col.    |     3 |    63.8 |    72.1
+ Illinois           |     1 | home    | Western Caro.       |     1 |    87.2 |    64.4
+ Illinois St.       |     1 | home    | Wyoming             |     1 |    68.2 |    63.5
+ Iowa               |     1 | home    | South Dakota        |     1 |    83.6 |    68.3
+ Iowa St.           |     1 | home    | FGCU                |     1 |    76.6 |    62.2
+ Ithaca             |     3 | home    | Elmira              |     3 |    72.9 |    57.0
+ Keene St.          |     3 | home    | Plattsburgh St.     |     3 |    72.1 |    71.1
+ Kentucky           |     1 | home    | Samford             |     1 |    80.8 |    56.8
+ Knox               |     3 | home    | Cornell College     |     3 |    61.8 |    74.3
+ Lafayette          |     1 | home    | Saint Francis (PA)  |     1 |    71.0 |    67.4
+ Lasell             |     3 | home    | Brandeis            |     3 |    67.8 |    82.3
+ Lehigh             |     1 | home    | Fordham             |     1 |    91.0 |    66.7
+ Linfield           |     3 | home    | Willamette          |     3 |    79.8 |    58.3
+ Lynchburg          |     3 | home    | Va. Wesleyan        |     3 |    76.2 |    78.9
+ Maine Maritime     |     3 | home    | Husson              |     3 |    57.8 |    88.7
+ Marymount (VA)     |     3 | home    | Penn St.-Harrisburg |     3 |    73.8 |    69.4
+ Mass.-Dartmouth    |     3 | home    | Worcester St.       |     3 |    74.0 |    85.0
+ Merrimack          |     2 | home    | Saint Michael's     |     2 |    65.4 |    65.7
+ Michigan           |     1 | home    | Western Mich.       |     1 |    76.3 |    55.2
+ Millikin           |     3 | home    | Fontbonne           |     3 |    82.2 |    76.9
+ Minnesota          |     1 | home    | South Dakota St.    |     1 |    83.5 |    60.3
+ Mississippi St.    |     1 | home    | UTSA                |     1 |    70.5 |    66.2
+ Missouri           |     1 | home    | Southeast Mo. St.   |     1 |    72.8 |    62.3
+ MIT                |     3 | home    | Mass.-Boston        |     3 |    68.8 |    64.5
+ Mitchell           |     3 | home    | Western Conn. St.   |     3 |    76.9 |    73.9
+ Monmouth (IL)      |     3 | home    | Grinnell            |     3 |    91.6 |   108.6
+ Mount Ida          |     3 | home    | Fitchburg St.       |     3 |    84.0 |    83.3
+ Mt. St. Vincent    |     3 | home    | Vassar              |     3 |    71.4 |    62.1
+ N.C. Central       |     1 | home    | Eastern Ky.         |     1 |    63.1 |    64.8
+ Newbury            |     3 | home    | Wheelock            |     3 |    83.6 |    66.2
+ New Haven          |     2 | home    | American Int'l      |     2 |    64.4 |    68.3
+ New Paltz St.      |     3 | home    | Eastern Conn. St.   |     3 |    71.5 |    69.7
+ Nichols            |     3 | home    | Clark (MA)          |     3 |    72.0 |    74.3
+ North Carolina St. |     1 | neutral | Connecticut         |     1 |    72.5 |    72.0
+ Northeastern       |     1 | home    | Massachusetts       |     1 |    77.0 |    71.4
+ Northwestern St.   |     1 | home    | Louisiana Tech      |     1 |    74.0 |    80.0
+ Nyack              |     2 | home    | Concordia (NY)      |     2 |    67.9 |    85.5
+ Old Dominion       |     1 | home    | Richmond            |     1 |    60.5 |    69.0
+ Oneonta St.        |     3 | home    | Skidmore            |     3 |    57.6 |    65.3
+ Otterbein          |     3 | home    | Wittenberg          |     3 |    57.8 |    63.9
+ Pacific            |     1 | home    | Nevada              |     1 |    80.2 |    69.1
+ Philadelphia U.    |     2 | home    | Holy Family         |     2 |    77.8 |    74.2
+ Pitt.-Bradford     |     3 | home    | Juniata             |     3 |    55.6 |    63.0
+ Plymouth St.       |     3 | home    | Tufts               |     3 |    64.5 |    73.4
+ Portland           |     1 | home    | UNLV                |     1 |    61.5 |    83.3
+ Post               |     2 | home    | Caldwell            |     2 |    80.3 |    66.7
+ Puget Sound        |     3 | home    | St. Scholastica     |     3 |    70.8 |    59.4
+ Purdue             |     1 | home    | Lamar               |     1 |    79.3 |    56.0
+ Regis (MA)         |     3 | home    | Lesley              |     3 |    58.3 |    59.9
+ Ripon              |     3 | home    | Beloit              |     3 |    76.3 |    72.7
+ Sage Colleges      |     3 | home    | St. Joseph's (L.I.) |     3 |    90.1 |    74.1
+ Salem St.          |     3 | home    | WPI                 |     3 |    72.0 |    77.8
+ Salve Regina       |     3 | home    | Rhode Island Col.   |     3 |    56.1 |    64.6
+ San Francisco      |     1 | home    | St. John's (NY)     |     1 |    70.9 |    71.2
+ Seton Hall         |     1 | home    | NJIT                |     1 |    68.6 |    58.1
+ South Ala.         |     1 | home    | New Mexico St.      |     1 |    69.1 |    68.4
+ Southern Conn. St. |     2 | home    | Le Moyne            |     2 |    75.0 |    74.1
+ Southern N.H.      |     2 | home    | Stonehill           |     2 |    66.8 |    60.3
+ Southern Utah      |     1 | home    | San Diego           |     1 |    64.9 |    69.0
+ Southern Vt.       |     3 | home    | Elms                |     3 |    60.2 |    76.2
+ Southwestern (TX)  |     3 | home    | Schreiner           |     3 |    60.2 |    67.9
+ St. Anselm         |     2 | home    | Mass.-Lowell        |     2 |    83.1 |    75.9
+ St. Bonaventure    |     1 | home    | Siena               |     1 |    70.3 |    57.8
+ St. Edwards        |     2 | home    | Tex. A&M-Kingsville |     2 |    64.4 |    61.6
+ St. John Fisher    |     3 | home    | Alfred              |     3 |    79.9 |    59.0
+ St. Marys (TX)     |     2 | home    | Incarnate Word      |     2 |    82.0 |    68.6
+ St. Norbert        |     3 | home    | Lake Forest         |     3 |    69.9 |    57.2
+ SUNY Geneseo       |     3 | home    | SUNY Cortland       |     3 |    77.0 |    74.7
+ SUNY Potsdam       |     3 | home    | St. Lawrence        |     3 |    71.3 |    64.4
+ TCU                |     1 | home    | Houston             |     1 |    61.8 |    60.3
+ Tennessee St.      |     1 | home    | Drexel              |     1 |    65.3 |    65.3
+ Texas              |     1 | neutral | Georgetown          |     1 |    55.1 |    55.5
+ Texas Tech         |     1 | home    | Northern Ky.        |     2 |    76.4 |    62.6
+ Thomas (ME)        |     3 | home    | Colby               |     3 |    75.4 |    79.4
+ Trine              |     3 | home    | Wabash              |     3 |    68.7 |    57.0
+ Tulane             |     1 | home    | Nicholls St.        |     1 |    78.7 |    56.9
+ Tuskegee           |     2 | home    | Montevallo          |     2 |    70.6 |    73.5
+ Valdosta St.       |     2 | home    | Fort Valley St.     |     2 |    97.0 |    83.8
+ Wells              |     3 | home    | Nazareth            |     3 |    69.7 |    87.3
+ Western New Eng.   |     3 | home    | Springfield         |     3 |    60.2 |    75.9
+ West Liberty       |     2 | home    | West Virginia St.   |     2 |    91.5 |    60.6
+ Wheaton (MA)       |     3 | home    | Gordon              |     3 |    70.8 |    58.0
+ Wilmington (DE)    |     2 | home    | Chestnut Hill       |     2 |    74.0 |    73.8
+ Winthrop           |     1 | home    | Brevard             |     2 |    81.6 |    54.2
+ Wisconsin          |     1 | home    | Neb. Omaha          |     1 |    92.5 |    55.4
+(119 rows)
+
+COMMIT

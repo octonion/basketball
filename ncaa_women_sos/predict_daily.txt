@@ -1,0 +1,138 @@
+BEGIN
+SET
+        team         | h_div |         opp          | v_div | t_score | o_score 
+---------------------+-------+----------------------+-------+---------+---------
+ Abilene Christian   |     2 | Tex. A&M-Commerce    |     2 |    84.8 |    68.2
+ Adelphi             |     2 | Pace                 |     2 |    67.3 |    58.1
+ Albertus Magnus     |     3 | New England Col.     |     3 |    81.1 |    68.3
+ Anna Maria          |     3 | Cobleskill St.       |     3 |    55.8 |    58.9
+ Augustana (IL)      |     3 | Blackburn            |     3 |    74.0 |    46.1
+ Babson              |     3 | Wellesley            |     3 |    54.6 |    44.5
+ Bates               |     3 | U New England        |     3 |    49.6 |    69.0
+ Becker              |     3 | Elms                 |     3 |    54.9 |    66.0
+ Benedictine (IL)    |     3 | Aurora               |     3 |    69.0 |    58.7
+ Bentley             |     2 | Franklin Pierce      |     2 |    70.1 |    54.5
+ Bloomfield          |     2 | Felician             |     2 |    65.2 |    49.2
+ Bowie St.           |     2 | Glenville St.        |     2 |    72.4 |    80.8
+ Brockport           |     3 | Oswego St.           |     3 |    41.7 |    57.2
+ BYU                 |     1 | Utah St.             |     1 |    77.0 |    65.1
+ Carnegie Mellon     |     3 | Allegheny            |     3 |    62.6 |    50.4
+ Carroll (WI)        |     3 | Lawrence             |     3 |    75.3 |    47.7
+ Chicago             |     3 | North Park           |     3 |    60.2 |    57.1
+ Clark (MA)          |     3 | Mount Holyoke        |     3 |    63.9 |    54.2
+ Colby-Sawyer        |     3 | Suffolk              |     3 |    62.0 |    61.2
+ Colgate             |     1 | Columbia             |     1 |    60.1 |    43.6
+ Concordia Chicago   |     3 | Rockford             |     3 |    59.0 |    49.3
+ Dominican (IL)      |     3 | Wis. Lutheran        |     3 |    45.4 |    75.1
+ Dowling             |     2 | LIU Post             |     2 |    66.7 |    58.3
+ East Carolina       |     1 | N.C. Central         |     1 |    67.7 |    37.5
+ Eastern Ill.        |     1 | Evansville           |     1 |    65.3 |    57.6
+ East. Mennonite     |     3 | Mary Washington      |     3 |    64.6 |    52.7
+ Edgewood            |     3 | Concordia (WI)       |     3 |    64.5 |    70.1
+ Edinboro            |     2 | Davis & Elkins       |     2 |    77.1 |    67.4
+ Emerson             |     3 | Tufts                |     3 |    42.3 |    69.0
+ Emmanuel (MA)       |     3 | Amherst              |     3 |    53.3 |    55.8
+ Ferrum              |     3 | Roanoke              |     3 |    79.6 |    48.7
+ Florida             |     1 | Troy                 |     1 |   105.7 |    73.7
+ Fontbonne           |     3 | Dubuque              |     3 |    52.9 |    66.2
+ Frostburg St.       |     3 | Shenandoah           |     3 |    63.5 |    60.1
+ Georgia             |     1 | Mercer               |     1 |    78.7 |    43.5
+ Goldey-Beacom       |     2 | Georgian Court       |     2 |    72.4 |    62.5
+ Gonzaga             |     1 | Eastern Wash.        |     1 |    65.5 |    50.3
+ Green Mountain      |     3 | Sage Colleges        |     3 |    64.0 |    73.8
+ Hartwick            |     3 | Utica                |     3 |    62.6 |    45.0
+ Harvard             |     1 | Providence           |     1 |    73.3 |    60.0
+ Hunter              |     3 | Mt. St. Mary (NY)    |     3 |    48.5 |    62.1
+ Indiana             |     1 | Belmont              |     1 |    61.1 |    53.4
+ Indiana St.         |     1 | Northern Ill.        |     1 |    57.6 |    51.7
+ IPFW                |     1 | Valparaiso           |     1 |    60.4 |    61.7
+ Ithaca              |     3 | Elmira               |     3 |    74.6 |    52.8
+ James Madison       |     1 | Liberty              |     1 |    71.8 |    68.1
+ Johns Hopkins       |     3 | Dickinson            |     3 |    63.3 |    66.8
+ King (TN)           |     2 | Salem Int'l          |     2 |    70.0 |    50.2
+ Knox                |     3 | Cornell College      |     3 |    53.8 |    94.8
+ Lakeland            |     3 | Alverno              |     3 |    54.8 |    57.9
+ Lander              |     2 | Erskine              |     2 |    71.2 |    56.5
+ Lasell              |     3 | Fitchburg St.        |     3 |    60.8 |    64.7
+ Lesley              |     3 | Mitchell             |     3 |    50.0 |    57.3
+ Maine Maritime      |     3 | Husson               |     3 |    69.8 |    43.1
+ Manhattan           |     1 | Army                 |     1 |    58.2 |    56.8
+ Marian (WI)         |     3 | Milwaukee Engr.      |     3 |    58.2 |    42.6
+ Marshall            |     1 | West Virginia        |     1 |    51.1 |    67.6
+ Marymount (VA)      |     3 | Va. Wesleyan         |     3 |    70.7 |    62.5
+ Maryville (MO)      |     2 | Principia            |     3 |    89.1 |    33.8
+ Me.-Farmington      |     3 | Bowdoin              |     3 |    50.0 |    53.4
+ Merrimack           |     2 | Saint Michael's      |     2 |    64.6 |    55.9
+ Methodist           |     3 | Salem                |     3 |    73.8 |    57.5
+ Miami (OH)          |     1 | Wright St.           |     1 |    68.5 |    63.3
+ Middlebury          |     3 | Norwich              |     3 |    68.0 |    55.1
+ Middle Tenn.        |     1 | Austin Peay          |     1 |    85.3 |    55.7
+ Milwaukee           |     1 | Bradley              |     1 |    72.7 |    76.0
+ MIT                 |     3 | Coast Guard          |     3 |    59.1 |    49.7
+ Monmouth            |     1 | Georgetown           |     1 |    58.0 |    73.1
+ Monmouth (IL)       |     3 | Grinnell             |     3 |    76.4 |    59.9
+ Moravian            |     3 | Eastern              |     3 |    79.8 |    61.0
+ Mount Ida           |     3 | Mass.-Boston         |     3 |    48.7 |    72.2
+ Navy                |     1 | William & Mary       |     1 |    65.0 |    62.0
+ Neb.-Omaha          |     1 | Tulsa                |     1 |    59.2 |    59.0
+ Newbury             |     3 | Daniel Webster       |     3 |    57.0 |    55.4
+ New Haven           |     2 | American Int'l       |     2 |    60.6 |    63.6
+ New Mexico          |     1 | Cal St. Fullerton    |     1 |    61.6 |    55.2
+ New Paltz St.       |     3 | Stevens              |     3 |    65.9 |    53.4
+ Nichols             |     3 | Johnson & Wales (RI) |     3 |    61.6 |    53.9
+ North Dakota        |     1 | Air Force            |     1 |    68.7 |    53.0
+ Northwestern St.    |     1 | Prairie View         |     1 |    49.5 |    53.8
+ Nyack               |     2 | Concordia (NY)       |     2 |    59.2 |    64.1
+ Olivet              |     3 | Adrian               |     3 |    71.8 |    55.3
+ Penn St.-Harrisburg |     3 | St. Elizabeth        |     3 |    62.6 |    55.4
+ Philadelphia U.     |     2 | Holy Family          |     2 |    54.7 |    65.0
+ Post                |     2 | Caldwell             |     2 |    63.6 |    62.2
+ Randolph            |     3 | Randolph-Macon       |     3 |    63.1 |    68.7
+ Regis (MA)          |     3 | Bay Path             |     3 |    79.0 |    49.2
+ Rensselaer          |     3 | Keene St.            |     3 |    69.3 |    56.4
+ Rhodes              |     3 | Christian Bros.      |     2 |    59.5 |    53.9
+ Ripon               |     3 | Beloit               |     3 |    62.2 |    51.4
+ Salve Regina        |     3 | Rhode Island Col.    |     3 |    63.2 |    53.8
+ South Dakota St.    |     1 | Eastern Mich.        |     1 |    60.1 |    56.3
+ Southern Conn. St.  |     2 | Le Moyne             |     2 |    68.9 |    60.6
+ Southern Me.        |     3 | Salem St.            |     3 |    72.5 |    57.4
+ Southern N.H.       |     2 | Stonehill            |     2 |    51.8 |    57.6
+ Southern Vt.        |     3 | Wheelock             |     3 |    51.7 |    30.4
+ Springfield         |     3 | Smith                |     3 |    47.6 |    69.7
+ St. Anselm          |     2 | Mass.-Lowell         |     2 |    59.3 |    71.5
+ Stetson             |     1 | Lynn                 |     2 |    79.1 |    56.0
+ St. John Fisher     |     3 | Alfred               |     3 |    74.3 |    64.0
+ St. Norbert         |     3 | Lake Forest          |     3 |    56.9 |    48.8
+ Stony Brook         |     1 | Sacred Heart         |     1 |    51.6 |    56.2
+ St. Scholastica     |     3 | North Central (MN)   |     3 |    79.1 |    60.8
+ SUNY Geneseo        |     3 | SUNY Cortland        |     3 |    73.1 |    51.4
+ Syracuse            |     1 | Wagner               |     1 |    98.0 |    45.0
+ Texas A&M           |     1 | Louisiana Tech       |     1 |    75.8 |    53.7
+ Texas-Arlington     |     1 | Tex.-Pan American    |     1 |    64.5 |    63.0
+ Thomas (ME)         |     3 | St. Joseph's (ME)    |     3 |    46.5 |    71.2
+ UALR                |     1 | Southern Miss.       |     1 |    68.5 |    51.3
+ UNI                 |     1 | Chicago St.          |     1 |    79.7 |    44.7
+ Union (NY)          |     3 | MCLA                 |     3 |    76.7 |    56.5
+ Utah Valley         |     1 | Weber St.            |     1 |    71.4 |    60.5
+ Valdosta St.        |     2 | Fort Valley St.      |     2 |    68.4 |    56.4
+ Wake Forest         |     1 | Florida A&M          |     1 |    82.2 |    64.6
+ Wartburg            |     3 | Bethany Lutheran     |     3 |    63.7 |    54.1
+ Washington Col.     |     3 | Ursinus              |     3 |    57.4 |    56.1
+ Wells               |     3 | Nazareth             |     3 |    54.7 |    61.4
+ Wesleyan (CT)       |     3 | Western New Eng.     |     3 |    50.2 |    50.6
+ Western Ky.         |     1 | Vanderbilt           |     1 |    60.3 |    71.2
+ Westfield St.       |     3 | Eastern Conn. St.    |     3 |    50.7 |    49.7
+ West Liberty        |     2 | West Virginia St.    |     2 |    81.3 |    76.1
+ West Virginia       |     1 | Marshall             |     1 |    67.6 |    51.1
+ Wichita St.         |     1 | Kansas St.           |     1 |    56.3 |    57.6
+ Williams            |     3 | Skidmore             |     3 |    61.6 |    36.0
+ Wilmington (DE)     |     2 | Chestnut Hill        |     2 |    65.9 |    66.2
+ Wingate             |     2 | Benedict             |     2 |    58.9 |    55.4
+ Wis.-Parkside       |     2 | Finlandia            |     3 |    86.7 |    36.1
+ Worcester St.       |     3 | Trinity (CT)         |     3 |    51.4 |    60.8
+ WPI                 |     3 | Wheaton (MA)         |     3 |    56.8 |    49.0
+ Yale                |     1 | Fordham              |     1 |    54.4 |    64.9
+ York (PA)           |     3 | Frank. & Marsh.      |     3 |    62.7 |    46.8
+(131 rows)
+
+COMMIT

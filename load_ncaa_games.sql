@@ -23,4 +23,7 @@ copy ncaa.games from '/tmp/ncaa_games.csv' with delimiter as ',' csv quote as '"
 
 alter table ncaa.games add column game_id serial primary key;
 
+update ncaa.games
+set game_length = trim(both ' -' from game_length);
+
 commit;
