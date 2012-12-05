@@ -1,0 +1,8 @@
+Examples:
+
+http://data.nba.com/json/cms/noseason/scoreboard/20101229/games.json
+http://data.nba.com/json/cms/noseason/game/20121126/0021200013/boxscore.json
+http://data.nba.com/json/cms/noseason/game/20121126/0021200013/pbp_1.json
+http://data.nba.com/json/cms/2012/standings/division.json
+http://data.nba.com/json/cms/noseason/game/20121126/0021200013/recap.json
+http://data.nba.com/json/cms/noseason/game/20121126/0021200013/preview.json
