@@ -1,0 +1,32 @@
+BEGIN
+CREATE TABLE
+INSERT 0 24
+ rk |        team         |  str  |  ofs  |  dfs  |  sos  
+----+---------------------+-------+-------+-------+-------
+  1 | Regal FC Barcelona  | 1.216 | 1.067 | 0.878 | 1.004
+  2 | Real Madrid         | 1.122 | 1.056 | 0.941 | 1.022
+  3 | Montepaschi Siena   | 1.115 | 1.097 | 0.984 | 1.002
+  4 | Panathinaikos       | 1.086 | 1.041 | 0.959 | 1.007
+  5 | Olympiacos          | 1.080 | 1.140 | 1.056 | 0.998
+  6 | Maccabi Electra     | 1.073 | 1.049 | 0.978 | 1.011
+  7 | CSKA Moscow         | 1.054 | 1.003 | 0.952 | 0.999
+  8 | Efes Pilsen         | 1.049 | 1.046 | 0.997 | 1.016
+  9 | Partizan            | 1.015 | 0.993 | 0.979 | 1.021
+ 10 | Caja Laboral        | 1.013 | 1.040 | 1.027 | 1.005
+ 11 | BC Khimki           | 1.002 | 1.005 | 1.003 | 1.000
+ 12 | Unicaja             | 1.000 | 1.014 | 1.014 | 0.999
+ 13 | Maroussi BC         | 0.998 | 1.002 | 1.003 | 1.017
+ 14 | Armani Jeans Milano | 0.987 | 0.979 | 0.992 | 1.002
+ 15 | Lottomatica Roma    | 0.983 | 0.966 | 0.983 | 1.003
+ 16 | Lietuvos Rytas      | 0.975 | 0.985 | 1.010 | 1.007
+ 17 | Asseco Prokom       | 0.969 | 1.011 | 1.044 | 1.007
+ 18 | Entente Orleanaise  | 0.943 | 0.963 | 1.021 | 1.010
+ 19 | Asvel Basket        | 0.919 | 0.930 | 1.012 | 1.000
+ 20 | Cibona              | 0.917 | 0.932 | 1.016 | 1.005
+ 21 | Zalgiris            | 0.911 | 0.951 | 1.043 | 1.002
+ 22 | Union Olimpija      | 0.910 | 0.926 | 1.017 | 1.010
+ 23 | Fenerbahce Ulker    | 0.884 | 0.942 | 1.066 | 1.003
+ 24 | EWE Baskets         | 0.862 | 0.902 | 1.046 | 1.014
+(24 rows)
+
+COMMIT

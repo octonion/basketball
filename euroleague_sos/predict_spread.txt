@@ -1,0 +1,7 @@
+BEGIN
+SET
+ home | away | spread 
+------+------+--------
+(0 rows)
+
+COMMIT
