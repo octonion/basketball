@@ -1,4 +1,4 @@
-#!/usr/bin/ruby1.9.3
+#!/usr/bin/env ruby
 # coding: utf-8
 
 bad = " "
@@ -12,14 +12,14 @@ require 'cgi'
 require 'date'
 
 team_base = 'http://www.euroleague.net/main/results/by-team'
-boxscore_base = 'http://www.euroleague.net/main/results/showgame?gamecode=164&seasoncode=E2013#!boxscore'
+boxscore_base = 'http://www.euroleague.net/main/results/showgame?gamecode=164&seasoncode=E2014#!boxscore'
 
 score_xpath = '//*[@id="gvResults"]/tr'
 
 #'//*[@id="ctl00_ctl00_ctl00_ctl00_maincontainer_maincenter_contentpane_boxscorepane_ctl00_PartialsStatsByQuarter_dgPartials"]/tbody/tr[1]/th[1]'
 
-first_year = 2013
-last_year = 2013
+first_year = 2014
+last_year = 2014
 
 if (first_year==last_year)
   results = CSV.open("games_#{first_year}.csv","w")
@@ -27,7 +27,7 @@ else
   results = CSV.open("games_#{first_year}-#{last_year}.csv","w")
 end
 
-team_file = CSV.open('teams_2013.csv','r')
+team_file = CSV.open('teams_2014.csv','r')
 #team_file = CSV.open('teams.csv','r')
 
 teams = Array[]

@@ -1,4 +1,4 @@
-#!/usr/bin/ruby1.9.3
+#!/usr/bin/env ruby
 # coding: utf-8
 
 bad = " "
@@ -11,7 +11,7 @@ agent = Mechanize.new{ |agent| agent.history.max_size=0 }
 agent.user_agent_alias = 'Mac Safari'
 agent.robots = false
 
-#boxscore_base = 'http://www.euroleague.net/main/results/showgame?gamecode=164&seasoncode=E2013#!boxscore'
+#boxscore_base = 'http://www.euroleague.net/main/results/showgame?gamecode=164&seasoncode=E2014#!boxscore'
 linescore_base = 'http://www.euroleague.net/main/results/showgame'
 
 linescore_xpath = '//*[@id="ctl00_ctl00_ctl00_ctl00_maincontainer_maincenter_contentpane_boxscorepane_ctl00_PartialsStatsByQuarter_dgPartials"]/tr'
@@ -21,7 +21,7 @@ linescore_xpath = '//*[@id="ctl00_ctl00_ctl00_ctl00_maincontainer_maincenter_con
 #ctl00_ctl00_ctl00_ctl00_maincontainer_maincenter_contentpane_boxscorepane_ctl00_PartialsStatsEndOfQuarter_dgPartials
 
 game_id = 164
-year = 2013
+year = 2014
 
 url = "#{linescore_base}?gamecode=#{game_id}&seasoncode=E#{year}#!boxscore"
 

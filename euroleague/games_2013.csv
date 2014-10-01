@@ -17,11 +17,11 @@
 2013,IST,home,Fenerbahce Ulker Istanbul,/main/results/showgame?clubcode=IST&gamecode=172&seasoncode=E2013#!boxscore,172,63 - 71,63,71,February 21 19:15 CET,2014-02-21
 2013,IST,home,FC Barcelona,/main/results/showgame?clubcode=IST&gamecode=178&seasoncode=E2013#!boxscore,178,84 - 89,84,89,February 27 19:00 CET,2014-02-27
 2013,IST,away,Unicaja Malaga,/main/results/showgame?clubcode=IST&gamecode=187&seasoncode=E2013#!boxscore,187,83 - 75,83,75,March 7 20:45 CET,2014-03-07
-2013,IST,home,Panathinaikos Athens,,,,,,March 14 19:00 CET,2014-03-14
-2013,IST,away,EA7 Emporio Armani Milan,,,,,,March 21 21:00 CET,2014-03-21
-2013,IST,home,Laboral Kutxa Vitoria,,,,,,March 27 19:45 CET,2014-03-27
-2013,IST,home,Olympiacos Piraeus,,,,,,April 4 20:00 CET,2014-04-04
-2013,IST,away,Fenerbahce Ulker Istanbul,,,,,,,
+2013,IST,home,Panathinaikos Athens,/main/results/showgame?clubcode=IST&gamecode=195&seasoncode=E2013#!boxscore,195,60 - 65,60,65,March 14 19:00 CET,2014-03-14
+2013,IST,away,EA7 Emporio Armani Milan,/main/results/showgame?clubcode=IST&gamecode=202&seasoncode=E2013#!boxscore,202,76 - 69,76,69,March 21 21:00 CET,2014-03-21
+2013,IST,home,Laboral Kutxa Vitoria,/main/results/showgame?clubcode=IST&gamecode=212&seasoncode=E2013#!boxscore,212,79 - 105,79,105,March 27 19:45 CET,2014-03-27
+2013,IST,home,Olympiacos Piraeus,/main/results/showgame?clubcode=IST&gamecode=217&seasoncode=E2013#!boxscore,217,78 - 83,78,83,April 4 20:00 CET,2014-04-04
+2013,IST,away,Fenerbahce Ulker Istanbul,/main/results/showgame?clubcode=IST&gamecode=228&seasoncode=E2013#!boxscore,228,84 - 65,84,65,April 10 19:00 CET,2014-04-10
 2013,BAM,home,Strasbourg,/main/results/showgame?clubcode=BAM&gamecode=4&seasoncode=E2013#!boxscore,4,84 - 70,84,70,October 16 20:00 CET,2013-10-16
 2013,BAM,away,Real Madrid,/main/results/showgame?clubcode=BAM&gamecode=16&seasoncode=E2013#!boxscore,16,98 - 58,98,58,October 24 20:45 CET,2013-10-24
 2013,BAM,home,Anadolu Efes Istanbul,/main/results/showgame?clubcode=BAM&gamecode=28&seasoncode=E2013#!boxscore,28,88 - 86,88,86,November 1 20:00 CET,2013-11-01
@@ -71,11 +71,18 @@
 2013,CSK,home,Maccabi Electra Tel Aviv,/main/results/showgame?clubcode=CSK&gamecode=176&seasoncode=E2013#!boxscore,176,100 - 65,100,65,February 21 17:00 CET,2014-02-21
 2013,CSK,home,Lokomotiv Kuban Krasnodar,/main/results/showgame?clubcode=CSK&gamecode=182&seasoncode=E2013#!boxscore,182,94 - 93,94,93,February 28 17:00 CET,2014-02-28
 2013,CSK,away,Zalgiris Kaunas,/main/results/showgame?clubcode=CSK&gamecode=191&seasoncode=E2013#!boxscore,191,86 - 88,86,88,March 6 18:45 CET,2014-03-06
-2013,CSK,home,Partizan NIS Belgrade,,,,,,March 13 17:00 CET,2014-03-13
-2013,CSK,away,Real Madrid,,,,,,March 20 20:45 CET,2014-03-20
-2013,CSK,home,FC Bayern Munich,,,,,,March 27 17:00 CET,2014-03-27
-2013,CSK,home,Galatasaray Liv Hospital Istanbul,,,,,,April 4 18:00 CET,2014-04-04
-2013,CSK,away,Maccabi Electra Tel Aviv,,,,,,,
+2013,CSK,home,Partizan NIS Belgrade,/main/results/showgame?clubcode=CSK&gamecode=199&seasoncode=E2013#!boxscore,199,84 - 52,84,52,March 13 17:00 CET,2014-03-13
+2013,CSK,away,Real Madrid,/main/results/showgame?clubcode=CSK&gamecode=206&seasoncode=E2013#!boxscore,206,93 - 79,93,79,March 20 20:45 CET,2014-03-20
+2013,CSK,home,FC Bayern Munich,/main/results/showgame?clubcode=CSK&gamecode=216&seasoncode=E2013#!boxscore,216,77 - 70,77,70,March 27 16:45 CET,2014-03-27
+2013,CSK,home,Galatasaray Liv Hospital Istanbul,/main/results/showgame?clubcode=CSK&gamecode=221&seasoncode=E2013#!boxscore,221,86 - 85,86,85,April 4 18:00 CET,2014-04-04
+2013,CSK,away,Maccabi Electra Tel Aviv,/main/results/showgame?clubcode=CSK&gamecode=232&seasoncode=E2013#!boxscore,232,76 - 81,76,81,April 10 20:05 CET,2014-04-10
+2013,CSK,home,Panathinaikos Athens,/main/results/showgame?clubcode=CSK&gamecode=235&seasoncode=E2013#!boxscore,235,77 - 74,77,74,April 16 18:00 CET,2014-04-16
+2013,CSK,home,Panathinaikos Athens,/main/results/showgame?clubcode=CSK&gamecode=239&seasoncode=E2013#!boxscore,239,77 - 51,77,51,April 18 18:15 CET,2014-04-18
+2013,CSK,away,Panathinaikos Athens,/main/results/showgame?clubcode=CSK&gamecode=243&seasoncode=E2013#!boxscore,243,65 - 59,65,59,April 21 20:45 CET,2014-04-21
+2013,CSK,away,Panathinaikos Athens,/main/results/showgame?clubcode=CSK&gamecode=246&seasoncode=E2013#!boxscore,246,73 - 72,73,72,April 23 18:30 CET,2014-04-23
+2013,CSK,home,Panathinaikos Athens,/main/results/showgame?clubcode=CSK&gamecode=249&seasoncode=E2013#!boxscore,249,74 - 44,74,44,April 25 18:00 CET,2014-04-25
+2013,CSK,home,Maccabi Electra Tel Aviv,/main/results/showgame?clubcode=CSK&gamecode=251&seasoncode=E2013#!boxscore,251,67 - 68,67,68,May 16 18:00 CET,2014-05-16
+2013,CSK,away,FC Barcelona,/main/results/showgame?clubcode=CSK&gamecode=252&seasoncode=E2013#!boxscore,252,93 - 78,93,78,May 18 17:00 CET,2014-05-18
 2013,MIL,away,Anadolu Efes Istanbul,/main/results/showgame?clubcode=MIL&gamecode=5&seasoncode=E2013#!boxscore,5,87 - 67,87,67,October 17 20:00 CET,2013-10-17
 2013,MIL,home,Zalgiris Kaunas,/main/results/showgame?clubcode=MIL&gamecode=17&seasoncode=E2013#!boxscore,17,82 - 75,82,75,October 24 20:30 CET,2013-10-24
 2013,MIL,away,Real Madrid,/main/results/showgame?clubcode=MIL&gamecode=30&seasoncode=E2013#!boxscore,30,93 - 74,93,74,November 1 20:45 CET,2013-11-01
@@ -95,11 +102,15 @@
 2013,MIL,home,Unicaja Malaga,/main/results/showgame?clubcode=MIL&gamecode=170&seasoncode=E2013#!boxscore,170,70 - 59,70,59,February 20 20:30 CET,2014-02-20
 2013,MIL,home,Panathinaikos Athens,/main/results/showgame?clubcode=MIL&gamecode=180&seasoncode=E2013#!boxscore,180,77 - 75,77,75,February 27 20:45 CET,2014-02-27
 2013,MIL,away,Olympiacos Piraeus,/main/results/showgame?clubcode=MIL&gamecode=185&seasoncode=E2013#!boxscore,185,86 - 88,86,88,March 6 20:00 CET,2014-03-06
-2013,MIL,away,Laboral Kutxa Vitoria,,,,,,March 13 21:00 CET,2014-03-13
-2013,MIL,home,Anadolu Efes Istanbul,,,,,,March 21 21:00 CET,2014-03-21
-2013,MIL,away,Fenerbahce Ulker Istanbul,,,,,,March 28 19:30 CET,2014-03-28
-2013,MIL,home,FC Barcelona,,,,,,April 2 20:00 CET,2014-04-02
-2013,MIL,away,Unicaja Malaga,,,,,,,
+2013,MIL,away,Laboral Kutxa Vitoria,/main/results/showgame?clubcode=MIL&gamecode=196&seasoncode=E2013#!boxscore,196,65 - 83,65,83,March 13 21:00 CET,2014-03-13
+2013,MIL,home,Anadolu Efes Istanbul,/main/results/showgame?clubcode=MIL&gamecode=202&seasoncode=E2013#!boxscore,202,76 - 69,76,69,March 21 21:00 CET,2014-03-21
+2013,MIL,away,Fenerbahce Ulker Istanbul,/main/results/showgame?clubcode=MIL&gamecode=211&seasoncode=E2013#!boxscore,211,73 - 82,73,82,March 28 19:30 CET,2014-03-28
+2013,MIL,home,FC Barcelona,/main/results/showgame?clubcode=MIL&gamecode=219&seasoncode=E2013#!boxscore,219,91 - 63,91,63,April 2 20:00 CET,2014-04-02
+2013,MIL,away,Unicaja Malaga,/main/results/showgame?clubcode=MIL&gamecode=226&seasoncode=E2013#!boxscore,226,95 - 85,95,85,April 11 20:45 CET,2014-04-11
+2013,MIL,home,Maccabi Electra Tel Aviv,/main/results/showgame?clubcode=MIL&gamecode=236&seasoncode=E2013#!boxscore,236,99 - 101,99,101,April 16 20:45 CET,2014-04-16
+2013,MIL,home,Maccabi Electra Tel Aviv,/main/results/showgame?clubcode=MIL&gamecode=240&seasoncode=E2013#!boxscore,240,91 - 77,91,77,April 18 20:45 CET,2014-04-18
+2013,MIL,away,Maccabi Electra Tel Aviv,/main/results/showgame?clubcode=MIL&gamecode=244&seasoncode=E2013#!boxscore,244,75 - 63,75,63,April 21 20:15 CET,2014-04-21
+2013,MIL,away,Maccabi Electra Tel Aviv,/main/results/showgame?clubcode=MIL&gamecode=247&seasoncode=E2013#!boxscore,247,86 - 66,86,66,April 23 19:45 CET,2014-04-23
 2013,BAR,home,Partizan NIS Belgrade,/main/results/showgame?clubcode=BAR&gamecode=1&seasoncode=E2013#!boxscore,1,67 - 60,67,60,October 17 21:00 CET,2013-10-17
 2013,BAR,away,Fenerbahce Ulker Istanbul,/main/results/showgame?clubcode=BAR&gamecode=13&seasoncode=E2013#!boxscore,13,75 - 70,75,70,October 25 19:00 CET,2013-10-25
 2013,BAR,home,JSF Nanterre,/main/results/showgame?clubcode=BAR&gamecode=25&seasoncode=E2013#!boxscore,25,67 - 71,67,71,October 31 20:45 CET,2013-10-31
@@ -119,11 +130,16 @@
 2013,BAR,away,Laboral Kutxa Vitoria,/main/results/showgame?clubcode=BAR&gamecode=171&seasoncode=E2013#!boxscore,171,68 - 80,68,80,February 20 20:30 CET,2014-02-20
 2013,BAR,away,Anadolu Efes Istanbul,/main/results/showgame?clubcode=BAR&gamecode=178&seasoncode=E2013#!boxscore,178,84 - 89,84,89,February 27 19:00 CET,2014-02-27
 2013,BAR,home,Fenerbahce Ulker Istanbul,/main/results/showgame?clubcode=BAR&gamecode=188&seasoncode=E2013#!boxscore,188,93 - 73,93,73,March 6 20:45 CET,2014-03-06
-2013,BAR,home,Olympiacos Piraeus,,,,,,March 14 21:00 CET,2014-03-14
-2013,BAR,away,Unicaja Malaga,,,,,,March 21 20:45 CET,2014-03-21
-2013,BAR,home,Panathinaikos Athens,,,,,,March 28 20:45 CET,2014-03-28
-2013,BAR,away,EA7 Emporio Armani Milan,,,,,,April 2 20:00 CET,2014-04-02
-2013,BAR,home,Laboral Kutxa Vitoria,,,,,,,
+2013,BAR,home,Olympiacos Piraeus,/main/results/showgame?clubcode=BAR&gamecode=193&seasoncode=E2013#!boxscore,193,70 - 58,70,58,March 14 21:00 CET,2014-03-14
+2013,BAR,away,Unicaja Malaga,/main/results/showgame?clubcode=BAR&gamecode=204&seasoncode=E2013#!boxscore,204,61 - 77,61,77,March 21 20:45 CET,2014-03-21
+2013,BAR,home,Panathinaikos Athens,/main/results/showgame?clubcode=BAR&gamecode=210&seasoncode=E2013#!boxscore,210,84 - 62,84,62,March 28 20:45 CET,2014-03-28
+2013,BAR,away,EA7 Emporio Armani Milan,/main/results/showgame?clubcode=BAR&gamecode=219&seasoncode=E2013#!boxscore,219,91 - 63,91,63,April 2 20:00 CET,2014-04-02
+2013,BAR,home,Laboral Kutxa Vitoria,/main/results/showgame?clubcode=BAR&gamecode=227&seasoncode=E2013#!boxscore,227,86 - 97,86,97,April 10 20:45 CET,2014-04-10
+2013,BAR,home,Galatasaray Liv Hospital Istanbul,/main/results/showgame?clubcode=BAR&gamecode=233&seasoncode=E2013#!boxscore,233,88 - 61,88,61,April 15 19:00 CET,2014-04-15
+2013,BAR,home,Galatasaray Liv Hospital Istanbul,/main/results/showgame?clubcode=BAR&gamecode=237&seasoncode=E2013#!boxscore,237,84 - 63,84,63,April 17 21:00 CET,2014-04-17
+2013,BAR,away,Galatasaray Liv Hospital Istanbul,/main/results/showgame?clubcode=BAR&gamecode=241&seasoncode=E2013#!boxscore,241,75 - 78,75,78,April 20 19:00 CET,2014-04-20
+2013,BAR,home,Real Madrid,/main/results/showgame?clubcode=BAR&gamecode=250&seasoncode=E2013#!boxscore,250,62 - 100,62,100,May 16 21:00 CET,2014-05-16
+2013,BAR,home,CSKA Moscow,/main/results/showgame?clubcode=BAR&gamecode=252&seasoncode=E2013#!boxscore,252,93 - 78,93,78,May 18 17:00 CET,2014-05-18
 2013,MUN,away,Stelmet Zielona Gora,/main/results/showgame?clubcode=MUN&gamecode=7&seasoncode=E2013#!boxscore,7,73 - 94,73,94,October 18 19:15 CET,2013-10-18
 2013,MUN,home,Montepaschi Siena,/main/results/showgame?clubcode=MUN&gamecode=21&seasoncode=E2013#!boxscore,21,89 - 79,89,79,October 25 20:15 CET,2013-10-25
 2013,MUN,away,Olympiacos Piraeus,/main/results/showgame?clubcode=MUN&gamecode=32&seasoncode=E2013#!boxscore,32,88 - 83,88,83,October 31 20:15 CET,2013-10-31
@@ -143,11 +159,11 @@
 2013,MUN,home,Lokomotiv Kuban Krasnodar,/main/results/showgame?clubcode=MUN&gamecode=175&seasoncode=E2013#!boxscore,175,82 - 79,82,79,February 21 20:15 CET,2014-02-21
 2013,MUN,home,Zalgiris Kaunas,/main/results/showgame?clubcode=MUN&gamecode=183&seasoncode=E2013#!boxscore,183,79 - 73,79,73,February 28 20:15 CET,2014-02-28
 2013,MUN,away,Partizan NIS Belgrade,/main/results/showgame?clubcode=MUN&gamecode=190&seasoncode=E2013#!boxscore,190,70 - 55,70,55,March 6 20:45 CET,2014-03-06
-2013,MUN,home,Real Madrid,,,,,,March 13 20:45 CET,2014-03-13
-2013,MUN,away,Galatasaray Liv Hospital Istanbul,,,,,,March 21 19:00 CET,2014-03-21
-2013,MUN,away,CSKA Moscow,,,,,,March 27 17:00 CET,2014-03-27
-2013,MUN,home,Maccabi Electra Tel Aviv,,,,,,April 3 20:15 CET,2014-04-03
-2013,MUN,away,Lokomotiv Kuban Krasnodar,,,,,,,
+2013,MUN,home,Real Madrid,/main/results/showgame?clubcode=MUN&gamecode=200&seasoncode=E2013#!boxscore,200,85 - 83,85,83,March 13 20:45 CET,2014-03-13
+2013,MUN,away,Galatasaray Liv Hospital Istanbul,/main/results/showgame?clubcode=MUN&gamecode=205&seasoncode=E2013#!boxscore,205,76 - 69,76,69,March 21 19:00 CET,2014-03-21
+2013,MUN,away,CSKA Moscow,/main/results/showgame?clubcode=MUN&gamecode=216&seasoncode=E2013#!boxscore,216,77 - 70,77,70,March 27 16:45 CET,2014-03-27
+2013,MUN,home,Maccabi Electra Tel Aviv,/main/results/showgame?clubcode=MUN&gamecode=222&seasoncode=E2013#!boxscore,222,92 - 94,92,94,April 3 20:45 CET,2014-04-03
+2013,MUN,away,Lokomotiv Kuban Krasnodar,/main/results/showgame?clubcode=MUN&gamecode=231&seasoncode=E2013#!boxscore,231,84 - 75,84,75,April 10 18:00 CET,2014-04-10
 2013,ULK,away,Budivelnik Kiev,/main/results/showgame?clubcode=ULK&gamecode=3&seasoncode=E2013#!boxscore,3,84 - 102,84,102,October 17 18:00 CET,2013-10-17
 2013,ULK,home,FC Barcelona,/main/results/showgame?clubcode=ULK&gamecode=13&seasoncode=E2013#!boxscore,13,75 - 70,75,70,October 25 19:00 CET,2013-10-25
 2013,ULK,home,CSKA Moscow,/main/results/showgame?clubcode=ULK&gamecode=27&seasoncode=E2013#!boxscore,27,86 - 60,86,60,October 31 20:45 CET,2013-10-31
@@ -167,11 +183,11 @@
 2013,ULK,away,Anadolu Efes Istanbul,/main/results/showgame?clubcode=ULK&gamecode=172&seasoncode=E2013#!boxscore,172,63 - 71,63,71,February 21 19:15 CET,2014-02-21
 2013,ULK,home,Olympiacos Piraeus,/main/results/showgame?clubcode=ULK&gamecode=177&seasoncode=E2013#!boxscore,177,78 - 74,78,74,February 28 19:00 CET,2014-02-28
 2013,ULK,away,FC Barcelona,/main/results/showgame?clubcode=ULK&gamecode=188&seasoncode=E2013#!boxscore,188,93 - 73,93,73,March 6 20:45 CET,2014-03-06
-2013,ULK,home,Unicaja Malaga,,,,,,March 13 19:00 CET,2014-03-13
-2013,ULK,away,Panathinaikos Athens,,,,,,March 20 20:45 CET,2014-03-20
-2013,ULK,home,EA7 Emporio Armani Milan,,,,,,March 28 19:30 CET,2014-03-28
-2013,ULK,away,Laboral Kutxa Vitoria,,,,,,April 3 20:30 CET,2014-04-03
-2013,ULK,home,Anadolu Efes Istanbul,,,,,,,
+2013,ULK,home,Unicaja Malaga,/main/results/showgame?clubcode=ULK&gamecode=194&seasoncode=E2013#!boxscore,194,69 - 67,69,67,March 13 19:00 CET,2014-03-13
+2013,ULK,away,Panathinaikos Athens,/main/results/showgame?clubcode=ULK&gamecode=203&seasoncode=E2013#!boxscore,203,76 - 67,76,67,March 20 20:45 CET,2014-03-20
+2013,ULK,home,EA7 Emporio Armani Milan,/main/results/showgame?clubcode=ULK&gamecode=211&seasoncode=E2013#!boxscore,211,73 - 82,73,82,March 28 19:30 CET,2014-03-28
+2013,ULK,away,Laboral Kutxa Vitoria,/main/results/showgame?clubcode=ULK&gamecode=218&seasoncode=E2013#!boxscore,218,95 - 73,95,73,April 3 20:30 CET,2014-04-03
+2013,ULK,home,Anadolu Efes Istanbul,/main/results/showgame?clubcode=ULK&gamecode=228&seasoncode=E2013#!boxscore,228,84 - 65,84,65,April 10 19:00 CET,2014-04-10
 2013,GAL,away,Montepaschi Siena,/main/results/showgame?clubcode=GAL&gamecode=8&seasoncode=E2013#!boxscore,8,75 - 84,75,84,October 16 20:30 CET,2013-10-16
 2013,GAL,home,Olympiacos Piraeus,/main/results/showgame?clubcode=GAL&gamecode=20&seasoncode=E2013#!boxscore,20,67 - 78,67,78,October 24 20:45 CET,2013-10-24
 2013,GAL,away,Unicaja Malaga,/main/results/showgame?clubcode=GAL&gamecode=33&seasoncode=E2013#!boxscore,33,84 - 57,84,57,October 31 20:00 CET,2013-10-31
@@ -191,11 +207,14 @@
 2013,GAL,away,Partizan NIS Belgrade,/main/results/showgame?clubcode=GAL&gamecode=173&seasoncode=E2013#!boxscore,173,70 - 78,70,78,February 20 20:45 CET,2014-02-20
 2013,GAL,away,Maccabi Electra Tel Aviv,/main/results/showgame?clubcode=GAL&gamecode=181&seasoncode=E2013#!boxscore,181,97 - 81,97,81,February 27 20:45 CET,2014-02-27
 2013,GAL,home,Real Madrid,/main/results/showgame?clubcode=GAL&gamecode=189&seasoncode=E2013#!boxscore,189,74 - 85,74,85,March 7 19:00 CET,2014-03-07
-2013,GAL,away,Lokomotiv Kuban Krasnodar,,,,,,March 14 17:00 CET,2014-03-14
-2013,GAL,home,FC Bayern Munich,,,,,,March 21 19:00 CET,2014-03-21
-2013,GAL,away,Zalgiris Kaunas,,,,,,March 27 18:45 CET,2014-03-27
-2013,GAL,away,CSKA Moscow,,,,,,April 4 18:00 CET,2014-04-04
-2013,GAL,home,Partizan NIS Belgrade,,,,,,,
+2013,GAL,away,Lokomotiv Kuban Krasnodar,/main/results/showgame?clubcode=GAL&gamecode=197&seasoncode=E2013#!boxscore,197,66 - 67,66,67,March 14 17:00 CET,2014-03-14
+2013,GAL,home,FC Bayern Munich,/main/results/showgame?clubcode=GAL&gamecode=205&seasoncode=E2013#!boxscore,205,76 - 69,76,69,March 21 19:00 CET,2014-03-21
+2013,GAL,away,Zalgiris Kaunas,/main/results/showgame?clubcode=GAL&gamecode=213&seasoncode=E2013#!boxscore,213,72 - 84,72,84,March 27 18:45 CET,2014-03-27
+2013,GAL,away,CSKA Moscow,/main/results/showgame?clubcode=GAL&gamecode=221&seasoncode=E2013#!boxscore,221,86 - 85,86,85,April 4 18:00 CET,2014-04-04
+2013,GAL,home,Partizan NIS Belgrade,/main/results/showgame?clubcode=GAL&gamecode=229&seasoncode=E2013#!boxscore,229,64 - 55,64,55,April 11 19:00 CET,2014-04-11
+2013,GAL,away,FC Barcelona,/main/results/showgame?clubcode=GAL&gamecode=233&seasoncode=E2013#!boxscore,233,88 - 61,88,61,April 15 19:00 CET,2014-04-15
+2013,GAL,away,FC Barcelona,/main/results/showgame?clubcode=GAL&gamecode=237&seasoncode=E2013#!boxscore,237,84 - 63,84,63,April 17 21:00 CET,2014-04-17
+2013,GAL,home,FC Barcelona,/main/results/showgame?clubcode=GAL&gamecode=241&seasoncode=E2013#!boxscore,241,75 - 78,75,78,April 20 19:00 CET,2014-04-20
 2013,NTR,home,CSKA Moscow,/main/results/showgame?clubcode=NTR&gamecode=2&seasoncode=E2013#!boxscore,2,59 - 62,59,62,October 17 20:45 CET,2013-10-17
 2013,NTR,away,Partizan NIS Belgrade,/main/results/showgame?clubcode=NTR&gamecode=15&seasoncode=E2013#!boxscore,15,73 - 43,73,43,October 25 19:00 CET,2013-10-25
 2013,NTR,away,FC Barcelona,/main/results/showgame?clubcode=NTR&gamecode=25&seasoncode=E2013#!boxscore,25,67 - 71,67,71,October 31 20:45 CET,2013-10-31
@@ -225,11 +244,11 @@
 2013,BAS,home,FC Barcelona,/main/results/showgame?clubcode=BAS&gamecode=171&seasoncode=E2013#!boxscore,171,68 - 80,68,80,February 20 20:30 CET,2014-02-20
 2013,BAS,home,Unicaja Malaga,/main/results/showgame?clubcode=BAS&gamecode=179&seasoncode=E2013#!boxscore,179,71 - 81,71,81,February 27 20:45 CET,2014-02-27
 2013,BAS,away,Panathinaikos Athens,/main/results/showgame?clubcode=BAS&gamecode=186&seasoncode=E2013#!boxscore,186,61 - 68,61,68,March 7 20:45 CET,2014-03-07
-2013,BAS,home,EA7 Emporio Armani Milan,,,,,,March 13 21:00 CET,2014-03-13
-2013,BAS,away,Olympiacos Piraeus,,,,,,March 21 20:30 CET,2014-03-21
-2013,BAS,away,Anadolu Efes Istanbul,,,,,,March 27 19:45 CET,2014-03-27
-2013,BAS,home,Fenerbahce Ulker Istanbul,,,,,,April 3 20:30 CET,2014-04-03
-2013,BAS,away,FC Barcelona,,,,,,,
+2013,BAS,home,EA7 Emporio Armani Milan,/main/results/showgame?clubcode=BAS&gamecode=196&seasoncode=E2013#!boxscore,196,65 - 83,65,83,March 13 21:00 CET,2014-03-13
+2013,BAS,away,Olympiacos Piraeus,/main/results/showgame?clubcode=BAS&gamecode=201&seasoncode=E2013#!boxscore,201,89 - 59,89,59,March 21 20:30 CET,2014-03-21
+2013,BAS,away,Anadolu Efes Istanbul,/main/results/showgame?clubcode=BAS&gamecode=212&seasoncode=E2013#!boxscore,212,79 - 105,79,105,March 27 19:45 CET,2014-03-27
+2013,BAS,home,Fenerbahce Ulker Istanbul,/main/results/showgame?clubcode=BAS&gamecode=218&seasoncode=E2013#!boxscore,218,95 - 73,95,73,April 3 20:30 CET,2014-04-03
+2013,BAS,away,FC Barcelona,/main/results/showgame?clubcode=BAS&gamecode=227&seasoncode=E2013#!boxscore,227,86 - 97,86,97,April 10 20:45 CET,2014-04-10
 2013,LIE,home,Panathinaikos Athens,/main/results/showgame?clubcode=LIE&gamecode=10&seasoncode=E2013#!boxscore,10,84 - 83,84,83,October 17 20:45 CET,2013-10-17
 2013,LIE,away,Lokomotiv Kuban Krasnodar,/main/results/showgame?clubcode=LIE&gamecode=22&seasoncode=E2013#!boxscore,22,68 - 53,68,53,October 24 18:00 CET,2013-10-24
 2013,LIE,home,Laboral Kutxa Vitoria,/main/results/showgame?clubcode=LIE&gamecode=34&seasoncode=E2013#!boxscore,34,64 - 85,64,85,October 30 18:45 CET,2013-10-30
@@ -259,11 +278,11 @@
 2013,TIV,away,FC Bayern Munich,/main/results/showgame?clubcode=TIV&gamecode=175&seasoncode=E2013#!boxscore,175,82 - 79,82,79,February 21 20:15 CET,2014-02-21
 2013,TIV,away,CSKA Moscow,/main/results/showgame?clubcode=TIV&gamecode=182&seasoncode=E2013#!boxscore,182,94 - 93,94,93,February 28 17:00 CET,2014-02-28
 2013,TIV,home,Maccabi Electra Tel Aviv,/main/results/showgame?clubcode=TIV&gamecode=192&seasoncode=E2013#!boxscore,192,78 - 76,78,76,March 7 17:00 CET,2014-03-07
-2013,TIV,home,Galatasaray Liv Hospital Istanbul,,,,,,March 14 17:00 CET,2014-03-14
-2013,TIV,away,Zalgiris Kaunas,,,,,,March 20 18:45 CET,2014-03-20
-2013,TIV,home,Partizan NIS Belgrade,,,,,,March 28 17:00 CET,2014-03-28
-2013,TIV,away,Real Madrid,,,,,,April 4 20:45 CET,2014-04-04
-2013,TIV,home,FC Bayern Munich,,,,,,,
+2013,TIV,home,Galatasaray Liv Hospital Istanbul,/main/results/showgame?clubcode=TIV&gamecode=197&seasoncode=E2013#!boxscore,197,66 - 67,66,67,March 14 17:00 CET,2014-03-14
+2013,TIV,away,Zalgiris Kaunas,/main/results/showgame?clubcode=TIV&gamecode=208&seasoncode=E2013#!boxscore,208,85 - 86,85,86,March 20 18:45 CET,2014-03-20
+2013,TIV,home,Partizan NIS Belgrade,/main/results/showgame?clubcode=TIV&gamecode=214&seasoncode=E2013#!boxscore,214,84 - 73,84,73,March 28 17:00 CET,2014-03-28
+2013,TIV,away,Real Madrid,/main/results/showgame?clubcode=TIV&gamecode=223&seasoncode=E2013#!boxscore,223,81 - 55,81,55,April 4 20:45 CET,2014-04-04
+2013,TIV,home,FC Bayern Munich,/main/results/showgame?clubcode=TIV&gamecode=231&seasoncode=E2013#!boxscore,231,84 - 75,84,75,April 10 18:00 CET,2014-04-10
 2013,TEL,away,Laboral Kutxa Vitoria,/main/results/showgame?clubcode=TEL&gamecode=11&seasoncode=E2013#!boxscore,11,84 - 80,84,80,October 17 20:45 CET,2013-10-17
 2013,TEL,home,Crvena Zvezda Telekom Belgrade,/main/results/showgame?clubcode=TEL&gamecode=23&seasoncode=E2013#!boxscore,23,96 - 82,96,82,October 24 20:05 CET,2013-10-24
 2013,TEL,away,Lokomotiv Kuban Krasnodar,/main/results/showgame?clubcode=TEL&gamecode=36&seasoncode=E2013#!boxscore,36,58 - 73,58,73,November 1 17:00 CET,2013-11-01
@@ -283,11 +302,17 @@
 2013,TEL,away,CSKA Moscow,/main/results/showgame?clubcode=TEL&gamecode=176&seasoncode=E2013#!boxscore,176,100 - 65,100,65,February 21 17:00 CET,2014-02-21
 2013,TEL,home,Galatasaray Liv Hospital Istanbul,/main/results/showgame?clubcode=TEL&gamecode=181&seasoncode=E2013#!boxscore,181,97 - 81,97,81,February 27 20:45 CET,2014-02-27
 2013,TEL,away,Lokomotiv Kuban Krasnodar,/main/results/showgame?clubcode=TEL&gamecode=192&seasoncode=E2013#!boxscore,192,78 - 76,78,76,March 7 17:00 CET,2014-03-07
-2013,TEL,home,Zalgiris Kaunas,,,,,,March 13 20:05 CET,2014-03-13
-2013,TEL,away,Partizan NIS Belgrade,,,,,,March 20 20:45 CET,2014-03-20
-2013,TEL,home,Real Madrid,,,,,,March 27 20:05 CET,2014-03-27
-2013,TEL,away,FC Bayern Munich,,,,,,April 3 20:15 CET,2014-04-03
-2013,TEL,home,CSKA Moscow,,,,,,,
+2013,TEL,home,Zalgiris Kaunas,/main/results/showgame?clubcode=TEL&gamecode=198&seasoncode=E2013#!boxscore,198,77 - 67,77,67,March 13 20:05 CET,2014-03-13
+2013,TEL,away,Partizan NIS Belgrade,/main/results/showgame?clubcode=TEL&gamecode=207&seasoncode=E2013#!boxscore,207,72 - 70,72,70,March 20 20:45 CET,2014-03-20
+2013,TEL,home,Real Madrid,/main/results/showgame?clubcode=TEL&gamecode=215&seasoncode=E2013#!boxscore,215,76 - 77,76,77,March 27 20:05 CET,2014-03-27
+2013,TEL,away,FC Bayern Munich,/main/results/showgame?clubcode=TEL&gamecode=222&seasoncode=E2013#!boxscore,222,92 - 94,92,94,April 3 20:45 CET,2014-04-03
+2013,TEL,home,CSKA Moscow,/main/results/showgame?clubcode=TEL&gamecode=232&seasoncode=E2013#!boxscore,232,76 - 81,76,81,April 10 20:05 CET,2014-04-10
+2013,TEL,away,EA7 Emporio Armani Milan,/main/results/showgame?clubcode=TEL&gamecode=236&seasoncode=E2013#!boxscore,236,99 - 101,99,101,April 16 20:45 CET,2014-04-16
+2013,TEL,away,EA7 Emporio Armani Milan,/main/results/showgame?clubcode=TEL&gamecode=240&seasoncode=E2013#!boxscore,240,91 - 77,91,77,April 18 20:45 CET,2014-04-18
+2013,TEL,home,EA7 Emporio Armani Milan,/main/results/showgame?clubcode=TEL&gamecode=244&seasoncode=E2013#!boxscore,244,75 - 63,75,63,April 21 20:15 CET,2014-04-21
+2013,TEL,home,EA7 Emporio Armani Milan,/main/results/showgame?clubcode=TEL&gamecode=247&seasoncode=E2013#!boxscore,247,86 - 66,86,66,April 23 19:45 CET,2014-04-23
+2013,TEL,away,CSKA Moscow,/main/results/showgame?clubcode=TEL&gamecode=251&seasoncode=E2013#!boxscore,251,67 - 68,67,68,May 16 18:00 CET,2014-05-16
+2013,TEL,away,Real Madrid,/main/results/showgame?clubcode=TEL&gamecode=253&seasoncode=E2013#!boxscore,253,86 - 98,86,98,May 18 20:00 CET,2014-05-18
 2013,SIE,home,Galatasaray Liv Hospital Istanbul,/main/results/showgame?clubcode=SIE&gamecode=8&seasoncode=E2013#!boxscore,8,75 - 84,75,84,October 16 20:30 CET,2013-10-16
 2013,SIE,away,FC Bayern Munich,/main/results/showgame?clubcode=SIE&gamecode=21&seasoncode=E2013#!boxscore,21,89 - 79,89,79,October 25 20:15 CET,2013-10-25
 2013,SIE,away,Stelmet Zielona Gora,/main/results/showgame?clubcode=SIE&gamecode=31&seasoncode=E2013#!boxscore,31,73 - 65,73,65,November 1 19:00 CET,2013-11-01
@@ -317,11 +342,16 @@
 2013,OLY,away,Panathinaikos Athens,/main/results/showgame?clubcode=OLY&gamecode=169&seasoncode=E2013#!boxscore,169,66 - 62,66,62,February 20 20:45 CET,2014-02-20
 2013,OLY,away,Fenerbahce Ulker Istanbul,/main/results/showgame?clubcode=OLY&gamecode=177&seasoncode=E2013#!boxscore,177,78 - 74,78,74,February 28 19:00 CET,2014-02-28
 2013,OLY,home,EA7 Emporio Armani Milan,/main/results/showgame?clubcode=OLY&gamecode=185&seasoncode=E2013#!boxscore,185,86 - 88,86,88,March 6 20:00 CET,2014-03-06
-2013,OLY,away,FC Barcelona,,,,,,March 14 21:00 CET,2014-03-14
-2013,OLY,home,Laboral Kutxa Vitoria,,,,,,March 21 20:30 CET,2014-03-21
-2013,OLY,away,Unicaja Malaga,,,,,,March 27 20:45 CET,2014-03-27
-2013,OLY,away,Anadolu Efes Istanbul,,,,,,April 4 20:00 CET,2014-04-04
-2013,OLY,home,Panathinaikos Athens,,,,,,,
+2013,OLY,away,FC Barcelona,/main/results/showgame?clubcode=OLY&gamecode=193&seasoncode=E2013#!boxscore,193,70 - 58,70,58,March 14 21:00 CET,2014-03-14
+2013,OLY,home,Laboral Kutxa Vitoria,/main/results/showgame?clubcode=OLY&gamecode=201&seasoncode=E2013#!boxscore,201,89 - 59,89,59,March 21 20:30 CET,2014-03-21
+2013,OLY,away,Unicaja Malaga,/main/results/showgame?clubcode=OLY&gamecode=209&seasoncode=E2013#!boxscore,209,63 - 80,63,80,March 27 20:45 CET,2014-03-27
+2013,OLY,away,Anadolu Efes Istanbul,/main/results/showgame?clubcode=OLY&gamecode=217&seasoncode=E2013#!boxscore,217,78 - 83,78,83,April 4 20:00 CET,2014-04-04
+2013,OLY,home,Panathinaikos Athens,/main/results/showgame?clubcode=OLY&gamecode=225&seasoncode=E2013#!boxscore,225,68 - 65,68,65,April 10 20:45 CET,2014-04-10
+2013,OLY,away,Real Madrid,/main/results/showgame?clubcode=OLY&gamecode=234&seasoncode=E2013#!boxscore,234,88 - 71,88,71,April 15 21:00 CET,2014-04-15
+2013,OLY,away,Real Madrid,/main/results/showgame?clubcode=OLY&gamecode=238&seasoncode=E2013#!boxscore,238,82 - 77,82,77,April 17 19:00 CET,2014-04-17
+2013,OLY,home,Real Madrid,/main/results/showgame?clubcode=OLY&gamecode=242&seasoncode=E2013#!boxscore,242,78 - 76,78,76,April 21 19:00 CET,2014-04-21
+2013,OLY,home,Real Madrid,/main/results/showgame?clubcode=OLY&gamecode=245&seasoncode=E2013#!boxscore,245,71 - 62,71,62,April 23 20:45 CET,2014-04-23
+2013,OLY,away,Real Madrid,/main/results/showgame?clubcode=OLY&gamecode=248&seasoncode=E2013#!boxscore,248,83 - 69,83,69,April 25 20:45 CET,2014-04-25
 2013,PAN,away,Lietuvos Rytas Vilnius,/main/results/showgame?clubcode=PAN&gamecode=10&seasoncode=E2013#!boxscore,10,84 - 83,84,83,October 17 20:45 CET,2013-10-17
 2013,PAN,home,Laboral Kutxa Vitoria,/main/results/showgame?clubcode=PAN&gamecode=24&seasoncode=E2013#!boxscore,24,95 - 74,95,74,October 25 20:30 CET,2013-10-25
 2013,PAN,away,Crvena Zvezda Telekom Belgrade,/main/results/showgame?clubcode=PAN&gamecode=35&seasoncode=E2013#!boxscore,35,86 - 90,86,90,November 1 20:30 CET,2013-11-01
@@ -341,11 +371,16 @@
 2013,PAN,home,Olympiacos Piraeus,/main/results/showgame?clubcode=PAN&gamecode=169&seasoncode=E2013#!boxscore,169,66 - 62,66,62,February 20 20:45 CET,2014-02-20
 2013,PAN,away,EA7 Emporio Armani Milan,/main/results/showgame?clubcode=PAN&gamecode=180&seasoncode=E2013#!boxscore,180,77 - 75,77,75,February 27 20:45 CET,2014-02-27
 2013,PAN,home,Laboral Kutxa Vitoria,/main/results/showgame?clubcode=PAN&gamecode=186&seasoncode=E2013#!boxscore,186,61 - 68,61,68,March 7 20:45 CET,2014-03-07
-2013,PAN,away,Anadolu Efes Istanbul,,,,,,March 14 19:00 CET,2014-03-14
-2013,PAN,home,Fenerbahce Ulker Istanbul,,,,,,March 20 20:45 CET,2014-03-20
-2013,PAN,away,FC Barcelona,,,,,,March 28 20:45 CET,2014-03-28
-2013,PAN,home,Unicaja Malaga,,,,,,April 3 20:30 CET,2014-04-03
-2013,PAN,away,Olympiacos Piraeus,,,,,,,
+2013,PAN,away,Anadolu Efes Istanbul,/main/results/showgame?clubcode=PAN&gamecode=195&seasoncode=E2013#!boxscore,195,60 - 65,60,65,March 14 19:00 CET,2014-03-14
+2013,PAN,home,Fenerbahce Ulker Istanbul,/main/results/showgame?clubcode=PAN&gamecode=203&seasoncode=E2013#!boxscore,203,76 - 67,76,67,March 20 20:45 CET,2014-03-20
+2013,PAN,away,FC Barcelona,/main/results/showgame?clubcode=PAN&gamecode=210&seasoncode=E2013#!boxscore,210,84 - 62,84,62,March 28 20:45 CET,2014-03-28
+2013,PAN,home,Unicaja Malaga,/main/results/showgame?clubcode=PAN&gamecode=220&seasoncode=E2013#!boxscore,220,69 - 60,69,60,April 3 20:30 CET,2014-04-03
+2013,PAN,away,Olympiacos Piraeus,/main/results/showgame?clubcode=PAN&gamecode=225&seasoncode=E2013#!boxscore,225,68 - 65,68,65,April 10 20:45 CET,2014-04-10
+2013,PAN,away,CSKA Moscow,/main/results/showgame?clubcode=PAN&gamecode=235&seasoncode=E2013#!boxscore,235,77 - 74,77,74,April 16 18:00 CET,2014-04-16
+2013,PAN,away,CSKA Moscow,/main/results/showgame?clubcode=PAN&gamecode=239&seasoncode=E2013#!boxscore,239,77 - 51,77,51,April 18 18:15 CET,2014-04-18
+2013,PAN,home,CSKA Moscow,/main/results/showgame?clubcode=PAN&gamecode=243&seasoncode=E2013#!boxscore,243,65 - 59,65,59,April 21 20:45 CET,2014-04-21
+2013,PAN,home,CSKA Moscow,/main/results/showgame?clubcode=PAN&gamecode=246&seasoncode=E2013#!boxscore,246,73 - 72,73,72,April 23 18:30 CET,2014-04-23
+2013,PAN,away,CSKA Moscow,/main/results/showgame?clubcode=PAN&gamecode=249&seasoncode=E2013#!boxscore,249,74 - 44,74,44,April 25 18:00 CET,2014-04-25
 2013,PAR,away,FC Barcelona,/main/results/showgame?clubcode=PAR&gamecode=1&seasoncode=E2013#!boxscore,1,67 - 60,67,60,October 17 21:00 CET,2013-10-17
 2013,PAR,home,JSF Nanterre,/main/results/showgame?clubcode=PAR&gamecode=15&seasoncode=E2013#!boxscore,15,73 - 43,73,43,October 25 19:00 CET,2013-10-25
 2013,PAR,away,Budivelnik Kiev,/main/results/showgame?clubcode=PAR&gamecode=26&seasoncode=E2013#!boxscore,26,74 - 69,74,69,October 31 18:00 CET,2013-10-31
@@ -365,11 +400,11 @@
 2013,PAR,home,Galatasaray Liv Hospital Istanbul,/main/results/showgame?clubcode=PAR&gamecode=173&seasoncode=E2013#!boxscore,173,70 - 78,70,78,February 20 20:45 CET,2014-02-20
 2013,PAR,away,Real Madrid,/main/results/showgame?clubcode=PAR&gamecode=184&seasoncode=E2013#!boxscore,184,80 - 57,80,57,February 28 20:45 CET,2014-02-28
 2013,PAR,home,FC Bayern Munich,/main/results/showgame?clubcode=PAR&gamecode=190&seasoncode=E2013#!boxscore,190,70 - 55,70,55,March 6 20:45 CET,2014-03-06
-2013,PAR,away,CSKA Moscow,,,,,,March 13 17:00 CET,2014-03-13
-2013,PAR,home,Maccabi Electra Tel Aviv,,,,,,March 20 20:45 CET,2014-03-20
-2013,PAR,away,Lokomotiv Kuban Krasnodar,,,,,,March 28 17:00 CET,2014-03-28
-2013,PAR,home,Zalgiris Kaunas,,,,,,April 4 20:45 CET,2014-04-04
-2013,PAR,away,Galatasaray Liv Hospital Istanbul,,,,,,,
+2013,PAR,away,CSKA Moscow,/main/results/showgame?clubcode=PAR&gamecode=199&seasoncode=E2013#!boxscore,199,84 - 52,84,52,March 13 17:00 CET,2014-03-13
+2013,PAR,home,Maccabi Electra Tel Aviv,/main/results/showgame?clubcode=PAR&gamecode=207&seasoncode=E2013#!boxscore,207,72 - 70,72,70,March 20 20:45 CET,2014-03-20
+2013,PAR,away,Lokomotiv Kuban Krasnodar,/main/results/showgame?clubcode=PAR&gamecode=214&seasoncode=E2013#!boxscore,214,84 - 73,84,73,March 28 17:00 CET,2014-03-28
+2013,PAR,home,Zalgiris Kaunas,/main/results/showgame?clubcode=PAR&gamecode=224&seasoncode=E2013#!boxscore,224,77 - 67,77,67,April 4 20:45 CET,2014-04-04
+2013,PAR,away,Galatasaray Liv Hospital Istanbul,/main/results/showgame?clubcode=PAR&gamecode=229&seasoncode=E2013#!boxscore,229,64 - 55,64,55,April 11 19:00 CET,2014-04-11
 2013,MAD,away,Zalgiris Kaunas,/main/results/showgame?clubcode=MAD&gamecode=6&seasoncode=E2013#!boxscore,6,63 - 83,63,83,October 18 18:45 CET,2013-10-18
 2013,MAD,home,Brose Baskets Bamberg,/main/results/showgame?clubcode=MAD&gamecode=16&seasoncode=E2013#!boxscore,16,98 - 58,98,58,October 24 20:45 CET,2013-10-24
 2013,MAD,home,EA7 Emporio Armani Milan,/main/results/showgame?clubcode=MAD&gamecode=30&seasoncode=E2013#!boxscore,30,93 - 74,93,74,November 1 20:45 CET,2013-11-01
@@ -389,11 +424,18 @@
 2013,MAD,home,Zalgiris Kaunas,/main/results/showgame?clubcode=MAD&gamecode=174&seasoncode=E2013#!boxscore,174,108 - 72,108,72,February 21 20:45 CET,2014-02-21
 2013,MAD,home,Partizan NIS Belgrade,/main/results/showgame?clubcode=MAD&gamecode=184&seasoncode=E2013#!boxscore,184,80 - 57,80,57,February 28 20:45 CET,2014-02-28
 2013,MAD,away,Galatasaray Liv Hospital Istanbul,/main/results/showgame?clubcode=MAD&gamecode=189&seasoncode=E2013#!boxscore,189,74 - 85,74,85,March 7 19:00 CET,2014-03-07
-2013,MAD,away,FC Bayern Munich,,,,,,March 13 20:45 CET,2014-03-13
-2013,MAD,home,CSKA Moscow,,,,,,March 20 20:45 CET,2014-03-20
-2013,MAD,away,Maccabi Electra Tel Aviv,,,,,,March 27 20:05 CET,2014-03-27
-2013,MAD,home,Lokomotiv Kuban Krasnodar,,,,,,April 4 20:45 CET,2014-04-04
-2013,MAD,away,Zalgiris Kaunas,,,,,,,
+2013,MAD,away,FC Bayern Munich,/main/results/showgame?clubcode=MAD&gamecode=200&seasoncode=E2013#!boxscore,200,85 - 83,85,83,March 13 20:45 CET,2014-03-13
+2013,MAD,home,CSKA Moscow,/main/results/showgame?clubcode=MAD&gamecode=206&seasoncode=E2013#!boxscore,206,93 - 79,93,79,March 20 20:45 CET,2014-03-20
+2013,MAD,away,Maccabi Electra Tel Aviv,/main/results/showgame?clubcode=MAD&gamecode=215&seasoncode=E2013#!boxscore,215,76 - 77,76,77,March 27 20:05 CET,2014-03-27
+2013,MAD,home,Lokomotiv Kuban Krasnodar,/main/results/showgame?clubcode=MAD&gamecode=223&seasoncode=E2013#!boxscore,223,81 - 55,81,55,April 4 20:45 CET,2014-04-04
+2013,MAD,away,Zalgiris Kaunas,/main/results/showgame?clubcode=MAD&gamecode=230&seasoncode=E2013#!boxscore,230,87 - 80,87,80,April 11 18:45 CET,2014-04-11
+2013,MAD,home,Olympiacos Piraeus,/main/results/showgame?clubcode=MAD&gamecode=234&seasoncode=E2013#!boxscore,234,88 - 71,88,71,April 15 21:00 CET,2014-04-15
+2013,MAD,home,Olympiacos Piraeus,/main/results/showgame?clubcode=MAD&gamecode=238&seasoncode=E2013#!boxscore,238,82 - 77,82,77,April 17 19:00 CET,2014-04-17
+2013,MAD,away,Olympiacos Piraeus,/main/results/showgame?clubcode=MAD&gamecode=242&seasoncode=E2013#!boxscore,242,78 - 76,78,76,April 21 19:00 CET,2014-04-21
+2013,MAD,away,Olympiacos Piraeus,/main/results/showgame?clubcode=MAD&gamecode=245&seasoncode=E2013#!boxscore,245,71 - 62,71,62,April 23 20:45 CET,2014-04-23
+2013,MAD,home,Olympiacos Piraeus,/main/results/showgame?clubcode=MAD&gamecode=248&seasoncode=E2013#!boxscore,248,83 - 69,83,69,April 25 20:45 CET,2014-04-25
+2013,MAD,away,FC Barcelona,/main/results/showgame?clubcode=MAD&gamecode=250&seasoncode=E2013#!boxscore,250,62 - 100,62,100,May 16 21:00 CET,2014-05-16
+2013,MAD,home,Maccabi Electra Tel Aviv,/main/results/showgame?clubcode=MAD&gamecode=253&seasoncode=E2013#!boxscore,253,86 - 98,86,98,May 18 20:00 CET,2014-05-18
 2013,GSS,home,FC Bayern Munich,/main/results/showgame?clubcode=GSS&gamecode=7&seasoncode=E2013#!boxscore,7,73 - 94,73,94,October 18 19:15 CET,2013-10-18
 2013,GSS,away,Unicaja Malaga,/main/results/showgame?clubcode=GSS&gamecode=19&seasoncode=E2013#!boxscore,19,101 - 68,101,68,October 25 20:45 CET,2013-10-25
 2013,GSS,home,Montepaschi Siena,/main/results/showgame?clubcode=GSS&gamecode=31&seasoncode=E2013#!boxscore,31,73 - 65,73,65,November 1 19:00 CET,2013-11-01
@@ -433,11 +475,11 @@
 2013,MAL,away,EA7 Emporio Armani Milan,/main/results/showgame?clubcode=MAL&gamecode=170&seasoncode=E2013#!boxscore,170,70 - 59,70,59,February 20 20:30 CET,2014-02-20
 2013,MAL,away,Laboral Kutxa Vitoria,/main/results/showgame?clubcode=MAL&gamecode=179&seasoncode=E2013#!boxscore,179,71 - 81,71,81,February 27 20:45 CET,2014-02-27
 2013,MAL,home,Anadolu Efes Istanbul,/main/results/showgame?clubcode=MAL&gamecode=187&seasoncode=E2013#!boxscore,187,83 - 75,83,75,March 7 20:45 CET,2014-03-07
-2013,MAL,away,Fenerbahce Ulker Istanbul,,,,,,March 13 19:00 CET,2014-03-13
-2013,MAL,home,FC Barcelona,,,,,,March 21 20:45 CET,2014-03-21
-2013,MAL,home,Olympiacos Piraeus,,,,,,March 27 20:45 CET,2014-03-27
-2013,MAL,away,Panathinaikos Athens,,,,,,April 3 20:30 CET,2014-04-03
-2013,MAL,home,EA7 Emporio Armani Milan,,,,,,,
+2013,MAL,away,Fenerbahce Ulker Istanbul,/main/results/showgame?clubcode=MAL&gamecode=194&seasoncode=E2013#!boxscore,194,69 - 67,69,67,March 13 19:00 CET,2014-03-13
+2013,MAL,home,FC Barcelona,/main/results/showgame?clubcode=MAL&gamecode=204&seasoncode=E2013#!boxscore,204,61 - 77,61,77,March 21 20:45 CET,2014-03-21
+2013,MAL,home,Olympiacos Piraeus,/main/results/showgame?clubcode=MAL&gamecode=209&seasoncode=E2013#!boxscore,209,63 - 80,63,80,March 27 20:45 CET,2014-03-27
+2013,MAL,away,Panathinaikos Athens,/main/results/showgame?clubcode=MAL&gamecode=220&seasoncode=E2013#!boxscore,220,69 - 60,69,60,April 3 20:30 CET,2014-04-03
+2013,MAL,home,EA7 Emporio Armani Milan,/main/results/showgame?clubcode=MAL&gamecode=226&seasoncode=E2013#!boxscore,226,95 - 85,95,85,April 11 20:45 CET,2014-04-11
 2013,ZAL,home,Real Madrid,/main/results/showgame?clubcode=ZAL&gamecode=6&seasoncode=E2013#!boxscore,6,63 - 83,63,83,October 18 18:45 CET,2013-10-18
 2013,ZAL,away,EA7 Emporio Armani Milan,/main/results/showgame?clubcode=ZAL&gamecode=17&seasoncode=E2013#!boxscore,17,82 - 75,82,75,October 24 20:30 CET,2013-10-24
 2013,ZAL,home,Strasbourg,/main/results/showgame?clubcode=ZAL&gamecode=29&seasoncode=E2013#!boxscore,29,88 - 64,88,64,October 31 18:45 CET,2013-10-31
@@ -457,8 +499,8 @@
 2013,ZAL,away,Real Madrid,/main/results/showgame?clubcode=ZAL&gamecode=174&seasoncode=E2013#!boxscore,174,108 - 72,108,72,February 21 20:45 CET,2014-02-21
 2013,ZAL,away,FC Bayern Munich,/main/results/showgame?clubcode=ZAL&gamecode=183&seasoncode=E2013#!boxscore,183,79 - 73,79,73,February 28 20:15 CET,2014-02-28
 2013,ZAL,home,CSKA Moscow,/main/results/showgame?clubcode=ZAL&gamecode=191&seasoncode=E2013#!boxscore,191,86 - 88,86,88,March 6 18:45 CET,2014-03-06
-2013,ZAL,away,Maccabi Electra Tel Aviv,,,,,,March 13 20:05 CET,2014-03-13
-2013,ZAL,home,Lokomotiv Kuban Krasnodar,,,,,,March 20 18:45 CET,2014-03-20
-2013,ZAL,home,Galatasaray Liv Hospital Istanbul,,,,,,March 27 18:45 CET,2014-03-27
-2013,ZAL,away,Partizan NIS Belgrade,,,,,,April 4 20:45 CET,2014-04-04
-2013,ZAL,home,Real Madrid,,,,,,,
+2013,ZAL,away,Maccabi Electra Tel Aviv,/main/results/showgame?clubcode=ZAL&gamecode=198&seasoncode=E2013#!boxscore,198,77 - 67,77,67,March 13 20:05 CET,2014-03-13
+2013,ZAL,home,Lokomotiv Kuban Krasnodar,/main/results/showgame?clubcode=ZAL&gamecode=208&seasoncode=E2013#!boxscore,208,85 - 86,85,86,March 20 18:45 CET,2014-03-20
+2013,ZAL,home,Galatasaray Liv Hospital Istanbul,/main/results/showgame?clubcode=ZAL&gamecode=213&seasoncode=E2013#!boxscore,213,72 - 84,72,84,March 27 18:45 CET,2014-03-27
+2013,ZAL,away,Partizan NIS Belgrade,/main/results/showgame?clubcode=ZAL&gamecode=224&seasoncode=E2013#!boxscore,224,77 - 67,77,67,April 4 20:45 CET,2014-04-04
+2013,ZAL,home,Real Madrid,/main/results/showgame?clubcode=ZAL&gamecode=230&seasoncode=E2013#!boxscore,230,87 - 80,87,80,April 11 18:45 CET,2014-04-11
