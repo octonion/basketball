@@ -1,4 +1,4 @@
-#!/usr/bin/ruby1.9.3
+#!/usr/bin/env ruby
 # coding: utf-8
 
 require "csv"
@@ -11,14 +11,15 @@ agent.user_agent = "Mozilla/5.0"
 
 base = "http://data.nba.com/json/cms/noseason" #/scoreboard"
 
-scoreboard = CSV.open("scoreboard_2013.csv","w")
-boxscores = CSV.open("boxscores_2013.csv","w")
-pbp = CSV.open("pbp_2013.csv","w")
+scoreboard = CSV.open("scoreboard_2014.csv","w")
+boxscores = CSV.open("boxscores_2014.csv","w")
+pbp = CSV.open("pbp_2014.csv","w")
 
-first_date = Date.new(2012,10,7)
+first_date = Date.new(2013,10,5)
+last_date = Date.new(2014,6,15)
 #first_date = Date.new(2012,12,1)
 #last_date = first_date
-last_date = Date.today
+#last_date = Date.today
 
 (first_date..last_date).each do |day|
 
@@ -38,7 +39,15 @@ last_date = Date.today
 
   sb_json = JSON.parse(page)
 
-  sb_json["sports_content"]["games"]["game"].each do |game|
+  #p sb_json
+
+  games = sb_json["sports_content"]["games"]["game"] rescue nil
+
+  if (games==nil)
+    next
+  end
+
+  games.each do |game|
 
     row = [day]
 
