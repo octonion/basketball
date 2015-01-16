@@ -1,8 +1,6 @@
 #!/usr/bin/env ruby
 # coding: utf-8
 
-bad = " "
-
 require 'csv'
 
 require 'nokogiri'
@@ -10,22 +8,29 @@ require 'open-uri'
 
 require 'cgi'
 
-base = 'http://www.euroleague.net/main/results/by-team' #?seasoncode=E2011'
+base = 'http://www.euroleague.net'
 
-table_xpath = '//*[@id="el-layout"]/div[4]/div[3]/div/div[2]/div[3]/ul/li/a'
+team_base = 'http://www.euroleague.net/competition/teams' #?seasoncode=E2013
 
-first_year = 2014
-last_year = 2014
+table_xpath = '//*[contains(concat(" ", @class, " "), concat(" ", "RoasterName", " "))]//a'
+
+#table_xpath = '//*[@id="el-layout"]/div[4]/div[3]/div/div[2]/div[3]/ul/li/a'
+
+first_year = 2000
+last_year = 2011
 
 if (first_year==last_year)
-  results = CSV.open("teams_#{first_year}.csv","w")
+  results = CSV.open("CSV/teams_#{first_year}.csv","w")
 else
-  results = CSV.open("teams_#{first_year}-#{last_year}.csv","w")
+  results = CSV.open("CSV/teams_#{first_year}-#{last_year}.csv","w")
 end
 
-(first_year..last_year).each do |year|
+results << ["year", "team_id", "team_name", "team_url"]
 
-  team_url = "#{base}/?seasoncode=E#{year}"
+(first_year..last_year).each do |year|
+  p year
+
+  team_url = "#{team_base}/?seasoncode=E#{year}"
 
   begin
     doc = Nokogiri::HTML(open(team_url))
@@ -34,12 +39,11 @@ end
   end
 
   doc.xpath(table_xpath).each_with_index do |team|
+    team_name = team.text.strip rescue nil
+    team_url = base+team.attribute('href')
+    team_id = CGI::parse(team_url.split('?')[1])['clubcode'][0].strip rescue nil
 
-    team_name = team.text.strip
-    team_url = team.attribute('href').text
-    team_id = CGI::parse(team_url)['clubcode'][0].strip
-
-    row = [year,team_id,team_name,team_url,0]
+    row = [year, team_id, team_name, team_url]
     results << row
   end
 

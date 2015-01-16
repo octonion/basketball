@@ -11,137 +11,84 @@ require 'open-uri'
 require 'cgi'
 require 'date'
 
-team_base = 'http://www.euroleague.net/main/results/by-team'
-boxscore_base = 'http://www.euroleague.net/main/results/showgame?gamecode=164&seasoncode=E2014#!boxscore'
+base = 'http://www.euroleague.net'
 
-score_xpath = '//*[@id="gvResults"]/tr'
+team_base = 'http://www.euroleague.net/competition/teams/showteam'
 
-#'//*[@id="ctl00_ctl00_ctl00_ctl00_maincontainer_maincenter_contentpane_boxscorepane_ctl00_PartialsStatsByQuarter_dgPartials"]/tbody/tr[1]/th[1]'
+boxscore_base = 'http://www.euroleague.net/main/results/showgame?gamecode=164&seasoncode=E2013#!boxscore'
 
-first_year = 2014
-last_year = 2014
+score_xpath = '//*[@id="games"]//tr'
+
+first_year = 2000
+last_year = 2011
 
 if (first_year==last_year)
-  results = CSV.open("games_#{first_year}.csv","w")
+  results = CSV.open("CSV/games_#{first_year}.csv","w")
 else
-  results = CSV.open("games_#{first_year}-#{last_year}.csv","w")
+  results = CSV.open("CSV/games_#{first_year}-#{last_year}.csv","w")
 end
 
-team_file = CSV.open('teams_2014.csv','r')
-#team_file = CSV.open('teams.csv','r')
+team_file = CSV.read('CSV/teams_2000-2011.csv',{:headers => TRUE})
 
 teams = Array[]
 team_file.each { |team| teams << team[1] }
-#team_file.each { |team| teams << team[0] }
 
-(first_year..last_year).each do |year|
+team_file.each do |team|
 
-  print "Pulling year #{year}\n"
+  team_id = team["team_id"]
+  year = team["season_code"]
 
-  teams.each do |team_id|
+  url = "#{team_base}?clubcode=#{team_id}&seasoncode=E#{year}"
 
-    url = "#{team_base}?clubcode=#{team_id}&seasoncode=E#{year}"
+  print "#{team_id} - #{year}\n"
 
-    print "  #{team_id}\n"
+  begin
+    doc = Nokogiri::HTML(open(url))
+  rescue
+    print "  - not found\n"
+    next
+    #retry
+  end
 
-    begin
-      doc = Nokogiri::HTML(open(url))
-    rescue
-      print "  - not found\n"
-      next
-      #retry
-    end
+  doc.xpath(score_xpath).each do |tr|
+    row = [year,team_id]
+    tr.xpath("td").each_with_index do |td,i|
 
-    doc.xpath(score_xpath).each_with_index do |tr|
+      raw = td.text.strip
+      case i
+      when 2
+        a = td.xpath('a').first
+        href = base+a.attribute('href').value
+        ps = CGI::parse(href.split("?")[1])
+        gamecode = ps["gamecode"][0]
 
-      row = [year,team_id]
-      tr.xpath("td").each_with_index do |td,i|
-
-        if (i.between?(2,4))
-          next
-        end
-
-        text = td.text
-        text.gsub!(bad,'')
-        text.strip!
-
-        if (i.between?(0,4))
-          a = td.xpath('a').first
-          if not(a==nil || a.attribute("href")==nil)
-            html = a.attribute("href").text
-          else
-            html = nil
-          end
-        end
-
-        if (i==0)
-
-          if not(html==nil)
-            gamecode = CGI::parse(html)['gamecode'][0].to_i
-          else
-            gamecode = nil
-          end
-
-          if (text.start_with?('vs.'))
-            text = text[3..-1].strip!
-            row += ['home',text,html,gamecode]
-          else
-            text = text[2..-1].strip!
-            row += ['away',text,html,gamecode]
-          end
-#        elsif (i.between?(1,4))
-#          if (text=='')
-#            row += [nil,nil]
-#          else
-#            row += [text,html]
-#          end
+        if (raw.start_with?('vs.'))
+          text = raw[3..-1].stripg.sub("\u00A0","")
+          row += ['home',text,raw,href,gamecode]
         else
-          if (text=='')
-            row += [nil]
-          else
-            row += [text]
-          end
+          text = raw[2..-1].strip.sub("\u00A0","")
+          row += ['away',text,raw,href,gamecode]
         end
 
-        if (i==1)
-          if not(text=='')
-            scores = text.split('-')
-            home_score = scores[0].strip
-            away_score = scores[1].strip
-            row += [home_score,away_score]
-          else
-            row += [nil,nil]
-          end
+      when 3
+
+        if not(raw=='')
+          scores = raw.split('-')
+          home_score = scores[0].strip
+          away_score = scores[1].strip
+          row += [home_score,away_score]
+        else
+          row += [nil,nil]
         end
 
-        if (i==5)
-          #p DateTime.parse(text)
-          if not(text==nil or text=="")
-            month = text.split(' ')[0].strip
-            #date = DateTime.parse(text).to_date
-            #month = date.month
-            #day = date.day
-            if (['July','August','September','October','November','December'].include?(month))
-              game_date = DateTime.parse(year.to_s+' '+text).to_date.to_s
-            else
-              game_date = DateTime.parse((year+1).to_s+' '+text).to_date.to_s
-            end
-            row += [game_date]
-          else
-            row += [nil]
-          end
-        end
-
+      else
+        row += [raw]
       end
-
-      if (row.size>2)
-        results << row
-      end
-
     end
-
+    results << row
   end
 
 end
+
 
 results.close
