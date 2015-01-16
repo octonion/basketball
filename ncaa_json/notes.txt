@@ -1,0 +1,15 @@
+http://data.ncaa.com/scoreboard/football/fbs/2012/01/scoreboard.json
+http://data.ncaa.com/jsonp/scoreboard/basketball-men/d1/2012/06/01/scoreboard.html
+http://data.ncaa.com/scoreboard/football/fbs/2012/01/scoreboard.html
+
+http://data.ncaa.com/game/basketball-men/d1/2012/06/19/ucla-florida-st/pbp.json
+http://data.ncaa.com/game/basketball-men/d1/2012/06/19/ucla-florida-st/boxscore.json
+http://data.ncaa.com/game/basketball-men/d1/2012/06/19/ucla-florida-st/gameinfo.json
+
+Parse out:
+
+scoreboard info, gameinfo, boxscore, pbp
+
+Save as:
+
+id (integer), scoreboard (json), gameinfo (json), boxscore (json), pbp (json)
