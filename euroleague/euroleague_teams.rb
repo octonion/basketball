@@ -16,13 +16,13 @@ table_xpath = '//*[contains(concat(" ", @class, " "), concat(" ", "RoasterName",
 
 #table_xpath = '//*[@id="el-layout"]/div[4]/div[3]/div/div[2]/div[3]/ul/li/a'
 
-first_year = 2000
-last_year = 2011
+first_year = 2014
+last_year = 2014
 
 if (first_year==last_year)
-  results = CSV.open("CSV/teams_#{first_year}.csv","w")
+  results = CSV.open("csv/teams_#{first_year}.csv","w")
 else
-  results = CSV.open("CSV/teams_#{first_year}-#{last_year}.csv","w")
+  results = CSV.open("csv/teams_#{first_year}-#{last_year}.csv","w")
 end
 
 results << ["year", "team_id", "team_name", "team_url"]

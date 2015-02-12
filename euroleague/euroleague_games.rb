@@ -19,24 +19,21 @@ boxscore_base = 'http://www.euroleague.net/main/results/showgame?gamecode=164&se
 
 score_xpath = '//*[@id="games"]//tr'
 
-first_year = 2000
-last_year = 2011
+first_year = 2014
+last_year = 2014
 
 if (first_year==last_year)
-  results = CSV.open("CSV/games_#{first_year}.csv","w")
+  results = CSV.open("csv/games_#{first_year}.csv","w")
 else
-  results = CSV.open("CSV/games_#{first_year}-#{last_year}.csv","w")
+  results = CSV.open("csv/games_#{first_year}-#{last_year}.csv","w")
 end
 
-team_file = CSV.read('CSV/teams_2000-2011.csv',{:headers => TRUE})
-
-teams = Array[]
-team_file.each { |team| teams << team[1] }
+team_file = CSV.read('csv/teams_2014.csv',{:headers => TRUE})
 
 team_file.each do |team|
 
+  year = team["year"]
   team_id = team["team_id"]
-  year = team["season_code"]
 
   url = "#{team_base}?clubcode=#{team_id}&seasoncode=E#{year}"
 
@@ -62,8 +59,8 @@ team_file.each do |team|
         ps = CGI::parse(href.split("?")[1])
         gamecode = ps["gamecode"][0]
 
-        if (raw.start_with?('vs.'))
-          text = raw[3..-1].stripg.sub("\u00A0","")
+        if (raw.start_with?('vs'))
+          text = raw[2..-1].strip.sub("\u00A0","")
           row += ['home',text,raw,href,gamecode]
         else
           text = raw[2..-1].strip.sub("\u00A0","")
@@ -74,8 +71,8 @@ team_file.each do |team|
 
         if not(raw=='')
           scores = raw.split('-')
-          home_score = scores[0].strip
-          away_score = scores[1].strip
+          home_score = scores[0].strip rescue nil
+          away_score = scores[1].strip rescue nil
           row += [home_score,away_score]
         else
           row += [nil,nil]
@@ -85,7 +82,9 @@ team_file.each do |team|
         row += [raw]
       end
     end
-    results << row
+    if not(row[3]=="")
+      results << row
+    end
   end
 
 end

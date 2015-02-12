@@ -14,8 +14,8 @@ base = 'http://www.euroleague.net/main/results/by-team' #?seasoncode=E2011'
 
 table_xpath = '//*[@id="el-layout"]/div[4]/div[3]/div/div[2]/div[3]/ul/li/a'
 
-first_year = 2014
-last_year = 2014
+first_year = 2013
+last_year = 2013
 
 if (first_year==last_year)
   results = CSV.open("teams_#{first_year}.csv","w")
