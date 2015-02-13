@@ -60,7 +60,7 @@ and r.team_id > r.opponent_id
 
 -- test March and April
 
-and extract(month from r.game_date) in (3,4)
+--and extract(month from r.game_date) in (3,4)
 
 and r.team_score is not null
 and r.opponent_score is not null
@@ -124,7 +124,7 @@ and r.team_id > r.opponent_id
 
 -- test March and April
 
-and extract(month from r.game_date) in (3,4)
+--and extract(month from r.game_date) in (3,4)
 
 and r.team_score is not null
 and r.opponent_score is not null

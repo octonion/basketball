@@ -4,7 +4,7 @@ drop table if exists euroleague.results;
 
 create table euroleague.results (
 	game_id		      integer,
-	game_date	      date,
+--	game_date	      date,
 	year		      integer,
 	team_id	      	      text,
 	opponent_id	      text,
@@ -16,14 +16,14 @@ create table euroleague.results (
 );
 
 insert into euroleague.results
-(game_id,game_date,year,
- team_id,opponent_id,
- location_id,field,
- team_score,opponent_score)
+(game_id, year,
+ team_id, opponent_id,
+ location_id, field,
+ team_score, opponent_score)
 (
 select
 g.game_id,
-g.game_date,
+--g.game_date,
 g.year,
 g.team_id as team_id,
 t.team_id as opponent_id,
@@ -46,13 +46,13 @@ where
     TRUE
 --and g.score is not null
 --and not(g.score='')
-and g.year between 2000 and 2013
+and g.year between 2000 and 2014
 
 union
 
 select
 g.game_id,
-g.game_date,
+--g.game_date,
 g.year,
 t.team_id as team_id,
 g.team_id as opponent_id,
@@ -75,7 +75,7 @@ where
     TRUE
 --and g.score is not null
 --and not(g.score='')
-and g.year between 2000 and 2013
+and g.year between 2000 and 2014
 );
 
 commit;

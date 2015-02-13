@@ -1,15 +1,3 @@
 BEGIN
 SET
-           team            |               away                |    date    | t_score | o_score 
----------------------------+-----------------------------------+------------+---------+---------
- CSKA Moscow               | Partizan NIS Belgrade             | 2014-03-13 |    76.7 |    62.2
- FC Bayern Munich          | Real Madrid                       | 2014-03-13 |    73.9 |    85.7
- Fenerbahce Ulker Istanbul | Unicaja Malaga                    | 2014-03-13 |    83.6 |    74.5
- Laboral Kutxa Vitoria     | EA7 Emporio Armani Milan          | 2014-03-13 |    74.3 |    73.7
- Maccabi Electra Tel Aviv  | Zalgiris Kaunas                   | 2014-03-13 |    83.6 |    72.0
- Anadolu Efes Istanbul     | Panathinaikos Athens              | 2014-03-14 |    69.5 |    70.0
- FC Barcelona              | Olympiacos Piraeus                | 2014-03-14 |    79.8 |    72.2
- Lokomotiv Kuban Krasnodar | Galatasaray Liv Hospital Istanbul | 2014-03-14 |    77.6 |    71.5
-(8 rows)
-
-COMMIT
+ROLLBACK

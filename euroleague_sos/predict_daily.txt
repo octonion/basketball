@@ -1,7 +1,3 @@
 BEGIN
 SET
- home | away | p_home | p_away 
-------+------+--------+--------
-(0 rows)
-
-COMMIT
+ROLLBACK

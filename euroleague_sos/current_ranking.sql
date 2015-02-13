@@ -25,8 +25,8 @@ defensive::numeric(4,3) as dfs,
 schedule_strength::numeric(4,3) as sos
 from euroleague._schedule_factors sf
 join euroleague.teams t
-  on (t.year,t.team_id,t.index)=(sf.year,sf.team_id,0)
-where sf.year=2013
+  on (t.year, t.team_id)=(sf.year, sf.team_id)
+where sf.year=2014
 order by str desc nulls last);
 
 select

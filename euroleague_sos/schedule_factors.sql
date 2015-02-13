@@ -41,7 +41,7 @@ set strength=offensive/defensive;
 create temporary table r (
          team_id		text,
          opponent_id		text,
-         game_date              date,
+--         game_date              date,
          year                   integer,
 	 field_id		text,
          offensive              float,
@@ -51,12 +51,12 @@ create temporary table r (
 );
 
 insert into r
-(team_id,opponent_id,game_date,year,field_id)
+(team_id, opponent_id, year, field_id)
 (
 select
 r.team_id,
 r.opponent_id,
-r.game_date,
+--r.game_date,
 r.year,
 r.field
 from euroleague.results r

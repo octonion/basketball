@@ -6,7 +6,7 @@ library("RPostgreSQL")
 
 drv <- dbDriver("PostgreSQL")
 
-con <- dbConnect(drv,host="localhost",port="5432",dbname="rockets")
+con <- dbConnect(drv,host="localhost",port="5432",dbname="basketball")
 
 query <- dbSendQuery(con, "
 select
@@ -20,7 +20,7 @@ ln(r.team_score::float) as log_ps
 from euroleague.results r
 
 where
-    r.year between 2000 and 2013
+    r.year between 2000 and 2014
 
 and r.team_score is not null
 and r.opponent_score is not null

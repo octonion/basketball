@@ -26,13 +26,13 @@ join euroleague._basic_factors i
   on (i.factor)=('(Intercept)')
 
 join euroleague.teams th
-  on (th.year,th.team_id,th.index)=(g.year,g.team_id,0)
+  on (th.year, th.team_id)=(g.year, g.team_id)
 join euroleague.teams tv
-  on (tv.year,tv.team_id,tv.index)=(g.year,g.opponent_id,0)
+  on (tv.year, tv.team_id)=(g.year, g.opponent_id)
 
 where
     g.game_date is not null
-and g.game_date between current_date and current_date
+--and g.game_date between current_date and current_date
 and g.field='offense_home'
 
 order by home asc;
