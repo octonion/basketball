@@ -28,7 +28,7 @@ left outer join euroleague._factors o
   on (o.parameter,o.level)=('o_div',length(t.division)::text)
 left outer join euroleague._factors d
   on (d.parameter,d.level)=('d_div',length(t.division)::text)
-where sf.year in (2013)
+where sf.year in (2014)
 and t.team_id is not null
 order by str desc);
 
@@ -62,6 +62,6 @@ order by year asc,str desc;
 
 select * from r
 where div is null
-and year=2013;
+and year=2014;
 
 commit;
