@@ -130,7 +130,7 @@ left outer join ncaa_sr._basic_factors nbf
 where
     npl.type='fixed'
 and npl.parameter in ('field')
-and npl.level not in ('none')
+and npl.level not in ('neutral')
 );
 
 -- other fixed
@@ -183,12 +183,9 @@ where s.parameter=ncaa_sr._factors.parameter;
 update ncaa_sr._factors
 set exp_factor=exp(raw_factor);
 
--- 'neutral' park confounded with 'none' field; set factor = average for field 'none'
-
+/*
 insert into ncaa_sr._factors
 (parameter,level,type,method,year,first_year,last_year,raw_factor,exp_factor)
---values
---('field','none','fixed','log_regression',null,null,null,0.0,1.0);
 (
 select
 bf.parameter as parameter,
@@ -205,5 +202,6 @@ where
 (bf.parameter,bf.method,bf.type)=('field','log_regression','fixed')
 group by parameter,type,method
 );
+*/
 
 commit;

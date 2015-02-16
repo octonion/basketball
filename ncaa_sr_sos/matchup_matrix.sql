@@ -4,7 +4,7 @@ array(
 select
 distinct sf.team_id
 from ncaa_sr._schedule_factors sf
-where sf.year=2014
+where sf.year=2015
 order by sf.team_id asc
 )
 union
@@ -27,7 +27,7 @@ where visit.year=home.year
 order by visit.team_id asc
 )
 from ncaa_sr._schedule_factors home
-where home.year=2014
+where home.year=2015
 )
 order by id asc;
 

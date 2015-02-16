@@ -6,11 +6,11 @@ create table ncaa_sr.results (
 	game_id		      integer,
 	year		      integer,
 	game_date	      date,
-	team_name	      text,
+--	team_name	      text,
 	team_id		      text,
-	opponent_name	      text,
+--	opponent_name	      text,
 	opponent_id	      text,
-	location_id	      text,
+--	location_id	      text,
 	field		      text,
 	team_score	      integer,
 	opponent_score	      integer,
@@ -18,22 +18,23 @@ create table ncaa_sr.results (
 );
 
 insert into ncaa_sr.results
-(game_id,year,
+(game_id,
+ year,
  game_date,
- team_name,team_id,
- opponent_name,opponent_id,
- location_id,field,
+ team_id,
+ opponent_id,
+ field,
  team_score,opponent_score,game_length)
 (
 select
 game_id,
 year,
 game_date,
-school_name,
+--school_name,
 school_id,
-opponent,
+--opponent,
 opponent_id,
-location as location_id,
+--location as location_id,
 (case when location is null then 'offense_home'
       when location='@' then 'defense_home'
       else 'neutral' end) as field,
@@ -48,28 +49,22 @@ and g.team_score >= 0
 and g.opponent_score >= 0
 and g.school_id is not NULL
 and g.opponent_id is not NULL
-);
+and g.school_id < g.opponent_id
 
-insert into ncaa_sr.results
-(game_id,year,
- game_date,
- team_name,team_id,
- opponent_name,opponent_id,
- location_id,field,
- team_score,opponent_score,game_length)
-(
+UNION
+
 select
 game_id,
 year,
 game_date,
-opponent,
+--opponent,
 opponent_id,
-school_name,
+--school_name,
 school_id,
-location as location_id,
+--location as location_id,
 (case when location is null then 'defense_home'
       when location='@' then 'offense_home'
-      else 'neutral' end) as field,
+      else 'aneutral' end) as field,
 opponent_score,
 team_score,
 ot as game_length
@@ -81,6 +76,7 @@ and g.team_score >= 0
 and g.opponent_score >= 0
 and g.school_id is not NULL
 and g.opponent_id is not NULL
+and g.school_id < g.opponent_id
 );
 
 /*
@@ -102,5 +98,7 @@ where game_length='OT';
 update ncaa_sr.results
 set game_length='0OT'
 where game_length is null;
+
+--alter table ncaa_sr.results add column game_id serial primary key;
 
 commit;

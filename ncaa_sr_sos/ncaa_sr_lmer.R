@@ -30,7 +30,7 @@ ln(r.team_score::float) as log_ps
 from ncaa_sr.results r
 where
 TRUE
-and r.year between 1980 and 2014
+and r.year between 1980 and 2015
 and r.team_score>0
 and r.opponent_score>0
 and not(r.team_score,r.opponent_score)=(0,0)
@@ -102,13 +102,20 @@ g$log_ps <- log_ps
 
 dim(g)
 
-model <- log_ps ~ year+game_length+field+(1|offense)+(1|defense)+(1|game_id)
+model0 <- log_ps ~ year+field+game_length+(1|offense)+(1|defense)+(1|game_id)
+fit0 <- lmer(model0, data=g, REML=FALSE)
+fit0
+summary(fit0)
 
-fit <- lmer(model,data=g)
+model <- log_ps ~ year*field+game_length+(1|offense)+(1|defense)+(1|game_id)
+
+fit <- lmer(model, data=g, REML=FALSE)
 fit
 summary(fit)
 
+anova(fit0)
 anova(fit)
+anova(fit0,fit)
 
 # List of data frames
 
