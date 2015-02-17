@@ -15,7 +15,7 @@ create table euroleague.games (
 --	score		      text,
 	home_score	      integer,
 	away_score	      integer,
---	datetime	      text,
+	game_date	      text,
 --	game_date	      date
 	unique (year, team_id, gamecode)
 );

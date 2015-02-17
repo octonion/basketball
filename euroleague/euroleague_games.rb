@@ -19,16 +19,20 @@ boxscore_base = 'http://www.euroleague.net/main/results/showgame?gamecode=164&se
 
 score_xpath = '//*[@id="games"]//tr'
 
-first_year = 2014
-last_year = 2014
+first_year = 2000
+last_year = 2013
 
 if (first_year==last_year)
   results = CSV.open("csv/games_#{first_year}.csv","w")
+  team_file = CSV.read("csv/teams_#{first_year}.csv",
+                       {:headers => TRUE})
 else
   results = CSV.open("csv/games_#{first_year}-#{last_year}.csv","w")
+  team_file = CSV.read("csv/teams_#{first_year}-#{last_year}.csv",
+                       {:headers => TRUE})
 end
 
-team_file = CSV.read('csv/teams_2014.csv',{:headers => TRUE})
+#team_file = CSV.read('csv/teams_2000-2013.csv',{:headers => TRUE})
 
 team_file.each do |team|
 
@@ -69,8 +73,18 @@ team_file.each do |team|
 
       when 3
 
-        if not(raw=='')
-          scores = raw.split('-')
+        a1 = td.xpath('a').first
+        a2 = a1.next_element rescue nil
+        if (a2==nil)
+          score_string = ''
+          date_string = a1.text
+        else
+          score_string = a1.text
+          date_string = a2.text
+        end
+
+        if not(score_string=='')
+          scores = score_string.split('-')
           home_score = scores[0].strip rescue nil
           away_score = scores[1].strip rescue nil
           row += [home_score,away_score]
@@ -78,13 +92,20 @@ team_file.each do |team|
           row += [nil,nil]
         end
 
+        if not(date_string=='')
+          date = date_string.strip rescue nil
+          row += [date_string]
+        else
+          row += [nil]
+        end
+
       else
         row += [raw]
       end
     end
-    if not(row[3]=="")
+#    if not(row[3]=="")
       results << row
-    end
+#    end
   end
 
 end
