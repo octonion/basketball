@@ -284,11 +284,11 @@ steals_per_game   213.4213   112.2630   1.901 0.058694 .
 rebounds            2.1826     0.6674   3.270 0.001259 ** 
 assists            12.8169     3.8008   3.372 0.000892 ***
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1 
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Residual standard error: 717.4 on 205 degrees of freedom
-Multiple R-squared: 0.1873,	Adjusted R-squared: 0.1714 
-F-statistic: 11.81 on 4 and 205 DF,  p-value: 1.185e-08 
+Multiple R-squared:  0.1873,	Adjusted R-squared:  0.1714 
+F-statistic: 11.81 on 4 and 205 DF,  p-value: 1.185e-08
 
 
 Call:

@@ -1,38 +1,8 @@
 BEGIN
 CREATE TABLE
-INSERT 0 30
- rk |          team          |  str  |  ofs  |  dfs  |  sos  
-----+------------------------+-------+-------+-------+-------
-  1 | Oklahoma City Thunder  | 1.080 | 1.062 | 0.984 | 0.999
-  2 | New York Knicks        | 1.076 | 1.055 | 0.981 | 0.998
-  3 | Memphis Grizzlies      | 1.076 | 1.015 | 0.943 | 1.006
-  4 | San Antonio Spurs      | 1.068 | 1.043 | 0.976 | 1.003
-  5 | Los Angeles Clippers   | 1.057 | 1.038 | 0.982 | 1.006
-  6 | Miami Heat             | 1.050 | 1.056 | 1.006 | 1.008
-  7 | Brooklyn Nets          | 1.039 | 0.989 | 0.952 | 1.000
-  8 | Los Angeles Lakers     | 1.021 | 1.026 | 1.004 | 0.999
-  9 | Denver Nuggets         | 1.018 | 1.031 | 1.013 | 1.003
- 10 | Atlanta Hawks          | 1.012 | 0.990 | 0.978 | 0.996
- 11 | Houston Rockets        | 1.011 | 1.042 | 1.031 | 1.005
- 12 | Utah Jazz              | 1.006 | 1.013 | 1.006 | 0.999
- 13 | Chicago Bulls          | 1.004 | 0.975 | 0.972 | 0.995
- 14 | Golden State Warriors  | 0.998 | 1.008 | 1.009 | 1.003
- 15 | Boston Celtics         | 0.995 | 1.006 | 1.011 | 0.998
- 16 | Minnesota Timberwolves | 0.991 | 0.972 | 0.981 | 0.994
- 17 | Philadelphia 76ers     | 0.990 | 0.966 | 0.976 | 0.998
- 18 | Indiana Pacers         | 0.986 | 0.949 | 0.963 | 0.994
- 19 | Detroit Pistons        | 0.980 | 0.969 | 0.989 | 1.001
- 20 | Milwaukee Bucks        | 0.977 | 0.998 | 1.021 | 0.998
- 21 | Dallas Mavericks       | 0.975 | 1.005 | 1.031 | 0.996
- 22 | Toronto Raptors        | 0.974 | 0.995 | 1.021 | 1.001
- 23 | Orlando Magic          | 0.972 | 0.973 | 1.001 | 1.004
- 24 | Portland Trail Blazers | 0.968 | 0.994 | 1.027 | 0.999
- 25 | New Orleans Hornets    | 0.966 | 0.967 | 1.001 | 1.006
- 26 | Phoenix Suns           | 0.965 | 1.003 | 1.039 | 0.998
- 27 | Cleveland Cavaliers    | 0.965 | 0.994 | 1.030 | 1.000
- 28 | Charlotte Bobcats      | 0.942 | 0.978 | 1.038 | 0.994
- 29 | Sacramento Kings       | 0.941 | 0.976 | 1.037 | 1.004
- 30 | Washington Wizards     | 0.923 | 0.929 | 1.006 | 0.996
-(30 rows)
+INSERT 0 0
+ rk | team | str | ofs | dfs | sos 
+----+------+-----+-----+-----+-----
+(0 rows)
 
 COMMIT

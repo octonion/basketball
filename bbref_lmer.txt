@@ -1,0 +1,108 @@
+[1] 26334     9
+[1] TRUE
+[1] 26334     8
+Linear mixed model fit by REML ['lmerMod']
+Formula: 
+log_ps ~ year + field + game_length + team_previous + opponent_previous +  
+    (1 | offense) + (1 | defense) + (1 | game_id)
+   Data: g
+REML criterion at convergence: -43954.95
+Random effects:
+ Groups   Name        Std.Dev.
+ game_id  (Intercept) 0.06101 
+ defense  (Intercept) 0.04443 
+ offense  (Intercept) 0.04240 
+ Residual             0.08482 
+Number of obs: 26334, groups:  game_id, 13167; defense, 327; offense, 327
+Fixed Effects:
+          (Intercept)                  year1                  year2  
+             4.550947              -0.020188              -0.026261  
+                year3                  year4                  year5  
+            -0.043448              -0.003311              -0.006173  
+                year6                  year7                  year8  
+             0.011060               0.024761               0.024864  
+                year9                 year10      fieldoffense_home  
+             0.030880               0.020795               0.030374  
+       game_length1OT         game_length2OT         game_length3OT  
+             0.092887               0.181761               0.252350  
+       game_length4OT      team_previousTRUE  opponent_previousTRUE  
+             0.363159              -0.010593               0.008365  
+Linear mixed model fit by REML ['lmerMod']
+Formula: 
+log_ps ~ year + field + game_length + team_previous + opponent_previous +  
+    (1 | offense) + (1 | defense) + (1 | game_id)
+   Data: g
+
+REML criterion at convergence: -43954.9
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-4.1042 -0.5330  0.0456  0.5813  3.4820 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ game_id  (Intercept) 0.003723 0.06101 
+ defense  (Intercept) 0.001974 0.04443 
+ offense  (Intercept) 0.001798 0.04240 
+ Residual             0.007194 0.08482 
+Number of obs: 26334, groups:  game_id, 13167; defense, 327; offense, 327
+
+Fixed effects:
+                       Estimate Std. Error t value
+(Intercept)            4.550947   0.003573  1273.7
+year1                 -0.020188   0.011116    -1.8
+year2                 -0.026261   0.011116    -2.4
+year3                 -0.043448   0.011116    -3.9
+year4                 -0.003311   0.010947    -0.3
+year5                 -0.006173   0.010947    -0.6
+year6                  0.011060   0.010947     1.0
+year7                  0.024761   0.010947     2.3
+year8                  0.024864   0.010947     2.3
+year9                  0.030880   0.010947     2.8
+year10                 0.020795   0.010947     1.9
+fieldoffense_home      0.030374   0.001100    27.6
+game_length1OT         0.092887   0.003334    27.9
+game_length2OT         0.181761   0.008646    21.0
+game_length3OT         0.252350   0.021678    11.6
+game_length4OT         0.363159   0.086767     4.2
+team_previousTRUE     -0.010593   0.001511    -7.0
+opponent_previousTRUE  0.008365   0.001511     5.5
+
+Correlation of Fixed Effects:
+            (Intr) year1  year2  year3  year4  year5  year6  year7  year8 
+year1        0.007                                                        
+year2        0.007 -0.103                                                 
+year3        0.007 -0.103 -0.103                                          
+year4       -0.003 -0.101 -0.101 -0.101                                   
+year5       -0.004 -0.101 -0.101 -0.101 -0.099                            
+year6       -0.003 -0.101 -0.101 -0.101 -0.099 -0.099                     
+year7       -0.004 -0.101 -0.101 -0.101 -0.099 -0.099 -0.099              
+year8       -0.004 -0.101 -0.101 -0.101 -0.099 -0.099 -0.099 -0.099       
+year9       -0.003 -0.101 -0.101 -0.101 -0.099 -0.099 -0.099 -0.099 -0.099
+year10      -0.003 -0.101 -0.101 -0.101 -0.099 -0.099 -0.099 -0.099 -0.099
+fildffns_hm -0.154  0.000  0.000  0.000  0.000  0.000  0.000  0.000  0.000
+gm_lngth1OT -0.052  0.001 -0.003  0.001  0.000 -0.001 -0.001  0.003  0.002
+gm_lngth2OT -0.020  0.000  0.001  0.001 -0.001 -0.001 -0.002  0.000 -0.001
+gm_lngth3OT -0.007  0.002  0.002  0.001  0.001 -0.002 -0.002  0.002 -0.001
+gm_lngth4OT -0.002  0.001  0.001  0.001  0.001  0.001  0.001  0.001  0.001
+tm_prvsTRUE -0.153  0.000  0.000  0.000  0.000  0.003  0.000  0.001  0.002
+oppnnt_TRUE -0.090  0.000  0.000  0.000  0.000  0.003  0.000  0.001  0.002
+            year9  year10 fldff_ gm_1OT gm_2OT gm_3OT gm_4OT t_TRUE
+year1                                                              
+year2                                                              
+year3                                                              
+year4                                                              
+year5                                                              
+year6                                                              
+year7                                                              
+year8                                                              
+year9                                                              
+year10      -0.099                                                 
+fildffns_hm  0.000  0.000                                          
+gm_lngth1OT  0.001 -0.001  0.000                                   
+gm_lngth2OT  0.001  0.002  0.000  0.022                            
+gm_lngth3OT  0.001 -0.002  0.000  0.010  0.005                     
+gm_lngth4OT  0.001  0.001  0.000  0.004  0.001  0.007              
+tm_prvsTRUE  0.001  0.001  0.203  0.003  0.002 -0.005 -0.003       
+oppnnt_TRUE  0.001  0.001 -0.203  0.003  0.002 -0.005 -0.003  0.145
+[1] TRUE
