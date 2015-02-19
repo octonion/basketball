@@ -73,9 +73,16 @@ team_file.each do |team|
 
         a1 = td.xpath('a').first
         a2 = a1.next_element rescue nil
+
+        text = a1.text
         if (a2==nil)
-          score_string = ''
-          date_string = a1.text
+          if (text.include?("-"))
+            score_string = a1.text
+            date_string = ''
+          else
+            score_string = ''
+            date_string = a1.text
+          end
         else
           score_string = a1.text
           date_string = a2.text
