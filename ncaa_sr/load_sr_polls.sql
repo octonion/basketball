@@ -1,6 +1,6 @@
 begin;
 
-create table ncaa_sr.polls (
+create table if not exists ncaa_sr.polls (
 	year				integer,
 	school_id			text,
 	school_name			text,
