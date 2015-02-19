@@ -1,0 +1,736 @@
+year,school_id,school_name,week,rank
+2015,arizona,Arizona Wildcats,Pre,2
+2015,arizona,Arizona Wildcats,11/17,2
+2015,arizona,Arizona Wildcats,11/24,3
+2015,arizona,Arizona Wildcats,12/1,3
+2015,arizona,Arizona Wildcats,12/8,3
+2015,arizona,Arizona Wildcats,12/15,3
+2015,arizona,Arizona Wildcats,12/22,3
+2015,arizona,Arizona Wildcats,12/29,8
+2015,arizona,Arizona Wildcats,1/5,7
+2015,arizona,Arizona Wildcats,1/12,10
+2015,arizona,Arizona Wildcats,1/19,7
+2015,arizona,Arizona Wildcats,1/26,6
+2015,arizona,Arizona Wildcats,2/2,6
+2015,arizona,Arizona Wildcats,2/9,7
+2015,arizona,Arizona Wildcats,2/16,7
+2015,arkansas,Arkansas Razorbacks,Pre,
+2015,arkansas,Arkansas Razorbacks,11/17,
+2015,arkansas,Arkansas Razorbacks,11/24,25
+2015,arkansas,Arkansas Razorbacks,12/1,18
+2015,arkansas,Arkansas Razorbacks,12/8,
+2015,arkansas,Arkansas Razorbacks,12/15,
+2015,arkansas,Arkansas Razorbacks,12/22,
+2015,arkansas,Arkansas Razorbacks,12/29,
+2015,arkansas,Arkansas Razorbacks,1/5,23
+2015,arkansas,Arkansas Razorbacks,1/12,19
+2015,arkansas,Arkansas Razorbacks,1/19,
+2015,arkansas,Arkansas Razorbacks,1/26,
+2015,arkansas,Arkansas Razorbacks,2/2,
+2015,arkansas,Arkansas Razorbacks,2/9,24
+2015,arkansas,Arkansas Razorbacks,2/16,18
+2015,baylor,Baylor Bears,Pre,
+2015,baylor,Baylor Bears,11/17,
+2015,baylor,Baylor Bears,11/24,
+2015,baylor,Baylor Bears,12/1,
+2015,baylor,Baylor Bears,12/8,
+2015,baylor,Baylor Bears,12/15,
+2015,baylor,Baylor Bears,12/22,22
+2015,baylor,Baylor Bears,12/29,22
+2015,baylor,Baylor Bears,1/5,21
+2015,baylor,Baylor Bears,1/12,22
+2015,baylor,Baylor Bears,1/19,21
+2015,baylor,Baylor Bears,1/26,20
+2015,baylor,Baylor Bears,2/2,19
+2015,baylor,Baylor Bears,2/9,16
+2015,baylor,Baylor Bears,2/16,20
+2015,butler,Butler Bulldogs,Pre,
+2015,butler,Butler Bulldogs,11/17,
+2015,butler,Butler Bulldogs,11/24,
+2015,butler,Butler Bulldogs,12/1,23
+2015,butler,Butler Bulldogs,12/8,15
+2015,butler,Butler Bulldogs,12/15,23
+2015,butler,Butler Bulldogs,12/22,
+2015,butler,Butler Bulldogs,12/29,
+2015,butler,Butler Bulldogs,1/5,
+2015,butler,Butler Bulldogs,1/12,
+2015,butler,Butler Bulldogs,1/19,
+2015,butler,Butler Bulldogs,1/26,25
+2015,butler,Butler Bulldogs,2/2,22
+2015,butler,Butler Bulldogs,2/9,18
+2015,butler,Butler Bulldogs,2/16,19
+2015,colorado-state,Colorado State Rams,Pre,
+2015,colorado-state,Colorado State Rams,11/17,
+2015,colorado-state,Colorado State Rams,11/24,
+2015,colorado-state,Colorado State Rams,12/1,
+2015,colorado-state,Colorado State Rams,12/8,
+2015,colorado-state,Colorado State Rams,12/15,
+2015,colorado-state,Colorado State Rams,12/22,24
+2015,colorado-state,Colorado State Rams,12/29,24
+2015,colorado-state,Colorado State Rams,1/5,
+2015,colorado-state,Colorado State Rams,1/12,
+2015,colorado-state,Colorado State Rams,1/19,
+2015,colorado-state,Colorado State Rams,1/26,
+2015,colorado-state,Colorado State Rams,2/2,
+2015,colorado-state,Colorado State Rams,2/9,
+2015,colorado-state,Colorado State Rams,2/16,
+2015,connecticut,Connecticut Huskies,Pre,17
+2015,connecticut,Connecticut Huskies,11/17,17
+2015,connecticut,Connecticut Huskies,11/24,24
+2015,connecticut,Connecticut Huskies,12/1,
+2015,connecticut,Connecticut Huskies,12/8,
+2015,connecticut,Connecticut Huskies,12/15,
+2015,connecticut,Connecticut Huskies,12/22,
+2015,connecticut,Connecticut Huskies,12/29,
+2015,connecticut,Connecticut Huskies,1/5,
+2015,connecticut,Connecticut Huskies,1/12,
+2015,connecticut,Connecticut Huskies,1/19,
+2015,connecticut,Connecticut Huskies,1/26,
+2015,connecticut,Connecticut Huskies,2/2,
+2015,connecticut,Connecticut Huskies,2/9,
+2015,connecticut,Connecticut Huskies,2/16,
+2015,creighton,Creighton Bluejays,Pre,
+2015,creighton,Creighton Bluejays,11/17,
+2015,creighton,Creighton Bluejays,11/24,23
+2015,creighton,Creighton Bluejays,12/1,
+2015,creighton,Creighton Bluejays,12/8,
+2015,creighton,Creighton Bluejays,12/15,
+2015,creighton,Creighton Bluejays,12/22,
+2015,creighton,Creighton Bluejays,12/29,
+2015,creighton,Creighton Bluejays,1/5,
+2015,creighton,Creighton Bluejays,1/12,
+2015,creighton,Creighton Bluejays,1/19,
+2015,creighton,Creighton Bluejays,1/26,
+2015,creighton,Creighton Bluejays,2/2,
+2015,creighton,Creighton Bluejays,2/9,
+2015,creighton,Creighton Bluejays,2/16,
+2015,dayton,Dayton Flyers,Pre,
+2015,dayton,Dayton Flyers,11/17,
+2015,dayton,Dayton Flyers,11/24,
+2015,dayton,Dayton Flyers,12/1,
+2015,dayton,Dayton Flyers,12/8,
+2015,dayton,Dayton Flyers,12/15,
+2015,dayton,Dayton Flyers,12/22,
+2015,dayton,Dayton Flyers,12/29,
+2015,dayton,Dayton Flyers,1/5,
+2015,dayton,Dayton Flyers,1/12,
+2015,dayton,Dayton Flyers,1/19,22
+2015,dayton,Dayton Flyers,1/26,
+2015,dayton,Dayton Flyers,2/2,
+2015,dayton,Dayton Flyers,2/9,
+2015,dayton,Dayton Flyers,2/16,
+2015,duke,Duke Blue Devils,Pre,4
+2015,duke,Duke Blue Devils,11/17,4
+2015,duke,Duke Blue Devils,11/24,4
+2015,duke,Duke Blue Devils,12/1,4
+2015,duke,Duke Blue Devils,12/8,2
+2015,duke,Duke Blue Devils,12/15,2
+2015,duke,Duke Blue Devils,12/22,2
+2015,duke,Duke Blue Devils,12/29,2
+2015,duke,Duke Blue Devils,1/5,2
+2015,duke,Duke Blue Devils,1/12,4
+2015,duke,Duke Blue Devils,1/19,5
+2015,duke,Duke Blue Devils,1/26,4
+2015,duke,Duke Blue Devils,2/2,4
+2015,duke,Duke Blue Devils,2/9,4
+2015,duke,Duke Blue Devils,2/16,4
+2015,florida,Florida Gators,Pre,7
+2015,florida,Florida Gators,11/17,8
+2015,florida,Florida Gators,11/24,18
+2015,florida,Florida Gators,12/1,
+2015,florida,Florida Gators,12/8,
+2015,florida,Florida Gators,12/15,
+2015,florida,Florida Gators,12/22,
+2015,florida,Florida Gators,12/29,
+2015,florida,Florida Gators,1/5,
+2015,florida,Florida Gators,1/12,
+2015,florida,Florida Gators,1/19,
+2015,florida,Florida Gators,1/26,
+2015,florida,Florida Gators,2/2,
+2015,florida,Florida Gators,2/9,
+2015,florida,Florida Gators,2/16,
+2015,georgetown,Georgetown Hoyas,Pre,
+2015,georgetown,Georgetown Hoyas,11/17,
+2015,georgetown,Georgetown Hoyas,11/24,
+2015,georgetown,Georgetown Hoyas,12/1,
+2015,georgetown,Georgetown Hoyas,12/8,
+2015,georgetown,Georgetown Hoyas,12/15,
+2015,georgetown,Georgetown Hoyas,12/22,
+2015,georgetown,Georgetown Hoyas,12/29,25
+2015,georgetown,Georgetown Hoyas,1/5,
+2015,georgetown,Georgetown Hoyas,1/12,
+2015,georgetown,Georgetown Hoyas,1/19,
+2015,georgetown,Georgetown Hoyas,1/26,21
+2015,georgetown,Georgetown Hoyas,2/2,24
+2015,georgetown,Georgetown Hoyas,2/9,
+2015,georgetown,Georgetown Hoyas,2/16,
+2015,gonzaga,Gonzaga Bulldogs,Pre,13
+2015,gonzaga,Gonzaga Bulldogs,11/17,13
+2015,gonzaga,Gonzaga Bulldogs,11/24,10
+2015,gonzaga,Gonzaga Bulldogs,12/1,9
+2015,gonzaga,Gonzaga Bulldogs,12/8,9
+2015,gonzaga,Gonzaga Bulldogs,12/15,8
+2015,gonzaga,Gonzaga Bulldogs,12/22,8
+2015,gonzaga,Gonzaga Bulldogs,12/29,7
+2015,gonzaga,Gonzaga Bulldogs,1/5,6
+2015,gonzaga,Gonzaga Bulldogs,1/12,3
+2015,gonzaga,Gonzaga Bulldogs,1/19,3
+2015,gonzaga,Gonzaga Bulldogs,1/26,3
+2015,gonzaga,Gonzaga Bulldogs,2/2,2
+2015,gonzaga,Gonzaga Bulldogs,2/9,3
+2015,gonzaga,Gonzaga Bulldogs,2/16,3
+2015,harvard,Harvard Crimson,Pre,25
+2015,harvard,Harvard Crimson,11/17,
+2015,harvard,Harvard Crimson,11/24,
+2015,harvard,Harvard Crimson,12/1,
+2015,harvard,Harvard Crimson,12/8,
+2015,harvard,Harvard Crimson,12/15,
+2015,harvard,Harvard Crimson,12/22,
+2015,harvard,Harvard Crimson,12/29,
+2015,harvard,Harvard Crimson,1/5,
+2015,harvard,Harvard Crimson,1/12,
+2015,harvard,Harvard Crimson,1/19,
+2015,harvard,Harvard Crimson,1/26,
+2015,harvard,Harvard Crimson,2/2,
+2015,harvard,Harvard Crimson,2/9,
+2015,harvard,Harvard Crimson,2/16,
+2015,illinois,Illinois Fighting Illini,Pre,
+2015,illinois,Illinois Fighting Illini,11/17,
+2015,illinois,Illinois Fighting Illini,11/24,
+2015,illinois,Illinois Fighting Illini,12/1,24
+2015,illinois,Illinois Fighting Illini,12/8,
+2015,illinois,Illinois Fighting Illini,12/15,
+2015,illinois,Illinois Fighting Illini,12/22,
+2015,illinois,Illinois Fighting Illini,12/29,
+2015,illinois,Illinois Fighting Illini,1/5,
+2015,illinois,Illinois Fighting Illini,1/12,
+2015,illinois,Illinois Fighting Illini,1/19,
+2015,illinois,Illinois Fighting Illini,1/26,
+2015,illinois,Illinois Fighting Illini,2/2,
+2015,illinois,Illinois Fighting Illini,2/9,
+2015,illinois,Illinois Fighting Illini,2/16,
+2015,indiana,Indiana Hoosiers,Pre,
+2015,indiana,Indiana Hoosiers,11/17,
+2015,indiana,Indiana Hoosiers,11/24,
+2015,indiana,Indiana Hoosiers,12/1,
+2015,indiana,Indiana Hoosiers,12/8,
+2015,indiana,Indiana Hoosiers,12/15,
+2015,indiana,Indiana Hoosiers,12/22,
+2015,indiana,Indiana Hoosiers,12/29,
+2015,indiana,Indiana Hoosiers,1/5,
+2015,indiana,Indiana Hoosiers,1/12,
+2015,indiana,Indiana Hoosiers,1/19,23
+2015,indiana,Indiana Hoosiers,1/26,22
+2015,indiana,Indiana Hoosiers,2/2,
+2015,indiana,Indiana Hoosiers,2/9,
+2015,indiana,Indiana Hoosiers,2/16,
+2015,iowa,Iowa Hawkeyes,Pre,
+2015,iowa,Iowa Hawkeyes,11/17,
+2015,iowa,Iowa Hawkeyes,11/24,
+2015,iowa,Iowa Hawkeyes,12/1,
+2015,iowa,Iowa Hawkeyes,12/8,
+2015,iowa,Iowa Hawkeyes,12/15,
+2015,iowa,Iowa Hawkeyes,12/22,
+2015,iowa,Iowa Hawkeyes,12/29,
+2015,iowa,Iowa Hawkeyes,1/5,
+2015,iowa,Iowa Hawkeyes,1/12,
+2015,iowa,Iowa Hawkeyes,1/19,25
+2015,iowa,Iowa Hawkeyes,1/26,
+2015,iowa,Iowa Hawkeyes,2/2,
+2015,iowa,Iowa Hawkeyes,2/9,
+2015,iowa,Iowa Hawkeyes,2/16,
+2015,iowa-state,Iowa State Cyclones,Pre,14
+2015,iowa-state,Iowa State Cyclones,11/17,14
+2015,iowa-state,Iowa State Cyclones,11/24,13
+2015,iowa-state,Iowa State Cyclones,12/1,20
+2015,iowa-state,Iowa State Cyclones,12/8,14
+2015,iowa-state,Iowa State Cyclones,12/15,13
+2015,iowa-state,Iowa State Cyclones,12/22,12
+2015,iowa-state,Iowa State Cyclones,12/29,9
+2015,iowa-state,Iowa State Cyclones,1/5,17
+2015,iowa-state,Iowa State Cyclones,1/12,11
+2015,iowa-state,Iowa State Cyclones,1/19,9
+2015,iowa-state,Iowa State Cyclones,1/26,15
+2015,iowa-state,Iowa State Cyclones,2/2,11
+2015,iowa-state,Iowa State Cyclones,2/9,14
+2015,iowa-state,Iowa State Cyclones,2/16,14
+2015,kansas,Kansas Jayhawks,Pre,5
+2015,kansas,Kansas Jayhawks,11/17,5
+2015,kansas,Kansas Jayhawks,11/24,11
+2015,kansas,Kansas Jayhawks,12/1,11
+2015,kansas,Kansas Jayhawks,12/8,10
+2015,kansas,Kansas Jayhawks,12/15,10
+2015,kansas,Kansas Jayhawks,12/22,10
+2015,kansas,Kansas Jayhawks,12/29,13
+2015,kansas,Kansas Jayhawks,1/5,12
+2015,kansas,Kansas Jayhawks,1/12,9
+2015,kansas,Kansas Jayhawks,1/19,11
+2015,kansas,Kansas Jayhawks,1/26,9
+2015,kansas,Kansas Jayhawks,2/2,8
+2015,kansas,Kansas Jayhawks,2/9,8
+2015,kansas,Kansas Jayhawks,2/16,8
+2015,kentucky,Kentucky Wildcats,Pre,1
+2015,kentucky,Kentucky Wildcats,11/17,1
+2015,kentucky,Kentucky Wildcats,11/24,1
+2015,kentucky,Kentucky Wildcats,12/1,1
+2015,kentucky,Kentucky Wildcats,12/8,1
+2015,kentucky,Kentucky Wildcats,12/15,1
+2015,kentucky,Kentucky Wildcats,12/22,1
+2015,kentucky,Kentucky Wildcats,12/29,1
+2015,kentucky,Kentucky Wildcats,1/5,1
+2015,kentucky,Kentucky Wildcats,1/12,1
+2015,kentucky,Kentucky Wildcats,1/19,1
+2015,kentucky,Kentucky Wildcats,1/26,1
+2015,kentucky,Kentucky Wildcats,2/2,1
+2015,kentucky,Kentucky Wildcats,2/9,1
+2015,kentucky,Kentucky Wildcats,2/16,1
+2015,louisville,Louisville Cardinals,Pre,8
+2015,louisville,Louisville Cardinals,11/17,7
+2015,louisville,Louisville Cardinals,11/24,6
+2015,louisville,Louisville Cardinals,12/1,5
+2015,louisville,Louisville Cardinals,12/8,4
+2015,louisville,Louisville Cardinals,12/15,4
+2015,louisville,Louisville Cardinals,12/22,4
+2015,louisville,Louisville Cardinals,12/29,5
+2015,louisville,Louisville Cardinals,1/5,5
+2015,louisville,Louisville Cardinals,1/12,6
+2015,louisville,Louisville Cardinals,1/19,10
+2015,louisville,Louisville Cardinals,1/26,10
+2015,louisville,Louisville Cardinals,2/2,9
+2015,louisville,Louisville Cardinals,2/9,9
+2015,louisville,Louisville Cardinals,2/16,12
+2015,maryland,Maryland Terrapins,Pre,
+2015,maryland,Maryland Terrapins,11/17,
+2015,maryland,Maryland Terrapins,11/24,
+2015,maryland,Maryland Terrapins,12/1,21
+2015,maryland,Maryland Terrapins,12/8,19
+2015,maryland,Maryland Terrapins,12/15,17
+2015,maryland,Maryland Terrapins,12/22,15
+2015,maryland,Maryland Terrapins,12/29,12
+2015,maryland,Maryland Terrapins,1/5,11
+2015,maryland,Maryland Terrapins,1/12,14
+2015,maryland,Maryland Terrapins,1/19,13
+2015,maryland,Maryland Terrapins,1/26,16
+2015,maryland,Maryland Terrapins,2/2,17
+2015,maryland,Maryland Terrapins,2/9,19
+2015,maryland,Maryland Terrapins,2/16,16
+2015,miami-fl,Miami (FL) Hurricanes,Pre,
+2015,miami-fl,Miami (FL) Hurricanes,11/17,
+2015,miami-fl,Miami (FL) Hurricanes,11/24,17
+2015,miami-fl,Miami (FL) Hurricanes,12/1,15
+2015,miami-fl,Miami (FL) Hurricanes,12/8,20
+2015,miami-fl,Miami (FL) Hurricanes,12/15,18
+2015,miami-fl,Miami (FL) Hurricanes,12/22,
+2015,miami-fl,Miami (FL) Hurricanes,12/29,
+2015,miami-fl,Miami (FL) Hurricanes,1/5,
+2015,miami-fl,Miami (FL) Hurricanes,1/12,
+2015,miami-fl,Miami (FL) Hurricanes,1/19,
+2015,miami-fl,Miami (FL) Hurricanes,1/26,23
+2015,miami-fl,Miami (FL) Hurricanes,2/2,
+2015,miami-fl,Miami (FL) Hurricanes,2/9,
+2015,miami-fl,Miami (FL) Hurricanes,2/16,
+2015,michigan-state,Michigan State Spartans,Pre,18
+2015,michigan-state,Michigan State Spartans,11/17,19
+2015,michigan-state,Michigan State Spartans,11/24,20
+2015,michigan-state,Michigan State Spartans,12/1,19
+2015,michigan-state,Michigan State Spartans,12/8,
+2015,michigan-state,Michigan State Spartans,12/15,25
+2015,michigan-state,Michigan State Spartans,12/22,
+2015,michigan-state,Michigan State Spartans,12/29,
+2015,michigan-state,Michigan State Spartans,1/5,
+2015,michigan-state,Michigan State Spartans,1/12,
+2015,michigan-state,Michigan State Spartans,1/19,
+2015,michigan-state,Michigan State Spartans,1/26,
+2015,michigan-state,Michigan State Spartans,2/2,
+2015,michigan-state,Michigan State Spartans,2/9,
+2015,michigan-state,Michigan State Spartans,2/16,
+2015,michigan,Michigan Wolverines,Pre,24
+2015,michigan,Michigan Wolverines,11/17,19
+2015,michigan,Michigan Wolverines,11/24,
+2015,michigan,Michigan Wolverines,12/1,17
+2015,michigan,Michigan Wolverines,12/8,
+2015,michigan,Michigan Wolverines,12/15,
+2015,michigan,Michigan Wolverines,12/22,
+2015,michigan,Michigan Wolverines,12/29,
+2015,michigan,Michigan Wolverines,1/5,
+2015,michigan,Michigan Wolverines,1/12,
+2015,michigan,Michigan Wolverines,1/19,
+2015,michigan,Michigan Wolverines,1/26,
+2015,michigan,Michigan Wolverines,2/2,
+2015,michigan,Michigan Wolverines,2/9,
+2015,michigan,Michigan Wolverines,2/16,
+2015,nebraska,Nebraska Cornhuskers,Pre,21
+2015,nebraska,Nebraska Cornhuskers,11/17,21
+2015,nebraska,Nebraska Cornhuskers,11/24,
+2015,nebraska,Nebraska Cornhuskers,12/1,
+2015,nebraska,Nebraska Cornhuskers,12/8,
+2015,nebraska,Nebraska Cornhuskers,12/15,
+2015,nebraska,Nebraska Cornhuskers,12/22,
+2015,nebraska,Nebraska Cornhuskers,12/29,
+2015,nebraska,Nebraska Cornhuskers,1/5,
+2015,nebraska,Nebraska Cornhuskers,1/12,
+2015,nebraska,Nebraska Cornhuskers,1/19,
+2015,nebraska,Nebraska Cornhuskers,1/26,
+2015,nebraska,Nebraska Cornhuskers,2/2,
+2015,nebraska,Nebraska Cornhuskers,2/9,
+2015,nebraska,Nebraska Cornhuskers,2/16,
+2015,north-carolina,North Carolina Tar Heels,Pre,6
+2015,north-carolina,North Carolina Tar Heels,11/17,6
+2015,north-carolina,North Carolina Tar Heels,11/24,5
+2015,north-carolina,North Carolina Tar Heels,12/1,12
+2015,north-carolina,North Carolina Tar Heels,12/8,21
+2015,north-carolina,North Carolina Tar Heels,12/15,24
+2015,north-carolina,North Carolina Tar Heels,12/22,20
+2015,north-carolina,North Carolina Tar Heels,12/29,19
+2015,north-carolina,North Carolina Tar Heels,1/5,18
+2015,north-carolina,North Carolina Tar Heels,1/12,15
+2015,north-carolina,North Carolina Tar Heels,1/19,15
+2015,north-carolina,North Carolina Tar Heels,1/26,13
+2015,north-carolina,North Carolina Tar Heels,2/2,12
+2015,north-carolina,North Carolina Tar Heels,2/9,12
+2015,north-carolina,North Carolina Tar Heels,2/16,15
+2015,northern-iowa,Northern Iowa Panthers,Pre,
+2015,northern-iowa,Northern Iowa Panthers,11/17,
+2015,northern-iowa,Northern Iowa Panthers,11/24,
+2015,northern-iowa,Northern Iowa Panthers,12/1,
+2015,northern-iowa,Northern Iowa Panthers,12/8,23
+2015,northern-iowa,Northern Iowa Panthers,12/15,
+2015,northern-iowa,Northern Iowa Panthers,12/22,23
+2015,northern-iowa,Northern Iowa Panthers,12/29,23
+2015,northern-iowa,Northern Iowa Panthers,1/5,
+2015,northern-iowa,Northern Iowa Panthers,1/12,23
+2015,northern-iowa,Northern Iowa Panthers,1/19,20
+2015,northern-iowa,Northern Iowa Panthers,1/26,18
+2015,northern-iowa,Northern Iowa Panthers,2/2,14
+2015,northern-iowa,Northern Iowa Panthers,2/9,13
+2015,northern-iowa,Northern Iowa Panthers,2/16,11
+2015,notre-dame,Notre Dame Fighting Irish,Pre,
+2015,notre-dame,Notre Dame Fighting Irish,11/17,
+2015,notre-dame,Notre Dame Fighting Irish,11/24,
+2015,notre-dame,Notre Dame Fighting Irish,12/1,
+2015,notre-dame,Notre Dame Fighting Irish,12/8,25
+2015,notre-dame,Notre Dame Fighting Irish,12/15,21
+2015,notre-dame,Notre Dame Fighting Irish,12/22,16
+2015,notre-dame,Notre Dame Fighting Irish,12/29,14
+2015,notre-dame,Notre Dame Fighting Irish,1/5,13
+2015,notre-dame,Notre Dame Fighting Irish,1/12,12
+2015,notre-dame,Notre Dame Fighting Irish,1/19,8
+2015,notre-dame,Notre Dame Fighting Irish,1/26,8
+2015,notre-dame,Notre Dame Fighting Irish,2/2,10
+2015,notre-dame,Notre Dame Fighting Irish,2/9,10
+2015,notre-dame,Notre Dame Fighting Irish,2/16,10
+2015,ohio-state,Ohio State Buckeyes,Pre,20
+2015,ohio-state,Ohio State Buckeyes,11/17,20
+2015,ohio-state,Ohio State Buckeyes,11/24,16
+2015,ohio-state,Ohio State Buckeyes,12/1,14
+2015,ohio-state,Ohio State Buckeyes,12/8,12
+2015,ohio-state,Ohio State Buckeyes,12/15,12
+2015,ohio-state,Ohio State Buckeyes,12/22,21
+2015,ohio-state,Ohio State Buckeyes,12/29,20
+2015,ohio-state,Ohio State Buckeyes,1/5,22
+2015,ohio-state,Ohio State Buckeyes,1/12,
+2015,ohio-state,Ohio State Buckeyes,1/19,
+2015,ohio-state,Ohio State Buckeyes,1/26,
+2015,ohio-state,Ohio State Buckeyes,2/2,20
+2015,ohio-state,Ohio State Buckeyes,2/9,23
+2015,ohio-state,Ohio State Buckeyes,2/16,24
+2015,oklahoma,Oklahoma Sooners,Pre,19
+2015,oklahoma,Oklahoma Sooners,11/17,18
+2015,oklahoma,Oklahoma Sooners,11/24,
+2015,oklahoma,Oklahoma Sooners,12/1,22
+2015,oklahoma,Oklahoma Sooners,12/8,16
+2015,oklahoma,Oklahoma Sooners,12/15,15
+2015,oklahoma,Oklahoma Sooners,12/22,19
+2015,oklahoma,Oklahoma Sooners,12/29,18
+2015,oklahoma,Oklahoma Sooners,1/5,16
+2015,oklahoma,Oklahoma Sooners,1/12,18
+2015,oklahoma,Oklahoma Sooners,1/19,19
+2015,oklahoma,Oklahoma Sooners,1/26,24
+2015,oklahoma,Oklahoma Sooners,2/2,21
+2015,oklahoma,Oklahoma Sooners,2/9,17
+2015,oklahoma,Oklahoma Sooners,2/16,17
+2015,oklahoma-state,Oklahoma State Cowboys,Pre,
+2015,oklahoma-state,Oklahoma State Cowboys,11/17,
+2015,oklahoma-state,Oklahoma State Cowboys,11/24,
+2015,oklahoma-state,Oklahoma State Cowboys,12/1,
+2015,oklahoma-state,Oklahoma State Cowboys,12/8,
+2015,oklahoma-state,Oklahoma State Cowboys,12/15,
+2015,oklahoma-state,Oklahoma State Cowboys,12/22,
+2015,oklahoma-state,Oklahoma State Cowboys,12/29,
+2015,oklahoma-state,Oklahoma State Cowboys,1/5,
+2015,oklahoma-state,Oklahoma State Cowboys,1/12,24
+2015,oklahoma-state,Oklahoma State Cowboys,1/19,
+2015,oklahoma-state,Oklahoma State Cowboys,1/26,
+2015,oklahoma-state,Oklahoma State Cowboys,2/2,
+2015,oklahoma-state,Oklahoma State Cowboys,2/9,22
+2015,oklahoma-state,Oklahoma State Cowboys,2/16,22
+2015,old-dominion,Old Dominion Monarchs,Pre,
+2015,old-dominion,Old Dominion Monarchs,11/17,
+2015,old-dominion,Old Dominion Monarchs,11/24,
+2015,old-dominion,Old Dominion Monarchs,12/1,
+2015,old-dominion,Old Dominion Monarchs,12/8,
+2015,old-dominion,Old Dominion Monarchs,12/15,
+2015,old-dominion,Old Dominion Monarchs,12/22,
+2015,old-dominion,Old Dominion Monarchs,12/29,
+2015,old-dominion,Old Dominion Monarchs,1/5,25
+2015,old-dominion,Old Dominion Monarchs,1/12,
+2015,old-dominion,Old Dominion Monarchs,1/19,
+2015,old-dominion,Old Dominion Monarchs,1/26,
+2015,old-dominion,Old Dominion Monarchs,2/2,
+2015,old-dominion,Old Dominion Monarchs,2/9,
+2015,old-dominion,Old Dominion Monarchs,2/16,
+2015,san-diego-state,San Diego State Aztecs,Pre,16
+2015,san-diego-state,San Diego State Aztecs,11/17,16
+2015,san-diego-state,San Diego State Aztecs,11/24,15
+2015,san-diego-state,San Diego State Aztecs,12/1,13
+2015,san-diego-state,San Diego State Aztecs,12/8,18
+2015,san-diego-state,San Diego State Aztecs,12/15,19
+2015,san-diego-state,San Diego State Aztecs,12/22,
+2015,san-diego-state,San Diego State Aztecs,12/29,
+2015,san-diego-state,San Diego State Aztecs,1/5,
+2015,san-diego-state,San Diego State Aztecs,1/12,
+2015,san-diego-state,San Diego State Aztecs,1/19,
+2015,san-diego-state,San Diego State Aztecs,1/26,
+2015,san-diego-state,San Diego State Aztecs,2/2,
+2015,san-diego-state,San Diego State Aztecs,2/9,
+2015,san-diego-state,San Diego State Aztecs,2/16,
+2015,seton-hall,Seton Hall Pirates,Pre,
+2015,seton-hall,Seton Hall Pirates,11/17,
+2015,seton-hall,Seton Hall Pirates,11/24,
+2015,seton-hall,Seton Hall Pirates,12/1,
+2015,seton-hall,Seton Hall Pirates,12/8,
+2015,seton-hall,Seton Hall Pirates,12/15,
+2015,seton-hall,Seton Hall Pirates,12/22,
+2015,seton-hall,Seton Hall Pirates,12/29,
+2015,seton-hall,Seton Hall Pirates,1/5,19
+2015,seton-hall,Seton Hall Pirates,1/12,21
+2015,seton-hall,Seton Hall Pirates,1/19,24
+2015,seton-hall,Seton Hall Pirates,1/26,
+2015,seton-hall,Seton Hall Pirates,2/2,
+2015,seton-hall,Seton Hall Pirates,2/9,
+2015,seton-hall,Seton Hall Pirates,2/16,
+2015,southern-methodist,Southern Methodist Mustangs,Pre,22
+2015,southern-methodist,Southern Methodist Mustangs,11/17,22
+2015,southern-methodist,Southern Methodist Mustangs,11/24,
+2015,southern-methodist,Southern Methodist Mustangs,12/1,
+2015,southern-methodist,Southern Methodist Mustangs,12/8,
+2015,southern-methodist,Southern Methodist Mustangs,12/15,
+2015,southern-methodist,Southern Methodist Mustangs,12/22,
+2015,southern-methodist,Southern Methodist Mustangs,12/29,
+2015,southern-methodist,Southern Methodist Mustangs,1/5,
+2015,southern-methodist,Southern Methodist Mustangs,1/12,
+2015,southern-methodist,Southern Methodist Mustangs,1/19,
+2015,southern-methodist,Southern Methodist Mustangs,1/26,
+2015,southern-methodist,Southern Methodist Mustangs,2/2,23
+2015,southern-methodist,Southern Methodist Mustangs,2/9,25
+2015,southern-methodist,Southern Methodist Mustangs,2/16,21
+2015,st-johns-ny,St. John's (NY) Red Storm,Pre,
+2015,st-johns-ny,St. John's (NY) Red Storm,11/17,
+2015,st-johns-ny,St. John's (NY) Red Storm,11/24,
+2015,st-johns-ny,St. John's (NY) Red Storm,12/1,
+2015,st-johns-ny,St. John's (NY) Red Storm,12/8,24
+2015,st-johns-ny,St. John's (NY) Red Storm,12/15,20
+2015,st-johns-ny,St. John's (NY) Red Storm,12/22,17
+2015,st-johns-ny,St. John's (NY) Red Storm,12/29,15
+2015,st-johns-ny,St. John's (NY) Red Storm,1/5,24
+2015,st-johns-ny,St. John's (NY) Red Storm,1/12,
+2015,st-johns-ny,St. John's (NY) Red Storm,1/19,
+2015,st-johns-ny,St. John's (NY) Red Storm,1/26,
+2015,st-johns-ny,St. John's (NY) Red Storm,2/2,
+2015,st-johns-ny,St. John's (NY) Red Storm,2/9,
+2015,st-johns-ny,St. John's (NY) Red Storm,2/16,
+2015,syracuse,Syracuse Orange,Pre,23
+2015,syracuse,Syracuse Orange,11/17,23
+2015,syracuse,Syracuse Orange,11/24,
+2015,syracuse,Syracuse Orange,12/1,
+2015,syracuse,Syracuse Orange,12/8,
+2015,syracuse,Syracuse Orange,12/15,
+2015,syracuse,Syracuse Orange,12/22,
+2015,syracuse,Syracuse Orange,12/29,
+2015,syracuse,Syracuse Orange,1/5,
+2015,syracuse,Syracuse Orange,1/12,
+2015,syracuse,Syracuse Orange,1/19,
+2015,syracuse,Syracuse Orange,1/26,
+2015,syracuse,Syracuse Orange,2/2,
+2015,syracuse,Syracuse Orange,2/9,
+2015,syracuse,Syracuse Orange,2/16,
+2015,texas-christian,Texas Christian Horned Frogs,Pre,
+2015,texas-christian,Texas Christian Horned Frogs,11/17,
+2015,texas-christian,Texas Christian Horned Frogs,11/24,
+2015,texas-christian,Texas Christian Horned Frogs,12/1,
+2015,texas-christian,Texas Christian Horned Frogs,12/8,
+2015,texas-christian,Texas Christian Horned Frogs,12/15,
+2015,texas-christian,Texas Christian Horned Frogs,12/22,25
+2015,texas-christian,Texas Christian Horned Frogs,12/29,
+2015,texas-christian,Texas Christian Horned Frogs,1/5,
+2015,texas-christian,Texas Christian Horned Frogs,1/12,
+2015,texas-christian,Texas Christian Horned Frogs,1/19,
+2015,texas-christian,Texas Christian Horned Frogs,1/26,
+2015,texas-christian,Texas Christian Horned Frogs,2/2,
+2015,texas-christian,Texas Christian Horned Frogs,2/9,
+2015,texas-christian,Texas Christian Horned Frogs,2/16,
+2015,texas,Texas Longhorns,Pre,10
+2015,texas,Texas Longhorns,11/17,10
+2015,texas,Texas Longhorns,11/24,7
+2015,texas,Texas Longhorns,12/1,6
+2015,texas,Texas Longhorns,12/8,8
+2015,texas,Texas Longhorns,12/15,9
+2015,texas,Texas Longhorns,12/22,9
+2015,texas,Texas Longhorns,12/29,11
+2015,texas,Texas Longhorns,1/5,10
+2015,texas,Texas Longhorns,1/12,20
+2015,texas,Texas Longhorns,1/19,17
+2015,texas,Texas Longhorns,1/26,19
+2015,texas,Texas Longhorns,2/2,25
+2015,texas,Texas Longhorns,2/9,
+2015,texas,Texas Longhorns,2/16,
+2015,ucla,UCLA Bruins,Pre,
+2015,ucla,UCLA Bruins,11/17,
+2015,ucla,UCLA Bruins,11/24,22
+2015,ucla,UCLA Bruins,12/1,
+2015,ucla,UCLA Bruins,12/8,
+2015,ucla,UCLA Bruins,12/15,
+2015,ucla,UCLA Bruins,12/22,
+2015,ucla,UCLA Bruins,12/29,
+2015,ucla,UCLA Bruins,1/5,
+2015,ucla,UCLA Bruins,1/12,
+2015,ucla,UCLA Bruins,1/19,
+2015,ucla,UCLA Bruins,1/26,
+2015,ucla,UCLA Bruins,2/2,
+2015,ucla,UCLA Bruins,2/9,
+2015,ucla,UCLA Bruins,2/16,
+2015,utah,Utah Utes,Pre,25
+2015,utah,Utah Utes,11/17,25
+2015,utah,Utah Utes,11/24,
+2015,utah,Utah Utes,12/1,25
+2015,utah,Utah Utes,12/8,13
+2015,utah,Utah Utes,12/15,14
+2015,utah,Utah Utes,12/22,14
+2015,utah,Utah Utes,12/29,10
+2015,utah,Utah Utes,1/5,9
+2015,utah,Utah Utes,1/12,8
+2015,utah,Utah Utes,1/19,12
+2015,utah,Utah Utes,1/26,11
+2015,utah,Utah Utes,2/2,13
+2015,utah,Utah Utes,2/9,11
+2015,utah,Utah Utes,2/16,9
+2015,villanova,Villanova Wildcats,Pre,12
+2015,villanova,Villanova Wildcats,11/17,12
+2015,villanova,Villanova Wildcats,11/24,12
+2015,villanova,Villanova Wildcats,12/1,10
+2015,villanova,Villanova Wildcats,12/8,7
+2015,villanova,Villanova Wildcats,12/15,7
+2015,villanova,Villanova Wildcats,12/22,7
+2015,villanova,Villanova Wildcats,12/29,6
+2015,villanova,Villanova Wildcats,1/5,8
+2015,villanova,Villanova Wildcats,1/12,5
+2015,villanova,Villanova Wildcats,1/19,4
+2015,villanova,Villanova Wildcats,1/26,7
+2015,villanova,Villanova Wildcats,2/2,7
+2015,villanova,Villanova Wildcats,2/9,6
+2015,villanova,Villanova Wildcats,2/16,6
+2015,virginia,Virginia Cavaliers,Pre,9
+2015,virginia,Virginia Cavaliers,11/17,9
+2015,virginia,Virginia Cavaliers,11/24,8
+2015,virginia,Virginia Cavaliers,12/1,7
+2015,virginia,Virginia Cavaliers,12/8,6
+2015,virginia,Virginia Cavaliers,12/15,6
+2015,virginia,Virginia Cavaliers,12/22,5
+2015,virginia,Virginia Cavaliers,12/29,3
+2015,virginia,Virginia Cavaliers,1/5,3
+2015,virginia,Virginia Cavaliers,1/12,2
+2015,virginia,Virginia Cavaliers,1/19,2
+2015,virginia,Virginia Cavaliers,1/26,2
+2015,virginia,Virginia Cavaliers,2/2,3
+2015,virginia,Virginia Cavaliers,2/9,2
+2015,virginia,Virginia Cavaliers,2/16,2
+2015,virginia-commonwealth,Virginia Commonwealth Rams,Pre,15
+2015,virginia-commonwealth,Virginia Commonwealth Rams,11/17,15
+2015,virginia-commonwealth,Virginia Commonwealth Rams,11/24,14
+2015,virginia-commonwealth,Virginia Commonwealth Rams,12/1,
+2015,virginia-commonwealth,Virginia Commonwealth Rams,12/8,
+2015,virginia-commonwealth,Virginia Commonwealth Rams,12/15,
+2015,virginia-commonwealth,Virginia Commonwealth Rams,12/22,
+2015,virginia-commonwealth,Virginia Commonwealth Rams,12/29,
+2015,virginia-commonwealth,Virginia Commonwealth Rams,1/5,20
+2015,virginia-commonwealth,Virginia Commonwealth Rams,1/12,17
+2015,virginia-commonwealth,Virginia Commonwealth Rams,1/19,16
+2015,virginia-commonwealth,Virginia Commonwealth Rams,1/26,14
+2015,virginia-commonwealth,Virginia Commonwealth Rams,2/2,18
+2015,virginia-commonwealth,Virginia Commonwealth Rams,2/9,20
+2015,virginia-commonwealth,Virginia Commonwealth Rams,2/16,25
+2015,washington,Washington Huskies,Pre,
+2015,washington,Washington Huskies,11/17,
+2015,washington,Washington Huskies,11/24,
+2015,washington,Washington Huskies,12/1,
+2015,washington,Washington Huskies,12/8,17
+2015,washington,Washington Huskies,12/15,16
+2015,washington,Washington Huskies,12/22,13
+2015,washington,Washington Huskies,12/29,21
+2015,washington,Washington Huskies,1/5,
+2015,washington,Washington Huskies,1/12,
+2015,washington,Washington Huskies,1/19,
+2015,washington,Washington Huskies,1/26,
+2015,washington,Washington Huskies,2/2,
+2015,washington,Washington Huskies,2/9,
+2015,washington,Washington Huskies,2/16,
+2015,west-virginia,West Virginia Mountaineers,Pre,
+2015,west-virginia,West Virginia Mountaineers,11/17,
+2015,west-virginia,West Virginia Mountaineers,11/24,21
+2015,west-virginia,West Virginia Mountaineers,12/1,16
+2015,west-virginia,West Virginia Mountaineers,12/8,22
+2015,west-virginia,West Virginia Mountaineers,12/15,22
+2015,west-virginia,West Virginia Mountaineers,12/22,18
+2015,west-virginia,West Virginia Mountaineers,12/29,17
+2015,west-virginia,West Virginia Mountaineers,1/5,14
+2015,west-virginia,West Virginia Mountaineers,1/12,16
+2015,west-virginia,West Virginia Mountaineers,1/19,18
+2015,west-virginia,West Virginia Mountaineers,1/26,17
+2015,west-virginia,West Virginia Mountaineers,2/2,15
+2015,west-virginia,West Virginia Mountaineers,2/9,21
+2015,west-virginia,West Virginia Mountaineers,2/16,23
+2015,wichita-state,Wichita State Shockers,Pre,11
+2015,wichita-state,Wichita State Shockers,11/17,11
+2015,wichita-state,Wichita State Shockers,11/24,9
+2015,wichita-state,Wichita State Shockers,12/1,8
+2015,wichita-state,Wichita State Shockers,12/8,11
+2015,wichita-state,Wichita State Shockers,12/15,11
+2015,wichita-state,Wichita State Shockers,12/22,11
+2015,wichita-state,Wichita State Shockers,12/29,16
+2015,wichita-state,Wichita State Shockers,1/5,15
+2015,wichita-state,Wichita State Shockers,1/12,13
+2015,wichita-state,Wichita State Shockers,1/19,14
+2015,wichita-state,Wichita State Shockers,1/26,12
+2015,wichita-state,Wichita State Shockers,2/2,16
+2015,wichita-state,Wichita State Shockers,2/9,15
+2015,wichita-state,Wichita State Shockers,2/16,13
+2015,wisconsin,Wisconsin Badgers,Pre,3
+2015,wisconsin,Wisconsin Badgers,11/17,3
+2015,wisconsin,Wisconsin Badgers,11/24,2
+2015,wisconsin,Wisconsin Badgers,12/1,2
+2015,wisconsin,Wisconsin Badgers,12/8,5
+2015,wisconsin,Wisconsin Badgers,12/15,5
+2015,wisconsin,Wisconsin Badgers,12/22,6
+2015,wisconsin,Wisconsin Badgers,12/29,4
+2015,wisconsin,Wisconsin Badgers,1/5,4
+2015,wisconsin,Wisconsin Badgers,1/12,7
+2015,wisconsin,Wisconsin Badgers,1/19,6
+2015,wisconsin,Wisconsin Badgers,1/26,5
+2015,wisconsin,Wisconsin Badgers,2/2,5
+2015,wisconsin,Wisconsin Badgers,2/9,5
+2015,wisconsin,Wisconsin Badgers,2/16,5
+2015,wyoming,Wyoming Cowboys,Pre,
+2015,wyoming,Wyoming Cowboys,11/17,
+2015,wyoming,Wyoming Cowboys,11/24,
+2015,wyoming,Wyoming Cowboys,12/1,
+2015,wyoming,Wyoming Cowboys,12/8,
+2015,wyoming,Wyoming Cowboys,12/15,
+2015,wyoming,Wyoming Cowboys,12/22,
+2015,wyoming,Wyoming Cowboys,12/29,
+2015,wyoming,Wyoming Cowboys,1/5,
+2015,wyoming,Wyoming Cowboys,1/12,25
+2015,wyoming,Wyoming Cowboys,1/19,
+2015,wyoming,Wyoming Cowboys,1/26,
+2015,wyoming,Wyoming Cowboys,2/2,
+2015,wyoming,Wyoming Cowboys,2/9,
+2015,wyoming,Wyoming Cowboys,2/16,
