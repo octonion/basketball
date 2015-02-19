@@ -26,3 +26,7 @@ rm /tmp/polls.csv
 cp csv/games.csv /tmp/games.csv
 psql basketball -f load_sr_games.sql
 rm /tmp/games.csv
+
+cp csv/games_current.csv /tmp/games_current.csv
+psql basketball -f load_sr_games_current.sql
+rm /tmp/games_current.csv
