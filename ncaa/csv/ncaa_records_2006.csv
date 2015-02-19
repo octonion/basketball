@@ -17,8 +17,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,2798,Albertus Magnus,4,21,0,25
 2006,15,Albion,20,6,0,26
 2006,16,Albright,19,9,0,28
-2006,17,Alcorn St.,8,20,0,28
-2006,934,Alderson-Broaddus,24,7,0,31
+2006,17,Alcorn,8,20,0,28
+2006,934,Alderson Broaddus,24,7,0,31
 2006,18,Alfred,12,13,0,25
 2006,19,Allegheny,11,14,0,25
 2006,21,Alma,10,16,0,26
@@ -45,7 +45,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,36,Assumption,7,20,0,27
 2006,37,Auburn,12,16,0,28
 2006,38,Augsburg,4,21,0,25
-2006,39,Augusta St.,15,13,0,28
 2006,40,Augustana (IL),23,6,0,29
 2006,41,Augustana (SD),12,16,0,28
 2006,42,Aurora,16,11,0,27
@@ -53,6 +52,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,43,Austin Peay,17,14,0,31
 2006,44,Averett,20,8,0,28
 2006,45,Babson,9,17,0,26
+2006,94,Bakersfield,21,8,0,29
 2006,46,Baldwin Wallace,25,5,0,30
 2006,47,Ball St.,10,18,0,28
 2006,958,Baptist Bible (PA),24,6,0,30
@@ -104,19 +104,16 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,87,Butler,20,13,0,33
 2006,77,BYU,20,9,0,29
 2006,2685,BYU-Hawaii,14,11,0,25
-2006,362,LIU Post,13,15,0,28
 2006,88,Cabrini,11,14,0,25
+2006,1305,Cairn,12,15,0,27
 2006,105,Cal Lutheran,10,15,0,25
 2006,90,Cal Poly,10,19,0,29
 2006,91,Cal Poly Pomona,17,10,0,27
-2006,94,CSU Bakersfield,21,8,0,29
-2006,95,Cal St. Chico,9,18,0,27
 2006,92,Cal St. Dom. Hills,11,16,0,27
 2006,98,Cal St. East Bay,17,9,0,26
 2006,97,Cal St. Fullerton,16,13,0,29
 2006,100,Cal St. L.A.,10,17,0,27
 2006,30055,Cal St. Monterey Bay,10,20,0,30
-2006,101,Cal St. Northridge,11,17,0,28
 2006,93,Cal St. San B'dino,13,13,0,26
 2006,103,Cal St. Stanislaus,14,13,0,27
 2006,995,Caldwell,18,13,0,31
@@ -161,6 +158,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,135,Cheyney,13,14,0,27
 2006,137,Chicago,15,10,0,25
 2006,136,Chicago St.,11,19,0,30
+2006,95,Chico St.,9,18,0,27
 2006,8875,Chowan,19,11,0,30
 2006,139,Chris. Newport,20,8,0,28
 2006,1015,Christian Bros.,15,13,0,28
@@ -188,6 +186,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,11403,Colo. Christian,9,18,0,27
 2006,157,Colorado,20,10,0,30
 2006,154,Colorado Col.,7,18,0,25
+2006,11416,Colorado Mesa,19,9,0,28
 2006,155,Colorado Mines,15,14,0,29
 2006,156,Colorado St.,16,15,0,31
 2006,2720,Colorado St.-Pueblo,10,17,0,27
@@ -196,17 +195,17 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,1028,Concord,16,12,0,28
 2006,162,Concordia (NY),11,18,0,29
 2006,24400,Concordia (TX),6,18,0,24
-2006,1036,Concordia (WI),8,16,0,24
 2006,160,Concordia Chicago,11,16,0,27
+2006,1036,Concordia Wisconsin,8,16,0,24
 2006,161,Concordia-M'head,6,18,0,24
 2006,9081,Concordia-St. Paul,16,12,0,28
-2006,164,Connecticut,30,4,0,34
 2006,163,Connecticut Col.,13,11,0,24
 2006,165,Coppin St.,12,18,0,30
 2006,167,Cornell,13,15,0,28
 2006,166,Cornell College,3,22,0,25
 2006,169,Creighton,20,10,0,30
 2006,30035,Crown (MN),8,18,0,26
+2006,101,CSUN,11,17,0,28
 2006,170,Curry,13,13,0,26
 2006,1059,D'Youville,4,22,0,26
 2006,1044,Dallas,5,20,0,25
@@ -280,13 +279,13 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,23157,Felician,13,15,0,28
 2006,224,Ferris St.,18,13,0,31
 2006,225,Ferrum,7,19,0,26
+2006,28755,FGCU,18,12,0,30
 2006,1079,Findlay,25,5,0,30
 2006,30032,Finlandia,6,14,0,20
 2006,226,Fisk,15,11,0,26
 2006,227,Fitchburg St.,10,15,0,25
 2006,231,FIU,8,20,0,28
 2006,229,Fla. Atlantic,15,13,0,28
-2006,28755,Fla. Gulf Coast,18,12,0,30
 2006,233,Fla. Southern,16,12,0,28
 2006,235,Florida,33,6,0,39
 2006,228,Florida A&M,14,17,0,31
@@ -302,7 +301,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,239,Frank. & Marsh.,13,12,0,25
 2006,2694,Franklin,20,8,0,28
 2006,241,Franklin Pierce,13,15,0,28
-2006,242,Fredonia St.,9,16,0,25
+2006,242,Fredonia,9,16,0,25
 2006,96,Fresno St.,15,13,0,28
 2006,243,Frostburg St.,12,15,0,27
 2006,244,Furman,15,13,0,28
@@ -333,9 +332,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,1111,Greenville,7,18,0,25
 2006,264,Grinnell,14,9,0,23
 2006,265,Grove City,9,17,0,26
+2006,39,GRU Augusta,15,13,0,28
 2006,1112,Guilford,13,14,0,27
 2006,266,Gust. Adolphus,19,8,0,27
-2006,12399,Gwynedd-Mercy,12,15,0,27
+2006,12399,Gwynedd Mercy,12,15,0,27
 2006,267,Hamilton,23,5,0,28
 2006,268,Hamline,12,15,0,27
 2006,269,Hampden-Sydney,18,8,0,26
@@ -450,10 +450,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,1176,Lincoln Memorial,7,20,0,27
 2006,1179,Linfield,6,19,0,25
 2006,28600,Lipscomb,21,11,0,32
+2006,361,LIU Brooklyn,12,16,0,28
+2006,362,LIU Post,13,15,0,28
 2006,359,Livingstone,7,21,0,28
 2006,360,Lock Haven,4,23,0,27
 2006,99,Long Beach St.,18,12,0,30
-2006,361,LIU Brooklyn,12,16,0,28
 2006,363,Longwood,10,20,0,30
 2006,364,Loras,17,9,0,26
 2006,1182,Louisiana Col.,8,17,0,25
@@ -490,15 +491,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,395,Maryville (MO),18,9,0,27
 2006,396,Maryville (TN),21,8,0,29
 2006,397,Marywood,4,21,0,25
-2006,486,MCLA,3,22,0,25
-2006,401,Mass.-Boston,18,11,0,29
-2006,656,Mass.-Dartmouth,15,12,0,27
-2006,368,Mass.-Lowell,21,10,0,31
 2006,400,Massachusetts,13,15,0,28
 2006,773,McDaniel,9,16,0,25
+2006,486,MCLA,3,22,0,25
 2006,8530,McMurry,18,9,0,27
 2006,402,McNeese St.,14,14,0,28
-2006,393,UMES,7,22,0,29
 2006,379,Me.-Farmington,13,15,0,28
 2006,30040,Me.-Presque Isle,2,23,0,25
 2006,23725,Medaille,4,21,0,25
@@ -510,7 +507,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,407,Mercy,6,20,0,26
 2006,408,Mercyhurst,19,9,0,28
 2006,410,Merrimack,15,14,0,29
-2006,11416,Colorado Mesa,19,9,0,28
 2006,411,Messiah,19,10,0,29
 2006,412,Methodist,10,17,0,27
 2006,413,Metro St.,21,10,0,31
@@ -527,7 +523,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,424,Millikin,10,15,0,25
 2006,426,Millsaps,14,12,0,26
 2006,797,Milwaukee,22,9,0,31
-2006,20220,Milwaukee Engr.,17,9,0,26
 2006,427,Minn. Duluth,15,14,0,29
 2006,383,Minn. St. Mankato,24,7,0,31
 2006,1240,Minn. St. Moorhead,16,12,0,28
@@ -535,7 +530,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,1226,Minn.-Morris,13,13,0,26
 2006,428,Minnesota,16,15,0,31
 2006,16142,Misericordia,6,19,0,25
-2006,433,Ole Miss,14,16,0,30
 2006,429,Mississippi Col.,29,2,0,31
 2006,430,Mississippi St.,15,15,0,30
 2006,432,Mississippi Val.,9,19,0,28
@@ -558,10 +552,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,444,Morehead St.,4,23,0,27
 2006,445,Morehouse,16,12,0,28
 2006,446,Morgan St.,4,26,0,30
+2006,30036,Mount Aloysius,12,13,0,25
 2006,27901,Mount Ida,7,18,0,25
 2006,1245,Mount Olive,25,7,0,32
 2006,452,Mount Union,7,19,0,26
-2006,30036,Mt. Aloysius,12,13,0,25
+2006,20220,MSOE,17,9,0,26
 2006,8567,Mt. St. Joseph,16,11,0,27
 2006,1468,Mt. St. Mary (NY),22,7,0,29
 2006,450,Mt. St. Mary's,13,17,0,30
@@ -577,7 +572,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,461,Nazareth,8,17,0,25
 2006,462,Neb. Wesleyan,10,17,0,27
 2006,1156,Neb.-Kearney,23,8,0,31
-2006,464,Neb. Omaha,15,16,0,31
 2006,463,Nebraska,19,14,0,33
 2006,1254,Neumann,9,17,0,26
 2006,466,Nevada,27,6,0,33
@@ -588,8 +582,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,473,New Mexico,17,13,0,30
 2006,472,New Mexico St.,16,14,0,30
 2006,474,New Orleans,10,19,0,29
-2006,475,SUNY New Paltz,5,20,0,25
-2006,479,New York U.,18,7,0,25
 2006,1257,Newberry,12,15,0,27
 2006,21772,Newbury,10,17,0,27
 2006,482,Niagara,11,18,0,29
@@ -619,14 +611,15 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,507,Northwest Mo. St.,22,10,0,32
 2006,1274,Northwest Nazarene,12,15,0,27
 2006,509,Northwestern,14,15,0,29
-2006,30031,Northwestern (MN),20,7,0,27
 2006,508,Northwestern St.,26,8,0,34
+2006,30031,Northwestern-St. Paul,20,7,0,27
 2006,510,Northwood (MI),7,20,0,27
 2006,511,Norwich,21,8,0,29
 2006,513,Notre Dame,16,14,0,30
 2006,24639,Nova Southeastern,17,11,0,28
 2006,1277,Nyack,13,16,0,29
 2006,477,NYIT,5,22,0,27
+2006,479,NYU,18,7,0,25
 2006,514,Oakland,11,18,0,29
 2006,1278,Oakland City,18,11,0,29
 2006,515,Oberlin,2,22,0,24
@@ -642,8 +635,9 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,521,Oklahoma St.,17,16,0,33
 2006,523,Old Dominion,24,10,0,34
 2006,524,Old Westbury,14,12,0,26
+2006,433,Ole Miss,14,16,0,30
 2006,525,Olivet,6,20,0,26
-2006,526,SUNY Oneonta,9,16,0,25
+2006,464,Omaha,15,16,0,31
 2006,527,Oral Roberts,21,12,0,33
 2006,529,Oregon,15,18,0,33
 2006,528,Oregon St.,13,18,0,31
@@ -664,7 +658,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,30044,Penn St.-Berks,13,13,0,26
 2006,541,Pepperdine,7,20,0,27
 2006,542,Pfeiffer,18,11,0,29
-2006,1305,Cairn,12,15,0,27
 2006,543,Philadelphia U.,20,11,0,31
 2006,21830,Piedmont,13,12,0,25
 2006,1315,Pitt.-Bradford,11,14,0,25
@@ -686,7 +679,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,555,Principia,2,22,0,24
 2006,556,Providence,12,15,0,27
 2006,557,Puget Sound,23,5,0,28
-2006,30029,Purchase St.,4,20,0,24
+2006,30029,Purchase,4,20,0,24
 2006,559,Purdue,9,19,0,28
 2006,11504,Queens (NC),18,10,0,28
 2006,560,Queens (NY),21,8,0,29
@@ -722,10 +715,20 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,588,Rutgers-Camden,1,23,0,24
 2006,589,Rutgers-Newark,18,10,0,28
 2006,11276,S.C. Aiken,6,22,0,28
-2006,10411,S.C. Upstate,20,10,0,30
 2006,102,Sacramento St.,15,15,0,30
 2006,590,Sacred Heart,11,17,0,28
 2006,591,Saginaw Valley,9,18,0,27
+2006,594,Saint Augustine's,19,7,0,26
+2006,600,Saint Francis (PA),4,24,0,28
+2006,602,Saint John's (MN),16,10,0,26
+2006,606,Saint Joseph's,19,14,0,33
+2006,608,Saint Leo,8,21,0,29
+2006,609,Saint Louis,16,13,0,29
+2006,1343,Saint Martin's,7,20,0,27
+2006,612,Saint Mary's (MN),9,16,0,25
+2006,613,Saint Michael's,9,18,0,27
+2006,617,Saint Peter's,17,15,0,32
+2006,1347,Saint Rose,19,10,0,29
 2006,19117,Salem Int'l,21,9,0,30
 2006,621,Salem St.,18,8,0,26
 2006,622,Salisbury,15,13,0,28
@@ -751,7 +754,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,638,Shippensburg,24,7,0,31
 2006,639,Siena,15,13,0,28
 2006,641,Simpson,13,14,0,27
-2006,660,SIU Edwardsville,25,8,0,33
+2006,660,SIUE,25,8,0,33
 2006,642,Skidmore,4,20,0,24
 2006,643,Slippery Rock,2,25,0,27
 2006,663,SMU,13,16,0,29
@@ -783,33 +786,22 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,673,Springfield,10,16,0,26
 2006,592,St. Andrews,12,16,0,28
 2006,593,St. Anselm,24,8,0,32
-2006,594,St. Augustine's,19,7,0,26
 2006,596,St. Bonaventure,8,19,0,27
 2006,598,St. Cloud St.,20,11,0,31
 2006,1334,St. Edward's,21,9,0,30
-2006,599,St. Francis (NY),10,17,0,27
-2006,600,Saint Francis (PA),4,24,0,28
+2006,599,St. Francis Brooklyn,10,17,0,27
 2006,601,St. John Fisher,26,4,0,30
-2006,602,Saint John's (MN),16,10,0,26
 2006,603,St. John's (NY),12,15,0,27
-2006,606,Saint Joseph's,19,14,0,33
 2006,604,St. Joseph's (IN),31,3,0,34
 2006,1340,St. Joseph's (L.I.),16,10,0,26
 2006,605,St. Joseph's (ME),19,8,0,27
 2006,607,St. Lawrence,13,12,0,25
-2006,608,Saint Leo,8,21,0,29
-2006,609,Saint Louis,16,13,0,29
-2006,1343,Saint Martin's,7,20,0,27
 2006,610,St. Mary's (CA),17,12,0,29
 2006,611,St. Mary's (MD),9,16,0,25
-2006,612,Saint Mary's (MN),9,16,0,25
 2006,1346,St. Mary's (TX),14,14,0,28
-2006,613,Saint Michael's,9,18,0,27
 2006,614,St. Norbert,7,16,0,23
 2006,615,St. Olaf,10,15,0,25
 2006,616,St. Paul's,11,17,0,28
-2006,617,Saint Peter's,17,15,0,32
-2006,1347,Saint Rose,19,10,0,29
 2006,618,St. Scholastica,17,10,0,27
 2006,620,St. Thomas (MN),23,6,0,29
 2006,1348,St. Thomas Aquinas,12,16,0,28
@@ -827,8 +819,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,168,SUNY Cortland,24,5,0,29
 2006,247,SUNY Geneseo,12,14,0,26
 2006,478,SUNY Maritime,6,19,0,25
+2006,475,SUNY New Paltz,5,20,0,25
+2006,526,SUNY Oneonta,9,16,0,25
+2006,9500,SUNY Poly,16,12,0,28
 2006,552,SUNY Potsdam,16,12,0,28
-2006,9500,SUNYIT,16,12,0,28
 2006,685,Susquehanna,10,15,0,25
 2006,686,Swarthmore,5,20,0,25
 2006,688,Syracuse,23,12,0,35
@@ -881,17 +875,23 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,9754,UC-Colo. Springs,5,22,0,27
 2006,128,UCF,14,15,0,29
 2006,110,UCLA,32,7,0,39
+2006,164,UConn,30,4,0,34
+2006,401,UMass Boston,18,11,0,29
+2006,656,UMass Dartmouth,15,12,0,27
+2006,368,UMass Lowell,21,10,0,31
 2006,391,UMBC,10,19,0,29
+2006,393,UMES,7,22,0,29
 2006,2707,UMKC,14,14,0,28
 2006,456,UNC Asheville,9,19,0,28
 2006,459,UNC Greensboro,12,19,0,31
 2006,537,UNC Pembroke,5,24,0,29
-2006,460,UNC Wilmington,25,8,0,33
+2006,460,UNCW,25,8,0,33
 2006,504,UNI,23,10,0,33
 2006,727,Union (NY),17,11,0,28
 2006,465,UNLV,17,13,0,30
 2006,728,Upper Iowa,4,26,0,30
 2006,730,Ursinus,21,7,0,28
+2006,10411,USC Upstate,20,10,0,30
 2006,28594,USciences,12,16,0,28
 2006,695,UT Martin,13,15,0,28
 2006,732,Utah,14,15,0,29
@@ -930,12 +930,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2006,1434,Waynesburg,16,11,0,27
 2006,758,Weber St.,10,17,0,27
 2006,759,Webster,12,14,0,26
-2006,762,Wentworth Inst.,10,16,0,26
+2006,762,Wentworth,10,16,0,26
 2006,763,Wesley,16,12,0,28
 2006,764,Wesleyan (CT),6,17,0,23
 2006,358,West Ala.,13,14,0,27
 2006,765,West Chester,18,11,0,29
-2006,11740,West Fla.,14,13,0,27
+2006,11740,West Florida,14,13,0,27
 2006,766,West Ga.,19,10,0,29
 2006,1438,West Liberty,21,8,0,29
 2006,767,West Tex. A&M,23,8,0,31

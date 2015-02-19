@@ -18,8 +18,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,2798,Albertus Magnus,18,11,0,29
 2011,15,Albion,15,12,0,27
 2011,16,Albright,15,10,0,25
-2011,17,Alcorn St.,4,24,0,28
-2011,934,Alderson-Broaddus,19,12,0,31
+2011,17,Alcorn,4,24,0,28
+2011,934,Alderson Broaddus,19,12,0,31
 2011,18,Alfred,8,17,0,25
 2011,19,Allegheny,7,19,0,26
 2011,21,Alma,6,19,0,25
@@ -47,7 +47,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,36,Assumption,12,17,0,29
 2011,37,Auburn,11,20,0,31
 2011,38,Augsburg,15,10,0,25
-2011,39,Augusta St.,30,4,0,34
 2011,40,Augustana (IL),27,4,0,31
 2011,41,Augustana (SD),18,9,0,27
 2011,42,Aurora,15,12,0,27
@@ -55,6 +54,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,43,Austin Peay,20,14,0,34
 2011,44,Averett,3,23,0,26
 2011,45,Babson,10,15,0,25
+2011,94,Bakersfield,9,19,0,28
 2011,46,Baldwin Wallace,9,16,0,25
 2011,47,Ball St.,19,13,0,32
 2011,958,Baptist Bible (PA),7,18,0,25
@@ -108,19 +108,16 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,87,Butler,28,10,0,38
 2011,77,BYU,32,5,0,37
 2011,2685,BYU-Hawaii,22,9,0,31
-2011,362,LIU Post,21,10,0,31
 2011,88,Cabrini,24,6,0,30
+2011,1305,Cairn,0,25,0,25
 2011,105,Cal Lutheran,14,12,0,26
 2011,90,Cal Poly,15,15,0,30
 2011,91,Cal Poly Pomona,17,11,0,28
-2011,94,CSU Bakersfield,9,19,0,28
-2011,95,Cal St. Chico,14,13,0,27
 2011,92,Cal St. Dom. Hills,23,7,0,30
 2011,98,Cal St. East Bay,4,22,0,26
 2011,97,Cal St. Fullerton,11,20,0,31
 2011,100,Cal St. L.A.,15,13,0,28
 2011,30055,Cal St. Monterey Bay,9,17,0,26
-2011,101,Cal St. Northridge,14,18,0,32
 2011,93,Cal St. San B'dino,17,10,0,27
 2011,103,Cal St. Stanislaus,12,15,0,27
 2011,995,Caldwell,10,16,0,26
@@ -165,6 +162,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,135,Cheyney,19,9,0,28
 2011,137,Chicago,10,15,0,25
 2011,136,Chicago St.,6,26,0,32
+2011,95,Chico St.,14,13,0,27
 2011,8875,Chowan,5,22,0,27
 2011,139,Chris. Newport,18,9,0,27
 2011,1015,Christian Bros.,17,11,0,28
@@ -193,6 +191,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,11403,Colo. Christian,7,20,0,27
 2011,157,Colorado,24,14,0,38
 2011,154,Colorado Col.,14,12,0,26
+2011,11416,Colorado Mesa,18,10,0,28
 2011,155,Colorado Mines,25,6,0,31
 2011,156,Colorado St.,19,13,0,32
 2011,2720,Colorado St.-Pueblo,11,15,0,26
@@ -201,17 +200,18 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,1028,Concord,11,16,0,27
 2011,162,Concordia (NY),10,16,0,26
 2011,24400,Concordia (TX),15,11,0,26
-2011,1036,Concordia (WI),23,5,0,28
 2011,160,Concordia Chicago,15,10,0,25
+2011,1036,Concordia Wisconsin,23,5,0,28
 2011,161,Concordia-M'head,14,12,0,26
 2011,9081,Concordia-St. Paul,16,11,0,27
-2011,164,Connecticut,32,9,0,41
 2011,163,Connecticut Col.,12,13,0,25
 2011,165,Coppin St.,16,14,0,30
 2011,167,Cornell,10,18,0,28
 2011,166,Cornell College,8,17,0,25
+2011,30111,Covenant,6,21,0,27
 2011,169,Creighton,23,16,0,39
 2011,30035,Crown (MN),5,20,0,25
+2011,101,CSUN,14,18,0,32
 2011,170,Curry,4,21,0,25
 2011,1059,D'Youville,6,19,0,25
 2011,1044,Dallas,4,23,0,27
@@ -289,12 +289,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,23157,Felician,14,13,0,27
 2011,224,Ferris St.,24,8,0,32
 2011,225,Ferrum,23,5,0,28
+2011,28755,FGCU,10,20,0,30
 2011,1079,Findlay,24,4,0,28
 2011,30032,Finlandia,6,17,0,23
 2011,227,Fitchburg St.,4,19,0,23
 2011,231,FIU,11,19,0,30
 2011,229,Fla. Atlantic,21,11,0,32
-2011,28755,Fla. Gulf Coast,10,20,0,30
 2011,233,Fla. Southern,23,9,0,32
 2011,30092,Flagler,10,16,0,26
 2011,235,Florida,29,8,0,37
@@ -312,7 +312,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,239,Frank. & Marsh.,23,6,0,29
 2011,2694,Franklin,8,17,0,25
 2011,241,Franklin Pierce,6,21,0,27
-2011,242,Fredonia St.,6,18,0,24
+2011,242,Fredonia,6,18,0,24
 2011,96,Fresno St.,14,17,0,31
 2011,243,Frostburg St.,11,14,0,25
 2011,244,Furman,22,11,0,33
@@ -345,9 +345,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,1111,Greenville,12,13,0,25
 2011,264,Grinnell,18,7,0,25
 2011,265,Grove City,5,21,0,26
+2011,39,GRU Augusta,30,4,0,34
 2011,1112,Guilford,16,10,0,26
 2011,266,Gust. Adolphus,15,13,0,28
-2011,12399,Gwynedd-Mercy,21,7,0,28
+2011,12399,Gwynedd Mercy,21,7,0,28
 2011,267,Hamilton,16,10,0,26
 2011,268,Hamline,16,11,0,27
 2011,269,Hampden-Sydney,17,10,0,27
@@ -468,10 +469,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,1176,Lincoln Memorial,27,3,0,30
 2011,1179,Linfield,9,16,0,25
 2011,28600,Lipscomb,17,13,0,30
+2011,361,LIU Brooklyn,27,6,0,33
+2011,362,LIU Post,21,10,0,31
 2011,359,Livingstone,17,12,0,29
 2011,360,Lock Haven,1,24,0,25
 2011,99,Long Beach St.,22,12,0,34
-2011,361,LIU Brooklyn,27,6,0,33
 2011,363,Longwood,12,19,0,31
 2011,364,Loras,11,14,0,25
 2011,1182,Louisiana Col.,11,13,0,24
@@ -510,15 +512,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,395,Maryville (MO),7,19,0,26
 2011,396,Maryville (TN),16,10,0,26
 2011,397,Marywood,13,14,0,27
-2011,486,MCLA,17,10,0,27
-2011,401,Mass.-Boston,8,17,0,25
-2011,656,Mass.-Dartmouth,11,15,0,26
-2011,368,Mass.-Lowell,20,10,0,30
 2011,400,Massachusetts,15,15,0,30
 2011,773,McDaniel,13,13,0,26
+2011,486,MCLA,17,10,0,27
 2011,8530,McMurry,21,8,0,29
 2011,402,McNeese St.,21,12,0,33
-2011,393,UMES,9,22,0,31
 2011,379,Me.-Farmington,10,15,0,25
 2011,30040,Me.-Presque Isle,5,16,0,21
 2011,23725,Medaille,21,8,0,29
@@ -529,7 +527,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,407,Mercy,2,24,0,26
 2011,408,Mercyhurst,20,7,0,27
 2011,410,Merrimack,13,14,0,27
-2011,11416,Colorado Mesa,18,10,0,28
 2011,411,Messiah,12,13,0,25
 2011,412,Methodist,10,16,0,26
 2011,413,Metro St.,22,8,0,30
@@ -546,7 +543,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,424,Millikin,1,23,0,24
 2011,426,Millsaps,10,15,0,25
 2011,797,Milwaukee,19,14,0,33
-2011,20220,Milwaukee Engr.,19,7,0,26
 2011,427,Minn. Duluth,10,16,0,26
 2011,383,Minn. St. Mankato,28,5,0,33
 2011,1240,Minn. St. Moorhead,15,12,0,27
@@ -554,7 +550,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,1226,Minn.-Morris,15,12,0,27
 2011,428,Minnesota,17,14,0,31
 2011,16142,Misericordia,15,12,0,27
-2011,433,Ole Miss,20,14,0,34
 2011,429,Mississippi Col.,13,13,0,26
 2011,430,Mississippi St.,17,14,0,31
 2011,432,Mississippi Val.,13,19,0,32
@@ -579,10 +574,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,445,Morehouse,14,14,0,28
 2011,446,Morgan St.,17,14,0,31
 2011,30067,Morrisville St.,12,13,0,25
+2011,30036,Mount Aloysius,10,16,0,26
 2011,27901,Mount Ida,9,17,0,26
 2011,1245,Mount Olive,14,13,0,27
 2011,452,Mount Union,10,16,0,26
-2011,30036,Mt. Aloysius,10,16,0,26
+2011,20220,MSOE,19,7,0,26
 2011,8567,Mt. St. Joseph,7,18,0,25
 2011,1468,Mt. St. Mary (NY),19,9,0,28
 2011,450,Mt. St. Mary's,11,21,0,32
@@ -598,7 +594,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,461,Nazareth,15,10,0,25
 2011,462,Neb. Wesleyan,10,17,0,27
 2011,1156,Neb.-Kearney,13,14,0,27
-2011,464,Neb. Omaha,19,9,0,28
 2011,463,Nebraska,19,13,0,32
 2011,1254,Neumann,16,12,0,28
 2011,466,Nevada,13,19,0,32
@@ -609,8 +604,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,473,New Mexico,22,13,0,35
 2011,472,New Mexico St.,16,17,0,33
 2011,474,New Orleans,16,6,0,22
-2011,475,SUNY New Paltz,11,14,0,25
-2011,479,New York U.,16,11,0,27
 2011,1257,Newberry,13,14,0,27
 2011,21772,Newbury,11,15,0,26
 2011,30054,Newman,15,12,0,27
@@ -627,7 +620,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,494,North Dakota,19,15,0,34
 2011,493,North Dakota St.,14,15,0,29
 2011,2711,North Florida,15,19,0,34
-2011,30052,North Ga.,10,16,0,26
+2011,30052,North Georgia,10,16,0,26
 2011,9223,North Greenville,22,7,0,29
 2011,496,North Park,10,15,0,25
 2011,497,North Texas,22,11,0,33
@@ -643,8 +636,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,507,Northwest Mo. St.,10,16,0,26
 2011,1274,Northwest Nazarene,15,12,0,27
 2011,509,Northwestern,20,14,0,34
-2011,30031,Northwestern (MN),21,7,0,28
 2011,508,Northwestern St.,18,14,0,32
+2011,30031,Northwestern-St. Paul,21,7,0,28
 2011,510,Northwood (MI),10,18,0,28
 2011,511,Norwich,16,11,0,27
 2011,513,Notre Dame,27,7,0,34
@@ -652,12 +645,14 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,24639,Nova Southeastern,12,15,0,27
 2011,1277,Nyack,2,24,0,26
 2011,477,NYIT,13,15,0,28
+2011,479,NYU,16,11,0,27
 2011,514,Oakland,25,10,0,35
 2011,1278,Oakland City,16,11,0,27
 2011,515,Oberlin,2,23,0,25
 2011,516,Occidental,12,14,0,26
 2011,2713,Oglethorpe,15,12,0,27
 2011,519,Ohio,19,16,0,35
+2011,30119,Ohio Dominican,6,20,0,26
 2011,517,Ohio Northern,13,13,0,26
 2011,518,Ohio St.,34,3,0,37
 2011,15207,Ohio Valley,8,19,0,27
@@ -667,8 +662,9 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,521,Oklahoma St.,20,14,0,34
 2011,523,Old Dominion,27,7,0,34
 2011,524,Old Westbury,13,14,0,27
+2011,433,Ole Miss,20,14,0,34
 2011,525,Olivet,13,13,0,26
-2011,526,SUNY Oneonta,9,17,0,26
+2011,464,Omaha,19,9,0,28
 2011,527,Oral Roberts,19,16,0,35
 2011,529,Oregon,21,18,0,39
 2011,528,Oregon St.,11,20,0,31
@@ -684,14 +680,13 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,30045,Palm Beach Atl.,12,13,0,25
 2011,540,Penn,13,15,0,28
 2011,539,Penn St.,19,15,0,34
+2011,30081,Penn St. Harrisburg,15,11,0,26
 2011,30114,Penn St.-Abington,3,22,0,25
 2011,25719,Penn St.-Altoona,4,21,0,25
 2011,538,Penn St.-Behrend,23,5,0,28
 2011,30044,Penn St.-Berks,8,17,0,25
-2011,30081,Penn St.-Harrisburg,15,11,0,26
 2011,541,Pepperdine,12,21,0,33
 2011,542,Pfeiffer,11,16,0,27
-2011,1305,Cairn,0,25,0,25
 2011,543,Philadelphia U.,15,12,0,27
 2011,21830,Piedmont,10,16,0,26
 2011,1315,Pitt.-Bradford,9,17,0,26
@@ -713,7 +708,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,555,Principia,8,15,0,23
 2011,556,Providence,15,17,0,32
 2011,557,Puget Sound,10,15,0,25
-2011,30029,Purchase St.,24,5,0,29
+2011,30029,Purchase,24,5,0,29
 2011,559,Purdue,26,8,0,34
 2011,11504,Queens (NC),21,8,0,29
 2011,560,Queens (NY),20,8,0,28
@@ -752,11 +747,22 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,588,Rutgers-Camden,6,17,0,23
 2011,589,Rutgers-Newark,19,8,0,27
 2011,11276,S.C. Aiken,17,10,0,27
-2011,10411,S.C. Upstate,5,25,0,30
 2011,102,Sacramento St.,7,21,0,28
 2011,590,Sacred Heart,11,18,0,29
 2011,11036,Sage Colleges,13,13,0,26
 2011,591,Saginaw Valley,13,14,0,27
+2011,594,Saint Augustine's,9,18,0,27
+2011,600,Saint Francis (PA),9,21,0,30
+2011,602,Saint John's (MN),14,11,0,25
+2011,606,Saint Joseph's,11,22,0,33
+2011,608,Saint Leo,12,16,0,28
+2011,609,Saint Louis,12,19,0,31
+2011,1343,Saint Martin's,14,15,0,29
+2011,612,Saint Mary's (MN),9,16,0,25
+2011,613,Saint Michael's,13,15,0,28
+2011,617,Saint Peter's,20,14,0,34
+2011,1347,Saint Rose,22,9,0,31
+2011,30064,Saint Vincent,19,8,0,27
 2011,19117,Salem Int'l,11,15,0,26
 2011,621,Salem St.,20,7,0,27
 2011,622,Salisbury,12,15,0,27
@@ -782,8 +788,9 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,10870,Shepherd,13,16,0,29
 2011,638,Shippensburg,9,17,0,26
 2011,639,Siena,13,18,0,31
+2011,30127,Simon Fraser,3,21,0,24
 2011,641,Simpson,12,15,0,27
-2011,660,SIU Edwardsville,8,21,0,29
+2011,660,SIUE,8,21,0,29
 2011,642,Skidmore,18,10,0,28
 2011,643,Slippery Rock,21,11,0,32
 2011,663,SMU,20,15,0,35
@@ -816,38 +823,26 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,673,Springfield,15,11,0,26
 2011,592,St. Andrews,13,14,0,27
 2011,593,St. Anselm,19,9,0,28
-2011,594,St. Augustine's,9,18,0,27
 2011,596,St. Bonaventure,16,15,0,31
 2011,598,St. Cloud St.,15,14,0,29
 2011,1334,St. Edward's,9,17,0,26
-2011,599,St. Francis (NY),15,15,0,30
-2011,600,Saint Francis (PA),9,21,0,30
+2011,599,St. Francis Brooklyn,15,15,0,30
 2011,601,St. John Fisher,15,12,0,27
-2011,602,Saint John's (MN),14,11,0,25
 2011,603,St. John's (NY),21,12,0,33
-2011,606,Saint Joseph's,11,22,0,33
 2011,30072,St. Joseph's (Brkln),8,18,0,26
 2011,604,St. Joseph's (IN),11,16,0,27
 2011,1340,St. Joseph's (L.I.),22,7,0,29
 2011,605,St. Joseph's (ME),20,8,0,28
 2011,607,St. Lawrence,11,13,0,24
-2011,608,Saint Leo,12,16,0,28
-2011,609,Saint Louis,12,19,0,31
-2011,1343,Saint Martin's,14,15,0,29
 2011,610,St. Mary's (CA),25,9,0,34
 2011,611,St. Mary's (MD),25,6,0,31
-2011,612,Saint Mary's (MN),9,16,0,25
 2011,1346,St. Mary's (TX),15,12,0,27
-2011,613,Saint Michael's,13,15,0,28
 2011,614,St. Norbert,20,6,0,26
 2011,615,St. Olaf,17,9,0,26
 2011,616,St. Paul's,8,18,0,26
-2011,617,Saint Peter's,20,14,0,34
-2011,1347,Saint Rose,22,9,0,31
 2011,618,St. Scholastica,9,16,0,25
 2011,620,St. Thomas (MN),30,3,0,33
 2011,1348,St. Thomas Aquinas,5,21,0,26
-2011,30064,Saint Vincent,19,8,0,27
 2011,674,Stanford,15,16,0,31
 2011,675,Staten Island,17,11,0,28
 2011,676,Stephen F. Austin,18,11,0,29
@@ -862,8 +857,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,168,SUNY Cortland,10,16,0,26
 2011,247,SUNY Geneseo,11,14,0,25
 2011,478,SUNY Maritime,8,17,0,25
+2011,475,SUNY New Paltz,11,14,0,25
+2011,526,SUNY Oneonta,9,17,0,26
+2011,9500,SUNY Poly,14,11,0,25
 2011,552,SUNY Potsdam,8,18,0,26
-2011,9500,SUNYIT,14,11,0,25
 2011,685,Susquehanna,11,14,0,25
 2011,686,Swarthmore,6,19,0,25
 2011,688,Syracuse,27,8,0,35
@@ -918,17 +915,24 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,9754,UC-Colo. Springs,9,17,0,26
 2011,128,UCF,21,12,0,33
 2011,110,UCLA,23,11,0,34
+2011,164,UConn,32,9,0,41
+2011,401,UMass Boston,8,17,0,25
+2011,656,UMass Dartmouth,11,15,0,26
+2011,368,UMass Lowell,20,10,0,30
 2011,391,UMBC,5,25,0,30
+2011,393,UMES,9,22,0,31
 2011,2707,UMKC,16,14,0,30
 2011,456,UNC Asheville,20,14,0,34
 2011,459,UNC Greensboro,7,24,0,31
 2011,537,UNC Pembroke,18,12,0,30
-2011,460,UNC Wilmington,13,18,0,31
+2011,460,UNCW,13,18,0,31
 2011,504,UNI,20,14,0,34
 2011,727,Union (NY),11,14,0,25
 2011,465,UNLV,24,9,0,33
 2011,728,Upper Iowa,8,18,0,26
+2011,30104,Urbana,9,17,0,26
 2011,730,Ursinus,12,13,0,25
+2011,10411,USC Upstate,5,25,0,30
 2011,28594,USciences,12,13,0,25
 2011,695,UT Martin,12,21,0,33
 2011,732,Utah,13,18,0,31
@@ -968,12 +972,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2011,758,Weber St.,18,14,0,32
 2011,759,Webster,20,7,0,27
 2011,761,Wells,17,12,0,29
-2011,762,Wentworth Inst.,18,11,0,29
+2011,762,Wentworth,18,11,0,29
 2011,763,Wesley,18,11,0,29
 2011,764,Wesleyan (CT),11,13,0,24
 2011,358,West Ala.,11,15,0,26
 2011,765,West Chester,14,12,0,26
-2011,11740,West Fla.,9,17,0,26
+2011,11740,West Florida,9,17,0,26
 2011,766,West Ga.,15,12,0,27
 2011,1438,West Liberty,33,1,0,34
 2011,767,West Tex. A&M,23,7,0,30

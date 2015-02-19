@@ -17,8 +17,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,2798,Albertus Magnus,3,22,0,25
 2004,15,Albion,20,7,0,27
 2004,16,Albright,17,10,0,27
-2004,17,Alcorn St.,11,18,0,29
-2004,934,Alderson-Broaddus,27,7,0,34
+2004,17,Alcorn,11,18,0,29
+2004,934,Alderson Broaddus,27,7,0,34
 2004,18,Alfred,3,22,0,25
 2004,19,Allegheny,11,15,0,26
 2004,21,Alma,3,23,0,26
@@ -45,7 +45,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,36,Assumption,14,14,0,28
 2004,37,Auburn,14,14,0,28
 2004,38,Augsburg,9,16,0,25
-2004,39,Augusta St.,11,17,0,28
 2004,40,Augustana (IL),16,9,0,25
 2004,41,Augustana (SD),6,21,0,27
 2004,42,Aurora,19,8,0,27
@@ -53,6 +52,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,43,Austin Peay,22,10,0,32
 2004,44,Averett,0,25,0,25
 2004,45,Babson,21,8,0,29
+2004,94,Bakersfield,22,6,0,28
 2004,46,Baldwin Wallace,18,8,0,26
 2004,47,Ball St.,14,15,0,29
 2004,958,Baptist Bible (PA),16,10,0,26
@@ -103,18 +103,15 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,87,Butler,16,14,0,30
 2004,77,BYU,21,9,0,30
 2004,2685,BYU-Hawaii,23,5,0,28
-2004,362,LIU Post,25,6,0,31
 2004,88,Cabrini,14,11,0,25
+2004,1305,Cairn,13,12,0,25
 2004,105,Cal Lutheran,19,6,0,25
 2004,90,Cal Poly,11,16,0,27
 2004,91,Cal Poly Pomona,21,7,0,28
-2004,94,CSU Bakersfield,22,6,0,28
-2004,95,Cal St. Chico,17,11,0,28
 2004,92,Cal St. Dom. Hills,8,19,0,27
 2004,98,Cal St. East Bay,18,10,0,28
 2004,97,Cal St. Fullerton,11,17,0,28
 2004,100,Cal St. L.A.,9,18,0,27
-2004,101,Cal St. Northridge,14,16,0,30
 2004,93,Cal St. San B'dino,26,3,0,29
 2004,103,Cal St. Stanislaus,8,19,0,27
 2004,995,Caldwell,9,18,0,27
@@ -158,6 +155,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,135,Cheyney,23,8,0,31
 2004,137,Chicago,12,13,0,25
 2004,136,Chicago St.,12,20,0,32
+2004,95,Chico St.,17,11,0,28
 2004,8875,Chowan,11,15,0,26
 2004,139,Chris. Newport,15,11,0,26
 2004,1015,Christian Bros.,23,6,0,29
@@ -184,6 +182,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,11403,Colo. Christian,19,9,0,28
 2004,157,Colorado,18,11,0,29
 2004,154,Colorado Col.,15,10,0,25
+2004,11416,Colorado Mesa,19,10,0,29
 2004,155,Colorado Mines,7,20,0,27
 2004,156,Colorado St.,13,16,0,29
 2004,2720,Colorado St.-Pueblo,19,9,0,28
@@ -192,16 +191,16 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,1028,Concord,22,7,0,29
 2004,162,Concordia (NY),4,23,0,27
 2004,24400,Concordia (TX),11,14,0,25
-2004,1036,Concordia (WI),17,9,0,26
 2004,160,Concordia Chicago,3,23,0,26
+2004,1036,Concordia Wisconsin,17,9,0,26
 2004,161,Concordia-M'head,18,8,0,26
 2004,9081,Concordia-St. Paul,7,21,0,28
-2004,164,Connecticut,33,6,0,39
 2004,163,Connecticut Col.,5,18,0,23
 2004,165,Coppin St.,18,14,0,32
 2004,167,Cornell,11,16,0,27
 2004,166,Cornell College,9,17,0,26
 2004,169,Creighton,20,9,0,29
+2004,101,CSUN,14,16,0,30
 2004,170,Curry,15,12,0,27
 2004,1059,D'Youville,11,16,0,27
 2004,1044,Dallas,13,13,0,26
@@ -296,7 +295,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,239,Frank. & Marsh.,26,4,0,30
 2004,2694,Franklin,16,12,0,28
 2004,241,Franklin Pierce,14,14,0,28
-2004,242,Fredonia St.,10,15,0,25
+2004,242,Fredonia,10,15,0,25
 2004,96,Fresno St.,14,15,0,29
 2004,243,Frostburg St.,15,13,0,28
 2004,244,Furman,17,12,0,29
@@ -327,9 +326,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,1111,Greenville,19,8,0,27
 2004,264,Grinnell,18,6,0,24
 2004,265,Grove City,14,13,0,27
+2004,39,GRU Augusta,11,17,0,28
 2004,1112,Guilford,15,11,0,26
 2004,266,Gust. Adolphus,22,6,0,28
-2004,12399,Gwynedd-Mercy,26,3,0,29
+2004,12399,Gwynedd Mercy,26,3,0,29
 2004,267,Hamilton,19,8,0,27
 2004,268,Hamline,6,19,0,25
 2004,269,Hampden-Sydney,25,5,0,30
@@ -441,10 +441,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,1176,Lincoln Memorial,6,21,0,27
 2004,1179,Linfield,14,11,0,25
 2004,28600,Lipscomb,7,21,0,28
+2004,361,LIU Brooklyn,8,19,0,27
+2004,362,LIU Post,25,6,0,31
 2004,359,Livingstone,3,24,0,27
 2004,360,Lock Haven,4,23,0,27
 2004,99,Long Beach St.,6,21,0,27
-2004,361,LIU Brooklyn,8,19,0,27
 2004,363,Longwood,5,22,0,27
 2004,364,Loras,16,10,0,26
 2004,1182,Louisiana Col.,12,13,0,25
@@ -481,15 +482,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,395,Maryville (MO),15,11,0,26
 2004,396,Maryville (TN),23,6,0,29
 2004,397,Marywood,6,18,0,24
-2004,486,MCLA,1,24,0,25
-2004,401,Mass.-Boston,5,21,0,26
-2004,656,Mass.-Dartmouth,13,14,0,27
-2004,368,Mass.-Lowell,28,6,0,34
 2004,400,Massachusetts,10,19,0,29
 2004,773,McDaniel,6,19,0,25
+2004,486,MCLA,1,24,0,25
 2004,8530,McMurry,15,10,0,25
 2004,402,McNeese St.,11,16,0,27
-2004,393,UMES,8,21,0,29
 2004,379,Me.-Farmington,14,13,0,27
 2004,23725,Medaille,10,17,0,27
 2004,403,Medgar Evers,3,21,0,24
@@ -500,7 +497,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,407,Mercy,6,20,0,26
 2004,408,Mercyhurst,16,12,0,28
 2004,410,Merrimack,17,12,0,29
-2004,11416,Colorado Mesa,19,10,0,29
 2004,411,Messiah,13,12,0,25
 2004,412,Methodist,18,10,0,28
 2004,413,Metro St.,32,3,0,35
@@ -517,7 +513,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,424,Millikin,14,11,0,25
 2004,426,Millsaps,5,20,0,25
 2004,797,Milwaukee,20,11,0,31
-2004,20220,Milwaukee Engr.,9,17,0,26
 2004,427,Minn. Duluth,18,12,0,30
 2004,383,Minn. St. Mankato,18,10,0,28
 2004,1240,Minn. St. Moorhead,12,16,0,28
@@ -525,7 +520,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,1226,Minn.-Morris,14,13,0,27
 2004,428,Minnesota,12,18,0,30
 2004,16142,Misericordia,10,16,0,26
-2004,433,Ole Miss,13,15,0,28
 2004,429,Mississippi Col.,19,8,0,27
 2004,430,Mississippi St.,26,4,0,30
 2004,432,Mississippi Val.,22,7,0,29
@@ -551,6 +545,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,27901,Mount Ida,11,15,0,26
 2004,1245,Mount Olive,23,8,0,31
 2004,452,Mount Union,18,10,0,28
+2004,20220,MSOE,9,17,0,26
 2004,8567,Mt. St. Joseph,10,16,0,26
 2004,1468,Mt. St. Mary (NY),19,10,0,29
 2004,450,Mt. St. Mary's,10,19,0,29
@@ -566,7 +561,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,461,Nazareth,13,12,0,25
 2004,462,Neb. Wesleyan,13,12,0,25
 2004,1156,Neb.-Kearney,28,5,0,33
-2004,464,Neb. Omaha,22,8,0,30
 2004,463,Nebraska,18,13,0,31
 2004,1254,Neumann,15,12,0,27
 2004,466,Nevada,25,9,0,34
@@ -577,8 +571,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,473,New Mexico,14,14,0,28
 2004,472,New Mexico St.,13,14,0,27
 2004,474,New Orleans,17,14,0,31
-2004,475,SUNY New Paltz,6,18,0,24
-2004,479,New York U.,21,7,0,28
 2004,1257,Newberry,16,13,0,29
 2004,21772,Newbury,10,13,0,23
 2004,482,Niagara,22,10,0,32
@@ -615,6 +607,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,24639,Nova Southeastern,9,18,0,27
 2004,1277,Nyack,14,18,0,32
 2004,477,NYIT,22,9,0,31
+2004,479,NYU,21,7,0,28
 2004,514,Oakland,13,17,0,30
 2004,1278,Oakland City,19,11,0,30
 2004,515,Oberlin,7,18,0,25
@@ -630,8 +623,9 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,521,Oklahoma St.,31,4,0,35
 2004,523,Old Dominion,17,12,0,29
 2004,524,Old Westbury,19,9,0,28
+2004,433,Ole Miss,13,15,0,28
 2004,525,Olivet,11,15,0,26
-2004,526,SUNY Oneonta,4,20,0,24
+2004,464,Omaha,22,8,0,30
 2004,527,Oral Roberts,17,11,0,28
 2004,529,Oregon,18,13,0,31
 2004,528,Oregon St.,12,16,0,28
@@ -654,7 +648,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,538,Penn St.-Behrend,22,4,0,26
 2004,541,Pepperdine,15,16,0,31
 2004,542,Pfeiffer,31,3,0,34
-2004,1305,Cairn,13,12,0,25
 2004,543,Philadelphia U.,26,8,0,34
 2004,21830,Piedmont,9,17,0,26
 2004,1315,Pitt.-Bradford,11,15,0,26
@@ -710,10 +703,20 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,588,Rutgers-Camden,5,19,0,24
 2004,589,Rutgers-Newark,13,12,0,25
 2004,11276,S.C. Aiken,11,18,0,29
-2004,10411,S.C. Upstate,14,14,0,28
 2004,102,Sacramento St.,13,15,0,28
 2004,590,Sacred Heart,12,15,0,27
 2004,591,Saginaw Valley,9,18,0,27
+2004,594,Saint Augustine's,19,9,0,28
+2004,600,Saint Francis (PA),13,15,0,28
+2004,602,Saint John's (MN),8,17,0,25
+2004,606,Saint Joseph's,30,2,0,32
+2004,608,Saint Leo,4,24,0,28
+2004,609,Saint Louis,19,13,0,32
+2004,1343,Saint Martin's,8,19,0,27
+2004,612,Saint Mary's (MN),7,18,0,25
+2004,613,Saint Michael's,8,18,0,26
+2004,617,Saint Peter's,17,12,0,29
+2004,1347,Saint Rose,19,10,0,29
 2004,19117,Salem Int'l,18,12,0,30
 2004,621,Salem St.,24,5,0,29
 2004,622,Salisbury,6,18,0,24
@@ -740,7 +743,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,638,Shippensburg,10,17,0,27
 2004,639,Siena,14,16,0,30
 2004,641,Simpson,16,11,0,27
-2004,660,SIU Edwardsville,16,12,0,28
+2004,660,SIUE,16,12,0,28
 2004,642,Skidmore,16,10,0,26
 2004,643,Slippery Rock,8,19,0,27
 2004,663,SMU,12,18,0,30
@@ -773,33 +776,22 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,673,Springfield,12,16,0,28
 2004,592,St. Andrews,6,22,0,28
 2004,593,St. Anselm,17,12,0,29
-2004,594,St. Augustine's,19,9,0,28
 2004,596,St. Bonaventure,7,21,0,28
 2004,598,St. Cloud St.,17,11,0,28
 2004,1334,St. Edward's,8,19,0,27
-2004,599,St. Francis (NY),15,13,0,28
-2004,600,Saint Francis (PA),13,15,0,28
+2004,599,St. Francis Brooklyn,15,13,0,28
 2004,601,St. John Fisher,22,7,0,29
-2004,602,Saint John's (MN),8,17,0,25
 2004,603,St. John's (NY),6,21,0,27
-2004,606,Saint Joseph's,30,2,0,32
 2004,604,St. Joseph's (IN),15,13,0,28
 2004,1340,St. Joseph's (L.I.),12,15,0,27
 2004,605,St. Joseph's (ME),9,16,0,25
 2004,607,St. Lawrence,17,8,0,25
-2004,608,Saint Leo,4,24,0,28
-2004,609,Saint Louis,19,13,0,32
-2004,1343,Saint Martin's,8,19,0,27
 2004,610,St. Mary's (CA),19,12,0,31
 2004,611,St. Mary's (MD),9,15,0,24
-2004,612,Saint Mary's (MN),7,18,0,25
 2004,1346,St. Mary's (TX),19,11,0,30
-2004,613,Saint Michael's,8,18,0,26
 2004,614,St. Norbert,12,11,0,23
 2004,615,St. Olaf,10,15,0,25
 2004,616,St. Paul's,3,25,0,28
-2004,617,Saint Peter's,17,12,0,29
-2004,1347,Saint Rose,19,10,0,29
 2004,618,St. Scholastica,15,14,0,29
 2004,620,St. Thomas (MN),11,15,0,26
 2004,1348,St. Thomas Aquinas,12,15,0,27
@@ -817,8 +809,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,168,SUNY Cortland,17,11,0,28
 2004,247,SUNY Geneseo,20,9,0,29
 2004,478,SUNY Maritime,6,20,0,26
+2004,475,SUNY New Paltz,6,18,0,24
+2004,526,SUNY Oneonta,4,20,0,24
+2004,9500,SUNY Poly,13,13,0,26
 2004,552,SUNY Potsdam,19,11,0,30
-2004,9500,SUNYIT,13,13,0,26
 2004,685,Susquehanna,15,9,0,24
 2004,686,Swarthmore,12,13,0,25
 2004,688,Syracuse,23,8,0,31
@@ -869,17 +863,23 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,9754,UC-Colo. Springs,5,22,0,27
 2004,128,UCF,25,6,0,31
 2004,110,UCLA,11,17,0,28
+2004,164,UConn,33,6,0,39
+2004,401,UMass Boston,5,21,0,26
+2004,656,UMass Dartmouth,13,14,0,27
+2004,368,UMass Lowell,28,6,0,34
 2004,391,UMBC,7,21,0,28
+2004,393,UMES,8,21,0,29
 2004,2707,UMKC,15,14,0,29
 2004,456,UNC Asheville,9,20,0,29
 2004,459,UNC Greensboro,11,17,0,28
 2004,537,UNC Pembroke,3,25,0,28
-2004,460,UNC Wilmington,15,15,0,30
+2004,460,UNCW,15,15,0,30
 2004,504,UNI,21,10,0,31
 2004,727,Union (NY),20,8,0,28
 2004,465,UNLV,18,13,0,31
 2004,728,Upper Iowa,10,15,0,25
 2004,730,Ursinus,16,11,0,27
+2004,10411,USC Upstate,14,14,0,28
 2004,28594,USciences,16,11,0,27
 2004,695,UT Martin,10,18,0,28
 2004,732,Utah,24,9,0,33
@@ -917,12 +917,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2004,1434,Waynesburg,11,16,0,27
 2004,758,Weber St.,15,14,0,29
 2004,759,Webster,16,9,0,25
-2004,762,Wentworth Inst.,5,19,0,24
+2004,762,Wentworth,5,19,0,24
 2004,763,Wesley,7,17,0,24
 2004,764,Wesleyan (CT),12,11,0,23
 2004,358,West Ala.,5,22,0,27
 2004,765,West Chester,16,12,0,28
-2004,11740,West Fla.,17,11,0,28
+2004,11740,West Florida,17,11,0,28
 2004,766,West Ga.,21,9,0,30
 2004,1438,West Liberty,4,23,0,27
 2004,767,West Tex. A&M,18,10,0,28

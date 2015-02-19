@@ -18,8 +18,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,2798,Albertus Magnus,23,7,0,30
 2010,15,Albion,14,12,0,26
 2010,16,Albright,21,6,0,27
-2010,17,Alcorn St.,2,29,0,31
-2010,934,Alderson-Broaddus,24,7,0,31
+2010,17,Alcorn,2,29,0,31
+2010,934,Alderson Broaddus,24,7,0,31
 2010,18,Alfred,11,14,0,25
 2010,19,Allegheny,14,11,0,25
 2010,21,Alma,4,22,0,26
@@ -47,7 +47,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,36,Assumption,25,32,0,57
 2010,37,Auburn,15,17,0,32
 2010,38,Augsburg,19,8,0,27
-2010,39,Augusta St.,29,4,0,33
 2010,40,Augustana (IL),16,10,0,26
 2010,41,Augustana (SD),24,7,0,31
 2010,42,Aurora,18,11,0,29
@@ -55,6 +54,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,43,Austin Peay,17,15,0,32
 2010,44,Averett,10,16,0,26
 2010,45,Babson,10,16,0,26
+2010,94,Bakersfield,7,22,0,29
 2010,46,Baldwin Wallace,14,12,0,26
 2010,47,Ball St.,15,15,0,30
 2010,958,Baptist Bible (PA),2,22,0,24
@@ -108,19 +108,16 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,87,Butler,33,5,0,38
 2010,77,BYU,30,6,0,36
 2010,2685,BYU-Hawaii,22,6,0,28
-2010,362,LIU Post,23,6,0,29
 2010,88,Cabrini,25,3,0,28
+2010,1305,Cairn,7,19,0,26
 2010,105,Cal Lutheran,15,11,0,26
 2010,90,Cal Poly,12,19,0,31
 2010,91,Cal Poly Pomona,28,6,0,34
-2010,94,CSU Bakersfield,7,22,0,29
-2010,95,Cal St. Chico,16,13,0,29
 2010,92,Cal St. Dom. Hills,16,12,0,28
 2010,98,Cal St. East Bay,6,21,0,27
 2010,97,Cal St. Fullerton,16,15,0,31
 2010,100,Cal St. L.A.,14,14,0,28
 2010,30055,Cal St. Monterey Bay,8,19,0,27
-2010,101,Cal St. Northridge,11,21,0,32
 2010,93,Cal St. San B'dino,23,8,0,31
 2010,103,Cal St. Stanislaus,10,17,0,27
 2010,995,Caldwell,4,23,0,27
@@ -165,6 +162,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,135,Cheyney,16,12,0,28
 2010,137,Chicago,13,12,0,25
 2010,136,Chicago St.,9,23,0,32
+2010,95,Chico St.,16,13,0,29
 2010,8875,Chowan,18,10,0,28
 2010,139,Chris. Newport,15,13,0,28
 2010,1015,Christian Bros.,34,21,0,55
@@ -192,6 +190,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,11403,Colo. Christian,12,16,0,28
 2010,157,Colorado,15,16,0,31
 2010,154,Colorado Col.,12,13,0,25
+2010,11416,Colorado Mesa,23,6,0,29
 2010,155,Colorado Mines,17,12,0,29
 2010,156,Colorado St.,16,16,0,32
 2010,2720,Colorado St.-Pueblo,17,11,0,28
@@ -200,17 +199,18 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,1028,Concord,6,22,0,28
 2010,162,Concordia (NY),8,19,0,27
 2010,24400,Concordia (TX),16,10,0,26
-2010,1036,Concordia (WI),15,11,0,26
 2010,160,Concordia Chicago,14,13,0,27
+2010,1036,Concordia Wisconsin,15,11,0,26
 2010,161,Concordia-M'head,13,12,0,25
 2010,9081,Concordia-St. Paul,13,15,0,28
-2010,164,Connecticut,18,16,0,34
 2010,163,Connecticut Col.,10,14,0,24
 2010,165,Coppin St.,8,22,0,30
 2010,167,Cornell,29,5,0,34
 2010,166,Cornell College,15,11,0,26
+2010,30111,Covenant,1,3,0,4
 2010,169,Creighton,18,16,0,34
 2010,30035,Crown (MN),4,21,0,25
+2010,101,CSUN,11,21,0,32
 2010,170,Curry,15,14,0,29
 2010,1059,D'Youville,5,20,0,25
 2010,1044,Dallas,12,14,0,26
@@ -279,6 +279,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,1072,Erskine,11,16,0,27
 2010,218,Eureka,17,10,0,27
 2010,219,Evansville,9,21,0,30
+2010,8984,Evergreen St.,4,1,0,5
 2010,220,Fairfield,23,11,0,34
 2010,222,Fairleigh Dickinson,11,21,0,32
 2010,1076,Fairmont St.,22,8,0,30
@@ -288,13 +289,13 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,23157,Felician,24,7,0,31
 2010,224,Ferris St.,16,13,0,29
 2010,225,Ferrum,10,16,0,26
+2010,28755,FGCU,8,21,0,29
 2010,1079,Findlay,24,7,0,31
 2010,30032,Finlandia,9,13,0,22
 2010,226,Fisk,0,6,0,6
 2010,227,Fitchburg St.,8,18,0,26
 2010,231,FIU,7,25,0,32
 2010,229,Fla. Atlantic,14,16,0,30
-2010,28755,Fla. Gulf Coast,8,21,0,29
 2010,233,Fla. Southern,25,5,0,30
 2010,30092,Flagler,11,16,0,27
 2010,235,Florida,21,13,0,34
@@ -312,7 +313,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,239,Frank. & Marsh.,26,5,0,31
 2010,2694,Franklin,8,18,0,26
 2010,241,Franklin Pierce,18,36,0,54
-2010,242,Fredonia St.,11,14,0,25
+2010,242,Fredonia,11,14,0,25
 2010,96,Fresno St.,15,18,0,33
 2010,243,Frostburg St.,17,9,0,26
 2010,244,Furman,13,17,0,30
@@ -345,9 +346,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,1111,Greenville,13,12,0,25
 2010,264,Grinnell,8,15,0,23
 2010,265,Grove City,19,9,0,28
+2010,39,GRU Augusta,29,4,0,33
 2010,1112,Guilford,30,3,0,33
 2010,266,Gust. Adolphus,16,11,0,27
-2010,12399,Gwynedd-Mercy,13,13,0,26
+2010,12399,Gwynedd Mercy,13,13,0,26
 2010,267,Hamilton,10,14,0,24
 2010,268,Hamline,15,11,0,26
 2010,269,Hampden-Sydney,13,13,0,26
@@ -383,6 +385,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,292,Hunter,13,14,0,27
 2010,1130,Huntingdon,11,14,0,25
 2010,1133,Husson,16,12,0,28
+2010,502215,Huston-Tillotson,0,6,0,6
 2010,295,Idaho,15,16,0,31
 2010,294,Idaho St.,7,22,0,29
 2010,300,Ill. Wesleyan,23,8,0,31
@@ -460,6 +463,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,8490,LeTourneau,10,15,0,25
 2010,354,Lewis,17,12,0,29
 2010,22235,Lewis & Clark,10,16,0,26
+2010,1172,Lewis-Clark St.,0,2,0,2
 2010,355,Liberty,15,16,0,31
 2010,1174,Limestone,20,8,0,28
 2010,356,Lincoln (MO),5,22,0,27
@@ -467,10 +471,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,1176,Lincoln Memorial,20,9,0,29
 2010,1179,Linfield,12,13,0,25
 2010,28600,Lipscomb,17,13,0,30
+2010,361,LIU Brooklyn,14,17,0,31
+2010,362,LIU Post,23,6,0,29
 2010,359,Livingstone,12,16,0,28
 2010,360,Lock Haven,6,19,0,25
 2010,99,Long Beach St.,17,16,0,33
-2010,361,LIU Brooklyn,14,17,0,31
 2010,363,Longwood,12,19,0,31
 2010,364,Loras,15,11,0,26
 2010,1182,Louisiana Col.,9,15,0,24
@@ -509,15 +514,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,395,Maryville (MO),3,24,0,27
 2010,396,Maryville (TN),23,5,0,28
 2010,397,Marywood,10,15,0,25
-2010,486,MCLA,9,16,0,25
-2010,401,Mass.-Boston,5,20,0,25
-2010,656,Mass.-Dartmouth,18,9,0,27
-2010,368,Mass.-Lowell,40,21,0,61
 2010,400,Massachusetts,12,20,0,32
 2010,773,McDaniel,8,17,0,25
+2010,486,MCLA,9,16,0,25
 2010,8530,McMurry,17,9,0,26
 2010,402,McNeese St.,10,20,0,30
-2010,393,UMES,11,21,0,32
 2010,379,Me.-Farmington,15,12,0,27
 2010,30040,Me.-Presque Isle,0,6,0,6
 2010,23725,Medaille,24,5,0,29
@@ -529,7 +530,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,407,Mercy,1,27,0,28
 2010,408,Mercyhurst,18,10,0,28
 2010,410,Merrimack,34,23,0,57
-2010,11416,Colorado Mesa,23,6,0,29
 2010,411,Messiah,15,9,0,24
 2010,412,Methodist,3,23,0,26
 2010,413,Metro St.,24,7,0,31
@@ -546,7 +546,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,424,Millikin,7,18,0,25
 2010,426,Millsaps,12,13,0,25
 2010,797,Milwaukee,20,14,0,34
-2010,20220,Milwaukee Engr.,17,10,0,27
 2010,427,Minn. Duluth,7,20,0,27
 2010,383,Minn. St. Mankato,25,5,0,30
 2010,1240,Minn. St. Moorhead,10,17,0,27
@@ -554,7 +553,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,1226,Minn.-Morris,15,12,0,27
 2010,428,Minnesota,21,14,0,35
 2010,16142,Misericordia,16,12,0,28
-2010,433,Ole Miss,24,11,0,35
 2010,429,Mississippi Col.,19,7,0,26
 2010,430,Mississippi St.,24,12,0,36
 2010,432,Mississippi Val.,9,23,0,32
@@ -579,10 +577,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,445,Morehouse,7,20,0,27
 2010,446,Morgan St.,27,10,0,37
 2010,30067,Morrisville St.,7,17,0,24
+2010,30036,Mount Aloysius,14,12,0,26
 2010,27901,Mount Ida,15,11,0,26
 2010,1245,Mount Olive,25,6,0,31
 2010,452,Mount Union,11,15,0,26
-2010,30036,Mt. Aloysius,14,12,0,26
+2010,20220,MSOE,17,10,0,27
 2010,8567,Mt. St. Joseph,10,14,0,24
 2010,1468,Mt. St. Mary (NY),10,15,0,25
 2010,450,Mt. St. Mary's,16,15,0,31
@@ -598,7 +597,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,461,Nazareth,18,10,0,28
 2010,462,Neb. Wesleyan,10,15,0,25
 2010,1156,Neb.-Kearney,13,14,0,27
-2010,464,Neb. Omaha,22,9,0,31
 2010,463,Nebraska,15,18,0,33
 2010,1254,Neumann,16,13,0,29
 2010,466,Nevada,21,13,0,34
@@ -609,8 +607,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,473,New Mexico,30,5,0,35
 2010,472,New Mexico St.,22,12,0,34
 2010,474,New Orleans,8,22,0,30
-2010,475,SUNY New Paltz,11,15,0,26
-2010,479,New York U.,17,10,0,27
 2010,1257,Newberry,10,18,0,28
 2010,21772,Newbury,6,19,0,25
 2010,30054,Newman,33,21,0,54
@@ -627,7 +623,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,494,North Dakota,8,23,0,31
 2010,493,North Dakota St.,11,18,0,29
 2010,2711,North Florida,13,18,0,31
-2010,30052,North Ga.,15,13,0,28
+2010,30052,North Georgia,15,13,0,28
 2010,9223,North Greenville,16,12,0,28
 2010,496,North Park,13,12,0,25
 2010,497,North Texas,24,9,0,33
@@ -643,8 +639,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,507,Northwest Mo. St.,12,15,0,27
 2010,1274,Northwest Nazarene,15,12,0,27
 2010,509,Northwestern,20,14,0,34
-2010,30031,Northwestern (MN),22,7,0,29
 2010,508,Northwestern St.,10,19,0,29
+2010,30031,Northwestern-St. Paul,22,7,0,29
 2010,510,Northwood (MI),12,14,0,26
 2010,511,Norwich,13,13,0,26
 2010,513,Notre Dame,23,12,0,35
@@ -652,6 +648,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,24639,Nova Southeastern,13,15,0,28
 2010,1277,Nyack,13,17,0,30
 2010,477,NYIT,14,16,0,30
+2010,479,NYU,17,10,0,27
 2010,514,Oakland,26,9,0,35
 2010,1278,Oakland City,19,9,0,28
 2010,515,Oberlin,6,19,0,25
@@ -667,8 +664,9 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,521,Oklahoma St.,22,11,0,33
 2010,523,Old Dominion,27,9,0,36
 2010,524,Old Westbury,21,8,0,29
+2010,433,Ole Miss,24,11,0,35
 2010,525,Olivet,14,13,0,27
-2010,526,SUNY Oneonta,22,7,0,29
+2010,464,Omaha,22,9,0,31
 2010,527,Oral Roberts,20,13,0,33
 2010,529,Oregon,16,16,0,32
 2010,528,Oregon St.,14,18,0,32
@@ -684,14 +682,14 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,30045,Palm Beach Atl.,6,25,0,31
 2010,540,Penn,6,22,0,28
 2010,539,Penn St.,11,20,0,31
+2010,30081,Penn St. Harrisburg,16,11,0,27
 2010,30114,Penn St.-Abington,6,20,0,26
 2010,25719,Penn St.-Altoona,12,14,0,26
 2010,538,Penn St.-Behrend,21,8,0,29
 2010,30044,Penn St.-Berks,7,19,0,26
-2010,30081,Penn St.-Harrisburg,16,11,0,27
 2010,541,Pepperdine,7,24,0,31
+2010,506008,Peru St.,0,3,0,3
 2010,542,Pfeiffer,18,10,0,28
-2010,1305,Cairn,7,19,0,26
 2010,543,Philadelphia U.,27,8,0,35
 2010,21830,Piedmont,15,11,0,26
 2010,1315,Pitt.-Bradford,17,12,0,29
@@ -701,6 +699,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,545,Pittsburgh,25,9,0,34
 2010,547,Plattsburgh St.,21,8,0,29
 2010,548,Plymouth St.,16,11,0,27
+2010,500270,Point U.,1,5,0,6
 2010,481,Polytechnic (NY),3,21,0,24
 2010,549,Pomona-Pitzer,14,13,0,27
 2010,551,Portland,21,11,0,32
@@ -713,7 +712,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,555,Principia,6,19,0,25
 2010,556,Providence,12,19,0,31
 2010,557,Puget Sound,9,16,0,25
-2010,30029,Purchase St.,20,9,0,29
+2010,30029,Purchase,20,9,0,29
 2010,559,Purdue,29,6,0,35
 2010,11504,Queens (NC),13,15,0,28
 2010,560,Queens (NY),18,11,0,29
@@ -739,6 +738,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,578,Roanoke,6,20,0,26
 2010,579,Robert Morris,23,12,0,35
 2010,581,Rochester (NY),15,10,0,25
+2010,503129,Rochester College,0,6,0,6
 2010,580,Rochester Inst.,14,11,0,25
 2010,582,Rockford,14,12,0,26
 2010,1328,Rockhurst,17,11,0,28
@@ -752,11 +752,22 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,588,Rutgers-Camden,6,19,0,25
 2010,589,Rutgers-Newark,20,8,0,28
 2010,11276,S.C. Aiken,20,11,0,31
-2010,10411,S.C. Upstate,6,23,0,29
 2010,102,Sacramento St.,9,21,0,30
 2010,590,Sacred Heart,14,15,0,29
 2010,11036,Sage Colleges,7,18,0,25
 2010,591,Saginaw Valley,16,12,0,28
+2010,594,Saint Augustine's,27,5,0,32
+2010,600,Saint Francis (PA),11,19,0,30
+2010,602,Saint John's (MN),14,12,0,26
+2010,606,Saint Joseph's,11,20,0,31
+2010,608,Saint Leo,11,20,0,31
+2010,609,Saint Louis,23,13,0,36
+2010,1343,Saint Martin's,14,13,0,27
+2010,612,Saint Mary's (MN),9,16,0,25
+2010,613,Saint Michael's,22,32,0,54
+2010,617,Saint Peter's,16,14,0,30
+2010,1347,Saint Rose,37,20,0,57
+2010,30064,Saint Vincent,6,19,0,25
 2010,19117,Salem Int'l,3,25,0,28
 2010,621,Salem St.,11,16,0,27
 2010,622,Salisbury,13,12,0,25
@@ -783,7 +794,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,638,Shippensburg,12,15,0,27
 2010,639,Siena,27,7,0,34
 2010,641,Simpson,6,19,0,25
-2010,660,SIU Edwardsville,5,23,0,28
+2010,660,SIUE,5,23,0,28
 2010,642,Skidmore,16,10,0,26
 2010,643,Slippery Rock,15,12,0,27
 2010,663,SMU,14,17,0,31
@@ -808,6 +819,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,665,Southern U.,5,25,0,30
 2010,667,Southern Utah,7,22,0,29
 2010,1379,Southern Vt.,9,16,0,25
+2010,504980,Southern-N.O.,1,3,0,4
 2010,2755,Southwest Baptist,20,11,0,31
 2010,8736,Southwest Minn. St.,17,12,0,29
 2010,8746,Southwestern (TX),16,10,0,26
@@ -816,39 +828,27 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,673,Springfield,14,13,0,27
 2010,592,St. Andrews,7,20,0,27
 2010,593,St. Anselm,39,20,0,59
-2010,594,St. Augustine's,27,5,0,32
 2010,596,St. Bonaventure,15,16,0,31
 2010,598,St. Cloud St.,29,6,0,35
 2010,1334,St. Edward's,21,32,0,53
 2010,1335,St. Francis (IL),0,2,0,2
-2010,599,St. Francis (NY),11,18,0,29
-2010,600,Saint Francis (PA),11,19,0,30
+2010,599,St. Francis Brooklyn,11,18,0,29
 2010,601,St. John Fisher,23,6,0,29
-2010,602,Saint John's (MN),14,12,0,26
 2010,603,St. John's (NY),17,16,0,33
-2010,606,Saint Joseph's,11,20,0,31
 2010,30072,St. Joseph's (Brkln),10,15,0,25
 2010,604,St. Joseph's (IN),20,12,0,32
 2010,1340,St. Joseph's (L.I.),20,7,0,27
 2010,605,St. Joseph's (ME),19,7,0,26
 2010,607,St. Lawrence,16,12,0,28
-2010,608,Saint Leo,11,20,0,31
-2010,609,Saint Louis,23,13,0,36
-2010,1343,Saint Martin's,14,13,0,27
 2010,610,St. Mary's (CA),28,6,0,34
 2010,611,St. Mary's (MD),26,4,0,30
-2010,612,Saint Mary's (MN),9,16,0,25
 2010,1346,St. Mary's (TX),32,25,0,57
-2010,613,Saint Michael's,22,32,0,54
 2010,614,St. Norbert,23,4,0,27
 2010,615,St. Olaf,10,15,0,25
 2010,616,St. Paul's,6,20,0,26
-2010,617,Saint Peter's,16,14,0,30
-2010,1347,Saint Rose,37,20,0,57
 2010,618,St. Scholastica,11,17,0,28
 2010,620,St. Thomas (MN),23,4,0,27
 2010,1348,St. Thomas Aquinas,6,21,0,27
-2010,30064,Saint Vincent,6,19,0,25
 2010,674,Stanford,14,18,0,32
 2010,675,Staten Island,12,14,0,26
 2010,676,Stephen F. Austin,23,9,0,32
@@ -863,8 +863,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,168,SUNY Cortland,16,11,0,27
 2010,247,SUNY Geneseo,7,18,0,25
 2010,478,SUNY Maritime,19,8,0,27
+2010,475,SUNY New Paltz,11,15,0,26
+2010,526,SUNY Oneonta,22,7,0,29
+2010,9500,SUNY Poly,26,5,0,31
 2010,552,SUNY Potsdam,5,20,0,25
-2010,9500,SUNYIT,26,5,0,31
 2010,685,Susquehanna,15,11,0,26
 2010,686,Swarthmore,7,18,0,25
 2010,688,Syracuse,30,5,0,35
@@ -920,17 +922,23 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,9754,UC-Colo. Springs,11,17,0,28
 2010,128,UCF,15,17,0,32
 2010,110,UCLA,14,18,0,32
+2010,164,UConn,18,16,0,34
+2010,401,UMass Boston,5,20,0,25
+2010,656,UMass Dartmouth,18,9,0,27
+2010,368,UMass Lowell,40,21,0,61
 2010,391,UMBC,4,26,0,30
+2010,393,UMES,11,21,0,32
 2010,2707,UMKC,12,18,0,30
 2010,456,UNC Asheville,15,16,0,31
 2010,459,UNC Greensboro,8,23,0,31
 2010,537,UNC Pembroke,9,18,0,27
-2010,460,UNC Wilmington,9,22,0,31
+2010,460,UNCW,9,22,0,31
 2010,504,UNI,30,5,0,35
 2010,727,Union (NY),12,13,0,25
 2010,465,UNLV,25,9,0,34
 2010,728,Upper Iowa,12,15,0,27
 2010,730,Ursinus,15,11,0,26
+2010,10411,USC Upstate,6,23,0,29
 2010,28594,USciences,7,20,0,27
 2010,695,UT Martin,4,25,0,29
 2010,732,Utah,14,17,0,31
@@ -970,12 +978,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,758,Weber St.,20,11,0,31
 2010,759,Webster,13,13,0,26
 2010,761,Wells,21,7,0,28
-2010,762,Wentworth Inst.,15,12,0,27
+2010,762,Wentworth,15,12,0,27
 2010,763,Wesley,19,9,0,28
 2010,764,Wesleyan (CT),11,14,0,25
 2010,358,West Ala.,24,29,0,53
 2010,765,West Chester,16,11,0,27
-2010,11740,West Fla.,20,31,0,51
+2010,11740,West Florida,20,31,0,51
 2010,766,West Ga.,28,27,0,55
 2010,1438,West Liberty,29,3,0,32
 2010,767,West Tex. A&M,16,13,0,29
@@ -1008,6 +1016,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2010,784,Wilkes,13,12,0,25
 2010,785,Willamette,9,16,0,25
 2010,786,William & Mary,22,11,0,33
+2010,505850,William Carey,2,3,0,5
+2010,506290,William Jessup,3,3,0,6
 2010,789,Williams,30,2,0,32
 2010,1460,Wilmington (DE),10,18,0,28
 2010,1461,Wilmington (OH),22,8,0,30

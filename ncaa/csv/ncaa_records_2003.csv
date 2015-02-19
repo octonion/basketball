@@ -17,8 +17,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,2798,Albertus Magnus,18,10,0,28
 2003,15,Albion,22,5,0,27
 2003,16,Albright,4,19,0,23
-2003,17,Alcorn St.,14,19,0,33
-2003,934,Alderson-Broaddus,25,7,0,32
+2003,17,Alcorn,14,19,0,33
+2003,934,Alderson Broaddus,25,7,0,32
 2003,18,Alfred,5,20,0,25
 2003,19,Allegheny,16,12,0,28
 2003,21,Alma,1,24,0,25
@@ -45,7 +45,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,36,Assumption,20,11,0,31
 2003,37,Auburn,22,12,0,34
 2003,38,Augsburg,11,14,0,25
-2003,39,Augusta St.,18,11,0,29
 2003,40,Augustana (IL),20,5,0,25
 2003,41,Augustana (SD),11,16,0,27
 2003,42,Aurora,24,6,0,30
@@ -53,6 +52,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,43,Austin Peay,23,8,0,31
 2003,44,Averett,2,23,0,25
 2003,45,Babson,26,4,0,30
+2003,94,Bakersfield,20,9,0,29
 2003,46,Baldwin Wallace,13,13,0,26
 2003,47,Ball St.,13,17,0,30
 2003,958,Baptist Bible (PA),18,12,0,30
@@ -103,18 +103,15 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,87,Butler,27,6,0,33
 2003,77,BYU,23,9,0,32
 2003,2685,BYU-Hawaii,19,4,0,23
-2003,362,LIU Post,25,8,0,33
 2003,88,Cabrini,17,9,0,26
+2003,1305,Cairn,15,12,0,27
 2003,105,Cal Lutheran,16,9,0,25
 2003,90,Cal Poly,16,14,0,30
 2003,91,Cal Poly Pomona,23,8,0,31
-2003,94,CSU Bakersfield,20,9,0,29
-2003,95,Cal St. Chico,18,9,0,27
 2003,92,Cal St. Dom. Hills,6,21,0,27
 2003,98,Cal St. East Bay,12,17,0,29
 2003,97,Cal St. Fullerton,10,19,0,29
 2003,100,Cal St. L.A.,9,18,0,27
-2003,101,Cal St. Northridge,14,15,0,29
 2003,93,Cal St. San B'dino,23,7,0,30
 2003,103,Cal St. Stanislaus,18,11,0,29
 2003,995,Caldwell,15,11,0,26
@@ -157,6 +154,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,135,Cheyney,13,14,0,27
 2003,137,Chicago,15,10,0,25
 2003,136,Chicago St.,3,27,0,30
+2003,95,Chico St.,18,9,0,27
 2003,8875,Chowan,8,18,0,26
 2003,139,Chris. Newport,24,5,0,29
 2003,1015,Christian Bros.,18,11,0,29
@@ -183,6 +181,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,11403,Colo. Christian,9,18,0,27
 2003,157,Colorado,20,12,0,32
 2003,154,Colorado Col.,11,13,0,24
+2003,11416,Colorado Mesa,15,12,0,27
 2003,155,Colorado Mines,18,10,0,28
 2003,156,Colorado St.,19,14,0,33
 2003,2720,Colorado St.-Pueblo,17,11,0,28
@@ -191,16 +190,16 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,1028,Concord,10,18,0,28
 2003,162,Concordia (NY),3,24,0,27
 2003,24400,Concordia (TX),4,21,0,25
-2003,1036,Concordia (WI),14,12,0,26
 2003,160,Concordia Chicago,5,21,0,26
+2003,1036,Concordia Wisconsin,14,12,0,26
 2003,161,Concordia-M'head,9,15,0,24
 2003,9081,Concordia-St. Paul,4,24,0,28
-2003,164,Connecticut,23,10,0,33
 2003,163,Connecticut Col.,7,16,0,23
 2003,165,Coppin St.,11,17,0,28
 2003,167,Cornell,9,18,0,27
 2003,166,Cornell College,16,11,0,27
 2003,169,Creighton,29,5,0,34
+2003,101,CSUN,14,15,0,29
 2003,170,Curry,10,15,0,25
 2003,1059,D'Youville,11,16,0,27
 2003,1044,Dallas,18,7,0,25
@@ -295,7 +294,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,239,Frank. & Marsh.,25,5,0,30
 2003,2694,Franklin,9,17,0,26
 2003,241,Franklin Pierce,14,15,0,29
-2003,242,Fredonia St.,13,12,0,25
+2003,242,Fredonia,13,12,0,25
 2003,96,Fresno St.,20,8,0,28
 2003,243,Frostburg St.,10,16,0,26
 2003,244,Furman,14,17,0,31
@@ -326,9 +325,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,1111,Greenville,9,15,0,24
 2003,264,Grinnell,19,6,0,25
 2003,265,Grove City,18,9,0,27
+2003,39,GRU Augusta,18,11,0,29
 2003,1112,Guilford,12,14,0,26
 2003,266,Gust. Adolphus,26,7,0,33
-2003,12399,Gwynedd-Mercy,13,13,0,26
+2003,12399,Gwynedd Mercy,13,13,0,26
 2003,267,Hamilton,23,6,0,29
 2003,268,Hamline,12,13,0,25
 2003,269,Hampden-Sydney,28,4,0,32
@@ -437,10 +437,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,1176,Lincoln Memorial,19,10,0,29
 2003,1179,Linfield,16,9,0,25
 2003,28600,Lipscomb,8,20,0,28
+2003,361,LIU Brooklyn,9,19,0,28
+2003,362,LIU Post,25,8,0,33
 2003,359,Livingstone,7,21,0,28
 2003,360,Lock Haven,10,17,0,27
 2003,99,Long Beach St.,5,22,0,27
-2003,361,LIU Brooklyn,9,19,0,28
 2003,363,Longwood,15,14,0,29
 2003,364,Loras,17,10,0,27
 2003,1182,Louisiana Col.,13,12,0,25
@@ -477,15 +478,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,395,Maryville (MO),7,18,0,25
 2003,396,Maryville (TN),22,6,0,28
 2003,397,Marywood,7,18,0,25
-2003,486,MCLA,2,23,0,25
-2003,401,Mass.-Boston,11,15,0,26
-2003,656,Mass.-Dartmouth,13,14,0,27
-2003,368,Mass.-Lowell,28,5,0,33
 2003,400,Massachusetts,11,18,0,29
 2003,773,McDaniel,5,20,0,25
+2003,486,MCLA,2,23,0,25
 2003,8530,McMurry,18,9,0,27
 2003,402,McNeese St.,15,14,0,29
-2003,393,UMES,5,23,0,28
 2003,379,Me.-Farmington,12,13,0,25
 2003,23725,Medaille,6,20,0,26
 2003,403,Medgar Evers,6,20,0,26
@@ -496,7 +493,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,407,Mercy,10,16,0,26
 2003,408,Mercyhurst,12,15,0,27
 2003,410,Merrimack,11,17,0,28
-2003,11416,Colorado Mesa,15,12,0,27
 2003,411,Messiah,7,17,0,24
 2003,412,Methodist,17,10,0,27
 2003,413,Metro St.,28,5,0,33
@@ -513,7 +509,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,424,Millikin,7,18,0,25
 2003,426,Millsaps,15,11,0,26
 2003,797,Milwaukee,24,8,0,32
-2003,20220,Milwaukee Engr.,12,17,0,29
 2003,427,Minn. Duluth,19,12,0,31
 2003,383,Minn. St. Mankato,15,13,0,28
 2003,1240,Minn. St. Moorhead,19,10,0,29
@@ -521,7 +516,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,1226,Minn.-Morris,2,25,0,27
 2003,428,Minnesota,19,14,0,33
 2003,16142,Misericordia,16,12,0,28
-2003,433,Ole Miss,14,15,0,29
 2003,429,Mississippi Col.,19,8,0,27
 2003,430,Mississippi St.,21,10,0,31
 2003,432,Mississippi Val.,15,14,0,29
@@ -548,6 +542,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,27901,Mount Ida,8,18,0,26
 2003,1245,Mount Olive,18,10,0,28
 2003,452,Mount Union,18,9,0,27
+2003,20220,MSOE,12,17,0,29
 2003,8567,Mt. St. Joseph,12,15,0,27
 2003,1468,Mt. St. Mary (NY),23,8,0,31
 2003,450,Mt. St. Mary's,11,16,0,27
@@ -563,7 +558,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,461,Nazareth,22,6,0,28
 2003,462,Neb. Wesleyan,14,11,0,25
 2003,1156,Neb.-Kearney,30,3,0,33
-2003,464,Neb. Omaha,20,10,0,30
 2003,463,Nebraska,11,19,0,30
 2003,1254,Neumann,18,11,0,29
 2003,466,Nevada,18,14,0,32
@@ -574,8 +568,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,473,New Mexico,10,18,0,28
 2003,472,New Mexico St.,20,9,0,29
 2003,474,New Orleans,15,14,0,29
-2003,475,SUNY New Paltz,11,17,0,28
-2003,479,New York U.,12,13,0,25
 2003,1257,Newberry,4,22,0,26
 2003,482,Niagara,17,12,0,29
 2003,483,Nicholls St.,3,25,0,28
@@ -610,6 +602,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,24639,Nova Southeastern,6,21,0,27
 2003,1277,Nyack,7,21,0,28
 2003,477,NYIT,17,11,0,28
+2003,479,NYU,12,13,0,25
 2003,514,Oakland,17,11,0,28
 2003,1278,Oakland City,11,15,0,26
 2003,515,Oberlin,3,22,0,25
@@ -625,8 +618,9 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,521,Oklahoma St.,22,10,0,32
 2003,523,Old Dominion,12,15,0,27
 2003,524,Old Westbury,16,12,0,28
+2003,433,Ole Miss,14,15,0,29
 2003,525,Olivet,11,15,0,26
-2003,526,SUNY Oneonta,11,14,0,25
+2003,464,Omaha,20,10,0,30
 2003,527,Oral Roberts,18,10,0,28
 2003,529,Oregon,23,10,0,33
 2003,528,Oregon St.,13,15,0,28
@@ -648,7 +642,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,538,Penn St.-Behrend,20,9,0,29
 2003,541,Pepperdine,15,13,0,28
 2003,542,Pfeiffer,22,9,0,31
-2003,1305,Cairn,15,12,0,27
 2003,543,Philadelphia U.,16,12,0,28
 2003,1315,Pitt.-Bradford,22,7,0,29
 2003,11839,Pitt.-Greensburg,14,12,0,26
@@ -703,10 +696,20 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,588,Rutgers-Camden,8,17,0,25
 2003,589,Rutgers-Newark,8,17,0,25
 2003,11276,S.C. Aiken,5,23,0,28
-2003,10411,S.C. Upstate,18,11,0,29
 2003,102,Sacramento St.,12,17,0,29
 2003,590,Sacred Heart,8,21,0,29
 2003,591,Saginaw Valley,13,14,0,27
+2003,594,Saint Augustine's,18,9,0,27
+2003,600,Saint Francis (PA),14,14,0,28
+2003,602,Saint John's (MN),12,15,0,27
+2003,606,Saint Joseph's,23,7,0,30
+2003,608,Saint Leo,7,21,0,28
+2003,609,Saint Louis,16,14,0,30
+2003,1343,Saint Martin's,2,26,0,28
+2003,612,Saint Mary's (MN),2,22,0,24
+2003,613,Saint Michael's,10,17,0,27
+2003,617,Saint Peter's,10,19,0,29
+2003,1347,Saint Rose,19,11,0,30
 2003,19117,Salem Int'l,25,6,0,31
 2003,621,Salem St.,23,6,0,29
 2003,622,Salisbury,6,20,0,26
@@ -733,7 +736,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,638,Shippensburg,8,19,0,27
 2003,639,Siena,21,11,0,32
 2003,641,Simpson,14,12,0,26
-2003,660,SIU Edwardsville,9,18,0,27
+2003,660,SIUE,9,18,0,27
 2003,642,Skidmore,12,12,0,24
 2003,643,Slippery Rock,8,17,0,25
 2003,663,SMU,17,13,0,30
@@ -766,33 +769,22 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,673,Springfield,12,15,0,27
 2003,592,St. Andrews,9,21,0,30
 2003,593,St. Anselm,13,14,0,27
-2003,594,St. Augustine's,18,9,0,27
 2003,596,St. Bonaventure,13,14,0,27
 2003,598,St. Cloud St.,26,5,0,31
 2003,1334,St. Edward's,4,23,0,27
-2003,599,St. Francis (NY),14,16,0,30
-2003,600,Saint Francis (PA),14,14,0,28
+2003,599,St. Francis Brooklyn,14,16,0,30
 2003,601,St. John Fisher,21,5,0,26
-2003,602,Saint John's (MN),12,15,0,27
 2003,603,St. John's (NY),21,13,0,34
-2003,606,Saint Joseph's,23,7,0,30
 2003,604,St. Joseph's (IN),11,17,0,28
 2003,1340,St. Joseph's (L.I.),12,13,0,25
 2003,605,St. Joseph's (ME),20,5,0,25
 2003,607,St. Lawrence,17,10,0,27
-2003,608,Saint Leo,7,21,0,28
-2003,609,Saint Louis,16,14,0,30
-2003,1343,Saint Martin's,2,26,0,28
 2003,610,St. Mary's (CA),15,15,0,30
 2003,611,St. Mary's (MD),6,20,0,26
-2003,612,Saint Mary's (MN),2,22,0,24
 2003,1346,St. Mary's (TX),17,13,0,30
-2003,613,Saint Michael's,10,17,0,27
 2003,614,St. Norbert,12,11,0,23
 2003,615,St. Olaf,15,11,0,26
 2003,616,St. Paul's,8,20,0,28
-2003,617,Saint Peter's,10,19,0,29
-2003,1347,Saint Rose,19,11,0,30
 2003,618,St. Scholastica,9,19,0,28
 2003,620,St. Thomas (MN),21,6,0,27
 2003,1348,St. Thomas Aquinas,3,23,0,26
@@ -810,8 +802,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,168,SUNY Cortland,5,20,0,25
 2003,247,SUNY Geneseo,12,13,0,25
 2003,478,SUNY Maritime,3,23,0,26
+2003,475,SUNY New Paltz,11,17,0,28
+2003,526,SUNY Oneonta,11,14,0,25
+2003,9500,SUNY Poly,17,10,0,27
 2003,552,SUNY Potsdam,18,9,0,27
-2003,9500,SUNYIT,17,10,0,27
 2003,685,Susquehanna,18,8,0,26
 2003,686,Swarthmore,9,16,0,25
 2003,688,Syracuse,30,5,0,35
@@ -860,17 +854,23 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,9754,UC-Colo. Springs,6,19,0,25
 2003,128,UCF,21,11,0,32
 2003,110,UCLA,10,19,0,29
+2003,164,UConn,23,10,0,33
+2003,401,UMass Boston,11,15,0,26
+2003,656,UMass Dartmouth,13,14,0,27
+2003,368,UMass Lowell,28,5,0,33
 2003,391,UMBC,7,20,0,27
+2003,393,UMES,5,23,0,28
 2003,2707,UMKC,9,20,0,29
 2003,456,UNC Asheville,15,17,0,32
 2003,459,UNC Greensboro,7,22,0,29
 2003,537,UNC Pembroke,0,28,0,28
-2003,460,UNC Wilmington,24,7,0,31
+2003,460,UNCW,24,7,0,31
 2003,504,UNI,11,17,0,28
 2003,727,Union (NY),17,12,0,29
 2003,465,UNLV,21,11,0,32
 2003,728,Upper Iowa,8,17,0,25
 2003,730,Ursinus,21,7,0,28
+2003,10411,USC Upstate,18,11,0,29
 2003,28594,USciences,14,13,0,27
 2003,695,UT Martin,14,14,0,28
 2003,732,Utah,25,8,0,33
@@ -908,12 +908,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2003,1434,Waynesburg,16,9,0,25
 2003,758,Weber St.,26,6,0,32
 2003,759,Webster,12,13,0,25
-2003,762,Wentworth Inst.,5,19,0,24
+2003,762,Wentworth,5,19,0,24
 2003,763,Wesley,7,18,0,25
 2003,764,Wesleyan (CT),14,10,0,24
 2003,358,West Ala.,7,20,0,27
 2003,765,West Chester,21,9,0,30
-2003,11740,West Fla.,16,11,0,27
+2003,11740,West Florida,16,11,0,27
 2003,766,West Ga.,19,9,0,28
 2003,1438,West Liberty,11,16,0,27
 2003,767,West Tex. A&M,21,10,0,31

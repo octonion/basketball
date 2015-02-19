@@ -18,8 +18,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,2798,Albertus Magnus,14,13,0,27
 2009,15,Albion,15,11,0,26
 2009,16,Albright,17,9,0,26
-2009,17,Alcorn St.,6,25,0,31
-2009,934,Alderson-Broaddus,27,6,0,33
+2009,17,Alcorn,6,25,0,31
+2009,934,Alderson Broaddus,27,6,0,33
 2009,18,Alfred,8,17,0,25
 2009,19,Allegheny,12,15,0,27
 2009,21,Alma,6,19,0,25
@@ -46,7 +46,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,36,Assumption,23,10,0,33
 2009,37,Auburn,24,12,0,36
 2009,38,Augsburg,15,12,0,27
-2009,39,Augusta St.,30,5,0,35
 2009,40,Augustana (IL),18,8,0,26
 2009,41,Augustana (SD),21,10,0,31
 2009,42,Aurora,16,13,0,29
@@ -54,6 +53,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,43,Austin Peay,19,14,0,33
 2009,44,Averett,21,9,0,30
 2009,45,Babson,13,14,0,27
+2009,94,Bakersfield,8,21,0,29
 2009,46,Baldwin Wallace,22,28,0,50
 2009,47,Ball St.,14,17,0,31
 2009,958,Baptist Bible (PA),13,36,0,49
@@ -106,19 +106,16 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,87,Butler,26,6,0,32
 2009,77,BYU,25,8,0,33
 2009,2685,BYU-Hawaii,40,7,0,47
-2009,362,LIU Post,30,1,0,31
 2009,88,Cabrini,47,11,0,58
+2009,1305,Cairn,8,43,0,51
 2009,105,Cal Lutheran,18,8,0,26
 2009,90,Cal Poly,7,21,0,28
 2009,91,Cal Poly Pomona,50,14,0,64
-2009,94,CSU Bakersfield,8,21,0,29
-2009,95,Cal St. Chico,23,32,0,55
 2009,92,Cal St. Dom. Hills,37,20,0,57
 2009,98,Cal St. East Bay,25,29,0,54
 2009,97,Cal St. Fullerton,15,17,0,32
 2009,100,Cal St. L.A.,26,29,0,55
 2009,30055,Cal St. Monterey Bay,24,32,0,56
-2009,101,Cal St. Northridge,17,14,0,31
 2009,93,Cal St. San B'dino,20,10,0,30
 2009,103,Cal St. Stanislaus,17,35,0,52
 2009,995,Caldwell,12,16,0,28
@@ -162,6 +159,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,135,Cheyney,18,9,0,27
 2009,137,Chicago,6,19,0,25
 2009,136,Chicago St.,19,13,0,32
+2009,95,Chico St.,23,32,0,55
 2009,8875,Chowan,17,10,0,27
 2009,139,Chris. Newport,18,9,0,27
 2009,1015,Christian Bros.,25,7,0,32
@@ -189,6 +187,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,11403,Colo. Christian,21,13,0,34
 2009,157,Colorado,9,22,0,31
 2009,154,Colorado Col.,5,20,0,25
+2009,11416,Colorado Mesa,16,12,0,28
 2009,155,Colorado Mines,14,13,0,27
 2009,156,Colorado St.,9,22,0,31
 2009,2720,Colorado St.-Pueblo,15,14,0,29
@@ -197,17 +196,17 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,1028,Concord,10,18,0,28
 2009,162,Concordia (NY),7,23,0,30
 2009,24400,Concordia (TX),10,16,0,26
-2009,1036,Concordia (WI),13,13,0,26
 2009,160,Concordia Chicago,10,14,0,24
+2009,1036,Concordia Wisconsin,13,13,0,26
 2009,161,Concordia-M'head,11,14,0,25
 2009,9081,Concordia-St. Paul,13,15,0,28
-2009,164,Connecticut,31,5,0,36
 2009,163,Connecticut Col.,13,12,0,25
 2009,165,Coppin St.,13,19,0,32
 2009,167,Cornell,21,10,0,31
 2009,166,Cornell College,21,7,0,28
 2009,169,Creighton,27,8,0,35
 2009,30035,Crown (MN),0,24,0,24
+2009,101,CSUN,17,14,0,31
 2009,170,Curry,9,16,0,25
 2009,1059,D'Youville,10,16,0,26
 2009,1044,Dallas,9,18,0,27
@@ -284,12 +283,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,23157,Felician,16,13,0,29
 2009,224,Ferris St.,14,14,0,28
 2009,225,Ferrum,14,12,0,26
+2009,28755,FGCU,11,20,0,31
 2009,1079,Findlay,36,0,0,36
 2009,30032,Finlandia,5,14,0,19
 2009,227,Fitchburg St.,8,16,0,24
 2009,231,FIU,13,20,0,33
 2009,229,Fla. Atlantic,6,26,0,32
-2009,28755,Fla. Gulf Coast,11,20,0,31
 2009,233,Fla. Southern,29,7,0,36
 2009,30092,Flagler,12,15,0,27
 2009,235,Florida,25,11,0,36
@@ -307,7 +306,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,239,Frank. & Marsh.,26,7,0,33
 2009,2694,Franklin,17,10,0,27
 2009,241,Franklin Pierce,11,17,0,28
-2009,242,Fredonia St.,29,24,0,53
+2009,242,Fredonia,29,24,0,53
 2009,96,Fresno St.,13,21,0,34
 2009,243,Frostburg St.,17,10,0,27
 2009,244,Furman,6,24,0,30
@@ -340,9 +339,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,1111,Greenville,12,13,0,25
 2009,264,Grinnell,18,7,0,25
 2009,265,Grove City,21,20,0,41
+2009,39,GRU Augusta,30,5,0,35
 2009,1112,Guilford,26,6,0,32
 2009,266,Gust. Adolphus,13,14,0,27
-2009,12399,Gwynedd-Mercy,36,19,0,55
+2009,12399,Gwynedd Mercy,36,19,0,55
 2009,267,Hamilton,18,7,0,25
 2009,268,Hamline,9,16,0,25
 2009,269,Hampden-Sydney,14,14,0,28
@@ -460,10 +460,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,1176,Lincoln Memorial,14,14,0,28
 2009,1179,Linfield,12,14,0,26
 2009,28600,Lipscomb,17,14,0,31
+2009,361,LIU Brooklyn,16,14,0,30
+2009,362,LIU Post,30,1,0,31
 2009,359,Livingstone,14,14,0,28
 2009,360,Lock Haven,5,22,0,27
 2009,99,Long Beach St.,15,15,0,30
-2009,361,LIU Brooklyn,16,14,0,30
 2009,363,Longwood,17,14,0,31
 2009,364,Loras,16,11,0,27
 2009,1182,Louisiana Col.,4,21,0,25
@@ -502,15 +503,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,395,Maryville (MO),15,11,0,26
 2009,396,Maryville (TN),20,7,0,27
 2009,397,Marywood,25,26,0,51
-2009,486,MCLA,1,24,0,25
-2009,401,Mass.-Boston,4,22,0,26
-2009,656,Mass.-Dartmouth,27,4,0,31
-2009,368,Mass.-Lowell,21,8,0,29
 2009,400,Massachusetts,12,18,0,30
 2009,773,McDaniel,18,8,0,26
+2009,486,MCLA,1,24,0,25
 2009,8530,McMurry,19,8,0,27
 2009,402,McNeese St.,11,18,0,29
-2009,393,UMES,7,23,0,30
 2009,379,Me.-Farmington,13,12,0,25
 2009,23725,Medaille,21,7,0,28
 2009,403,Medgar Evers,1,24,0,25
@@ -520,7 +517,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,407,Mercy,0,27,0,27
 2009,408,Mercyhurst,16,11,0,27
 2009,410,Merrimack,21,9,0,30
-2009,11416,Colorado Mesa,16,12,0,28
 2009,411,Messiah,9,16,0,25
 2009,412,Methodist,10,17,0,27
 2009,413,Metro St.,27,4,0,31
@@ -537,7 +533,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,424,Millikin,16,9,0,25
 2009,426,Millsaps,9,16,0,25
 2009,797,Milwaukee,17,14,0,31
-2009,20220,Milwaukee Engr.,18,8,0,26
 2009,427,Minn. Duluth,20,11,0,31
 2009,383,Minn. St. Mankato,26,9,0,35
 2009,1240,Minn. St. Moorhead,9,16,0,25
@@ -545,7 +540,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,1226,Minn.-Morris,14,13,0,27
 2009,428,Minnesota,22,11,0,33
 2009,16142,Misericordia,11,14,0,25
-2009,433,Ole Miss,16,15,0,31
 2009,429,Mississippi Col.,20,7,0,27
 2009,430,Mississippi St.,23,13,0,36
 2009,432,Mississippi Val.,7,25,0,32
@@ -570,10 +564,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,445,Morehouse,9,19,0,28
 2009,446,Morgan St.,23,12,0,35
 2009,30067,Morrisville St.,3,21,0,24
+2009,30036,Mount Aloysius,8,17,0,25
 2009,27901,Mount Ida,11,14,0,25
 2009,1245,Mount Olive,18,10,0,28
 2009,452,Mount Union,23,28,0,51
-2009,30036,Mt. Aloysius,8,17,0,25
+2009,20220,MSOE,18,8,0,26
 2009,8567,Mt. St. Joseph,6,19,0,25
 2009,1468,Mt. St. Mary (NY),9,16,0,25
 2009,450,Mt. St. Mary's,19,14,0,33
@@ -589,7 +584,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,461,Nazareth,13,14,0,27
 2009,462,Neb. Wesleyan,10,15,0,25
 2009,1156,Neb.-Kearney,11,15,0,26
-2009,464,Neb. Omaha,29,13,0,42
 2009,463,Nebraska,18,13,0,31
 2009,1254,Neumann,27,27,0,54
 2009,466,Nevada,21,13,0,34
@@ -600,8 +594,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,473,New Mexico,22,12,0,34
 2009,472,New Mexico St.,17,15,0,32
 2009,474,New Orleans,11,19,0,30
-2009,475,SUNY New Paltz,18,33,0,51
-2009,479,New York U.,17,11,0,28
 2009,1257,Newberry,21,8,0,29
 2009,21772,Newbury,7,19,0,26
 2009,30054,Newman,15,12,0,27
@@ -618,7 +610,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,494,North Dakota,16,12,0,28
 2009,493,North Dakota St.,26,7,0,33
 2009,2711,North Florida,8,22,0,30
-2009,30052,North Ga.,15,12,0,27
+2009,30052,North Georgia,15,12,0,27
 2009,9223,North Greenville,12,17,0,29
 2009,496,North Park,8,17,0,25
 2009,497,North Texas,20,12,0,32
@@ -634,8 +626,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,507,Northwest Mo. St.,20,21,0,41
 2009,1274,Northwest Nazarene,14,13,0,27
 2009,509,Northwestern,17,14,0,31
-2009,30031,Northwestern (MN),19,10,0,29
 2009,508,Northwestern St.,11,20,0,31
+2009,30031,Northwestern-St. Paul,19,10,0,29
 2009,510,Northwood (MI),13,15,0,28
 2009,511,Norwich,7,19,0,26
 2009,513,Notre Dame,21,15,0,36
@@ -643,6 +635,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,24639,Nova Southeastern,16,11,0,27
 2009,1277,Nyack,11,19,0,30
 2009,477,NYIT,13,15,0,28
+2009,479,NYU,17,11,0,28
 2009,514,Oakland,23,13,0,36
 2009,1278,Oakland City,13,16,0,29
 2009,515,Oberlin,5,20,0,25
@@ -658,8 +651,9 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,521,Oklahoma St.,23,12,0,35
 2009,523,Old Dominion,25,10,0,35
 2009,524,Old Westbury,12,15,0,27
+2009,433,Ole Miss,16,15,0,31
 2009,525,Olivet,13,14,0,27
-2009,526,SUNY Oneonta,38,17,0,55
+2009,464,Omaha,29,13,0,42
 2009,527,Oral Roberts,16,15,0,31
 2009,529,Oregon,8,23,0,31
 2009,528,Oregon St.,18,18,0,36
@@ -675,13 +669,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,30045,Palm Beach Atl.,9,19,0,28
 2009,540,Penn,10,18,0,28
 2009,539,Penn St.,27,11,0,38
+2009,30081,Penn St. Harrisburg,8,18,0,26
 2009,25719,Penn St.-Altoona,14,13,0,27
 2009,538,Penn St.-Behrend,18,10,0,28
 2009,30044,Penn St.-Berks,10,17,0,27
-2009,30081,Penn St.-Harrisburg,8,18,0,26
 2009,541,Pepperdine,9,23,0,32
 2009,542,Pfeiffer,16,12,0,28
-2009,1305,Cairn,8,43,0,51
 2009,543,Philadelphia U.,25,6,0,31
 2009,21830,Piedmont,8,18,0,26
 2009,1315,Pitt.-Bradford,17,12,0,29
@@ -703,7 +696,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,555,Principia,1,23,0,24
 2009,556,Providence,19,14,0,33
 2009,557,Puget Sound,25,4,0,29
-2009,30029,Purchase St.,15,11,0,26
+2009,30029,Purchase,15,11,0,26
 2009,559,Purdue,27,10,0,37
 2009,11504,Queens (NC),7,21,0,28
 2009,560,Queens (NY),10,18,0,28
@@ -742,10 +735,21 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,588,Rutgers-Camden,6,19,0,25
 2009,589,Rutgers-Newark,17,13,0,30
 2009,11276,S.C. Aiken,25,8,0,33
-2009,10411,S.C. Upstate,9,21,0,30
 2009,102,Sacramento St.,2,27,0,29
 2009,590,Sacred Heart,17,14,0,31
 2009,591,Saginaw Valley,9,17,0,26
+2009,594,Saint Augustine's,19,10,0,29
+2009,600,Saint Francis (PA),6,23,0,29
+2009,602,Saint John's (MN),14,12,0,26
+2009,606,Saint Joseph's,17,15,0,32
+2009,608,Saint Leo,15,16,0,31
+2009,609,Saint Louis,18,14,0,32
+2009,1343,Saint Martin's,22,8,0,30
+2009,612,Saint Mary's (MN),7,18,0,25
+2009,613,Saint Michael's,10,15,0,25
+2009,617,Saint Peter's,11,19,0,30
+2009,1347,Saint Rose,11,17,0,28
+2009,30064,Saint Vincent,27,14,0,41
 2009,19117,Salem Int'l,3,25,0,28
 2009,621,Salem St.,23,7,0,30
 2009,622,Salisbury,24,26,0,50
@@ -772,7 +776,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,638,Shippensburg,12,15,0,27
 2009,639,Siena,27,8,0,35
 2009,641,Simpson,7,18,0,25
-2009,660,SIU Edwardsville,10,20,0,30
+2009,660,SIUE,10,20,0,30
 2009,642,Skidmore,8,17,0,25
 2009,643,Slippery Rock,21,8,0,29
 2009,663,SMU,9,21,0,30
@@ -804,38 +808,26 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,673,Springfield,15,13,0,28
 2009,592,St. Andrews,6,21,0,27
 2009,593,St. Anselm,17,13,0,30
-2009,594,St. Augustine's,19,10,0,29
 2009,596,St. Bonaventure,15,15,0,30
 2009,598,St. Cloud St.,22,9,0,31
 2009,1334,St. Edward's,17,11,0,28
-2009,599,St. Francis (NY),10,20,0,30
-2009,600,Saint Francis (PA),6,23,0,29
+2009,599,St. Francis Brooklyn,10,20,0,30
 2009,601,St. John Fisher,17,10,0,27
-2009,602,Saint John's (MN),14,12,0,26
 2009,603,St. John's (NY),16,18,0,34
-2009,606,Saint Joseph's,17,15,0,32
 2009,30072,St. Joseph's (Brkln),11,13,0,24
 2009,604,St. Joseph's (IN),15,13,0,28
 2009,1340,St. Joseph's (L.I.),24,4,0,28
 2009,605,St. Joseph's (ME),21,8,0,29
 2009,607,St. Lawrence,22,7,0,29
-2009,608,Saint Leo,15,16,0,31
-2009,609,Saint Louis,18,14,0,32
-2009,1343,Saint Martin's,22,8,0,30
 2009,610,St. Mary's (CA),28,7,0,35
 2009,611,St. Mary's (MD),43,8,0,51
-2009,612,Saint Mary's (MN),7,18,0,25
 2009,1346,St. Mary's (TX),17,11,0,28
-2009,613,Saint Michael's,10,15,0,25
 2009,614,St. Norbert,18,6,0,24
 2009,615,St. Olaf,10,15,0,25
 2009,616,St. Paul's,6,22,0,28
-2009,617,Saint Peter's,11,19,0,30
-2009,1347,Saint Rose,11,17,0,28
 2009,618,St. Scholastica,16,10,0,26
 2009,620,St. Thomas (MN),30,1,0,31
 2009,1348,St. Thomas Aquinas,10,17,0,27
-2009,30064,Saint Vincent,27,14,0,41
 2009,674,Stanford,20,14,0,34
 2009,675,Staten Island,6,20,0,26
 2009,676,Stephen F. Austin,24,8,0,32
@@ -850,8 +842,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,168,SUNY Cortland,28,26,0,54
 2009,247,SUNY Geneseo,24,27,0,51
 2009,478,SUNY Maritime,15,13,0,28
+2009,475,SUNY New Paltz,18,33,0,51
+2009,526,SUNY Oneonta,38,17,0,55
+2009,9500,SUNY Poly,23,7,0,30
 2009,552,SUNY Potsdam,17,34,0,51
-2009,9500,SUNYIT,23,7,0,30
 2009,685,Susquehanna,18,8,0,26
 2009,686,Swarthmore,3,21,0,24
 2009,688,Syracuse,28,10,0,38
@@ -906,17 +900,23 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,9754,UC-Colo. Springs,10,18,0,28
 2009,128,UCF,17,14,0,31
 2009,110,UCLA,26,9,0,35
+2009,164,UConn,31,5,0,36
+2009,401,UMass Boston,4,22,0,26
+2009,656,UMass Dartmouth,27,4,0,31
+2009,368,UMass Lowell,21,8,0,29
 2009,391,UMBC,15,17,0,32
+2009,393,UMES,7,23,0,30
 2009,2707,UMKC,7,24,0,31
 2009,456,UNC Asheville,15,16,0,31
 2009,459,UNC Greensboro,5,25,0,30
 2009,537,UNC Pembroke,6,21,0,27
-2009,460,UNC Wilmington,7,25,0,32
+2009,460,UNCW,7,25,0,32
 2009,504,UNI,23,11,0,34
 2009,727,Union (NY),13,11,0,24
 2009,465,UNLV,21,11,0,32
 2009,728,Upper Iowa,5,22,0,27
 2009,730,Ursinus,12,13,0,25
+2009,10411,USC Upstate,9,21,0,30
 2009,28594,USciences,7,20,0,27
 2009,695,UT Martin,22,10,0,32
 2009,732,Utah,24,10,0,34
@@ -956,12 +956,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2009,758,Weber St.,21,10,0,31
 2009,759,Webster,14,12,0,26
 2009,761,Wells,14,14,0,28
-2009,762,Wentworth Inst.,10,16,0,26
+2009,762,Wentworth,10,16,0,26
 2009,763,Wesley,35,17,0,52
 2009,764,Wesleyan (CT),7,17,0,24
 2009,358,West Ala.,13,15,0,28
 2009,765,West Chester,18,10,0,28
-2009,11740,West Fla.,13,12,0,25
+2009,11740,West Florida,13,12,0,25
 2009,766,West Ga.,7,20,0,27
 2009,1438,West Liberty,23,7,0,30
 2009,767,West Tex. A&M,16,11,0,27

@@ -18,11 +18,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,2798,Albertus Magnus,28,2,0,30
 2012,15,Albion,11,14,0,25
 2012,16,Albright,17,9,0,26
-2012,17,Alcorn St.,10,22,0,32
-2012,934,Alderson-Broaddus,18,10,0,28
+2012,17,Alcorn,10,22,0,32
+2012,934,Alderson Broaddus,18,10,0,28
 2012,18,Alfred,15,11,0,26
 2012,19,Allegheny,5,20,0,25
-2012,21,Alma,9,18,0,27
+2012,21,Alma,9,16,0,25
 2012,938,Alvernia,20,8,0,28
 2012,23,American,20,12,0,32
 2012,22,American Int'l,8,18,0,26
@@ -47,7 +47,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,36,Assumption,14,14,0,28
 2012,37,Auburn,15,16,0,31
 2012,38,Augsburg,16,10,0,26
-2012,39,Augusta St.,17,11,0,28
 2012,40,Augustana (IL),19,7,0,26
 2012,41,Augustana (SD),17,11,0,28
 2012,42,Aurora,13,13,0,26
@@ -55,6 +54,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,43,Austin Peay,12,20,0,32
 2012,44,Averett,7,19,0,26
 2012,45,Babson,14,13,0,27
+2012,94,Bakersfield,16,15,0,31
 2012,46,Baldwin Wallace,16,10,0,26
 2012,47,Ball St.,15,15,0,30
 2012,958,Baptist Bible (PA),3,22,0,25
@@ -80,6 +80,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,61,Bethune-Cookman,18,17,0,35
 2012,62,Binghamton,2,29,0,31
 2012,28593,Birmingham-So.,25,3,0,28
+2012,30134,Black Hills St.,11,17,0,28
 2012,64,Blackburn,7,18,0,25
 2012,984,Bloomfield,26,8,0,34
 2012,65,Bloomsburg,19,9,0,28
@@ -108,24 +109,22 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,87,Butler,22,15,0,37
 2012,77,BYU,26,9,0,35
 2012,2685,BYU-Hawaii,17,10,0,27
-2012,362,LIU Post,23,6,0,29
 2012,88,Cabrini,31,2,0,33
+2012,1305,Cairn,4,22,0,26
 2012,105,Cal Lutheran,11,13,0,24
 2012,90,Cal Poly,18,15,0,33
 2012,91,Cal Poly Pomona,19,8,0,27
-2012,94,CSU Bakersfield,16,15,0,31
-2012,95,Cal St. Chico,25,8,0,33
 2012,92,Cal St. Dom. Hills,11,13,0,24
 2012,98,Cal St. East Bay,10,16,0,26
 2012,97,Cal St. Fullerton,21,10,0,31
 2012,100,Cal St. L.A.,17,10,0,27
 2012,30055,Cal St. Monterey Bay,3,23,0,26
-2012,101,Cal St. Northridge,7,21,0,28
 2012,93,Cal St. San B'dino,14,12,0,26
 2012,103,Cal St. Stanislaus,16,11,0,27
 2012,995,Caldwell,14,12,0,26
 2012,107,California,24,10,0,34
 2012,106,California (PA),17,12,0,29
+2012,30135,California Baptist,16,10,0,26
 2012,89,Caltech,5,20,0,25
 2012,114,Calvin,13,13,0,26
 2012,996,Cameron,15,12,0,27
@@ -143,6 +142,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,124,Catholic,19,9,0,28
 2012,23624,Cazenovia,8,16,0,24
 2012,480,CCNY,2,23,0,25
+2012,30124,Cedarville,23,9,0,32
 2012,125,Centenary (LA),11,11,0,22
 2012,12884,Centenary (NJ),12,13,0,25
 2012,126,Central (IA),18,8,0,26
@@ -163,8 +163,9 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,693,Chattanooga,11,21,0,32
 2012,21323,Chestnut Hill,18,12,0,30
 2012,135,Cheyney,4,23,0,27
-2012,137,Chicago,15,11,0,26
+2012,137,Chicago,14,11,0,25
 2012,136,Chicago St.,4,26,0,30
+2012,95,Chico St.,25,8,0,33
 2012,8875,Chowan,8,21,0,29
 2012,139,Chris. Newport,23,5,0,28
 2012,1015,Christian Bros.,25,7,0,32
@@ -191,6 +192,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,11403,Colo. Christian,4,24,0,28
 2012,157,Colorado,24,12,0,36
 2012,154,Colorado Col.,12,13,0,25
+2012,11416,Colorado Mesa,16,13,0,29
 2012,155,Colorado Mines,29,3,0,32
 2012,156,Colorado St.,20,12,0,32
 2012,2720,Colorado St.-Pueblo,13,13,0,26
@@ -199,17 +201,18 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,1028,Concord,17,12,0,29
 2012,162,Concordia (NY),12,15,0,27
 2012,24400,Concordia (TX),13,12,0,25
-2012,1036,Concordia (WI),22,5,0,27
 2012,160,Concordia Chicago,10,16,0,26
+2012,1036,Concordia Wisconsin,21,5,0,26
 2012,161,Concordia-M'head,7,18,0,25
 2012,9081,Concordia-St. Paul,12,14,0,26
-2012,164,Connecticut,20,14,0,34
 2012,163,Connecticut Col.,8,16,0,24
 2012,165,Coppin St.,14,16,0,30
 2012,167,Cornell,12,16,0,28
 2012,166,Cornell College,3,22,0,25
+2012,30111,Covenant,8,18,0,26
 2012,169,Creighton,29,6,0,35
 2012,30035,Crown (MN),7,18,0,25
+2012,101,CSUN,7,21,0,28
 2012,170,Curry,11,15,0,26
 2012,1059,D'Youville,10,16,0,26
 2012,1044,Dallas,6,19,0,25
@@ -241,7 +244,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,190,Drew,7,18,0,25
 2012,191,Drexel,29,7,0,36
 2012,1057,Drury,17,11,0,28
-2012,192,Dubuque,18,9,0,27
+2012,192,Dubuque,17,9,0,26
 2012,193,Duke,27,7,0,34
 2012,194,Duquesne,16,15,0,31
 2012,195,Earlham,2,23,0,25
@@ -277,6 +280,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,1072,Erskine,10,18,0,28
 2012,218,Eureka,15,11,0,26
 2012,219,Evansville,16,16,0,32
+2012,8984,Evergreen St.,0,0,5,5
 2012,220,Fairfield,22,15,0,37
 2012,222,Fairleigh Dickinson,3,26,0,29
 2012,1076,Fairmont St.,8,19,0,27
@@ -286,12 +290,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,23157,Felician,7,19,0,26
 2012,224,Ferris St.,16,11,0,27
 2012,225,Ferrum,13,13,0,26
+2012,28755,FGCU,15,17,0,32
 2012,1079,Findlay,24,7,0,31
 2012,30032,Finlandia,10,13,0,23
 2012,227,Fitchburg St.,13,12,0,25
 2012,231,FIU,8,21,0,29
 2012,229,Fla. Atlantic,11,19,0,30
-2012,28755,Fla. Gulf Coast,15,17,0,32
 2012,233,Fla. Southern,20,10,0,30
 2012,30092,Flagler,9,17,0,26
 2012,235,Florida,26,11,0,37
@@ -309,7 +313,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,239,Frank. & Marsh.,28,3,0,31
 2012,2694,Franklin,11,14,0,25
 2012,241,Franklin Pierce,22,8,0,30
-2012,242,Fredonia St.,13,12,0,25
+2012,242,Fredonia,13,12,0,25
 2012,96,Fresno St.,13,20,0,33
 2012,243,Frostburg St.,13,13,0,26
 2012,244,Furman,15,16,0,31
@@ -342,9 +346,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,1111,Greenville,15,9,0,24
 2012,264,Grinnell,18,5,0,23
 2012,265,Grove City,11,14,0,25
+2012,39,GRU Augusta,17,11,0,28
 2012,1112,Guilford,17,9,0,26
 2012,266,Gust. Adolphus,20,8,0,28
-2012,12399,Gwynedd-Mercy,17,10,0,27
+2012,12399,Gwynedd Mercy,17,10,0,27
 2012,267,Hamilton,15,10,0,25
 2012,268,Hamline,13,12,0,25
 2012,269,Hampden-Sydney,19,8,0,27
@@ -461,12 +466,14 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,356,Lincoln (MO),4,22,0,26
 2012,357,Lincoln (PA),11,18,0,29
 2012,1176,Lincoln Memorial,26,6,0,32
+2012,30136,Lindenwood (MO),27,3,0,30
 2012,1179,Linfield,5,20,0,25
 2012,28600,Lipscomb,13,18,0,31
+2012,361,LIU Brooklyn,25,9,0,34
+2012,362,LIU Post,23,6,0,29
 2012,359,Livingstone,11,17,0,28
 2012,360,Lock Haven,0,25,0,25
 2012,99,Long Beach St.,25,9,0,34
-2012,361,LIU Brooklyn,25,9,0,34
 2012,363,Longwood,10,21,0,31
 2012,364,Loras,7,18,0,25
 2012,1182,Louisiana Col.,10,15,0,25
@@ -485,6 +492,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,377,MacMurray,14,13,0,27
 2012,380,Maine,12,17,0,29
 2012,378,Maine Maritime,2,22,0,24
+2012,30137,Malone,12,15,0,27
 2012,1192,Manchester,11,14,0,25
 2012,381,Manhattan,21,13,0,34
 2012,382,Manhattanville,10,15,0,25
@@ -505,15 +513,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,395,Maryville (MO),13,14,0,27
 2012,396,Maryville (TN),18,10,0,28
 2012,397,Marywood,8,17,0,25
-2012,486,MCLA,8,19,0,27
-2012,401,Mass.-Boston,5,20,0,25
-2012,656,Mass.-Dartmouth,13,13,0,26
-2012,368,Mass.-Lowell,19,11,0,30
 2012,400,Massachusetts,25,12,0,37
 2012,773,McDaniel,9,16,0,25
+2012,30138,McKendree,15,11,0,26
+2012,486,MCLA,8,19,0,27
 2012,8530,McMurry,19,9,0,28
 2012,402,McNeese St.,17,16,0,33
-2012,393,UMES,7,23,0,30
 2012,379,Me.-Farmington,16,11,0,27
 2012,30040,Me.-Presque Isle,3,17,0,20
 2012,23725,Medaille,25,3,0,28
@@ -525,7 +530,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,407,Mercy,4,22,0,26
 2012,408,Mercyhurst,18,10,0,28
 2012,410,Merrimack,15,12,0,27
-2012,11416,Colorado Mesa,16,13,0,29
 2012,411,Messiah,20,7,0,27
 2012,412,Methodist,9,18,0,27
 2012,413,Metro St.,25,7,0,32
@@ -542,15 +546,14 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,424,Millikin,1,24,0,25
 2012,426,Millsaps,8,16,0,24
 2012,797,Milwaukee,20,14,0,34
-2012,20220,Milwaukee Engr.,10,15,0,25
 2012,427,Minn. Duluth,14,13,0,27
 2012,383,Minn. St. Mankato,7,19,0,26
 2012,1240,Minn. St. Moorhead,21,10,0,31
 2012,27854,Minn.-Crookston,7,19,0,26
 2012,1226,Minn.-Morris,11,15,0,26
 2012,428,Minnesota,23,15,0,38
+2012,30125,Minot St.,3,23,0,26
 2012,16142,Misericordia,21,7,0,28
-2012,433,Ole Miss,20,14,0,34
 2012,429,Mississippi Col.,9,16,0,25
 2012,430,Mississippi St.,21,12,0,33
 2012,432,Mississippi Val.,21,13,0,34
@@ -575,10 +578,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,445,Morehouse,8,19,0,27
 2012,446,Morgan St.,9,20,0,29
 2012,30067,Morrisville St.,19,9,0,28
-2012,27901,Mount Ida,10,17,0,27
+2012,30036,Mount Aloysius,10,15,0,25
+2012,27901,Mount Ida,9,17,0,26
 2012,1245,Mount Olive,21,8,0,29
 2012,452,Mount Union,11,15,0,26
-2012,30036,Mt. Aloysius,10,15,0,25
+2012,20220,MSOE,10,15,0,25
 2012,8567,Mt. St. Joseph,7,18,0,25
 2012,1468,Mt. St. Mary (NY),23,7,0,30
 2012,450,Mt. St. Mary's,8,21,0,29
@@ -594,7 +598,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,461,Nazareth,18,9,0,27
 2012,462,Neb. Wesleyan,12,14,0,26
 2012,1156,Neb.-Kearney,16,12,0,28
-2012,464,Neb. Omaha,11,18,0,29
 2012,463,Nebraska,12,18,0,30
 2012,1254,Neumann,13,14,0,27
 2012,466,Nevada,28,7,0,35
@@ -605,8 +608,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,473,New Mexico,28,7,0,35
 2012,472,New Mexico St.,26,10,0,36
 2012,474,New Orleans,17,15,0,32
-2012,475,SUNY New Paltz,9,17,0,26
-2012,479,New York U.,21,6,0,27
 2012,1257,Newberry,16,12,0,28
 2012,21772,Newbury,12,15,0,27
 2012,30054,Newman,18,9,0,27
@@ -623,7 +624,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,494,North Dakota,17,15,0,32
 2012,493,North Dakota St.,17,14,0,31
 2012,2711,North Florida,16,16,0,32
-2012,30052,North Ga.,10,18,0,28
+2012,30052,North Georgia,10,18,0,28
 2012,9223,North Greenville,12,15,0,27
 2012,496,North Park,6,19,0,25
 2012,497,North Texas,18,14,0,32
@@ -639,21 +640,24 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,507,Northwest Mo. St.,22,7,0,29
 2012,1274,Northwest Nazarene,12,14,0,26
 2012,509,Northwestern,19,14,0,33
-2012,30031,Northwestern (MN),17,11,0,28
 2012,508,Northwestern St.,16,16,0,32
+2012,30031,Northwestern-St. Paul,17,11,0,28
 2012,510,Northwood (MI),18,9,0,27
 2012,511,Norwich,5,19,0,24
 2012,513,Notre Dame,22,12,0,34
+2012,30126,Notre Dame (OH),10,17,0,27
 2012,30056,Notre Dame de Namur,12,14,0,26
 2012,24639,Nova Southeastern,12,14,0,26
 2012,1277,Nyack,1,27,0,28
 2012,477,NYIT,11,15,0,26
+2012,479,NYU,21,6,0,27
 2012,514,Oakland,20,16,0,36
 2012,1278,Oakland City,17,8,0,25
 2012,515,Oberlin,7,18,0,25
 2012,516,Occidental,10,14,0,24
 2012,2713,Oglethorpe,11,14,0,25
 2012,519,Ohio,29,8,0,37
+2012,30119,Ohio Dominican,4,22,0,26
 2012,517,Ohio Northern,14,14,0,28
 2012,518,Ohio St.,31,8,0,39
 2012,15207,Ohio Valley,8,18,0,26
@@ -663,8 +667,9 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,521,Oklahoma St.,15,18,0,33
 2012,523,Old Dominion,22,14,0,36
 2012,524,Old Westbury,13,13,0,26
+2012,433,Ole Miss,20,14,0,34
 2012,525,Olivet,4,21,0,25
-2012,526,SUNY Oneonta,3,22,0,25
+2012,464,Omaha,11,18,0,29
 2012,527,Oral Roberts,27,7,0,34
 2012,529,Oregon,24,10,0,34
 2012,528,Oregon St.,21,15,0,36
@@ -683,14 +688,13 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,30045,Palm Beach Atl.,4,22,0,26
 2012,540,Penn,20,13,0,33
 2012,539,Penn St.,12,20,0,32
+2012,30081,Penn St. Harrisburg,20,7,0,27
 2012,30114,Penn St.-Abington,9,16,0,25
 2012,25719,Penn St.-Altoona,3,22,0,25
 2012,538,Penn St.-Behrend,16,12,0,28
 2012,30044,Penn St.-Berks,11,14,0,25
-2012,30081,Penn St.-Harrisburg,20,7,0,27
 2012,541,Pepperdine,10,19,0,29
 2012,542,Pfeiffer,12,14,0,26
-2012,1305,Cairn,4,22,0,26
 2012,543,Philadelphia U.,19,10,0,29
 2012,21830,Piedmont,7,18,0,25
 2012,1315,Pitt.-Bradford,10,15,0,25
@@ -712,7 +716,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,555,Principia,0,25,0,25
 2012,556,Providence,15,17,0,32
 2012,557,Puget Sound,20,7,0,27
-2012,30029,Purchase St.,14,14,0,28
+2012,30029,Purchase,14,14,0,28
 2012,559,Purdue,22,13,0,35
 2012,11504,Queens (NC),19,10,0,29
 2012,560,Queens (NY),4,22,0,26
@@ -751,11 +755,22 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,588,Rutgers-Camden,4,21,0,25
 2012,589,Rutgers-Newark,14,13,0,27
 2012,11276,S.C. Aiken,21,8,0,29
-2012,10411,S.C. Upstate,21,13,0,34
 2012,102,Sacramento St.,10,18,0,28
 2012,590,Sacred Heart,14,18,0,32
 2012,11036,Sage Colleges,10,15,0,25
 2012,591,Saginaw Valley,10,16,0,26
+2012,594,Saint Augustine's,14,14,0,28
+2012,600,Saint Francis (PA),6,23,0,29
+2012,602,Saint John's (MN),16,11,0,27
+2012,606,Saint Joseph's,20,14,0,34
+2012,608,Saint Leo,18,12,0,30
+2012,609,Saint Louis,26,8,0,34
+2012,1343,Saint Martin's,10,17,0,27
+2012,612,Saint Mary's (MN),5,20,0,25
+2012,613,Saint Michael's,11,15,0,26
+2012,617,Saint Peter's,5,26,0,31
+2012,1347,Saint Rose,7,19,0,26
+2012,30064,Saint Vincent,19,8,0,27
 2012,19117,Salem Int'l,5,21,0,26
 2012,621,Salem St.,20,8,0,28
 2012,622,Salisbury,12,13,0,25
@@ -781,8 +796,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,10870,Shepherd,14,14,0,28
 2012,638,Shippensburg,10,18,0,28
 2012,639,Siena,14,17,0,31
+2012,30127,Simon Fraser,8,18,0,26
 2012,641,Simpson,12,14,0,26
-2012,660,SIU Edwardsville,10,17,0,27
+2012,30128,Sioux Falls,20,9,0,29
+2012,660,SIUE,10,17,0,27
 2012,642,Skidmore,19,9,0,28
 2012,643,Slippery Rock,17,10,0,27
 2012,663,SMU,13,19,0,32
@@ -791,6 +808,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,648,South Carolina,10,21,0,31
 2012,647,South Carolina St.,5,26,0,31
 2012,650,South Dakota,10,18,0,28
+2012,30139,South Dakota Mines,14,14,0,28
 2012,649,South Dakota St.,27,8,0,35
 2012,651,South Fla.,22,14,0,36
 2012,654,Southeast Mo. St.,15,16,0,31
@@ -815,38 +833,26 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,673,Springfield,17,10,0,27
 2012,592,St. Andrews,3,20,0,23
 2012,593,St. Anselm,12,14,0,26
-2012,594,St. Augustine's,14,14,0,28
 2012,596,St. Bonaventure,20,12,0,32
 2012,598,St. Cloud St.,20,9,0,29
 2012,1334,St. Edward's,11,15,0,26
 2012,1335,St. Francis (IL),0,0,3,3
-2012,599,St. Francis (NY),15,15,0,30
-2012,600,Saint Francis (PA),6,23,0,29
+2012,599,St. Francis Brooklyn,15,15,0,30
 2012,601,St. John Fisher,10,15,0,25
-2012,602,Saint John's (MN),16,11,0,27
 2012,603,St. John's (NY),13,19,0,32
-2012,606,Saint Joseph's,20,14,0,34
 2012,30072,St. Joseph's (Brkln),13,14,0,27
 2012,604,St. Joseph's (IN),8,18,0,26
 2012,1340,St. Joseph's (L.I.),21,5,0,26
 2012,605,St. Joseph's (ME),18,9,0,27
 2012,607,St. Lawrence,14,11,0,25
-2012,608,Saint Leo,18,12,0,30
-2012,609,Saint Louis,26,8,0,34
-2012,1343,Saint Martin's,10,17,0,27
 2012,610,St. Mary's (CA),27,6,0,33
 2012,611,St. Mary's (MD),20,8,0,28
-2012,612,Saint Mary's (MN),5,20,0,25
 2012,1346,St. Mary's (TX),19,9,0,28
-2012,613,Saint Michael's,11,15,0,26
 2012,614,St. Norbert,16,9,0,25
 2012,615,St. Olaf,16,10,0,26
-2012,617,Saint Peter's,5,26,0,31
-2012,1347,Saint Rose,7,19,0,26
 2012,618,St. Scholastica,13,13,0,26
 2012,620,St. Thomas (MN),22,7,0,29
 2012,1348,St. Thomas Aquinas,9,17,0,26
-2012,30064,Saint Vincent,19,8,0,27
 2012,674,Stanford,26,11,0,37
 2012,675,Staten Island,26,5,0,31
 2012,676,Stephen F. Austin,20,12,0,32
@@ -861,8 +867,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,168,SUNY Cortland,22,7,0,29
 2012,247,SUNY Geneseo,14,13,0,27
 2012,478,SUNY Maritime,2,23,0,25
+2012,475,SUNY New Paltz,9,17,0,26
+2012,526,SUNY Oneonta,3,22,0,25
+2012,9500,SUNY Poly,5,20,0,25
 2012,552,SUNY Potsdam,5,20,0,25
-2012,9500,SUNYIT,5,20,0,25
 2012,685,Susquehanna,14,10,0,24
 2012,686,Swarthmore,3,22,0,25
 2012,688,Syracuse,34,3,0,37
@@ -917,17 +925,24 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,9754,UC-Colo. Springs,8,20,0,28
 2012,128,UCF,22,11,0,33
 2012,110,UCLA,19,14,0,33
+2012,164,UConn,20,14,0,34
+2012,401,UMass Boston,5,20,0,25
+2012,656,UMass Dartmouth,13,13,0,26
+2012,368,UMass Lowell,19,11,0,30
 2012,391,UMBC,4,26,0,30
+2012,393,UMES,7,23,0,30
 2012,2707,UMKC,10,21,0,31
 2012,456,UNC Asheville,24,10,0,34
 2012,459,UNC Greensboro,13,19,0,32
 2012,537,UNC Pembroke,17,12,0,29
-2012,460,UNC Wilmington,10,21,0,31
+2012,460,UNCW,10,21,0,31
 2012,504,UNI,20,14,0,34
 2012,727,Union (NY),16,9,0,25
 2012,465,UNLV,26,9,0,35
 2012,728,Upper Iowa,10,16,0,26
+2012,30104,Urbana,9,19,0,28
 2012,730,Ursinus,9,16,0,25
+2012,10411,USC Upstate,21,13,0,34
 2012,28594,USciences,6,19,0,25
 2012,695,UT Martin,4,27,0,31
 2012,732,Utah,6,25,0,31
@@ -952,6 +967,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,747,Wabash,18,8,0,26
 2012,748,Wagner,25,6,0,31
 2012,749,Wake Forest,13,18,0,31
+2012,30141,Walsh,26,5,0,31
 2012,750,Wartburg,11,14,0,25
 2012,751,Wash. & Jeff.,9,18,0,27
 2012,752,Wash. & Lee,13,14,0,27
@@ -967,12 +983,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,758,Weber St.,25,7,0,32
 2012,759,Webster,13,13,0,26
 2012,761,Wells,14,12,0,26
-2012,762,Wentworth Inst.,17,11,0,28
+2012,762,Wentworth,17,11,0,28
 2012,763,Wesley,12,14,0,26
 2012,764,Wesleyan (CT),20,6,0,26
 2012,358,West Ala.,8,21,0,29
 2012,765,West Chester,19,10,0,29
-2012,11740,West Fla.,19,11,0,30
+2012,11740,West Florida,19,11,0,30
 2012,766,West Ga.,22,9,0,31
 2012,1438,West Liberty,32,3,0,35
 2012,767,West Tex. A&M,19,9,0,28
@@ -1004,6 +1020,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,784,Wilkes,17,10,0,27
 2012,785,Willamette,5,20,0,25
 2012,786,William & Mary,6,26,0,32
+2012,30120,William Jewell,9,17,0,26
 2012,789,Williams,17,8,0,25
 2012,1460,Wilmington (DE),10,16,0,26
 2012,1461,Wilmington (OH),15,13,0,28
@@ -1014,7 +1031,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2012,8911,Wis. Lutheran,5,20,0,25
 2012,793,Wis.-Eau Claire,15,10,0,25
 2012,795,Wis.-La Crosse,17,10,0,27
-2012,798,Wis.-Oshkosh,4,22,0,26
+2012,798,Wis.-Oshkosh,4,21,0,25
 2012,799,Wis.-Parkside,8,18,0,26
 2012,800,Wis.-Platteville,14,12,0,26
 2012,801,Wis.-River Falls,20,8,0,28

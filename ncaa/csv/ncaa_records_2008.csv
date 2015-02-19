@@ -17,8 +17,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,2798,Albertus Magnus,4,21,0,25
 2008,15,Albion,19,6,0,25
 2008,16,Albright,17,9,0,26
-2008,17,Alcorn St.,7,24,0,31
-2008,934,Alderson-Broaddus,26,7,0,33
+2008,17,Alcorn,7,24,0,31
+2008,934,Alderson Broaddus,26,7,0,33
 2008,18,Alfred,2,23,0,25
 2008,19,Allegheny,12,15,0,27
 2008,21,Alma,3,21,0,24
@@ -45,7 +45,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,36,Assumption,24,11,0,35
 2008,37,Auburn,14,16,0,30
 2008,38,Augsburg,12,13,0,25
-2008,39,Augusta St.,27,7,0,34
 2008,40,Augustana (IL),23,6,0,29
 2008,41,Augustana (SD),22,9,0,31
 2008,42,Aurora,22,7,0,29
@@ -53,6 +52,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,43,Austin Peay,24,11,0,35
 2008,44,Averett,14,15,0,29
 2008,45,Babson,10,16,0,26
+2008,94,Bakersfield,8,21,0,29
 2008,46,Baldwin Wallace,12,15,0,27
 2008,47,Ball St.,6,24,0,30
 2008,958,Baptist Bible (PA),18,10,0,28
@@ -105,19 +105,16 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,87,Butler,30,4,0,34
 2008,77,BYU,27,8,0,35
 2008,2685,BYU-Hawaii,20,8,0,28
-2008,362,LIU Post,26,5,0,31
 2008,88,Cabrini,12,14,0,26
+2008,1305,Cairn,3,21,0,24
 2008,105,Cal Lutheran,37,11,0,48
 2008,90,Cal Poly,12,18,0,30
 2008,91,Cal Poly Pomona,12,16,0,28
-2008,94,CSU Bakersfield,8,21,0,29
-2008,95,Cal St. Chico,7,20,0,27
 2008,92,Cal St. Dom. Hills,17,11,0,28
 2008,98,Cal St. East Bay,13,12,0,25
 2008,97,Cal St. Fullerton,24,9,0,33
 2008,100,Cal St. L.A.,17,11,0,28
 2008,30055,Cal St. Monterey Bay,12,15,0,27
-2008,101,Cal St. Northridge,20,10,0,30
 2008,93,Cal St. San B'dino,22,8,0,30
 2008,103,Cal St. Stanislaus,6,21,0,27
 2008,995,Caldwell,12,17,0,29
@@ -161,6 +158,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,135,Cheyney,19,10,0,29
 2008,137,Chicago,18,8,0,26
 2008,136,Chicago St.,11,17,0,28
+2008,95,Chico St.,7,20,0,27
 2008,8875,Chowan,23,21,0,44
 2008,139,Chris. Newport,10,16,0,26
 2008,1015,Christian Bros.,39,13,0,52
@@ -187,6 +185,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,11403,Colo. Christian,18,13,0,31
 2008,157,Colorado,12,20,0,32
 2008,154,Colorado Col.,0,24,0,24
+2008,11416,Colorado Mesa,13,14,0,27
 2008,155,Colorado Mines,15,14,0,29
 2008,156,Colorado St.,7,25,0,32
 2008,2720,Colorado St.-Pueblo,10,17,0,27
@@ -195,17 +194,17 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,1028,Concord,15,14,0,29
 2008,162,Concordia (NY),12,17,0,29
 2008,24400,Concordia (TX),19,9,0,28
-2008,1036,Concordia (WI),14,11,0,25
 2008,160,Concordia Chicago,5,20,0,25
+2008,1036,Concordia Wisconsin,14,11,0,25
 2008,161,Concordia-M'head,13,13,0,26
 2008,9081,Concordia-St. Paul,16,12,0,28
-2008,164,Connecticut,24,9,0,33
 2008,163,Connecticut Col.,17,8,0,25
 2008,165,Coppin St.,16,21,0,37
 2008,167,Cornell,22,6,0,28
 2008,166,Cornell College,9,17,0,26
 2008,169,Creighton,22,11,0,33
 2008,30035,Crown (MN),5,34,0,39
+2008,101,CSUN,20,10,0,30
 2008,170,Curry,18,11,0,29
 2008,1059,D'Youville,8,17,0,25
 2008,1044,Dallas,11,15,0,26
@@ -281,13 +280,13 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,23157,Felician,10,17,0,27
 2008,224,Ferris St.,10,19,0,29
 2008,225,Ferrum,14,12,0,26
+2008,28755,FGCU,10,21,0,31
 2008,1079,Findlay,28,5,0,33
 2008,30032,Finlandia,13,12,0,25
 2008,226,Fisk,2,8,0,10
 2008,227,Fitchburg St.,16,10,0,26
 2008,231,FIU,9,20,0,29
 2008,229,Fla. Atlantic,15,18,0,33
-2008,28755,Fla. Gulf Coast,10,21,0,31
 2008,233,Fla. Southern,24,9,0,33
 2008,235,Florida,24,12,0,36
 2008,228,Florida A&M,15,17,0,32
@@ -304,7 +303,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,239,Frank. & Marsh.,12,13,0,25
 2008,2694,Franklin,18,10,0,28
 2008,241,Franklin Pierce,10,17,0,27
-2008,242,Fredonia St.,9,17,0,26
+2008,242,Fredonia,9,17,0,26
 2008,96,Fresno St.,13,19,0,32
 2008,243,Frostburg St.,19,24,0,43
 2008,244,Furman,7,23,0,30
@@ -337,9 +336,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,1111,Greenville,13,13,0,26
 2008,264,Grinnell,16,8,0,24
 2008,265,Grove City,17,11,0,28
+2008,39,GRU Augusta,27,7,0,34
 2008,1112,Guilford,24,5,0,29
 2008,266,Gust. Adolphus,19,8,0,27
-2008,12399,Gwynedd-Mercy,21,10,0,31
+2008,12399,Gwynedd Mercy,21,10,0,31
 2008,267,Hamilton,17,9,0,26
 2008,268,Hamline,8,17,0,25
 2008,269,Hampden-Sydney,15,12,0,27
@@ -456,10 +456,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,1176,Lincoln Memorial,8,20,0,28
 2008,1179,Linfield,14,11,0,25
 2008,28600,Lipscomb,15,16,0,31
+2008,361,LIU Brooklyn,15,15,0,30
+2008,362,LIU Post,26,5,0,31
 2008,359,Livingstone,21,20,0,41
 2008,360,Lock Haven,2,24,0,26
 2008,99,Long Beach St.,6,25,0,31
-2008,361,LIU Brooklyn,15,15,0,30
 2008,363,Longwood,9,22,0,31
 2008,364,Loras,22,7,0,29
 2008,1182,Louisiana Col.,9,16,0,25
@@ -497,15 +498,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,395,Maryville (MO),13,14,0,27
 2008,396,Maryville (TN),35,9,0,44
 2008,397,Marywood,7,18,0,25
-2008,486,MCLA,7,18,0,25
-2008,401,Mass.-Boston,2,24,0,26
-2008,656,Mass.-Dartmouth,25,4,0,29
-2008,368,Mass.-Lowell,12,17,0,29
 2008,400,Massachusetts,25,11,0,36
 2008,773,McDaniel,15,11,0,26
+2008,486,MCLA,7,18,0,25
 2008,8530,McMurry,12,13,0,25
 2008,402,McNeese St.,13,16,0,29
-2008,393,UMES,4,28,0,32
 2008,379,Me.-Farmington,11,15,0,26
 2008,30040,Me.-Presque Isle,0,14,0,14
 2008,23725,Medaille,27,19,0,46
@@ -516,7 +513,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,407,Mercy,8,19,0,27
 2008,408,Mercyhurst,15,13,0,28
 2008,410,Merrimack,17,12,0,29
-2008,11416,Colorado Mesa,13,14,0,27
 2008,411,Messiah,15,10,0,25
 2008,412,Methodist,16,10,0,26
 2008,413,Metro St.,19,12,0,31
@@ -533,7 +529,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,424,Millikin,9,16,0,25
 2008,426,Millsaps,28,4,0,32
 2008,797,Milwaukee,14,16,0,30
-2008,20220,Milwaukee Engr.,17,10,0,27
 2008,427,Minn. Duluth,9,19,0,28
 2008,383,Minn. St. Mankato,22,7,0,29
 2008,1240,Minn. St. Moorhead,14,14,0,28
@@ -541,7 +536,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,1226,Minn.-Morris,21,21,0,42
 2008,428,Minnesota,20,14,0,34
 2008,16142,Misericordia,19,10,0,29
-2008,433,Ole Miss,24,11,0,35
 2008,429,Mississippi Col.,19,6,0,25
 2008,430,Mississippi St.,23,11,0,34
 2008,432,Mississippi Val.,17,16,0,33
@@ -566,10 +560,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,445,Morehouse,12,15,0,27
 2008,446,Morgan St.,22,11,0,33
 2008,30067,Morrisville St.,5,19,0,24
+2008,30036,Mount Aloysius,10,29,0,39
 2008,27901,Mount Ida,7,18,0,25
 2008,1245,Mount Olive,24,7,0,31
 2008,452,Mount Union,9,17,0,26
-2008,30036,Mt. Aloysius,10,29,0,39
+2008,20220,MSOE,17,10,0,27
 2008,8567,Mt. St. Joseph,9,16,0,25
 2008,1468,Mt. St. Mary (NY),11,15,0,26
 2008,450,Mt. St. Mary's,19,15,0,34
@@ -585,7 +580,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,461,Nazareth,20,8,0,28
 2008,462,Neb. Wesleyan,14,13,0,27
 2008,1156,Neb.-Kearney,16,13,0,29
-2008,464,Neb. Omaha,25,7,0,32
 2008,463,Nebraska,20,13,0,33
 2008,1254,Neumann,10,15,0,25
 2008,466,Nevada,21,12,0,33
@@ -596,8 +590,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,473,New Mexico,24,9,0,33
 2008,472,New Mexico St.,21,14,0,35
 2008,474,New Orleans,19,13,0,32
-2008,475,SUNY New Paltz,6,19,0,25
-2008,479,New York U.,16,11,0,27
 2008,1257,Newberry,12,16,0,28
 2008,21772,Newbury,21,9,0,30
 2008,30054,Newman,14,13,0,27
@@ -613,7 +605,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,494,North Dakota,15,15,0,30
 2008,493,North Dakota St.,16,13,0,29
 2008,2711,North Florida,3,26,0,29
-2008,30052,North Ga.,18,11,0,29
+2008,30052,North Georgia,18,11,0,29
 2008,9223,North Greenville,7,20,0,27
 2008,496,North Park,14,11,0,25
 2008,497,North Texas,20,11,0,31
@@ -629,8 +621,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,507,Northwest Mo. St.,24,8,0,32
 2008,1274,Northwest Nazarene,17,10,0,27
 2008,509,Northwestern,8,22,0,30
-2008,30031,Northwestern (MN),34,12,0,46
 2008,508,Northwestern St.,15,18,0,33
+2008,30031,Northwestern-St. Paul,34,12,0,46
 2008,510,Northwood (MI),11,16,0,27
 2008,511,Norwich,12,13,0,25
 2008,513,Notre Dame,25,8,0,33
@@ -638,6 +630,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,24639,Nova Southeastern,10,18,0,28
 2008,1277,Nyack,11,16,0,27
 2008,477,NYIT,16,12,0,28
+2008,479,NYU,16,11,0,27
 2008,514,Oakland,17,14,0,31
 2008,1278,Oakland City,26,23,0,49
 2008,515,Oberlin,5,21,0,26
@@ -653,8 +646,9 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,521,Oklahoma St.,17,16,0,33
 2008,523,Old Dominion,18,16,0,34
 2008,524,Old Westbury,16,10,0,26
+2008,433,Ole Miss,24,11,0,35
 2008,525,Olivet,9,16,0,25
-2008,526,SUNY Oneonta,12,14,0,26
+2008,464,Omaha,25,7,0,32
 2008,527,Oral Roberts,24,9,0,33
 2008,529,Oregon,18,14,0,32
 2008,528,Oregon St.,6,25,0,31
@@ -670,13 +664,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,30045,Palm Beach Atl.,4,22,0,26
 2008,540,Penn,13,18,0,31
 2008,539,Penn St.,15,16,0,31
+2008,30081,Penn St. Harrisburg,8,17,0,25
 2008,25719,Penn St.-Altoona,23,20,0,43
 2008,538,Penn St.-Behrend,35,10,0,45
 2008,30044,Penn St.-Berks,7,19,0,26
-2008,30081,Penn St.-Harrisburg,8,17,0,25
 2008,541,Pepperdine,11,21,0,32
 2008,542,Pfeiffer,21,8,0,29
-2008,1305,Cairn,3,21,0,24
 2008,543,Philadelphia U.,22,12,0,34
 2008,21830,Piedmont,21,24,0,45
 2008,1315,Pitt.-Bradford,18,23,0,41
@@ -698,7 +691,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,555,Principia,5,18,0,23
 2008,556,Providence,15,16,0,31
 2008,557,Puget Sound,19,7,0,26
-2008,30029,Purchase St.,3,22,0,25
+2008,30029,Purchase,3,22,0,25
 2008,559,Purdue,25,9,0,34
 2008,11504,Queens (NC),21,10,0,31
 2008,560,Queens (NY),4,23,0,27
@@ -736,10 +729,21 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,588,Rutgers-Camden,6,19,0,25
 2008,589,Rutgers-Newark,13,13,0,26
 2008,11276,S.C. Aiken,27,4,0,31
-2008,10411,S.C. Upstate,7,23,0,30
 2008,102,Sacramento St.,4,24,0,28
 2008,590,Sacred Heart,18,14,0,32
 2008,591,Saginaw Valley,12,14,0,26
+2008,594,Saint Augustine's,27,13,0,40
+2008,600,Saint Francis (PA),6,23,0,29
+2008,602,Saint John's (MN),14,12,0,26
+2008,606,Saint Joseph's,21,13,0,34
+2008,608,Saint Leo,14,15,0,29
+2008,609,Saint Louis,16,15,0,31
+2008,1343,Saint Martin's,13,14,0,27
+2008,612,Saint Mary's (MN),2,23,0,25
+2008,613,Saint Michael's,8,18,0,26
+2008,617,Saint Peter's,6,24,0,30
+2008,1347,Saint Rose,23,8,0,31
+2008,30064,Saint Vincent,21,4,0,25
 2008,19117,Salem Int'l,5,23,0,28
 2008,621,Salem St.,21,7,0,28
 2008,622,Salisbury,7,20,0,27
@@ -766,7 +770,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,638,Shippensburg,8,19,0,27
 2008,639,Siena,23,11,0,34
 2008,641,Simpson,7,18,0,25
-2008,660,SIU Edwardsville,17,11,0,28
+2008,660,SIUE,17,11,0,28
 2008,642,Skidmore,6,19,0,25
 2008,643,Slippery Rock,7,20,0,27
 2008,663,SMU,10,20,0,30
@@ -798,38 +802,26 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,673,Springfield,10,15,0,25
 2008,592,St. Andrews,7,20,0,27
 2008,593,St. Anselm,13,14,0,27
-2008,594,St. Augustine's,27,13,0,40
 2008,596,St. Bonaventure,8,22,0,30
 2008,598,St. Cloud St.,17,11,0,28
 2008,1334,St. Edward's,23,7,0,30
-2008,599,St. Francis (NY),7,22,0,29
-2008,600,Saint Francis (PA),6,23,0,29
+2008,599,St. Francis Brooklyn,7,22,0,29
 2008,601,St. John Fisher,17,12,0,29
-2008,602,Saint John's (MN),14,12,0,26
 2008,603,St. John's (NY),11,19,0,30
-2008,606,Saint Joseph's,21,13,0,34
 2008,30072,St. Joseph's (Brkln),10,13,0,23
 2008,604,St. Joseph's (IN),18,12,0,30
 2008,1340,St. Joseph's (L.I.),21,7,0,28
 2008,605,St. Joseph's (ME),14,13,0,27
 2008,607,St. Lawrence,17,9,0,26
-2008,608,Saint Leo,14,15,0,29
-2008,609,Saint Louis,16,15,0,31
-2008,1343,Saint Martin's,13,14,0,27
 2008,610,St. Mary's (CA),25,7,0,32
 2008,611,St. Mary's (MD),19,12,0,31
-2008,612,Saint Mary's (MN),2,23,0,25
 2008,1346,St. Mary's (TX),17,13,0,30
-2008,613,Saint Michael's,8,18,0,26
 2008,614,St. Norbert,14,10,0,24
 2008,615,St. Olaf,12,13,0,25
 2008,616,St. Paul's,9,27,0,36
-2008,617,Saint Peter's,6,24,0,30
-2008,1347,Saint Rose,23,8,0,31
 2008,618,St. Scholastica,18,25,0,43
 2008,620,St. Thomas (MN),23,5,0,28
 2008,1348,St. Thomas Aquinas,17,12,0,29
-2008,30064,Saint Vincent,21,4,0,25
 2008,674,Stanford,28,8,0,36
 2008,675,Staten Island,14,12,0,26
 2008,676,Stephen F. Austin,26,6,0,32
@@ -844,8 +836,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,168,SUNY Cortland,21,8,0,29
 2008,247,SUNY Geneseo,19,8,0,27
 2008,478,SUNY Maritime,13,14,0,27
+2008,475,SUNY New Paltz,6,19,0,25
+2008,526,SUNY Oneonta,12,14,0,26
+2008,9500,SUNY Poly,7,18,0,25
 2008,552,SUNY Potsdam,11,15,0,26
-2008,9500,SUNYIT,7,18,0,25
 2008,685,Susquehanna,13,12,0,25
 2008,686,Swarthmore,6,19,0,25
 2008,688,Syracuse,21,14,0,35
@@ -900,17 +894,23 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,9754,UC-Colo. Springs,10,17,0,27
 2008,128,UCF,16,15,0,31
 2008,110,UCLA,35,4,0,39
+2008,164,UConn,24,9,0,33
+2008,401,UMass Boston,2,24,0,26
+2008,656,UMass Dartmouth,25,4,0,29
+2008,368,UMass Lowell,12,17,0,29
 2008,391,UMBC,24,9,0,33
+2008,393,UMES,4,28,0,32
 2008,2707,UMKC,11,21,0,32
 2008,456,UNC Asheville,23,10,0,33
 2008,459,UNC Greensboro,19,12,0,31
 2008,537,UNC Pembroke,8,20,0,28
-2008,460,UNC Wilmington,20,13,0,33
+2008,460,UNCW,20,13,0,33
 2008,504,UNI,18,14,0,32
 2008,727,Union (NY),9,15,0,24
 2008,465,UNLV,27,8,0,35
 2008,728,Upper Iowa,9,19,0,28
 2008,730,Ursinus,29,4,0,33
+2008,10411,USC Upstate,7,23,0,30
 2008,28594,USciences,13,15,0,28
 2008,695,UT Martin,17,16,0,33
 2008,732,Utah,18,15,0,33
@@ -949,12 +949,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2008,1434,Waynesburg,8,17,0,25
 2008,758,Weber St.,16,14,0,30
 2008,759,Webster,20,6,0,26
-2008,762,Wentworth Inst.,14,11,0,25
+2008,762,Wentworth,14,11,0,25
 2008,763,Wesley,14,12,0,26
 2008,764,Wesleyan (CT),8,16,0,24
 2008,358,West Ala.,19,28,0,47
 2008,765,West Chester,12,15,0,27
-2008,11740,West Fla.,23,23,0,46
+2008,11740,West Florida,23,23,0,46
 2008,766,West Ga.,20,28,0,48
 2008,1438,West Liberty,23,6,0,29
 2008,767,West Tex. A&M,21,8,0,29

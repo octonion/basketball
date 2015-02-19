@@ -17,8 +17,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,2798,Albertus Magnus,11,15,0,26
 2002,15,Albion,17,9,0,26
 2002,16,Albright,4,21,0,25
-2002,17,Alcorn St.,21,10,0,31
-2002,934,Alderson-Broaddus,22,8,0,30
+2002,17,Alcorn,21,10,0,31
+2002,934,Alderson Broaddus,22,8,0,30
 2002,18,Alfred,11,14,0,25
 2002,19,Allegheny,11,14,0,25
 2002,21,Alma,3,22,0,25
@@ -45,7 +45,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,36,Assumption,24,6,0,30
 2002,37,Auburn,12,16,0,28
 2002,38,Augsburg,10,15,0,25
-2002,39,Augusta St.,22,8,0,30
 2002,40,Augustana (IL),17,8,0,25
 2002,41,Augustana (SD),14,13,0,27
 2002,42,Aurora,18,7,0,25
@@ -53,6 +52,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,43,Austin Peay,14,18,0,32
 2002,44,Averett,4,22,0,26
 2002,45,Babson,25,5,0,30
+2002,94,Bakersfield,24,5,0,29
 2002,46,Baldwin Wallace,7,19,0,26
 2002,47,Ball St.,23,12,0,35
 2002,958,Baptist Bible (PA),1,9,0,10
@@ -103,19 +103,16 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,87,Butler,26,6,0,32
 2002,77,BYU,18,12,0,30
 2002,2685,BYU-Hawaii,19,10,0,29
-2002,362,LIU Post,13,15,0,28
 2002,88,Cabrini,19,12,0,31
+2002,1305,Cairn,1,10,0,11
 2002,105,Cal Lutheran,28,15,0,43
 2002,90,Cal Poly,15,12,0,27
 2002,91,Cal Poly Pomona,27,15,0,42
-2002,94,CSU Bakersfield,24,5,0,29
-2002,95,Cal St. Chico,12,32,0,44
 2002,92,Cal St. Dom. Hills,26,18,0,44
 2002,98,Cal St. East Bay,16,12,0,28
 2002,97,Cal St. Fullerton,5,22,0,27
 2002,100,Cal St. L.A.,21,23,0,44
 2002,30055,Cal St. Monterey Bay,11,6,0,17
-2002,101,Cal St. Northridge,12,16,0,28
 2002,93,Cal St. San B'dino,37,9,0,46
 2002,103,Cal St. Stanislaus,15,27,0,42
 2002,995,Caldwell,5,1,0,6
@@ -158,6 +155,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,135,Cheyney,17,10,0,27
 2002,137,Chicago,15,10,0,25
 2002,136,Chicago St.,2,26,0,28
+2002,95,Chico St.,12,32,0,44
 2002,8875,Chowan,7,19,0,26
 2002,139,Chris. Newport,23,5,0,28
 2002,1015,Christian Bros.,7,19,0,26
@@ -184,6 +182,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,11403,Colo. Christian,10,17,0,27
 2002,157,Colorado,15,14,0,29
 2002,154,Colorado Col.,9,15,0,24
+2002,11416,Colorado Mesa,16,11,0,27
 2002,155,Colorado Mines,5,21,0,26
 2002,156,Colorado St.,12,18,0,30
 2002,2720,Colorado St.-Pueblo,11,15,0,26
@@ -192,16 +191,16 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,1028,Concord,13,14,0,27
 2002,162,Concordia (NY),4,22,0,26
 2002,24400,Concordia (TX),15,10,0,25
-2002,1036,Concordia (WI),16,12,0,28
 2002,160,Concordia Chicago,7,18,0,25
+2002,1036,Concordia Wisconsin,16,12,0,28
 2002,161,Concordia-M'head,8,17,0,25
 2002,9081,Concordia-St. Paul,9,18,0,27
-2002,164,Connecticut,27,7,0,34
 2002,163,Connecticut Col.,16,9,0,25
 2002,165,Coppin St.,6,25,0,31
 2002,167,Cornell,5,22,0,27
 2002,166,Cornell College,12,15,0,27
 2002,169,Creighton,23,9,0,32
+2002,101,CSUN,12,16,0,28
 2002,170,Curry,13,12,0,25
 2002,1059,D'Youville,7,11,0,18
 2002,1044,Dallas,15,13,0,28
@@ -296,7 +295,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,239,Frank. & Marsh.,24,5,0,29
 2002,2694,Franklin,20,9,0,29
 2002,241,Franklin Pierce,15,12,0,27
-2002,242,Fredonia St.,8,16,0,24
+2002,242,Fredonia,8,16,0,24
 2002,96,Fresno St.,19,15,0,34
 2002,243,Frostburg St.,16,12,0,28
 2002,244,Furman,17,14,0,31
@@ -328,9 +327,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,1111,Greenville,9,16,0,25
 2002,264,Grinnell,12,12,0,24
 2002,265,Grove City,27,16,0,43
+2002,39,GRU Augusta,22,8,0,30
 2002,1112,Guilford,15,11,0,26
 2002,266,Gust. Adolphus,24,5,0,29
-2002,12399,Gwynedd-Mercy,14,12,0,26
+2002,12399,Gwynedd Mercy,14,12,0,26
 2002,267,Hamilton,16,9,0,25
 2002,268,Hamline,3,22,0,25
 2002,269,Hampden-Sydney,23,6,0,29
@@ -441,10 +441,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,1176,Lincoln Memorial,14,13,0,27
 2002,1179,Linfield,14,11,0,25
 2002,28600,Lipscomb,6,21,0,27
+2002,361,LIU Brooklyn,5,22,0,27
+2002,362,LIU Post,13,15,0,28
 2002,359,Livingstone,6,21,0,27
 2002,360,Lock Haven,8,18,0,26
 2002,99,Long Beach St.,13,17,0,30
-2002,361,LIU Brooklyn,5,22,0,27
 2002,363,Longwood,13,13,0,26
 2002,364,Loras,15,12,0,27
 2002,1182,Louisiana Col.,3,11,0,14
@@ -482,15 +483,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,395,Maryville (MO),10,14,0,24
 2002,396,Maryville (TN),40,9,0,49
 2002,397,Marywood,1,22,0,23
-2002,486,MCLA,5,18,0,23
-2002,401,Mass.-Boston,9,16,0,25
-2002,656,Mass.-Dartmouth,21,8,0,29
-2002,368,Mass.-Lowell,20,9,0,29
 2002,400,Massachusetts,13,16,0,29
 2002,773,McDaniel,6,19,0,25
+2002,486,MCLA,5,18,0,23
 2002,8530,McMurry,20,6,0,26
 2002,402,McNeese St.,21,9,0,30
-2002,393,UMES,11,18,0,29
 2002,379,Me.-Farmington,17,22,0,39
 2002,23725,Medaille,1,19,0,20
 2002,403,Medgar Evers,14,22,0,36
@@ -501,7 +498,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,407,Mercy,2,24,0,26
 2002,408,Mercyhurst,13,13,0,26
 2002,410,Merrimack,6,20,0,26
-2002,11416,Colorado Mesa,16,11,0,27
 2002,411,Messiah,9,16,0,25
 2002,412,Methodist,16,11,0,27
 2002,413,Metro St.,29,6,0,35
@@ -518,7 +514,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,424,Millikin,8,17,0,25
 2002,426,Millsaps,18,7,0,25
 2002,797,Milwaukee,16,13,0,29
-2002,20220,Milwaukee Engr.,7,20,0,27
 2002,427,Minn. Duluth,19,11,0,30
 2002,383,Minn. St. Mankato,9,17,0,26
 2002,1240,Minn. St. Moorhead,17,10,0,27
@@ -526,7 +521,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,1226,Minn.-Morris,3,24,0,27
 2002,428,Minnesota,18,13,0,31
 2002,16142,Misericordia,19,10,0,29
-2002,433,Ole Miss,20,11,0,31
 2002,429,Mississippi Col.,21,3,0,24
 2002,430,Mississippi St.,27,8,0,35
 2002,432,Mississippi Val.,12,17,0,29
@@ -554,6 +548,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,27901,Mount Ida,9,13,0,22
 2002,1245,Mount Olive,12,14,0,26
 2002,452,Mount Union,18,9,0,27
+2002,20220,MSOE,7,20,0,27
 2002,8567,Mt. St. Joseph,9,17,0,26
 2002,1468,Mt. St. Mary (NY),16,11,0,27
 2002,450,Mt. St. Mary's,3,24,0,27
@@ -569,7 +564,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,461,Nazareth,17,10,0,27
 2002,462,Neb. Wesleyan,13,12,0,25
 2002,1156,Neb.-Kearney,24,6,0,30
-2002,464,Neb. Omaha,24,9,0,33
 2002,463,Nebraska,13,15,0,28
 2002,1254,Neumann,21,7,0,28
 2002,466,Nevada,17,13,0,30
@@ -580,8 +574,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,473,New Mexico,16,14,0,30
 2002,472,New Mexico St.,20,12,0,32
 2002,474,New Orleans,15,14,0,29
-2002,475,SUNY New Paltz,3,22,0,25
-2002,479,New York U.,14,11,0,25
 2002,1257,Newberry,3,23,0,26
 2002,21772,Newbury,5,14,0,19
 2002,482,Niagara,18,14,0,32
@@ -618,6 +610,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,24639,Nova Southeastern,0,14,0,14
 2002,1277,Nyack,0,5,0,5
 2002,477,NYIT,18,15,0,33
+2002,479,NYU,14,11,0,25
 2002,514,Oakland,17,13,0,30
 2002,1278,Oakland City,10,16,0,26
 2002,515,Oberlin,9,16,0,25
@@ -633,8 +626,9 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,521,Oklahoma St.,23,9,0,32
 2002,523,Old Dominion,13,16,0,29
 2002,524,Old Westbury,14,11,0,25
+2002,433,Ole Miss,20,11,0,31
 2002,525,Olivet,10,16,0,26
-2002,526,SUNY Oneonta,10,16,0,26
+2002,464,Omaha,24,9,0,33
 2002,527,Oral Roberts,17,14,0,31
 2002,529,Oregon,26,9,0,35
 2002,528,Oregon St.,12,17,0,29
@@ -657,7 +651,6 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,538,Penn St.-Behrend,18,9,0,27
 2002,541,Pepperdine,22,9,0,31
 2002,542,Pfeiffer,16,12,0,28
-2002,1305,Cairn,1,10,0,11
 2002,543,Philadelphia U.,19,9,0,28
 2002,21830,Piedmont,13,15,0,28
 2002,1315,Pitt.-Bradford,23,5,0,28
@@ -713,10 +706,21 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,588,Rutgers-Camden,14,11,0,25
 2002,589,Rutgers-Newark,7,18,0,25
 2002,11276,S.C. Aiken,12,16,0,28
-2002,10411,S.C. Upstate,11,16,0,27
 2002,102,Sacramento St.,9,19,0,28
 2002,590,Sacred Heart,8,20,0,28
 2002,591,Saginaw Valley,5,21,0,26
+2002,594,Saint Augustine's,13,13,0,26
+2002,600,Saint Francis (PA),6,21,0,27
+2002,602,Saint John's (MN),15,11,0,26
+2002,606,Saint Joseph's,19,12,0,31
+2002,608,Saint Leo,7,20,0,27
+2002,609,Saint Louis,15,16,0,31
+2002,1343,Saint Martin's,10,16,0,26
+2002,612,Saint Mary's (MN),5,19,0,24
+2002,613,Saint Michael's,11,16,0,27
+2002,617,Saint Peter's,4,24,0,28
+2002,1347,Saint Rose,17,13,0,30
+2002,30064,Saint Vincent,15,3,0,18
 2002,19117,Salem Int'l,26,5,0,31
 2002,621,Salem St.,21,7,0,28
 2002,622,Salisbury,8,17,0,25
@@ -743,7 +747,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,638,Shippensburg,9,17,0,26
 2002,639,Siena,17,19,0,36
 2002,641,Simpson,14,12,0,26
-2002,660,SIU Edwardsville,7,19,0,26
+2002,660,SIUE,7,19,0,26
 2002,642,Skidmore,6,19,0,25
 2002,643,Slippery Rock,7,19,0,26
 2002,663,SMU,15,14,0,29
@@ -776,37 +780,25 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,673,Springfield,18,9,0,27
 2002,592,St. Andrews,2,25,0,27
 2002,593,St. Anselm,19,11,0,30
-2002,594,St. Augustine's,13,13,0,26
 2002,596,St. Bonaventure,17,13,0,30
 2002,598,St. Cloud St.,21,7,0,28
 2002,1334,St. Edward's,4,23,0,27
-2002,599,St. Francis (NY),18,11,0,29
-2002,600,Saint Francis (PA),6,21,0,27
+2002,599,St. Francis Brooklyn,18,11,0,29
 2002,601,St. John Fisher,13,13,0,26
-2002,602,Saint John's (MN),15,11,0,26
 2002,603,St. John's (NY),20,12,0,32
-2002,606,Saint Joseph's,19,12,0,31
 2002,604,St. Joseph's (IN),8,18,0,26
 2002,1340,St. Joseph's (L.I.),9,17,0,26
 2002,605,St. Joseph's (ME),18,10,0,28
 2002,607,St. Lawrence,21,9,0,30
-2002,608,Saint Leo,7,20,0,27
-2002,609,Saint Louis,15,16,0,31
-2002,1343,Saint Martin's,10,16,0,26
 2002,610,St. Mary's (CA),9,20,0,29
 2002,611,St. Mary's (MD),5,21,0,26
-2002,612,Saint Mary's (MN),5,19,0,24
 2002,1346,St. Mary's (TX),11,15,0,26
-2002,613,Saint Michael's,11,16,0,27
 2002,614,St. Norbert,21,5,0,26
 2002,615,St. Olaf,9,16,0,25
 2002,616,St. Paul's,4,22,0,26
-2002,617,Saint Peter's,4,24,0,28
-2002,1347,Saint Rose,17,13,0,30
 2002,618,St. Scholastica,8,16,0,24
 2002,620,St. Thomas (MN),24,4,0,28
 2002,1348,St. Thomas Aquinas,11,16,0,27
-2002,30064,Saint Vincent,15,3,0,18
 2002,674,Stanford,20,10,0,30
 2002,675,Staten Island,26,21,0,47
 2002,676,Stephen F. Austin,13,15,0,28
@@ -821,8 +813,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,168,SUNY Cortland,11,16,0,27
 2002,247,SUNY Geneseo,16,11,0,27
 2002,478,SUNY Maritime,4,18,0,22
+2002,475,SUNY New Paltz,3,22,0,25
+2002,526,SUNY Oneonta,10,16,0,26
+2002,9500,SUNY Poly,10,15,0,25
 2002,552,SUNY Potsdam,14,13,0,27
-2002,9500,SUNYIT,10,15,0,25
 2002,685,Susquehanna,14,12,0,26
 2002,686,Swarthmore,6,19,0,25
 2002,688,Syracuse,23,13,0,36
@@ -874,17 +868,23 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,9754,UC-Colo. Springs,9,17,0,26
 2002,128,UCF,17,12,0,29
 2002,110,UCLA,21,12,0,33
+2002,164,UConn,27,7,0,34
+2002,401,UMass Boston,9,16,0,25
+2002,656,UMass Dartmouth,21,8,0,29
+2002,368,UMass Lowell,20,9,0,29
 2002,391,UMBC,20,9,0,29
+2002,393,UMES,11,18,0,29
 2002,2707,UMKC,18,11,0,29
 2002,456,UNC Asheville,13,15,0,28
 2002,459,UNC Greensboro,20,11,0,31
 2002,537,UNC Pembroke,12,15,0,27
-2002,460,UNC Wilmington,23,10,0,33
+2002,460,UNCW,23,10,0,33
 2002,504,UNI,14,15,0,29
 2002,727,Union (NY),21,8,0,29
 2002,465,UNLV,21,11,0,32
 2002,728,Upper Iowa,12,14,0,26
 2002,730,Ursinus,8,16,0,24
+2002,10411,USC Upstate,11,16,0,27
 2002,28594,USciences,2,6,0,8
 2002,695,UT Martin,15,14,0,29
 2002,732,Utah,21,9,0,30
@@ -922,12 +922,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2002,1434,Waynesburg,24,20,0,44
 2002,758,Weber St.,18,11,0,29
 2002,759,Webster,13,13,0,26
-2002,762,Wentworth Inst.,5,20,0,25
+2002,762,Wentworth,5,20,0,25
 2002,763,Wesley,10,16,0,26
 2002,764,Wesleyan (CT),15,10,0,25
 2002,358,West Ala.,11,15,0,26
 2002,765,West Chester,18,9,0,27
-2002,11740,West Fla.,16,12,0,28
+2002,11740,West Florida,16,12,0,28
 2002,766,West Ga.,24,9,0,33
 2002,1438,West Liberty,14,14,0,28
 2002,767,West Tex. A&M,16,10,0,26
