@@ -1,4 +1,4 @@
-sink("euroleague_lmer.txt")
+sink("diagnostics/euroleague_lmer.txt")
 
 library("lme4")
 library("nortest")
@@ -173,16 +173,16 @@ sd(pvals)
 
 # Graph p-values
 
-jpeg("euroleague_shapiro-francia.jpg")
+jpeg("diagnostics/euroleague_shapiro-francia.jpg")
 hist(pvals,xlim=c(0,1))
 abline(v=0.05,lty='dashed',lwd=2,col='red')
 quantile(pvals,prob=seq(0,1,0.05))
 
 # Examine residuals
 
-jpeg("euroleague_fitted_vs_residuals.jpg")
+jpeg("diagnostics/euroleague_fitted_vs_residuals.jpg")
 plot(f,r)
-jpeg("euroleague_q-q_plot.jpg")
+jpeg("diagnostics/euroleague_q-q_plot.jpg")
 qqnorm(r,main="Q-Q plot for residuals")
 
 quit("no")
