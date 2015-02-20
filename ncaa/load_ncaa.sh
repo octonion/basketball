@@ -44,3 +44,6 @@ rm /tmp/ncaa_colors.csv
 cp csv/ncaa_geocodes.csv /tmp/ncaa_geocodes.csv
 psql basketball -f loaders/load_ncaa_geocodes.sql
 rm /tmp/ncaa_geocodes.csv
+
+psql basketball -f sql/geo.sql
+
