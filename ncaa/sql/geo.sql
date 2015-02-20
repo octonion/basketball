@@ -1,5 +1,8 @@
-drop function distance_in_km (numeric,numeric,numeric,numeric);
-drop function distance_in_km (float,float,float,float);
+
+create or replace language plperlu;
+
+--drop function distance_in_km (numeric,numeric,numeric,numeric);
+--drop function distance_in_km (float,float,float,float);
 
 create or replace function distance_in_km (float,float,float,float) returns float as
 $body$
