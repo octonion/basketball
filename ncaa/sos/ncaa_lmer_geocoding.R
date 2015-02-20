@@ -1,4 +1,4 @@
-sink("ncaa_lmer_geocoding.txt")
+sink("diagnostics/geo_lmer.txt")
 
 library("lme4")
 library("nortest")
@@ -39,7 +39,7 @@ join ncaa.geocodes team
 join ncaa.geocodes opponent
   on (opponent.school_id)=(r.opponent_id)
 where
-    r.year between 2002 and 2013
+    r.year between 2002 and 2015
 and r.school_div_id is not null
 and r.opponent_div_id is not null
 and r.team_score>0
@@ -47,8 +47,7 @@ and r.opponent_score>0
 and not(r.team_score,r.opponent_score)=(0,0)
 
 -- fit all excluding March and April
-
-and not(extract(month from r.game_date)) in (3,4)
+--and not(extract(month from r.game_date)) in (3,4)
 
 ;")
 
@@ -100,7 +99,8 @@ for (n in rpn) {
 # Model parameters
 
 parameter_levels <- as.data.frame(do.call("rbind",pll))
-dbWriteTable(con,c("ncaa","_parameter_levels"),parameter_levels,row.names=TRUE)
+dbWriteTable(con,c("ncaa","_geo_parameter_levels"),
+	parameter_levels, row.names=TRUE)
 
 g <- cbind(fp,rp)
 
@@ -168,7 +168,8 @@ for (n in rn) {
 
 combined <- as.data.frame(do.call("rbind",results))
 
-dbWriteTable(con,c("ncaa","_basic_factors"),as.data.frame(combined),row.names=TRUE)
+dbWriteTable(con, c("ncaa","_geocoded_basic_factors"),
+		  as.data.frame(combined), row.names=TRUE)
 
 f <- fitted(fit) 
 r <- residuals(fit)
@@ -198,16 +199,16 @@ sd(pvals)
 
 # Graph p-values
 
-jpeg("shapiro-francia.jpg")
+jpeg("diagnostics/geo_shapiro-francia.jpg")
 hist(pvals,xlim=c(0,1))
 abline(v=0.05,lty='dashed',lwd=2,col='red')
 quantile(pvals,prob=seq(0,1,0.05))
 
 # Examine residuals
 
-jpeg("fitted_vs_residuals.jpg")
+jpeg("diagnostics/geo_fitted_vs_residuals.jpg")
 plot(f,r)
-jpeg("q-q_plot.jpg")
+jpeg("diagnostics/geo_q-q_plot.jpg")
 qqnorm(r,main="Q-Q plot for residuals")
 
 quit("no")

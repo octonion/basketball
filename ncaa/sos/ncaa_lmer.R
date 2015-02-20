@@ -1,4 +1,4 @@
-sink("diagnostics/ncaa_lmer.txt")
+sink("diagnostics/lmer.txt")
 
 library("lme4")
 library("nortest")
@@ -24,8 +24,7 @@ ln(r.team_score::float) as log_ps
 from ncaa.results r
 
 where
-    r.year between 2002 and 2013
---and r.game_date < '2012/11/29'::date
+    r.year between 2002 and 2015
 and r.school_div_id is not null
 and r.opponent_div_id is not null
 and r.team_score>0
@@ -33,8 +32,7 @@ and r.opponent_score>0
 and not(r.team_score,r.opponent_score)=(0,0)
 
 -- fit all excluding March and April
-
-and not(extract(month from r.game_date)) in (3,4)
+--and not(extract(month from r.game_date)) in (3,4)
 
 ;")
 
@@ -49,7 +47,7 @@ pll <- list()
 # Fixed parameters
 
 year <- as.factor(year)
-contrasts(year)<-'contr.sum'
+#contrasts(year)<-'contr.sum'
 
 field <- as.factor(field)
 field <- relevel(field, ref = "none")
@@ -66,13 +64,13 @@ fpn <- names(fp)
 # Random parameters
 
 game_id <- as.factor(game_id)
-contrasts(game_id) <- 'contr.sum'
+#contrasts(game_id) <- 'contr.sum'
 
 offense <- as.factor(paste(year,"/",team,sep=""))
-contrasts(offense) <- 'contr.sum'
+#contrasts(offense) <- 'contr.sum'
 
 defense <- as.factor(paste(year,"/",opponent,sep=""))
-contrasts(defense) <- 'contr.sum'
+#contrasts(defense) <- 'contr.sum'
 
 rp <- data.frame(offense,defense)
 rpn <- names(rp)
@@ -104,18 +102,18 @@ g$log_ps <- log_ps
 
 dim(g)
 
-model0 <- log_ps ~ year+field+d_div+o_div+(1|offense)+(1|defense)
-fit0 <- lmer(model0,data=g,REML=T,verbose=T) #,control=list(maxIter=5000))
+#model0 <- log_ps ~ year+field+d_div+o_div+(1|offense)+(1|defense)
+#fit0 <- lmer(model0, data=g, REML=FALSE, verbose=TRUE)
 
 model <- log_ps ~ year+field+d_div+o_div+game_length+(1|offense)+(1|defense)+(1|game_id)
-fit <- lmer(model,data=g,REML=T,verbose=T)
+fit <- lmer(model, data=g, REML=FALSE, verbose=TRUE)
 
 fit
 summary(fit)
 
-anova(fit0)
+#anova(fit0)
 anova(fit)
-anova(fit0,fit)
+#anova(fit0,fit)
 
 # List of data frames
 
