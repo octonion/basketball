@@ -34,7 +34,7 @@ games_header = ["year","school_name","school_id","opponent_name","opponent_id",
 records_header = ["year","school_id","school_name","wins","losses","ties",
                   "total_games"]
 
-ncaa_schools = CSV.read("schools.csv")
+ncaa_schools = CSV.read("csv/schools.csv")
 
 schools = []
 ncaa_schools.each do |school|
@@ -50,8 +50,8 @@ last_year = 2014
 
 (first_year..last_year).each do |year|
 
-  ncaa_games = CSV.open("ncaa_games_#{year}_mt.csv","w",{:col_sep => "\t"})
-  ncaa_records = CSV.open("ncaa_records_#{year}_mt.csv","w",{:col_sep => "\t"})
+  ncaa_games = CSV.open("csv/ncaa_games_#{year}_mt.csv","w",{:col_sep => "\t"})
+  ncaa_records = CSV.open("csv/ncaa_records_#{year}_mt.csv","w",{:col_sep => "\t"})
 
   ncaa_games << games_header
   ncaa_records << records_header

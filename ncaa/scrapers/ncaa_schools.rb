@@ -11,7 +11,7 @@ url = "http://www.ncaa.com/stats/basketball-men/d1"
 
 url = "http://web1.ncaa.org/stats/StatsSrv/careersearch"
 
-results = CSV.open("ncaa_schools.csv","w")
+results = CSV.open("csv/ncaa_schools.csv","w")
 
 begin
   page = agent.get(url)

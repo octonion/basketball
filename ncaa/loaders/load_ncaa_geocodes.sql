@@ -6,6 +6,7 @@ create table ncaa.geocodes (
 	location		text,
         longitude		float,
 	latitude		float,
+	elevation		float,
 	primary key (school_id)
 );
 

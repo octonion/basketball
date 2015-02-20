@@ -1,4 +1,4 @@
-sink("ncaa_lmer.txt")
+sink("diagnostics/ncaa_lmer.txt")
 
 library("lme4")
 library("nortest")
@@ -189,16 +189,16 @@ sd(pvals)
 
 # Graph p-values
 
-jpeg("shapiro-francia.jpg")
+jpeg("diagnostics/shapiro-francia.jpg")
 hist(pvals,xlim=c(0,1))
 abline(v=0.05,lty='dashed',lwd=2,col='red')
 quantile(pvals,prob=seq(0,1,0.05))
 
 # Examine residuals
 
-jpeg("fitted_vs_residuals.jpg")
+jpeg("diagnostics/fitted_vs_residuals.jpg")
 plot(f,r)
-jpeg("q-q_plot.jpg")
+jpeg("diagnostics/q-q_plot.jpg")
 qqnorm(r,main="Q-Q plot for residuals")
 
 quit("no")
