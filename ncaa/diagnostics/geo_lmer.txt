@@ -1,0 +1,148 @@
+[1] 190840     10
+[1] TRUE
+[1] 190840      7
+start par. =  1 1 1 fn =  -200693.2 
+At return
+eval:  45 fn:     -202016.62 par: 0.836394 0.833769 0.848132
+start par. =  1 1 1 fn =  -200783.7 
+At return
+eval:  42 fn:     -202091.98 par: 0.837640 0.832918 0.848289
+start par. =  1 1 1 fn =  -200868.5 
+At return
+eval:  43 fn:     -202185.92 par: 0.837204 0.832914 0.846348
+Linear mixed model fit by maximum likelihood  ['lmerMod']
+Formula: log_ps ~ year + field + d_div + o_div + (1 | offense) + (1 |  
+    defense) + (1 | game_id) + team_distance + opponent_distance
+   Data: g
+      AIC       BIC    logLik  deviance  df.resid 
+-202155.9 -202003.5  101093.0 -202185.9    190825 
+Random effects:
+ Groups   Name        Std.Dev.
+ game_id  (Intercept) 0.08978 
+ defense  (Intercept) 0.08932 
+ offense  (Intercept) 0.09076 
+ Residual             0.10724 
+Number of obs: 190840, groups:  game_id, 95420; defense, 4076; offense, 4076
+Fixed Effects:
+      (Intercept)           year2013           year2014           year2015  
+        4.169e+00         -6.700e-03          4.342e-02          3.853e-03  
+fieldoffense_home             d_div2             d_div3             o_div2  
+        3.986e-02          1.540e-01          2.503e-01         -8.817e-02  
+           o_div3      team_distance  opponent_distance  
+       -2.108e-01         -1.342e-06          7.620e-06  
+Linear mixed model fit by maximum likelihood  ['lmerMod']
+Formula: log_ps ~ year + field + d_div + o_div + (1 | offense) + (1 |  
+    defense) + (1 | game_id) + team_distance + opponent_distance
+   Data: g
+
+      AIC       BIC    logLik  deviance  df.resid 
+-202155.9 -202003.5  101093.0 -202185.9    190825 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-5.2355 -0.5108  0.0372  0.5583  3.4420 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ game_id  (Intercept) 0.008061 0.08978 
+ defense  (Intercept) 0.007978 0.08932 
+ offense  (Intercept) 0.008238 0.09076 
+ Residual             0.011500 0.10724 
+Number of obs: 190840, groups:  game_id, 95420; defense, 4076; offense, 4076
+
+Fixed effects:
+                    Estimate Std. Error t value
+(Intercept)        4.169e+00  4.975e-03   838.0
+year2013          -6.700e-03  5.748e-03    -1.2
+year2014           4.342e-02  5.748e-03     7.6
+year2015           3.853e-03  5.754e-03     0.7
+fieldoffense_home  3.986e-02  5.924e-04    67.3
+d_div2             1.540e-01  4.790e-03    32.2
+d_div3             2.503e-01  4.604e-03    54.4
+o_div2            -8.817e-02  4.834e-03   -18.2
+o_div3            -2.108e-01  4.642e-03   -45.4
+team_distance     -1.342e-06  7.858e-07    -1.7
+opponent_distance  7.620e-06  7.859e-07     9.7
+
+Correlation of Fixed Effects:
+            (Intr) yr2013 yr2014 yr2015 fldff_ d_div2 d_div3 o_div2 o_div3
+year2013    -0.578                                                        
+year2014    -0.579  0.500                                                 
+year2015    -0.578  0.499  0.499                                          
+fildffns_hm -0.060  0.000  0.000  0.000                                   
+d_div2      -0.249  0.001  0.003  0.003 -0.044                            
+d_div3      -0.258  0.000  0.001  0.001 -0.063  0.411                     
+o_div2      -0.260  0.001  0.003  0.003  0.044 -0.411 -0.141              
+o_div3      -0.272  0.000  0.001  0.001  0.063 -0.141 -0.464  0.413       
+team_distnc -0.098 -0.001 -0.001 -0.003  0.236  0.013  0.033  0.023  0.030
+oppnnt_dstn -0.070 -0.001 -0.001 -0.003 -0.236  0.023  0.030  0.013  0.033
+            tm_dst
+year2013          
+year2014          
+year2015          
+fildffns_hm       
+d_div2            
+d_div3            
+o_div2            
+o_div3            
+team_distnc       
+oppnnt_dstn  0.564
+Analysis of Variance Table
+      Df Sum Sq Mean Sq  F value
+year   3  1.053   0.351   30.477
+field  1 94.696  94.696 8223.398
+d_div  2 17.868   8.934  775.807
+o_div  2 23.906  11.953 1037.979
+Analysis of Variance Table
+                  Df Sum Sq Mean Sq  F value
+year               3  1.056   0.352   30.609
+field              1 94.722  94.722 8236.359
+d_div              2 17.859   8.929  776.439
+o_div              2 23.957  11.978 1041.562
+team_distance      1  0.868   0.868   75.448
+opponent_distance  1  1.081   1.081   94.010
+Data: g
+Models:
+fit0: log_ps ~ year + field + d_div + o_div + (1 | offense) + (1 | 
+fit0:     defense) + (1 | game_id)
+fit: log_ps ~ year + field + d_div + o_div + (1 | offense) + (1 | 
+fit:     defense) + (1 | game_id) + team_distance + opponent_distance
+     Df     AIC     BIC logLik deviance Chisq Chi Df Pr(>Chisq)    
+fit0 13 -201991 -201859 101008  -202017                            
+fit  15 -202156 -202004 101093  -202186 169.3      2  < 2.2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Data: g
+Models:
+fit0: log_ps ~ year + field + d_div + o_div + (1 | offense) + (1 | 
+fit0:     defense) + (1 | game_id)
+fit1: log_ps ~ year + field + d_div + o_div + (1 | offense) + (1 | 
+fit1:     defense) + (1 | game_id) + team_distance
+     Df     AIC     BIC logLik deviance  Chisq Chi Df Pr(>Chisq)    
+fit0 13 -201991 -201859 101008  -202017                             
+fit1 14 -202064 -201922 101046  -202092 75.357      1  < 2.2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Data: g
+Models:
+fit1: log_ps ~ year + field + d_div + o_div + (1 | offense) + (1 | 
+fit1:     defense) + (1 | game_id) + team_distance
+fit: log_ps ~ year + field + d_div + o_div + (1 | offense) + (1 | 
+fit:     defense) + (1 | game_id) + team_distance + opponent_distance
+     Df     AIC     BIC logLik deviance  Chisq Chi Df Pr(>Chisq)    
+fit1 14 -202064 -201922 101046  -202092                             
+fit  15 -202156 -202004 101093  -202186 93.946      1  < 2.2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] TRUE
+[1] 8.299897e-10
+[1] 1.370124e-13
+[1] 8.169265e-09
+          0%           5%          10%          15%          20%          25% 
+3.672629e-20 4.538467e-17 2.411396e-16 1.084979e-15 2.673777e-15 5.472819e-15 
+         30%          35%          40%          45%          50%          55% 
+9.624901e-15 2.132089e-14 3.961622e-14 7.019128e-14 1.370124e-13 2.959636e-13 
+         60%          65%          70%          75%          80%          85% 
+5.808240e-13 1.146626e-12 2.039728e-12 4.578391e-12 1.194706e-11 3.219700e-11 
+         90%          95%         100% 
+9.691741e-11 4.373383e-10 1.594909e-07 

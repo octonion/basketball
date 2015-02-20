@@ -168,7 +168,7 @@ for (n in rn) {
 
 combined <- as.data.frame(do.call("rbind",results))
 
-dbWriteTable(con, c("ncaa","_geocoded_basic_factors"),
+dbWriteTable(con, c("ncaa","_geo_basic_factors"),
 		  as.data.frame(combined), row.names=TRUE)
 
 f <- fitted(fit) 
