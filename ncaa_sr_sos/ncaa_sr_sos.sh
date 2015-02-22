@@ -24,7 +24,7 @@ psql basketball -c "vacuum full verbose analyze ncaa_sr._schedule_factors;"
 
 psql basketball -f current_ranking.sql > current_ranking.txt
 
-psql basketball -f current_daily.sql > current_daily.txt
+psql basketball -f predict_daily.sql > predict_daily.txt
 
 psql basketball -f predict_uk.sql > predict_uk.txt
 

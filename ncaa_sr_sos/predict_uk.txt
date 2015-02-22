@@ -2,11 +2,11 @@ BEGIN
 SET
     date    |            home            |        away         | t_score | o_score | h_str | o_str | pr_home | pr_away 
 ------------+----------------------------+---------------------+---------+---------+-------+-------+---------+---------
- 2015-02-21 | Kentucky Wildcats          | Auburn Tigers       |    75.7 |    47.5 |  1.53 |  0.96 |    0.99 |    0.01
- 2015-02-25 | Mississippi State Bulldogs | Kentucky Wildcats   |    45.9 |    66.4 |  1.00 |  1.45 |    0.02 |    0.98
- 2015-02-28 | Kentucky Wildcats          | Arkansas Razorbacks |    73.2 |    54.0 |  1.53 |  1.13 |    0.95 |    0.05
- 2015-03-03 | Georgia Bulldogs           | Kentucky Wildcats   |    51.4 |    64.4 |  1.15 |  1.45 |    0.10 |    0.90
- 2015-03-07 | Kentucky Wildcats          | Florida Gators      |    62.5 |    46.6 |  1.53 |  1.14 |    0.95 |    0.05
+ 2015-02-21 | Kentucky Wildcats          | Auburn Tigers       |    75.7 |    47.6 |  1.53 |  0.96 |    0.99 |    0.01
+ 2015-02-25 | Mississippi State Bulldogs | Kentucky Wildcats   |    46.0 |    66.5 |  1.00 |  1.45 |    0.02 |    0.98
+ 2015-02-28 | Kentucky Wildcats          | Arkansas Razorbacks |    73.1 |    54.0 |  1.53 |  1.13 |    0.95 |    0.05
+ 2015-03-03 | Georgia Bulldogs           | Kentucky Wildcats   |    51.4 |    64.3 |  1.15 |  1.45 |    0.10 |    0.90
+ 2015-03-07 | Kentucky Wildcats          | Florida Gators      |    62.5 |    46.5 |  1.53 |  1.14 |    0.95 |    0.05
 (5 rows)
 
 COMMIT
