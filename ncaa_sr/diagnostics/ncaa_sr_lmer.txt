@@ -18,9 +18,9 @@ Fixed Effects:
       (Intercept)           year1981           year1982           year1983  
         4.2388823         -0.0274784         -0.0678256         -0.0393153  
          year1984           year1985           year1986           year1987  
-       -0.0545462         -0.0349939         -0.0347387          0.0107122  
+       -0.0545462         -0.0349939         -0.0347387          0.0107123  
          year1988           year1989           year1990           year1991  
-        0.0265734          0.0525919          0.0408900          0.0614908  
+        0.0265735          0.0525919          0.0408900          0.0614908  
          year1992           year1993           year1994           year1995  
         0.0254581          0.0236365          0.0452265          0.0285416  
          year1996           year1997           year1998           year1999  
@@ -36,7 +36,7 @@ Fixed Effects:
 fielddefense_home       fieldneutral  fieldoffense_home     game_length1OT  
        -0.0131930         -0.0005221          0.0464297          0.1009842  
    game_length2OT     game_length3OT     game_length4OT     game_length5OT  
-        0.2061824          0.2901358          0.3782189          0.4641924  
+        0.2061824          0.2901358          0.3782189          0.4641923  
    game_length6OT     game_length7OT  
         0.5196884          0.1552557  
 Linear mixed model fit by maximum likelihood  ['lmerMod']
@@ -49,7 +49,7 @@ Formula: log_ps ~ year + field + game_length + (1 | offense) + (1 | defense) +
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--6.4318 -0.5053  0.0322  0.5435  3.9977 
+-6.4317 -0.5053  0.0322  0.5435  3.9977 
 
 Random effects:
  Groups   Name        Variance Std.Dev.
@@ -68,8 +68,8 @@ year1983          -0.0393153  0.0112949    -3.5
 year1984          -0.0545462  0.0112827    -4.8
 year1985          -0.0349939  0.0112142    -3.1
 year1986          -0.0347387  0.0112036    -3.1
-year1987           0.0107122  0.0111373     1.0
-year1988           0.0265734  0.0111355     2.4
+year1987           0.0107123  0.0111373     1.0
+year1988           0.0265735  0.0111355     2.4
 year1989           0.0525919  0.0111069     4.7
 year1990           0.0408900  0.0111146     3.7
 year1991           0.0614908  0.0110866     5.5
@@ -103,9 +103,9 @@ fieldoffense_home  0.0464297  0.0011993    38.7
 game_length1OT     0.1009842  0.0019466    51.9
 game_length2OT     0.2061824  0.0046636    44.2
 game_length3OT     0.2901358  0.0111894    25.9
-game_length4OT     0.3782189  0.0259798    14.6
-game_length5OT     0.4641924  0.1236846     3.8
-game_length6OT     0.5196884  0.1238624     4.2
+game_length4OT     0.3782189  0.0259799    14.6
+game_length5OT     0.4641923  0.1236847     3.8
+game_length6OT     0.5196884  0.1238625     4.2
 game_length7OT     0.1552557  0.1246297     1.2
 Linear mixed model fit by maximum likelihood  ['lmerMod']
 Formula: log_ps ~ year * field + game_length + (1 | offense) + (1 | defense) +  
@@ -128,7 +128,7 @@ Fixed Effects:
                   year1984                    year1985  
                  -0.098704                   -0.079842  
                   year1986                    year1987  
-                 -0.070226                   -0.010068  
+                 -0.070227                   -0.010068  
                   year1988                    year1989  
                  -0.015777                    0.005694  
                   year1990                    year1991  
@@ -160,7 +160,7 @@ Fixed Effects:
          fielddefense_home                fieldneutral  
                  -0.057633                   -0.011795  
          fieldoffense_home              game_length1OT  
-                 -0.002652                    0.101033  
+                 -0.002651                    0.101033  
             game_length2OT              game_length3OT  
                   0.206182                    0.290195  
             game_length4OT              game_length5OT  
@@ -301,7 +301,7 @@ year1982                   -0.108749   0.015498    -7.0
 year1983                   -0.097407   0.015470    -6.3
 year1984                   -0.098704   0.015434    -6.4
 year1985                   -0.079842   0.015312    -5.2
-year1986                   -0.070226   0.015231    -4.6
+year1986                   -0.070227   0.015231    -4.6
 year1987                   -0.010068   0.015056    -0.7
 year1988                   -0.015777   0.015111    -1.0
 year1989                    0.005694   0.015040     0.4
@@ -333,7 +333,7 @@ year2014                   -0.060549   0.014327    -4.2
 year2015                   -0.117704   0.015514    -7.6
 fielddefense_home          -0.057633   0.008532    -6.8
 fieldneutral               -0.011795   0.008707    -1.4
-fieldoffense_home          -0.002652   0.008515    -0.3
+fieldoffense_home          -0.002651   0.008515    -0.3
 game_length1OT              0.101033   0.001946    51.9
 game_length2OT              0.206182   0.004662    44.2
 game_length3OT              0.290195   0.011186    25.9
@@ -449,12 +449,12 @@ year2015:fieldoffense_home  0.042965   0.012125     3.5
 Analysis of Variance Table
             Df  Sum Sq Mean Sq  F value
 year        35   9.206   0.263   23.364
-field        3 232.937  77.646 6896.844
-game_length  7  61.162   8.737  776.095
+field        3 232.937  77.646 6896.851
+game_length  7  61.161   8.737  776.094
 Analysis of Variance Table
              Df  Sum Sq Mean Sq   F value
 year         35   9.195   0.263   23.3572
-field         3 232.906  77.635 6902.6936
+field         3 232.906  77.635 6902.6939
 game_length   7  61.148   8.735  776.6888
 year:field  105   2.839   0.027    2.4044
 Data: g
