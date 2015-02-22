@@ -19,7 +19,6 @@ years = CSV.open("csv/years.csv", "r",
 games = CSV.open("csv/games_current.csv", "w",
                  {:col_sep => ","})
 
-
 #G 	Date 	Time 	Network 	Type 		Opponent 	Conf 		Tm 	Opp 	OT 	W 	L 	Streak
 
 header = ["year", "school_id", "school_name",

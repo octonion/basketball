@@ -1,8 +1,8 @@
-sink("diagnostics/ncaa_sr_lmer.txt")
+sink("diagnostics/ncaa_sr_nbinom.txt")
 
-library("lme4")
-library("nortest")
-library("RPostgreSQL")
+library(lme4)
+library(nortest)
+library(RPostgreSQL)
 
 drv <- dbDriver("PostgreSQL")
 
@@ -26,6 +26,7 @@ r.opponent_id as opponent,
 --r.team_previous as team_previous,
 --r.opponent_previous as opponent_previous,
 r.game_length as game_length,
+r.team_score as ps,
 ln(r.team_score::float) as log_ps
 from ncaa_sr.results r
 where
@@ -98,18 +99,18 @@ dbWriteTable(con,c("ncaa_sr","_parameter_levels"),parameter_levels,row.names=TRU
 
 g <- cbind(fp,rp)
 
-g$log_ps <- log_ps
+g$ps <- ps
 
 dim(g)
 
-model0 <- log_ps ~ year+field+game_length+(1|offense)+(1|defense)+(1|game_id)
-fit0 <- lmer(model0, data=g, REML=FALSE)
-fit0
-summary(fit0)
+model <- ps ~ year+field+game_length+(1|offense)+(1|defense)+(1|game_id)
+fit <- glmer(model, data=g, REML=FALSE)
+#fit0
+#summary(fit0)
 
-model <- log_ps ~ year*field+game_length+(1|offense)+(1|defense)+(1|game_id)
+#model <- log_ps ~ year*field+game_length+(1|offense)+(1|defense)+(1|game_id)
 
-fit <- lmer(model, data=g, REML=FALSE)
+#fit <- lmer(model, data=g, REML=FALSE)
 fit
 summary(fit)
 
