@@ -3,356 +3,356 @@ CREATE TABLE
 INSERT 0 350
  rk  |                  team                  |  str  |  ofs  |  dfs  |  sos  
 -----+----------------------------------------+-------+-------+-------+-------
-   1 | Kentucky Wildcats                      | 1.527 | 1.155 | 0.757 | 1.034
-   2 | Virginia Cavaliers                     | 1.418 | 1.047 | 0.739 | 1.029
-   3 | Wisconsin Badgers                      | 1.394 | 1.139 | 0.817 | 1.029
-   4 | Utah Utes                              | 1.347 | 1.109 | 0.823 | 1.020
-   5 | Arizona Wildcats                       | 1.344 | 1.172 | 0.872 | 1.019
-   6 | Duke Blue Devils                       | 1.341 | 1.261 | 0.941 | 1.033
-   7 | Gonzaga Bulldogs                       | 1.337 | 1.202 | 0.899 | 1.007
-   8 | Villanova Wildcats                     | 1.319 | 1.164 | 0.883 | 1.025
-   9 | Ohio State Buckeyes                    | 1.308 | 1.184 | 0.905 | 1.018
-  10 | North Carolina Tar Heels               | 1.295 | 1.259 | 0.972 | 1.048
-  11 | Oklahoma Sooners                       | 1.292 | 1.149 | 0.889 | 1.035
-  12 | Louisville Cardinals                   | 1.282 | 1.092 | 0.852 | 1.033
-  13 | Baylor Bears                           | 1.281 | 1.096 | 0.856 | 1.038
-  14 | Iowa State Cyclones                    | 1.272 | 1.251 | 0.984 | 1.032
-  15 | Kansas Jayhawks                        | 1.268 | 1.180 | 0.930 | 1.052
-  16 | Wichita State Shockers                 | 1.260 | 1.092 | 0.867 | 1.000
-  17 | Texas Longhorns                        | 1.255 | 1.087 | 0.866 | 1.036
-  18 | Notre Dame Fighting Irish              | 1.244 | 1.198 | 0.963 | 1.006
-  19 | Michigan State Spartans                | 1.242 | 1.112 | 0.895 | 1.023
-  20 | Butler Bulldogs                        | 1.229 | 1.080 | 0.878 | 1.020
-  21 | Xavier Musketeers                      | 1.220 | 1.168 | 0.958 | 1.033
-  22 | West Virginia Mountaineers             | 1.218 | 1.156 | 0.949 | 1.031
-  23 | Northern Iowa Panthers                 | 1.216 | 1.004 | 0.825 | 0.992
-  24 | Georgetown Hoyas                       | 1.214 | 1.104 | 0.909 | 1.039
-  25 | San Diego State Aztecs                 | 1.213 | 0.977 | 0.806 | 1.010
-  26 | Iowa Hawkeyes                          | 1.202 | 1.088 | 0.905 | 1.032
-  27 | Florida Gators                         | 1.200 | 1.027 | 0.856 | 1.035
-  28 | Southern Methodist Mustangs            | 1.194 | 1.072 | 0.897 | 1.004
-  29 | Oklahoma State Cowboys                 | 1.193 | 1.069 | 0.896 | 1.044
-  30 | Arkansas Razorbacks                    | 1.192 | 1.189 | 0.998 | 1.013
-  31 | Virginia Commonwealth Rams             | 1.192 | 1.141 | 0.957 | 1.021
-  32 | Purdue Boilermakers                    | 1.190 | 1.083 | 0.910 | 1.022
-  33 | Brigham Young Cougars                  | 1.186 | 1.250 | 1.053 | 1.010
-  34 | North Carolina State Wolfpack          | 1.182 | 1.121 | 0.948 | 1.040
-  35 | Providence Friars                      | 1.178 | 1.100 | 0.933 | 1.037
-  36 | Davidson Wildcats                      | 1.175 | 1.198 | 1.019 | 0.994
-  37 | Mississippi Rebels                     | 1.173 | 1.134 | 0.967 | 1.023
-  38 | Boise State Broncos                    | 1.173 | 1.066 | 0.909 | 0.999
-  39 | Maryland Terrapins                     | 1.173 | 1.093 | 0.931 | 1.031
-  40 | Stanford Cardinal                      | 1.169 | 1.107 | 0.947 | 1.018
-  41 | Miami (FL) Hurricanes                  | 1.169 | 1.060 | 0.907 | 1.025
-  42 | Syracuse Orange                        | 1.168 | 1.073 | 0.919 | 1.022
-  43 | St. John's (NY) Red Storm              | 1.166 | 1.101 | 0.944 | 1.034
-  44 | Illinois Fighting Illini               | 1.166 | 1.085 | 0.930 | 1.020
-  45 | Georgia Bulldogs                       | 1.158 | 1.072 | 0.926 | 1.027
-  46 | Texas Christian Horned Frogs           | 1.155 | 1.036 | 0.897 | 1.012
-  47 | Indiana Hoosiers                       | 1.154 | 1.210 | 1.048 | 1.025
-  48 | Minnesota Golden Gophers               | 1.151 | 1.119 | 0.972 | 1.024
-  49 | Vanderbilt Commodores                  | 1.148 | 1.070 | 0.932 | 1.022
-  50 | Texas A&M Aggies                       | 1.147 | 1.046 | 0.912 | 1.023
-  51 | Louisiana State Fighting Tigers        | 1.146 | 1.142 | 0.997 | 1.019
-  52 | Arizona State Sun Devils               | 1.146 | 1.090 | 0.951 | 1.020
-  53 | Dayton Flyers                          | 1.144 | 1.046 | 0.915 | 0.999
-  54 | Cincinnati Bearcats                    | 1.143 | 0.969 | 0.848 | 1.011
-  55 | Rhode Island Rams                      | 1.142 | 1.025 | 0.898 | 0.996
-  56 | Colorado State Rams                    | 1.142 | 1.123 | 0.983 | 1.004
-  57 | Stephen F. Austin Lumberjacks          | 1.135 | 1.103 | 0.972 | 0.968
-  58 | Alabama Crimson Tide                   | 1.134 | 1.040 | 0.917 | 1.026
-  59 | South Carolina Gamecocks               | 1.132 | 1.026 | 0.907 | 1.039
-  60 | Old Dominion Monarchs                  | 1.132 | 0.981 | 0.866 | 0.993
-  61 | Richmond Spiders                       | 1.124 | 1.007 | 0.897 | 1.010
-  62 | Buffalo Bulls                          | 1.124 | 1.138 | 1.012 | 0.996
-  63 | Saint Mary's (CA) Gaels                | 1.121 | 1.047 | 0.935 | 1.013
-  64 | Illinois State Redbirds                | 1.118 | 1.052 | 0.940 | 1.000
-  65 | Connecticut Huskies                    | 1.117 | 1.026 | 0.918 | 1.002
-  66 | Pittsburgh Panthers                    | 1.117 | 1.045 | 0.935 | 1.029
-  67 | Georgia State Panthers                 | 1.117 | 1.049 | 0.939 | 0.973
-  68 | UCLA Bruins                            | 1.117 | 1.095 | 0.981 | 1.036
-  69 | Seton Hall Pirates                     | 1.113 | 1.074 | 0.965 | 1.027
-  70 | Murray State Breds                     | 1.111 | 1.138 | 1.024 | 0.964
-  71 | Temple Owls                            | 1.110 | 1.011 | 0.911 | 1.007
-  72 | Louisiana Tech Bulldogs                | 1.110 | 1.092 | 0.983 | 0.976
-  73 | Texas-El Paso Miners                   | 1.108 | 1.043 | 0.941 | 0.989
-  74 | Sam Houston State Bearkats             | 1.108 | 1.011 | 0.913 | 0.957
-  75 | Green Bay Phoenix                      | 1.107 | 1.027 | 0.927 | 0.992
-  76 | Tulsa Golden Hurricane                 | 1.107 | 1.005 | 0.908 | 0.999
-  77 | Oregon Ducks                           | 1.106 | 1.119 | 1.012 | 1.018
-  78 | Memphis Tigers                         | 1.104 | 1.046 | 0.948 | 1.004
-  79 | Valparaiso Crusaders                   | 1.103 | 1.020 | 0.924 | 0.976
-  80 | Central Michigan Chippewas             | 1.103 | 1.105 | 1.002 | 0.980
-  81 | Toledo Rockets                         | 1.101 | 1.130 | 1.026 | 0.992
-  82 | Harvard Crimson                        | 1.094 | 0.959 | 0.876 | 0.988
-  83 | George Washington Colonials            | 1.093 | 1.001 | 0.916 | 0.998
-  84 | New Mexico State Aggies                | 1.092 | 1.026 | 0.940 | 0.973
-  85 | Iona Gaels                             | 1.089 | 1.196 | 1.098 | 0.975
-  86 | Georgia Tech Yellow Jackets            | 1.086 | 1.001 | 0.922 | 1.033
-  87 | Michigan Wolverines                    | 1.084 | 0.980 | 0.903 | 1.036
-  88 | Washington Huskies                     | 1.083 | 1.070 | 0.988 | 1.011
-  89 | Clemson Tigers                         | 1.082 | 0.961 | 0.888 | 1.029
-  90 | Nevada-Las Vegas Rebels                | 1.082 | 1.046 | 0.967 | 1.007
-  91 | Wake Forest Demon Deacons              | 1.081 | 1.090 | 1.008 | 1.029
-  92 | South Dakota State Jackrabbits         | 1.081 | 1.066 | 0.987 | 0.973
-  93 | Marquette Golden Eagles                | 1.080 | 1.025 | 0.949 | 1.035
-  94 | Oregon State Beavers                   | 1.078 | 0.913 | 0.847 | 1.010
-  95 | La Salle Explorers                     | 1.078 | 1.003 | 0.931 | 1.004
-  96 | Yale Elis                              | 1.077 | 1.010 | 0.937 | 0.986
-  97 | Penn State Nittany Lions               | 1.077 | 1.024 | 0.951 | 1.021
-  98 | William & Mary Tribe                   | 1.076 | 1.090 | 1.013 | 0.982
-  99 | Kansas State Wildcats                  | 1.075 | 0.999 | 0.929 | 1.036
- 100 | Hofstra Pride                          | 1.075 | 1.148 | 1.068 | 0.963
- 101 | Bowling Green State Falcons            | 1.075 | 0.976 | 0.908 | 0.982
- 102 | Wofford Terriers                       | 1.073 | 0.953 | 0.888 | 0.979
- 103 | Northwestern Wildcats                  | 1.073 | 0.982 | 0.915 | 1.026
- 104 | Tennessee Volunteers                   | 1.072 | 0.998 | 0.930 | 1.028
- 105 | Colorado Buffaloes                     | 1.071 | 1.007 | 0.940 | 1.022
- 106 | California-Santa Barbara Gauchos       | 1.070 | 1.021 | 0.954 | 0.993
- 107 | Nebraska Cornhuskers                   | 1.069 | 0.955 | 0.894 | 1.025
- 108 | San Diego Toreros                      | 1.067 | 0.998 | 0.936 | 1.005
- 109 | California-Irvine Anteaters            | 1.065 | 1.029 | 0.966 | 0.986
- 110 | North Carolina Central Eagles          | 1.062 | 0.935 | 0.880 | 0.944
- 111 | Wyoming Cowboys                        | 1.062 | 0.933 | 0.879 | 0.981
- 112 | Massachusetts Minutemen                | 1.062 | 1.063 | 1.001 | 1.012
- 113 | Pepperdine Waves                       | 1.060 | 0.982 | 0.926 | 0.999
- 114 | Creighton Bluejays                     | 1.059 | 1.028 | 0.971 | 1.023
- 115 | San Francisco Dons                     | 1.058 | 1.052 | 0.995 | 1.004
- 116 | Florida State Seminoles                | 1.058 | 1.041 | 0.984 | 1.019
- 117 | California-Davis Aggies                | 1.057 | 1.067 | 1.009 | 0.966
- 118 | Cleveland State Vikings                | 1.054 | 0.984 | 0.934 | 0.987
- 119 | New Mexico Lobos                       | 1.054 | 0.968 | 0.919 | 0.996
- 120 | Akron Zips                             | 1.052 | 1.019 | 0.968 | 0.984
- 121 | Kent State Golden Flashes              | 1.052 | 0.974 | 0.925 | 0.983
- 122 | Vermont Catamounts                     | 1.051 | 0.968 | 0.921 | 0.958
- 123 | Eastern Kentucky Colonels              | 1.050 | 1.029 | 0.980 | 0.969
- 124 | Utah State Aggies                      | 1.049 | 1.002 | 0.956 | 0.985
- 125 | Portland Pilots                        | 1.047 | 1.055 | 1.008 | 0.996
- 126 | Charlotte 49ers                        | 1.046 | 1.101 | 1.052 | 0.986
- 127 | Long Beach State 49ers                 | 1.043 | 1.024 | 0.982 | 1.016
- 128 | Boston College Eagles                  | 1.043 | 1.019 | 0.977 | 1.033
- 129 | St. Bonaventure Bonnies                | 1.042 | 1.017 | 0.976 | 0.997
- 130 | Northeastern Huskies                   | 1.042 | 1.021 | 0.980 | 0.984
- 131 | DePaul Blue Demons                     | 1.041 | 1.114 | 1.070 | 1.030
- 132 | California Golden Bears                | 1.040 | 1.007 | 0.968 | 1.011
- 133 | Eastern Michigan Eagles                | 1.040 | 1.000 | 0.961 | 0.988
- 134 | Columbia Lions                         | 1.040 | 0.963 | 0.926 | 0.988
- 135 | Stony Brook Seawolves                  | 1.035 | 0.980 | 0.947 | 0.971
- 136 | Evansville Purple Aces                 | 1.033 | 1.032 | 0.999 | 0.981
- 137 | Eastern Washington Eagles              | 1.029 | 1.123 | 1.091 | 0.970
- 138 | Coastal Carolina Chanticleers          | 1.027 | 1.013 | 0.986 | 0.954
- 139 | Florida Gulf Coast Eagles              | 1.025 | 0.985 | 0.961 | 0.967
- 140 | Louisiana-Lafayette Ragin' Cajuns      | 1.024 | 1.095 | 1.070 | 0.970
- 141 | Canisius Golden Griffins               | 1.023 | 0.958 | 0.937 | 0.978
- 142 | Albany (NY) Great Danes                | 1.023 | 0.978 | 0.956 | 0.959
- 143 | Western Kentucky Hilltoppers           | 1.022 | 1.058 | 1.035 | 0.990
- 144 | Hawaii Warriors                        | 1.022 | 1.059 | 1.036 | 0.990
- 145 | Loyola (IL) Ramblers                   | 1.021 | 0.946 | 0.926 | 0.996
- 146 | Auburn Tigers                          | 1.020 | 1.067 | 1.046 | 1.029
- 147 | Georgia Southern Eagles                | 1.018 | 0.992 | 0.974 | 0.959
- 148 | Alabama-Birmingham Blazers             | 1.017 | 1.016 | 0.999 | 0.989
- 149 | North Florida Ospreys                  | 1.016 | 1.086 | 1.069 | 0.958
- 150 | Western Michigan Broncos               | 1.015 | 1.070 | 1.054 | 0.991
- 151 | Cal Poly Mustangs                      | 1.013 | 0.922 | 0.911 | 0.977
- 152 | Montana Grizzlies                      | 1.008 | 0.992 | 0.984 | 0.970
- 153 | St. Francis (NY) Terriers              | 1.007 | 1.006 | 0.999 | 0.959
- 154 | Texas Tech Red Raiders                 | 1.005 | 0.928 | 0.923 | 1.028
- 155 | Mississippi State Bulldogs             | 1.004 | 0.959 | 0.955 | 1.010
- 156 | South Carolina Upstate Spartans        | 1.004 | 0.999 | 0.995 | 0.947
- 157 | Oakland Golden Grizzlies               | 1.002 | 1.088 | 1.085 | 1.002
- 158 | High Point Panthers                    | 1.001 | 1.009 | 1.009 | 0.968
- 159 | Rider Broncs                           | 1.001 | 0.975 | 0.974 | 0.973
- 160 | Southern California Trojans            | 1.000 | 1.029 | 1.028 | 1.020
- 161 | North Dakota State Bison               | 1.000 | 0.951 | 0.951 | 0.965
- 162 | Indiana State Sycamores                | 0.998 | 1.028 | 1.030 | 0.993
- 163 | Belmont Bruins                         | 0.998 | 1.073 | 1.075 | 0.971
- 164 | Chattanooga Mocs                       | 0.998 | 1.020 | 1.022 | 0.975
- 165 | Middle Tennessee Blue Raiders          | 0.997 | 0.934 | 0.936 | 0.986
- 166 | Quinnipiac Bobcats                     | 0.997 | 1.017 | 1.020 | 0.976
- 167 | New Hampshire Wildcats                 | 0.993 | 0.978 | 0.985 | 0.956
- 168 | Virginia Tech Hokies                   | 0.993 | 1.005 | 1.012 | 1.012
- 169 | Texas-Arlington Mavericks              | 0.992 | 1.064 | 1.073 | 0.981
- 170 | Colgate Raiders                        | 0.989 | 0.965 | 0.976 | 0.975
- 171 | Morehead State Eagles                  | 0.989 | 0.981 | 0.992 | 0.978
- 172 | Princeton Tigers                       | 0.988 | 1.015 | 1.028 | 0.978
- 173 | Tennessee-Martin Skyhawks              | 0.987 | 0.997 | 1.010 | 0.964
- 174 | Winthrop Eagles                        | 0.987 | 1.033 | 1.046 | 0.952
- 175 | Monmouth Hawks                         | 0.987 | 0.961 | 0.974 | 0.971
- 176 | Louisiana-Monroe Warhawks              | 0.986 | 0.917 | 0.930 | 0.975
- 177 | Mercer Bears                           | 0.985 | 0.942 | 0.956 | 0.968
- 178 | North Carolina-Wilmington Seahawks     | 0.985 | 1.012 | 1.027 | 0.978
- 179 | James Madison Dukes                    | 0.984 | 1.006 | 1.022 | 0.987
- 180 | Texas-San Antonio Roadrunners          | 0.983 | 1.052 | 1.070 | 0.976
- 181 | Detroit Mercy Titans                   | 0.983 | 1.040 | 1.058 | 0.990
- 182 | Air Force Falcons                      | 0.982 | 0.980 | 0.998 | 0.985
- 183 | Saint Joseph's Hawks                   | 0.981 | 0.940 | 0.958 | 0.998
- 184 | Incarnate Word Cardinals               | 0.979 | 1.110 | 1.134 | 0.959
- 185 | Manhattan Jaspers                      | 0.979 | 1.028 | 1.049 | 0.970
- 186 | IPFW Mastodons                         | 0.978 | 1.015 | 1.038 | 0.973
- 187 | Missouri Tigers                        | 0.977 | 0.968 | 0.991 | 1.044
- 188 | Lehigh Mountain Hawks                  | 0.977 | 0.998 | 1.021 | 0.966
- 189 | Tulane Green Wave                      | 0.974 | 0.952 | 0.978 | 0.991
- 190 | Charleston Southern Buccaneers         | 0.974 | 1.024 | 1.052 | 0.963
- 191 | Cornell Big Red                        | 0.973 | 0.943 | 0.970 | 0.977
- 192 | Rutgers Scarlet Knights                | 0.973 | 0.932 | 0.958 | 1.025
- 193 | Radford Highlanders                    | 0.972 | 1.008 | 1.037 | 0.965
- 194 | Northern Illinois Huskies              | 0.972 | 0.958 | 0.986 | 0.988
- 195 | Dartmouth Big Green                    | 0.972 | 0.944 | 0.972 | 0.970
- 196 | Northern Arizona Lumberjacks           | 0.970 | 0.987 | 1.018 | 0.971
- 197 | Northwestern State Demons              | 0.970 | 1.195 | 1.231 | 0.970
- 198 | NJIT Highlanders                       | 0.970 | 1.013 | 1.045 | 0.964
- 199 | Washington State Cougars               | 0.969 | 1.070 | 1.104 | 1.018
- 200 | Norfolk State Spartans                 | 0.969 | 1.010 | 1.043 | 0.960
- 201 | American Eagles                        | 0.969 | 0.854 | 0.882 | 0.973
- 202 | Bucknell Bison                         | 0.969 | 0.992 | 1.024 | 0.975
- 203 | East Tennessee State Buccaneers        | 0.967 | 1.047 | 1.083 | 0.974
- 204 | Boston University Terriers             | 0.967 | 1.037 | 1.072 | 0.975
- 205 | Lafayette Leopards                     | 0.967 | 1.074 | 1.111 | 0.969
- 206 | Saint Peter's Peacocks                 | 0.967 | 0.906 | 0.937 | 0.968
- 207 | East Carolina Pirates                  | 0.966 | 0.955 | 0.989 | 0.991
- 208 | Santa Clara Broncos                    | 0.965 | 0.954 | 0.989 | 1.011
- 209 | Fresno State Bulldogs                  | 0.964 | 1.000 | 1.037 | 0.994
- 210 | George Mason Patriots                  | 0.960 | 0.981 | 1.022 | 1.017
- 211 | Miami (OH) RedHawks                    | 0.958 | 0.989 | 1.032 | 0.992
- 212 | Idaho Vandals                          | 0.957 | 1.084 | 1.133 | 0.968
- 213 | Sacramento State Hornets               | 0.957 | 0.997 | 1.042 | 0.963
- 214 | Duquesne Dukes                         | 0.956 | 1.069 | 1.119 | 0.995
- 215 | Robert Morris Colonials                | 0.956 | 0.988 | 1.033 | 0.970
- 216 | Fordham Rams                           | 0.953 | 0.992 | 1.041 | 1.005
- 217 | Missouri State Bears                   | 0.952 | 0.931 | 0.978 | 1.003
- 218 | Oral Roberts Golden Eagles             | 0.952 | 1.013 | 1.064 | 0.979
- 219 | Gardner-Webb Runnin' Bulldogs          | 0.950 | 1.069 | 1.125 | 0.969
- 220 | Ball State Cardinals                   | 0.950 | 0.978 | 1.029 | 0.991
- 221 | South Dakota Coyotes                   | 0.950 | 1.007 | 1.060 | 0.966
- 222 | Maryland-Eastern Shore Hawks           | 0.949 | 0.985 | 1.038 | 0.953
- 223 | Eastern Illinois Panthers              | 0.946 | 0.921 | 0.973 | 0.975
- 224 | North Texas Mean Green                 | 0.946 | 0.961 | 1.015 | 0.984
- 225 | Western Carolina Catamounts            | 0.946 | 1.024 | 1.082 | 0.974
- 226 | Southern Illinois Salukis              | 0.945 | 0.930 | 0.984 | 0.982
- 227 | Rice Owls                              | 0.944 | 0.934 | 0.989 | 0.984
- 228 | Pacific Tigers                         | 0.943 | 0.962 | 1.020 | 1.010
- 229 | Denver Pioneers                        | 0.943 | 0.910 | 0.965 | 0.977
- 230 | Texas Southern Tigers                  | 0.943 | 0.947 | 1.004 | 0.960
- 231 | Wright State Raiders                   | 0.943 | 0.957 | 1.015 | 0.989
- 232 | Houston Cougars                        | 0.942 | 0.975 | 1.035 | 0.987
- 233 | Loyola Marymount Lions                 | 0.942 | 0.962 | 1.022 | 1.017
- 234 | Mount St. Mary's Mountaineers          | 0.942 | 0.916 | 0.973 | 0.969
- 235 | Milwaukee Panthers                     | 0.941 | 0.975 | 1.036 | 0.996
- 236 | North Carolina-Asheville Bulldogs      | 0.941 | 1.016 | 1.079 | 0.965
- 237 | Southeast Missouri State Redhawks      | 0.940 | 0.991 | 1.055 | 0.973
- 238 | Northern Colorado Bears                | 0.940 | 1.046 | 1.112 | 0.959
- 239 | California-Riverside Highlanders       | 0.940 | 0.956 | 1.017 | 0.984
- 240 | Bryant Bulldogs                        | 0.940 | 0.980 | 1.042 | 0.967
- 241 | Tennessee Tech Golden Eagles           | 0.938 | 1.016 | 1.083 | 0.968
- 242 | Army Black Knights                     | 0.938 | 1.059 | 1.129 | 0.964
- 243 | Ohio Bobcats                           | 0.938 | 0.999 | 1.066 | 0.995
- 244 | Saint Francis (PA) Red Flash           | 0.937 | 0.930 | 0.993 | 0.961
- 245 | Arkansas-Little Rock Trojans           | 0.936 | 0.994 | 1.062 | 0.969
- 246 | Southern Illinois-Edwardsville Cougars | 0.935 | 0.964 | 1.031 | 0.968
- 247 | Texas State Bobcats                    | 0.934 | 0.860 | 0.921 | 0.979
- 248 | Central Florida Knights                | 0.932 | 0.989 | 1.061 | 0.995
- 249 | Towson Tigers                          | 0.932 | 0.928 | 0.995 | 0.970
- 250 | Holy Cross Crusaders                   | 0.930 | 0.945 | 1.016 | 0.977
- 251 | Drexel Dragons                         | 0.929 | 0.906 | 0.975 | 0.985
- 252 | Brown Bears                            | 0.929 | 0.999 | 1.076 | 0.985
- 253 | Bradley Braves                         | 0.929 | 0.886 | 0.954 | 0.998
- 254 | Seattle Redhawks                       | 0.928 | 0.911 | 0.982 | 0.961
- 255 | Cal State Bakersfield Roadrunners      | 0.928 | 0.910 | 0.981 | 0.957
- 256 | Sacred Heart Pioneers                  | 0.927 | 1.033 | 1.115 | 0.963
- 257 | Saint Louis Billikens                  | 0.925 | 0.928 | 1.003 | 1.005
- 258 | Youngstown State Penguins              | 0.925 | 1.052 | 1.138 | 0.983
- 259 | Texas A&M-Corpus Christi Islanders     | 0.924 | 0.942 | 1.019 | 0.960
- 260 | Grand Canyon Antelopes                 | 0.924 | 0.996 | 1.077 | 0.968
- 261 | Portland State Vikings                 | 0.924 | 1.013 | 1.097 | 0.965
- 262 | Elon Phoenix                           | 0.923 | 0.997 | 1.081 | 0.975
- 263 | Nevada Wolf Pack                       | 0.921 | 0.936 | 1.016 | 0.995
- 264 | College of Charleston Cougars          | 0.921 | 0.885 | 0.961 | 0.980
- 265 | Florida Atlantic Owls                  | 0.920 | 0.948 | 1.030 | 0.977
- 266 | South Florida Bulls                    | 0.920 | 0.954 | 1.037 | 1.007
- 267 | Florida International Panthers         | 0.918 | 0.922 | 1.004 | 0.970
- 268 | Nebraska-Omaha Mavericks               | 0.917 | 1.109 | 1.210 | 0.962
- 269 | Weber State Wildcats                   | 0.917 | 0.949 | 1.035 | 0.975
- 270 | Alabama State Hornets                  | 0.916 | 1.018 | 1.111 | 0.926
- 271 | Virginia Military Institute Keydets    | 0.915 | 1.123 | 1.227 | 0.965
- 272 | Siena Saints                           | 0.914 | 1.049 | 1.148 | 0.976
- 273 | Southeastern Louisiana Lions           | 0.913 | 0.963 | 1.055 | 0.968
- 274 | Missouri-Kansas City Kangaroos         | 0.913 | 0.939 | 1.029 | 0.966
- 275 | Cal State Northridge Matadors          | 0.911 | 0.963 | 1.057 | 0.997
- 276 | Long Island University Blackbirds      | 0.910 | 0.975 | 1.071 | 0.961
- 277 | Northern Kentucky Norse                | 0.910 | 0.965 | 1.060 | 0.972
- 278 | Lamar Cardinals                        | 0.910 | 0.979 | 1.076 | 0.961
- 279 | Howard Bison                           | 0.909 | 0.877 | 0.965 | 0.947
- 280 | Marshall Thundering Herd               | 0.909 | 0.993 | 1.092 | 0.986
- 281 | Hartford Hawks                         | 0.909 | 0.927 | 1.019 | 0.965
- 282 | McNeese State Cowboys                  | 0.907 | 0.953 | 1.051 | 0.981
- 283 | IUPUI Jaguars                          | 0.907 | 0.903 | 0.995 | 0.983
- 284 | Delaware State Hornets                 | 0.906 | 0.999 | 1.103 | 0.953
- 285 | Troy Trojans                           | 0.904 | 0.950 | 1.051 | 0.962
- 286 | Fairfield Stags                        | 0.901 | 0.892 | 0.991 | 0.984
- 287 | Cal State Fullerton Titans             | 0.901 | 0.962 | 1.067 | 0.984
- 288 | Samford Bulldogs                       | 0.900 | 0.994 | 1.104 | 0.965
- 289 | Navy Midshipmen                        | 0.899 | 0.902 | 1.004 | 0.975
- 290 | Arkansas State Red Wolves              | 0.899 | 0.929 | 1.033 | 0.970
- 291 | Southern Jaguars                       | 0.897 | 0.900 | 1.003 | 0.948
- 292 | North Carolina-Greensboro Spartans     | 0.896 | 0.968 | 1.081 | 0.971
- 293 | Wagner Seahawks                        | 0.895 | 0.986 | 1.102 | 0.964
- 294 | Pennsylvania Quakers                   | 0.894 | 0.927 | 1.038 | 0.983
- 295 | Delaware Fightin' Blue Hens            | 0.893 | 0.980 | 1.097 | 0.979
- 296 | South Alabama Jaguars                  | 0.892 | 1.008 | 1.130 | 0.976
- 297 | Hampton Pirates                        | 0.891 | 0.958 | 1.075 | 0.947
- 298 | Lipscomb Bisons                        | 0.891 | 1.024 | 1.149 | 0.961
- 299 | Prairie View Panthers                  | 0.890 | 0.972 | 1.092 | 0.945
- 300 | Illinois-Chicago Flames                | 0.889 | 0.970 | 1.091 | 0.988
- 301 | Houston Baptist Huskies                | 0.887 | 0.987 | 1.112 | 0.961
- 302 | Niagara Purple Eagles                  | 0.885 | 0.957 | 1.080 | 0.984
- 303 | Drake Bulldogs                         | 0.884 | 0.906 | 1.026 | 1.007
- 304 | Massachusetts-Lowell River Hawks       | 0.881 | 0.900 | 1.022 | 0.965
- 305 | Campbell Fighting Camels               | 0.881 | 0.905 | 1.027 | 0.967
- 306 | New Orleans Privateers                 | 0.880 | 0.965 | 1.096 | 0.966
- 307 | Southern Utah Thunderbirds             | 0.876 | 0.995 | 1.136 | 0.964
- 308 | North Dakota UND                       | 0.876 | 0.974 | 1.112 | 0.975
- 309 | Jackson State Tigers                   | 0.876 | 0.889 | 1.015 | 0.939
- 310 | Appalachian State Mountaineers         | 0.873 | 0.936 | 1.073 | 0.969
- 311 | Loyola (MD) Greyhounds                 | 0.871 | 0.884 | 1.015 | 0.975
- 312 | Austin Peay Governors                  | 0.868 | 0.949 | 1.093 | 0.974
- 313 | Idaho State Bengals                    | 0.867 | 0.922 | 1.064 | 0.958
- 314 | Furman Paladins                        | 0.866 | 0.926 | 1.069 | 0.973
- 315 | Marist Red Foxes                       | 0.865 | 0.905 | 1.046 | 0.973
- 316 | Fairleigh Dickinson Knights            | 0.862 | 0.960 | 1.115 | 0.967
- 317 | Citadel Bulldogs                       | 0.861 | 0.918 | 1.066 | 0.967
- 318 | Utah Valley Wolverines                 | 0.858 | 0.860 | 1.001 | 0.965
- 319 | Jacksonville State Gamecocks           | 0.857 | 0.895 | 1.044 | 0.964
- 320 | Longwood Lancers                       | 0.854 | 0.965 | 1.129 | 0.963
- 321 | Montana State Bobcats                  | 0.850 | 0.920 | 1.083 | 0.973
- 322 | Southern Mississippi Golden Eagles     | 0.843 | 0.883 | 1.048 | 0.988
- 323 | Western Illinois Leathernecks          | 0.841 | 0.895 | 1.065 | 0.977
- 324 | Bethune-Cookman Wildcats               | 0.840 | 0.835 | 0.994 | 0.941
- 325 | Morgan State Bears                     | 0.833 | 0.902 | 1.083 | 0.958
- 326 | Texas-Pan American Broncs              | 0.832 | 0.907 | 1.090 | 0.961
- 327 | Coppin State Eagles                    | 0.830 | 1.050 | 1.265 | 0.966
- 328 | Nicholls State Colonels                | 0.826 | 0.884 | 1.070 | 0.977
- 329 | Binghamton Bearcats                    | 0.825 | 0.859 | 1.041 | 0.975
- 330 | Arkansas-Pine Bluff Golden Lions       | 0.823 | 0.858 | 1.043 | 0.944
- 331 | Stetson Hatters                        | 0.823 | 0.937 | 1.139 | 0.955
- 332 | Tennessee State Tigers                 | 0.822 | 0.846 | 1.029 | 0.975
- 333 | Liberty Flames                         | 0.818 | 0.874 | 1.069 | 0.958
- 334 | South Carolina State Bulldogs          | 0.817 | 0.861 | 1.053 | 0.957
- 335 | Kennesaw State Owls                    | 0.816 | 0.905 | 1.109 | 0.964
- 336 | Maryland-Baltimore County Retrievers   | 0.814 | 0.861 | 1.057 | 0.963
- 337 | North Carolina A&T Aggies              | 0.809 | 0.863 | 1.066 | 0.953
- 338 | Alabama A&M Bulldogs                   | 0.808 | 0.868 | 1.074 | 0.944
- 339 | Presbyterian Blue Hose                 | 0.807 | 0.875 | 1.084 | 0.970
- 340 | Central Connecticut State Blue Devils  | 0.807 | 0.873 | 1.081 | 0.965
- 341 | Jacksonville Dolphins                  | 0.799 | 0.888 | 1.112 | 0.956
- 342 | Maine Black Bears                      | 0.791 | 0.912 | 1.153 | 0.970
- 343 | Chicago State Cougars                  | 0.788 | 0.825 | 1.046 | 0.974
- 344 | Savannah State Tigers                  | 0.772 | 0.823 | 1.066 | 0.968
- 345 | Alcorn State Braves                    | 0.767 | 0.893 | 1.164 | 0.939
- 346 | San Jose State Spartans                | 0.757 | 0.817 | 1.079 | 0.999
- 347 | Central Arkansas Bears                 | 0.757 | 0.938 | 1.239 | 0.966
- 348 | Mississippi Valley State Delta Devils  | 0.754 | 0.927 | 1.229 | 0.949
- 349 | Florida A&M Rattlers                   | 0.704 | 0.821 | 1.166 | 0.955
- 350 | Grambling Tigers                       | 0.643 | 0.751 | 1.168 | 0.955
+   1 | Kentucky Wildcats                      | 1.559 | 1.160 | 0.744 | 1.060
+   2 | Virginia Cavaliers                     | 1.444 | 1.046 | 0.724 | 1.060
+   3 | Wisconsin Badgers                      | 1.419 | 1.146 | 0.808 | 1.053
+   4 | Utah Utes                              | 1.369 | 1.112 | 0.812 | 1.043
+   5 | Arizona Wildcats                       | 1.364 | 1.182 | 0.866 | 1.047
+   6 | Duke Blue Devils                       | 1.362 | 1.279 | 0.939 | 1.062
+   7 | Gonzaga Bulldogs                       | 1.354 | 1.212 | 0.895 | 1.032
+   8 | Villanova Wildcats                     | 1.340 | 1.173 | 0.876 | 1.056
+   9 | Ohio State Buckeyes                    | 1.326 | 1.194 | 0.901 | 1.042
+  10 | North Carolina Tar Heels               | 1.316 | 1.278 | 0.972 | 1.073
+  11 | Oklahoma Sooners                       | 1.313 | 1.159 | 0.882 | 1.063
+  12 | Baylor Bears                           | 1.301 | 1.102 | 0.847 | 1.068
+  13 | Louisville Cardinals                   | 1.301 | 1.097 | 0.843 | 1.061
+  14 | Iowa State Cyclones                    | 1.291 | 1.270 | 0.983 | 1.061
+  15 | Kansas Jayhawks                        | 1.290 | 1.195 | 0.926 | 1.083
+  16 | Texas Longhorns                        | 1.274 | 1.093 | 0.858 | 1.065
+  17 | Wichita State Shockers                 | 1.273 | 1.097 | 0.862 | 1.024
+  18 | Michigan State Spartans                | 1.259 | 1.119 | 0.889 | 1.042
+  19 | Notre Dame Fighting Irish              | 1.258 | 1.211 | 0.963 | 1.032
+  20 | Butler Bulldogs                        | 1.246 | 1.083 | 0.869 | 1.049
+  21 | Xavier Musketeers                      | 1.237 | 1.181 | 0.955 | 1.063
+  22 | West Virginia Mountaineers             | 1.235 | 1.167 | 0.945 | 1.068
+  23 | Georgetown Hoyas                       | 1.233 | 1.111 | 0.901 | 1.064
+  24 | Northern Iowa Panthers                 | 1.225 | 1.001 | 0.817 | 1.018
+  25 | San Diego State Aztecs                 | 1.225 | 0.974 | 0.795 | 1.027
+  26 | Iowa Hawkeyes                          | 1.217 | 1.094 | 0.899 | 1.060
+  27 | Florida Gators                         | 1.217 | 1.029 | 0.845 | 1.066
+  28 | Oklahoma State Cowboys                 | 1.211 | 1.076 | 0.888 | 1.077
+  29 | Arkansas Razorbacks                    | 1.205 | 1.202 | 0.998 | 1.040
+  30 | Southern Methodist Mustangs            | 1.205 | 1.075 | 0.892 | 1.030
+  31 | Purdue Boilermakers                    | 1.204 | 1.087 | 0.903 | 1.045
+  32 | Virginia Commonwealth Rams             | 1.204 | 1.151 | 0.956 | 1.042
+  33 | Brigham Young Cougars                  | 1.198 | 1.269 | 1.059 | 1.038
+  34 | North Carolina State Wolfpack          | 1.197 | 1.131 | 0.945 | 1.069
+  35 | Providence Friars                      | 1.194 | 1.108 | 0.928 | 1.063
+  36 | Maryland Terrapins                     | 1.187 | 1.099 | 0.926 | 1.055
+  37 | Mississippi Rebels                     | 1.185 | 1.144 | 0.965 | 1.050
+  38 | Davidson Wildcats                      | 1.184 | 1.212 | 1.023 | 1.020
+  39 | Stanford Cardinal                      | 1.183 | 1.114 | 0.942 | 1.041
+  40 | Miami (FL) Hurricanes                  | 1.182 | 1.065 | 0.902 | 1.057
+  41 | St. John's (NY) Red Storm              | 1.181 | 1.108 | 0.938 | 1.060
+  42 | Boise State Broncos                    | 1.181 | 1.068 | 0.905 | 1.026
+  43 | Syracuse Orange                        | 1.181 | 1.079 | 0.913 | 1.048
+  44 | Illinois Fighting Illini               | 1.178 | 1.091 | 0.926 | 1.044
+  45 | Georgia Bulldogs                       | 1.172 | 1.079 | 0.920 | 1.056
+  46 | Texas Christian Horned Frogs           | 1.167 | 1.038 | 0.889 | 1.042
+  47 | Indiana Hoosiers                       | 1.166 | 1.226 | 1.052 | 1.048
+  48 | Minnesota Golden Gophers               | 1.163 | 1.129 | 0.971 | 1.047
+  49 | Vanderbilt Commodores                  | 1.161 | 1.077 | 0.928 | 1.052
+  50 | Texas A&M Aggies                       | 1.160 | 1.050 | 0.905 | 1.053
+  51 | Arizona State Sun Devils               | 1.159 | 1.099 | 0.948 | 1.047
+  52 | Louisiana State Fighting Tigers        | 1.158 | 1.156 | 0.998 | 1.047
+  53 | Dayton Flyers                          | 1.153 | 1.048 | 0.909 | 1.022
+  54 | Cincinnati Bearcats                    | 1.152 | 0.966 | 0.839 | 1.037
+  55 | Rhode Island Rams                      | 1.151 | 1.025 | 0.891 | 1.015
+  56 | Colorado State Rams                    | 1.149 | 1.132 | 0.986 | 1.028
+  57 | Alabama Crimson Tide                   | 1.147 | 1.043 | 0.909 | 1.054
+  58 | South Carolina Gamecocks               | 1.146 | 1.029 | 0.898 | 1.071
+  59 | Old Dominion Monarchs                  | 1.137 | 0.976 | 0.858 | 1.012
+  60 | Stephen F. Austin Lumberjacks          | 1.135 | 1.105 | 0.974 | 0.993
+  61 | Richmond Spiders                       | 1.131 | 1.007 | 0.890 | 1.036
+  62 | Saint Mary's (CA) Gaels                | 1.130 | 1.051 | 0.930 | 1.041
+  63 | UCLA Bruins                            | 1.129 | 1.105 | 0.978 | 1.053
+  64 | Pittsburgh Panthers                    | 1.129 | 1.049 | 0.929 | 1.061
+  65 | Buffalo Bulls                          | 1.128 | 1.145 | 1.015 | 1.021
+  66 | Connecticut Huskies                    | 1.125 | 1.028 | 0.913 | 1.029
+  67 | Illinois State Redbirds                | 1.125 | 1.054 | 0.938 | 1.026
+  68 | Seton Hall Pirates                     | 1.124 | 1.081 | 0.961 | 1.060
+  69 | Temple Owls                            | 1.117 | 1.012 | 0.906 | 1.021
+  70 | Oregon Ducks                           | 1.117 | 1.127 | 1.009 | 1.045
+  71 | Georgia State Panthers                 | 1.117 | 1.048 | 0.938 | 0.999
+  72 | Tulsa Golden Hurricane                 | 1.114 | 1.004 | 0.901 | 1.020
+  73 | Texas-El Paso Miners                   | 1.112 | 1.043 | 0.938 | 1.012
+  74 | Murray State Breds                     | 1.111 | 1.144 | 1.030 | 0.988
+  75 | Green Bay Phoenix                      | 1.111 | 1.027 | 0.924 | 1.015
+  76 | Louisiana Tech Bulldogs                | 1.111 | 1.095 | 0.986 | 1.000
+  77 | Memphis Tigers                         | 1.111 | 1.050 | 0.945 | 1.025
+  78 | Central Michigan Chippewas             | 1.106 | 1.111 | 1.005 | 1.004
+  79 | Sam Houston State Bearkats             | 1.106 | 1.005 | 0.909 | 0.978
+  80 | Valparaiso Crusaders                   | 1.106 | 1.018 | 0.920 | 1.003
+  81 | Toledo Rockets                         | 1.104 | 1.137 | 1.030 | 1.017
+  82 | George Washington Colonials            | 1.100 | 1.000 | 0.909 | 1.023
+  83 | Harvard Crimson                        | 1.097 | 0.953 | 0.868 | 1.012
+  84 | Georgia Tech Yellow Jackets            | 1.096 | 1.002 | 0.914 | 1.063
+  85 | Michigan Wolverines                    | 1.096 | 0.980 | 0.894 | 1.065
+  86 | Clemson Tigers                         | 1.092 | 0.959 | 0.878 | 1.058
+  87 | Marquette Golden Eagles                | 1.092 | 1.028 | 0.942 | 1.064
+  88 | New Mexico State Aggies                | 1.092 | 1.026 | 0.939 | 0.996
+  89 | Washington Huskies                     | 1.092 | 1.078 | 0.987 | 1.040
+  90 | Wake Forest Demon Deacons              | 1.091 | 1.098 | 1.007 | 1.056
+  91 | Nevada-Las Vegas Rebels                | 1.088 | 1.050 | 0.965 | 1.034
+  92 | Iona Gaels                             | 1.088 | 1.207 | 1.109 | 0.999
+  93 | Oregon State Beavers                   | 1.087 | 0.907 | 0.834 | 1.035
+  94 | Kansas State Wildcats                  | 1.087 | 1.002 | 0.922 | 1.062
+  95 | Penn State Nittany Lions               | 1.086 | 1.027 | 0.946 | 1.053
+  96 | Tennessee Volunteers                   | 1.084 | 1.000 | 0.923 | 1.056
+  97 | La Salle Explorers                     | 1.084 | 1.004 | 0.926 | 1.031
+  98 | Northwestern Wildcats                  | 1.083 | 0.982 | 0.907 | 1.054
+  99 | Colorado Buffaloes                     | 1.080 | 1.008 | 0.933 | 1.051
+ 100 | South Dakota State Jackrabbits         | 1.080 | 1.067 | 0.988 | 0.996
+ 101 | Yale Elis                              | 1.079 | 1.008 | 0.935 | 1.012
+ 102 | Bowling Green State Falcons            | 1.078 | 0.973 | 0.902 | 1.006
+ 103 | Nebraska Cornhuskers                   | 1.078 | 0.953 | 0.884 | 1.056
+ 104 | William & Mary Tribe                   | 1.077 | 1.096 | 1.018 | 1.006
+ 105 | California-Santa Barbara Gauchos       | 1.074 | 1.022 | 0.952 | 1.019
+ 106 | Wofford Terriers                       | 1.073 | 0.945 | 0.881 | 0.999
+ 107 | San Diego Toreros                      | 1.073 | 0.998 | 0.930 | 1.030
+ 108 | Hofstra Pride                          | 1.073 | 1.155 | 1.076 | 0.986
+ 109 | Massachusetts Minutemen                | 1.069 | 1.068 | 0.999 | 1.039
+ 110 | Creighton Bluejays                     | 1.069 | 1.033 | 0.967 | 1.052
+ 111 | California-Irvine Anteaters            | 1.068 | 1.030 | 0.964 | 1.012
+ 112 | Pepperdine Waves                       | 1.066 | 0.981 | 0.919 | 1.026
+ 113 | Florida State Seminoles                | 1.066 | 1.046 | 0.981 | 1.047
+ 114 | Wyoming Cowboys                        | 1.065 | 0.928 | 0.872 | 1.005
+ 115 | San Francisco Dons                     | 1.063 | 1.056 | 0.994 | 1.030
+ 116 | New Mexico Lobos                       | 1.058 | 0.967 | 0.914 | 1.021
+ 117 | North Carolina Central Eagles          | 1.058 | 0.926 | 0.875 | 0.967
+ 118 | California-Davis Aggies                | 1.057 | 1.070 | 1.012 | 0.990
+ 119 | Cleveland State Vikings                | 1.056 | 0.981 | 0.929 | 1.012
+ 120 | Akron Zips                             | 1.054 | 1.019 | 0.966 | 1.008
+ 121 | Kent State Golden Flashes              | 1.053 | 0.969 | 0.920 | 1.009
+ 122 | Boston College Eagles                  | 1.052 | 1.024 | 0.973 | 1.062
+ 123 | Utah State Aggies                      | 1.051 | 1.003 | 0.954 | 1.010
+ 124 | Portland Pilots                        | 1.051 | 1.061 | 1.009 | 1.022
+ 125 | DePaul Blue Demons                     | 1.050 | 1.126 | 1.073 | 1.060
+ 126 | Charlotte 49ers                        | 1.049 | 1.109 | 1.057 | 1.010
+ 127 | Long Beach State 49ers                 | 1.049 | 1.027 | 0.979 | 1.044
+ 128 | Vermont Catamounts                     | 1.048 | 0.964 | 0.919 | 0.980
+ 129 | Eastern Kentucky Colonels              | 1.048 | 1.027 | 0.981 | 0.992
+ 130 | California Golden Bears                | 1.047 | 1.009 | 0.963 | 1.039
+ 131 | St. Bonaventure Bonnies                | 1.045 | 1.018 | 0.974 | 1.026
+ 132 | Northeastern Huskies                   | 1.043 | 1.021 | 0.979 | 1.009
+ 133 | Eastern Michigan Eagles                | 1.042 | 0.998 | 0.958 | 1.013
+ 134 | Columbia Lions                         | 1.040 | 0.959 | 0.922 | 1.012
+ 135 | Evansville Purple Aces                 | 1.034 | 1.034 | 0.999 | 1.005
+ 136 | Stony Brook Seawolves                  | 1.033 | 0.978 | 0.947 | 0.995
+ 137 | Auburn Tigers                          | 1.028 | 1.077 | 1.047 | 1.058
+ 138 | Eastern Washington Eagles              | 1.026 | 1.130 | 1.101 | 0.993
+ 139 | Loyola (IL) Ramblers                   | 1.024 | 0.943 | 0.921 | 1.019
+ 140 | Western Kentucky Hilltoppers           | 1.023 | 1.062 | 1.038 | 1.015
+ 141 | Hawaii Warriors                        | 1.023 | 1.064 | 1.040 | 1.010
+ 142 | Florida Gulf Coast Eagles              | 1.022 | 0.980 | 0.959 | 0.989
+ 143 | Canisius Golden Griffins               | 1.021 | 0.953 | 0.934 | 0.998
+ 144 | Coastal Carolina Chanticleers          | 1.021 | 1.009 | 0.988 | 0.975
+ 145 | Louisiana-Lafayette Ragin' Cajuns      | 1.019 | 1.099 | 1.079 | 0.992
+ 146 | Albany (NY) Great Danes                | 1.019 | 0.974 | 0.956 | 0.981
+ 147 | Alabama-Birmingham Blazers             | 1.019 | 1.017 | 0.998 | 1.014
+ 148 | Western Michigan Broncos               | 1.016 | 1.076 | 1.059 | 1.019
+ 149 | Cal Poly Mustangs                      | 1.014 | 0.916 | 0.903 | 1.002
+ 150 | Georgia Southern Eagles                | 1.014 | 0.989 | 0.975 | 0.981
+ 151 | Texas Tech Red Raiders                 | 1.014 | 0.925 | 0.913 | 1.060
+ 152 | North Florida Ospreys                  | 1.012 | 1.090 | 1.077 | 0.982
+ 153 | Mississippi State Bulldogs             | 1.010 | 0.959 | 0.949 | 1.037
+ 154 | Southern California Trojans            | 1.007 | 1.035 | 1.028 | 1.050
+ 155 | Montana Grizzlies                      | 1.005 | 0.987 | 0.983 | 0.993
+ 156 | Oakland Golden Grizzlies               | 1.004 | 1.096 | 1.091 | 1.028
+ 157 | St. Francis (NY) Terriers              | 1.002 | 1.004 | 1.002 | 0.982
+ 158 | Indiana State Sycamores                | 1.000 | 1.032 | 1.033 | 1.016
+ 159 | South Carolina Upstate Spartans        | 0.999 | 0.996 | 0.997 | 0.967
+ 160 | Rider Broncs                           | 0.999 | 0.972 | 0.973 | 0.989
+ 161 | North Dakota State Bison               | 0.997 | 0.945 | 0.948 | 0.989
+ 162 | Virginia Tech Hokies                   | 0.997 | 1.008 | 1.011 | 1.037
+ 163 | Middle Tennessee Blue Raiders          | 0.997 | 0.929 | 0.931 | 1.006
+ 164 | Chattanooga Mocs                       | 0.996 | 1.020 | 1.024 | 0.998
+ 165 | High Point Panthers                    | 0.996 | 1.007 | 1.012 | 0.993
+ 166 | Belmont Bruins                         | 0.994 | 1.077 | 1.083 | 0.994
+ 167 | Quinnipiac Bobcats                     | 0.994 | 1.018 | 1.024 | 0.999
+ 168 | Texas-Arlington Mavericks              | 0.988 | 1.068 | 1.081 | 1.005
+ 169 | New Hampshire Wildcats                 | 0.987 | 0.974 | 0.986 | 0.978
+ 170 | Colgate Raiders                        | 0.986 | 0.962 | 0.976 | 0.998
+ 171 | Morehead State Eagles                  | 0.985 | 0.978 | 0.992 | 1.001
+ 172 | Princeton Tigers                       | 0.985 | 1.016 | 1.031 | 1.002
+ 173 | Missouri Tigers                        | 0.985 | 0.970 | 0.985 | 1.068
+ 174 | Monmouth Hawks                         | 0.984 | 0.958 | 0.974 | 0.994
+ 175 | Detroit Mercy Titans                   | 0.983 | 1.043 | 1.061 | 1.016
+ 176 | James Madison Dukes                    | 0.983 | 1.006 | 1.024 | 1.011
+ 177 | North Carolina-Wilmington Seahawks     | 0.983 | 1.011 | 1.029 | 1.003
+ 178 | Louisiana-Monroe Warhawks              | 0.982 | 0.908 | 0.925 | 0.996
+ 179 | Saint Joseph's Hawks                   | 0.982 | 0.937 | 0.953 | 1.024
+ 180 | Tennessee-Martin Skyhawks              | 0.982 | 0.995 | 1.013 | 0.986
+ 181 | Air Force Falcons                      | 0.982 | 0.981 | 0.998 | 1.011
+ 182 | Mercer Bears                           | 0.982 | 0.936 | 0.953 | 0.989
+ 183 | Texas-San Antonio Roadrunners          | 0.981 | 1.057 | 1.077 | 1.000
+ 184 | Winthrop Eagles                        | 0.980 | 1.032 | 1.053 | 0.974
+ 185 | Rutgers Scarlet Knights                | 0.979 | 0.932 | 0.953 | 1.055
+ 186 | Manhattan Jaspers                      | 0.977 | 1.030 | 1.054 | 0.995
+ 187 | Tulane Green Wave                      | 0.975 | 0.951 | 0.975 | 1.010
+ 188 | IPFW Mastodons                         | 0.974 | 1.016 | 1.043 | 0.996
+ 189 | Washington State Cougars               | 0.974 | 1.081 | 1.110 | 1.045
+ 190 | Lehigh Mountain Hawks                  | 0.973 | 0.997 | 1.024 | 0.988
+ 191 | Incarnate Word Cardinals               | 0.972 | 1.120 | 1.152 | 0.981
+ 192 | Northern Illinois Huskies              | 0.971 | 0.954 | 0.983 | 1.013
+ 193 | Cornell Big Red                        | 0.970 | 0.940 | 0.969 | 1.001
+ 194 | Santa Clara Broncos                    | 0.969 | 0.954 | 0.985 | 1.037
+ 195 | Dartmouth Big Green                    | 0.968 | 0.940 | 0.971 | 0.993
+ 196 | Charleston Southern Buccaneers         | 0.968 | 1.024 | 1.058 | 0.985
+ 197 | East Carolina Pirates                  | 0.966 | 0.954 | 0.987 | 1.016
+ 198 | Radford Highlanders                    | 0.966 | 1.007 | 1.042 | 0.989
+ 199 | Bucknell Bison                         | 0.966 | 0.992 | 1.027 | 0.999
+ 200 | Northwestern State Demons              | 0.965 | 1.212 | 1.256 | 0.993
+ 201 | Northern Arizona Lumberjacks           | 0.965 | 0.984 | 1.019 | 0.992
+ 202 | Fresno State Bulldogs                  | 0.965 | 1.005 | 1.041 | 1.020
+ 203 | NJIT Highlanders                       | 0.965 | 1.013 | 1.049 | 0.987
+ 204 | American Eagles                        | 0.964 | 0.843 | 0.875 | 0.996
+ 205 | Saint Peter's Peacocks                 | 0.964 | 0.899 | 0.933 | 0.991
+ 206 | Lafayette Leopards                     | 0.963 | 1.079 | 1.121 | 0.992
+ 207 | East Tennessee State Buccaneers        | 0.963 | 1.050 | 1.090 | 0.997
+ 208 | George Mason Patriots                  | 0.963 | 0.982 | 1.020 | 1.047
+ 209 | Norfolk State Spartans                 | 0.963 | 1.010 | 1.048 | 0.983
+ 210 | Boston University Terriers             | 0.963 | 1.041 | 1.081 | 0.998
+ 211 | Miami (OH) RedHawks                    | 0.957 | 0.989 | 1.033 | 1.017
+ 212 | Duquesne Dukes                         | 0.956 | 1.078 | 1.128 | 1.021
+ 213 | Fordham Rams                           | 0.955 | 0.995 | 1.043 | 1.031
+ 214 | Missouri State Bears                   | 0.953 | 0.929 | 0.974 | 1.027
+ 215 | Robert Morris Colonials                | 0.952 | 0.985 | 1.035 | 0.992
+ 216 | Sacramento State Hornets               | 0.951 | 0.994 | 1.045 | 0.985
+ 217 | Idaho Vandals                          | 0.951 | 1.089 | 1.145 | 0.986
+ 218 | Oral Roberts Golden Eagles             | 0.949 | 1.014 | 1.069 | 1.002
+ 219 | Ball State Cardinals                   | 0.949 | 0.978 | 1.031 | 1.016
+ 220 | South Dakota Coyotes                   | 0.946 | 1.007 | 1.065 | 0.986
+ 221 | Loyola Marymount Lions                 | 0.946 | 0.963 | 1.018 | 1.045
+ 222 | Gardner-Webb Runnin' Bulldogs          | 0.945 | 1.074 | 1.136 | 0.988
+ 223 | Pacific Tigers                         | 0.945 | 0.962 | 1.018 | 1.036
+ 224 | North Texas Mean Green                 | 0.944 | 0.958 | 1.015 | 1.009
+ 225 | Maryland-Eastern Shore Hawks           | 0.943 | 0.983 | 1.043 | 0.972
+ 226 | Southern Illinois Salukis              | 0.943 | 0.927 | 0.983 | 1.008
+ 227 | Rice Owls                              | 0.942 | 0.929 | 0.987 | 1.007
+ 228 | Western Carolina Catamounts            | 0.942 | 1.025 | 1.088 | 0.998
+ 229 | Eastern Illinois Panthers              | 0.942 | 0.915 | 0.971 | 0.999
+ 230 | Houston Cougars                        | 0.941 | 0.976 | 1.037 | 1.008
+ 231 | Wright State Raiders                   | 0.941 | 0.954 | 1.014 | 1.016
+ 232 | Denver Pioneers                        | 0.940 | 0.904 | 0.962 | 1.001
+ 233 | Milwaukee Panthers                     | 0.940 | 0.974 | 1.036 | 1.022
+ 234 | Texas Southern Tigers                  | 0.938 | 0.942 | 1.005 | 0.983
+ 235 | California-Riverside Highlanders       | 0.938 | 0.954 | 1.018 | 1.009
+ 236 | Ohio Bobcats                           | 0.937 | 1.001 | 1.069 | 1.015
+ 237 | Southeast Missouri State Redhawks      | 0.936 | 0.991 | 1.059 | 0.990
+ 238 | Mount St. Mary's Mountaineers          | 0.936 | 0.910 | 0.971 | 0.992
+ 239 | North Carolina-Asheville Bulldogs      | 0.935 | 1.015 | 1.086 | 0.987
+ 240 | Bryant Bulldogs                        | 0.934 | 0.978 | 1.047 | 0.989
+ 241 | Army Black Knights                     | 0.933 | 1.063 | 1.140 | 0.986
+ 242 | Northern Colorado Bears                | 0.933 | 1.047 | 1.122 | 0.981
+ 243 | Central Florida Knights                | 0.932 | 0.991 | 1.064 | 1.020
+ 244 | Tennessee Tech Golden Eagles           | 0.932 | 1.016 | 1.089 | 0.991
+ 245 | Arkansas-Little Rock Trojans           | 0.931 | 0.994 | 1.069 | 0.992
+ 246 | Saint Francis (PA) Red Flash           | 0.930 | 0.924 | 0.993 | 0.983
+ 247 | Southern Illinois-Edwardsville Cougars | 0.929 | 0.960 | 1.034 | 0.990
+ 248 | Bradley Braves                         | 0.929 | 0.882 | 0.949 | 1.025
+ 249 | Texas State Bobcats                    | 0.928 | 0.847 | 0.913 | 1.001
+ 250 | Towson Tigers                          | 0.928 | 0.923 | 0.995 | 0.998
+ 251 | Drexel Dragons                         | 0.928 | 0.901 | 0.971 | 1.009
+ 252 | Saint Louis Billikens                  | 0.926 | 0.926 | 1.000 | 1.034
+ 253 | Brown Bears                            | 0.925 | 1.002 | 1.082 | 1.011
+ 254 | Holy Cross Crusaders                   | 0.925 | 0.941 | 1.018 | 0.998
+ 255 | Cal State Bakersfield Roadrunners      | 0.922 | 0.904 | 0.981 | 0.981
+ 256 | Seattle Redhawks                       | 0.922 | 0.905 | 0.981 | 0.983
+ 257 | Youngstown State Penguins              | 0.922 | 1.058 | 1.148 | 1.011
+ 258 | Nevada Wolf Pack                       | 0.921 | 0.935 | 1.015 | 1.019
+ 259 | South Florida Bulls                    | 0.920 | 0.955 | 1.038 | 1.033
+ 260 | Sacred Heart Pioneers                  | 0.920 | 1.035 | 1.125 | 0.985
+ 261 | Elon Phoenix                           | 0.919 | 0.998 | 1.086 | 0.999
+ 262 | Grand Canyon Antelopes                 | 0.919 | 0.997 | 1.084 | 0.991
+ 263 | College of Charleston Cougars          | 0.919 | 0.878 | 0.956 | 1.004
+ 264 | Texas A&M-Corpus Christi Islanders     | 0.917 | 0.935 | 1.020 | 0.984
+ 265 | Portland State Vikings                 | 0.917 | 1.012 | 1.103 | 0.988
+ 266 | Florida Atlantic Owls                  | 0.916 | 0.945 | 1.031 | 1.001
+ 267 | Florida International Panthers         | 0.913 | 0.917 | 1.004 | 0.994
+ 268 | Weber State Wildcats                   | 0.912 | 0.944 | 1.035 | 0.991
+ 269 | Nebraska-Omaha Mavericks               | 0.911 | 1.119 | 1.229 | 0.985
+ 270 | Virginia Military Institute Keydets    | 0.909 | 1.134 | 1.247 | 0.988
+ 271 | Siena Saints                           | 0.909 | 1.054 | 1.160 | 0.999
+ 272 | Cal State Northridge Matadors          | 0.909 | 0.963 | 1.060 | 1.022
+ 273 | Southeastern Louisiana Lions           | 0.907 | 0.960 | 1.058 | 0.991
+ 274 | Missouri-Kansas City Kangaroos         | 0.907 | 0.935 | 1.030 | 0.989
+ 275 | Marshall Thundering Herd               | 0.907 | 0.996 | 1.098 | 1.011
+ 276 | Northern Kentucky Norse                | 0.905 | 0.961 | 1.063 | 0.995
+ 277 | Alabama State Hornets                  | 0.904 | 1.018 | 1.125 | 0.946
+ 278 | Hartford Hawks                         | 0.903 | 0.923 | 1.022 | 0.988
+ 279 | IUPUI Jaguars                          | 0.903 | 0.898 | 0.994 | 1.007
+ 280 | Long Island University Blackbirds      | 0.903 | 0.973 | 1.077 | 0.980
+ 281 | Lamar Cardinals                        | 0.901 | 0.976 | 1.082 | 0.985
+ 282 | McNeese State Cowboys                  | 0.901 | 0.948 | 1.052 | 1.004
+ 283 | Howard Bison                           | 0.900 | 0.867 | 0.963 | 0.969
+ 284 | Cal State Fullerton Titans             | 0.898 | 0.962 | 1.072 | 1.009
+ 285 | Delaware State Hornets                 | 0.898 | 0.998 | 1.112 | 0.975
+ 286 | Troy Trojans                           | 0.897 | 0.946 | 1.055 | 0.984
+ 287 | Fairfield Stags                        | 0.896 | 0.886 | 0.989 | 1.011
+ 288 | Samford Bulldogs                       | 0.894 | 0.994 | 1.112 | 0.988
+ 289 | Navy Midshipmen                        | 0.893 | 0.895 | 1.002 | 1.001
+ 290 | Arkansas State Red Wolves              | 0.892 | 0.923 | 1.036 | 0.992
+ 291 | Pennsylvania Quakers                   | 0.889 | 0.925 | 1.040 | 1.007
+ 292 | Delaware Fightin' Blue Hens            | 0.889 | 0.980 | 1.103 | 1.003
+ 293 | North Carolina-Greensboro Spartans     | 0.889 | 0.965 | 1.085 | 0.996
+ 294 | Southern Jaguars                       | 0.888 | 0.892 | 1.005 | 0.966
+ 295 | Wagner Seahawks                        | 0.887 | 0.985 | 1.110 | 0.986
+ 296 | Illinois-Chicago Flames                | 0.886 | 0.971 | 1.096 | 1.013
+ 297 | South Alabama Jaguars                  | 0.886 | 1.011 | 1.141 | 0.999
+ 298 | Lipscomb Bisons                        | 0.884 | 1.027 | 1.161 | 0.984
+ 299 | Drake Bulldogs                         | 0.883 | 0.904 | 1.024 | 1.033
+ 300 | Hampton Pirates                        | 0.882 | 0.955 | 1.083 | 0.970
+ 301 | Niagara Purple Eagles                  | 0.881 | 0.955 | 1.084 | 1.005
+ 302 | Prairie View Panthers                  | 0.881 | 0.971 | 1.102 | 0.965
+ 303 | Houston Baptist Huskies                | 0.878 | 0.986 | 1.123 | 0.984
+ 304 | Massachusetts-Lowell River Hawks       | 0.874 | 0.894 | 1.023 | 0.987
+ 305 | Campbell Fighting Camels               | 0.873 | 0.898 | 1.028 | 0.989
+ 306 | New Orleans Privateers                 | 0.872 | 0.962 | 1.104 | 0.988
+ 307 | North Dakota UND                       | 0.869 | 0.973 | 1.120 | 0.999
+ 308 | Southern Utah Thunderbirds             | 0.868 | 0.996 | 1.147 | 0.991
+ 309 | Loyola (MD) Greyhounds                 | 0.866 | 0.878 | 1.015 | 0.999
+ 310 | Jackson State Tigers                   | 0.866 | 0.881 | 1.017 | 0.959
+ 311 | Appalachian State Mountaineers         | 0.865 | 0.932 | 1.078 | 0.992
+ 312 | Austin Peay Governors                  | 0.861 | 0.945 | 1.097 | 0.997
+ 313 | Furman Paladins                        | 0.860 | 0.921 | 1.071 | 0.996
+ 314 | Idaho State Bengals                    | 0.859 | 0.917 | 1.068 | 0.979
+ 315 | Marist Red Foxes                       | 0.859 | 0.899 | 1.046 | 0.993
+ 316 | Fairleigh Dickinson Knights            | 0.854 | 0.959 | 1.123 | 0.990
+ 317 | Citadel Bulldogs                       | 0.854 | 0.913 | 1.070 | 0.989
+ 318 | Utah Valley Wolverines                 | 0.851 | 0.851 | 1.000 | 0.988
+ 319 | Jacksonville State Gamecocks           | 0.849 | 0.888 | 1.046 | 0.986
+ 320 | Longwood Lancers                       | 0.846 | 0.962 | 1.138 | 0.985
+ 321 | Montana State Bobcats                  | 0.843 | 0.915 | 1.087 | 0.996
+ 322 | Southern Mississippi Golden Eagles     | 0.838 | 0.879 | 1.048 | 1.013
+ 323 | Western Illinois Leathernecks          | 0.833 | 0.888 | 1.066 | 1.000
+ 324 | Bethune-Cookman Wildcats               | 0.829 | 0.824 | 0.994 | 0.962
+ 325 | Morgan State Bears                     | 0.825 | 0.897 | 1.088 | 0.982
+ 326 | Texas-Pan American Broncs              | 0.824 | 0.902 | 1.095 | 0.984
+ 327 | Coppin State Eagles                    | 0.821 | 1.057 | 1.287 | 0.989
+ 328 | Binghamton Bearcats                    | 0.818 | 0.853 | 1.042 | 0.998
+ 329 | Nicholls State Colonels                | 0.817 | 0.875 | 1.072 | 1.000
+ 330 | Tennessee State Tigers                 | 0.815 | 0.839 | 1.029 | 0.997
+ 331 | Stetson Hatters                        | 0.814 | 0.934 | 1.148 | 0.982
+ 332 | Arkansas-Pine Bluff Golden Lions       | 0.813 | 0.850 | 1.046 | 0.967
+ 333 | Liberty Flames                         | 0.808 | 0.866 | 1.072 | 0.980
+ 334 | South Carolina State Bulldogs          | 0.808 | 0.853 | 1.056 | 0.981
+ 335 | Kennesaw State Owls                    | 0.808 | 0.901 | 1.115 | 0.990
+ 336 | Maryland-Baltimore County Retrievers   | 0.806 | 0.854 | 1.060 | 0.985
+ 337 | Central Connecticut State Blue Devils  | 0.799 | 0.867 | 1.086 | 0.989
+ 338 | North Carolina A&T Aggies              | 0.799 | 0.856 | 1.071 | 0.978
+ 339 | Presbyterian Blue Hose                 | 0.798 | 0.868 | 1.088 | 0.990
+ 340 | Alabama A&M Bulldogs                   | 0.797 | 0.860 | 1.079 | 0.965
+ 341 | Jacksonville Dolphins                  | 0.790 | 0.882 | 1.117 | 0.978
+ 342 | Maine Black Bears                      | 0.783 | 0.910 | 1.162 | 0.993
+ 343 | Chicago State Cougars                  | 0.781 | 0.816 | 1.045 | 0.998
+ 344 | Savannah State Tigers                  | 0.763 | 0.814 | 1.067 | 0.991
+ 345 | Alcorn State Braves                    | 0.755 | 0.888 | 1.176 | 0.959
+ 346 | San Jose State Spartans                | 0.752 | 0.810 | 1.078 | 1.025
+ 347 | Central Arkansas Bears                 | 0.746 | 0.936 | 1.254 | 0.988
+ 348 | Mississippi Valley State Delta Devils  | 0.743 | 0.926 | 1.245 | 0.971
+ 349 | Florida A&M Rattlers                   | 0.692 | 0.814 | 1.175 | 0.976
+ 350 | Grambling Tigers                       | 0.630 | 0.740 | 1.175 | 0.977
 (350 rows)
 
 COMMIT
