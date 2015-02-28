@@ -1,359 +1,359 @@
 BEGIN
 CREATE TABLE
-INSERT 0 4242
-INSERT 0 4239
+INSERT 0 4366
+INSERT 0 4363
 INSERT 0 635
                  school                 | g  | w  | l  |  ew  | diff 
 ----------------------------------------+----+----+----+------+------
  Florida Gators                         | 28 | 13 | 15 | 17.7 | -4.7
- North Carolina-Greensboro Spartans     | 26 |  6 | 20 | 10.2 | -4.2
- San Francisco Dons                     | 27 | 11 | 16 | 14.7 | -3.7
+ North Carolina-Greensboro Spartans     | 27 |  7 | 20 | 11.1 | -4.1
+ Hofstra Pride                          | 30 | 19 | 11 | 22.7 | -3.7
  Idaho State Bengals                    | 25 |  4 | 21 |  7.6 | -3.6
- Vermont Catamounts                     | 26 | 15 | 11 | 18.4 | -3.4
- Hofstra Pride                          | 29 | 18 | 11 | 21.2 | -3.2
- Ohio State Buckeyes                    | 27 | 19 |  8 | 22.1 | -3.1
- Morehead State Eagles                  | 27 | 11 | 16 | 14.0 | -3.0
- Cal State Northridge Matadors          | 27 |  5 | 22 |  8.0 | -3.0
+ Vermont Catamounts                     | 27 | 16 | 11 | 19.4 | -3.4
+ San Francisco Dons                     | 28 | 11 | 17 | 14.4 | -3.4
+ Ohio State Buckeyes                    | 28 | 20 |  8 | 23.2 | -3.2
+ Bradley Braves                         | 29 |  7 | 22 | 10.0 | -3.0
  Ball State Cardinals                   | 25 |  6 | 19 |  8.9 | -2.9
+ Morehead State Eagles                  | 28 | 12 | 16 | 14.9 | -2.9
+ Fairfield Stags                        | 29 |  7 | 22 |  9.9 | -2.9
  Cal State Bakersfield Roadrunners      | 26 | 10 | 16 | 12.9 | -2.9
- Xavier Musketeers                      | 29 | 18 | 11 | 20.8 | -2.8
- Nebraska-Omaha Mavericks               | 25 |  8 | 17 | 10.8 | -2.8
- Vanderbilt Commodores                  | 26 | 14 | 12 | 16.7 | -2.7
- Liberty Flames                         | 25 |  3 | 22 |  5.7 | -2.7
- Fairfield Stags                        | 28 |  7 | 21 |  9.7 | -2.7
- College of Charleston Cougars          | 29 |  8 | 21 | 10.7 | -2.7
- Southern Illinois Salukis              | 28 |  9 | 19 | 11.6 | -2.6
+ Cal State Northridge Matadors          | 28 |  6 | 22 |  8.8 | -2.8
+ Florida Atlantic Owls                  | 24 |  6 | 18 |  8.8 | -2.8
+ Charlotte 49ers                        | 28 | 12 | 16 | 14.7 | -2.7
+ Xavier Musketeers                      | 29 | 18 | 11 | 20.7 | -2.7
+ Southern Illinois Salukis              | 29 |  9 | 20 | 11.7 | -2.7
  Texas Longhorns                        | 28 | 17 | 11 | 19.6 | -2.6
- Bradley Braves                         | 28 |  7 | 21 |  9.6 | -2.6
- Charlotte 49ers                        | 27 | 12 | 15 | 14.6 | -2.6
- Campbell Fighting Camels               | 26 |  6 | 20 |  8.5 | -2.5
+ Campbell Fighting Camels               | 27 |  7 | 20 |  9.4 | -2.4
+ Nebraska-Omaha Mavericks               | 26 |  9 | 17 | 11.4 | -2.4
  Southeastern Louisiana Lions           | 26 |  8 | 18 | 10.4 | -2.4
- Colgate Raiders                        | 28 | 12 | 16 | 14.4 | -2.4
- Florida Atlantic Owls                  | 23 |  6 | 17 |  8.4 | -2.4
- Richmond Spiders                       | 27 | 15 | 12 | 17.4 | -2.4
- Louisiana-Lafayette Ragin' Cajuns      | 25 | 13 | 12 | 15.3 | -2.3
+ Liberty Flames                         | 26 |  4 | 22 |  6.3 | -2.3
+ Maryland-Baltimore County Retrievers   | 28 |  4 | 24 |  6.3 | -2.3
  Alcorn State Braves                    | 25 |  4 | 21 |  6.3 | -2.3
- Maryland-Baltimore County Retrievers   | 27 |  4 | 23 |  6.3 | -2.3
- Arizona State Sun Devils               | 27 | 15 | 12 | 17.2 | -2.2
- Idaho Vandals                          | 23 |  9 | 14 | 11.2 | -2.2
- Illinois State Redbirds                | 27 | 16 | 11 | 18.1 | -2.1
- South Carolina Gamecocks               | 26 | 12 | 14 | 14.1 | -2.1
- California-Santa Barbara Gauchos       | 24 | 12 | 12 | 14.1 | -2.1
+ Louisiana-Lafayette Ragin' Cajuns      | 25 | 13 | 12 | 15.3 | -2.3
+ Vanderbilt Commodores                  | 27 | 15 | 12 | 17.3 | -2.3
+ Columbia Lions                         | 24 | 12 | 12 | 14.2 | -2.2
+ Houston Cougars                        | 27 |  9 | 18 | 11.2 | -2.2
+ Colgate Raiders                        | 29 | 13 | 16 | 15.2 | -2.2
+ College of Charleston Cougars          | 30 |  8 | 22 | 10.2 | -2.2
+ Troy Trojans                           | 25 |  8 | 17 | 10.2 | -2.2
  Jackson State Tigers                   | 27 |  9 | 18 | 11.1 | -2.1
+ Michigan State Spartans                | 28 | 19 |  9 | 21.1 | -2.1
  New Mexico State Aggies                | 27 | 17 | 10 | 19.1 | -2.1
- Tennessee State Tigers                 | 27 |  3 | 24 |  5.1 | -2.1
- Troy Trojans                           | 24 |  8 | 16 | 10.0 | -2.0
- Columbia Lions                         | 23 | 12 | 11 | 14.0 | -2.0
- Houston Cougars                        | 26 |  9 | 17 | 11.0 | -2.0
+ Illinois State Redbirds                | 28 | 17 | 11 | 19.1 | -2.1
+ South Carolina Gamecocks               | 26 | 12 | 14 | 14.1 | -2.1
+ California-Santa Barbara Gauchos       | 25 | 13 | 12 | 15.1 | -2.1
+ Tennessee State Tigers                 | 28 |  3 | 25 |  5.1 | -2.1
+ Richmond Spiders                       | 28 | 16 | 12 | 18.0 | -2.0
+ Illinois-Chicago Flames                | 28 |  5 | 23 |  7.0 | -2.0
+ Georgia State Panthers                 | 27 | 18 |  9 | 19.9 | -1.9
  Boston College Eagles                  | 27 |  9 | 18 | 10.9 | -1.9
- Austin Peay Governors                  | 26 |  5 | 21 |  6.8 | -1.8
- Dartmouth Big Green                    | 24 | 10 | 14 | 11.8 | -1.8
- North Carolina A&T Aggies              | 26 |  5 | 21 |  6.7 | -1.7
+ Idaho Vandals                          | 24 | 10 | 14 | 11.8 | -1.8
+ Saint Peter's Peacocks                 | 30 | 13 | 17 | 14.8 | -1.8
+ Nevada Wolf Pack                       | 25 |  6 | 19 |  7.8 | -1.8
+ Denver Pioneers                        | 28 | 12 | 16 | 13.7 | -1.7
+ Virginia Tech Hokies                   | 28 | 10 | 18 | 11.7 | -1.7
  Central Arkansas Bears                 | 25 |  1 | 24 |  2.7 | -1.7
- Marist Red Foxes                       | 28 |  5 | 23 |  6.7 | -1.7
- Fordham Rams                           | 24 |  7 | 17 |  8.7 | -1.7
- Illinois-Chicago Flames                | 27 |  5 | 22 |  6.7 | -1.7
- Minnesota Golden Gophers               | 27 | 15 | 12 | 16.7 | -1.7
- San Diego Toreros                      | 27 | 13 | 14 | 14.7 | -1.7
- Georgia Tech Yellow Jackets            | 28 | 12 | 16 | 13.6 | -1.6
- Winthrop Eagles                        | 24 | 13 | 11 | 14.6 | -1.6
- Stetson Hatters                        | 25 |  5 | 20 |  6.6 | -1.6
- Binghamton Bearcats                    | 28 |  4 | 24 |  5.6 | -1.6
- Michigan State Spartans                | 27 | 19 |  8 | 20.6 | -1.6
+ Winthrop Eagles                        | 25 | 13 | 12 | 14.7 | -1.7
+ North Carolina A&T Aggies              | 26 |  5 | 21 |  6.7 | -1.7
+ Utah Utes                              | 26 | 21 |  5 | 22.6 | -1.6
+ Tennessee Tech Golden Eagles           | 27 | 10 | 17 | 11.6 | -1.6
  Niagara Purple Eagles                  | 28 |  7 | 21 |  8.6 | -1.6
- Denver Pioneers                        | 27 | 11 | 16 | 12.6 | -1.6
- Quinnipiac Bobcats                     | 27 | 14 | 13 | 15.5 | -1.5
- Boston University Terriers             | 26 | 11 | 15 | 12.5 | -1.5
- Nevada Wolf Pack                       | 24 |  6 | 18 |  7.5 | -1.5
- Tennessee Tech Golden Eagles           | 26 | 10 | 16 | 11.5 | -1.5
+ Fordham Rams                           | 25 |  8 | 17 |  9.6 | -1.6
+ Dartmouth Big Green                    | 25 | 11 | 14 | 12.6 | -1.6
+ San Diego Toreros                      | 28 | 13 | 15 | 14.6 | -1.6
+ Binghamton Bearcats                    | 28 |  4 | 24 |  5.6 | -1.6
+ Georgia Tech Yellow Jackets            | 28 | 12 | 16 | 13.6 | -1.6
+ Arizona State Sun Devils               | 28 | 15 | 13 | 16.5 | -1.5
+ San Jose State Spartans                | 25 |  0 | 25 |  1.5 | -1.5
+ Maine Black Bears                      | 28 |  3 | 25 |  4.5 | -1.5
+ Youngstown State Penguins              | 27 |  8 | 19 |  9.5 | -1.5
+ Cleveland State Vikings                | 28 | 15 | 13 | 16.4 | -1.4
+ Memphis Tigers                         | 28 | 17 | 11 | 18.4 | -1.4
+ Rice Owls                              | 24 |  8 | 16 |  9.4 | -1.4
+ Austin Peay Governors                  | 27 |  6 | 21 |  7.4 | -1.4
+ New Mexico Lobos                       | 28 | 14 | 14 | 15.4 | -1.4
  New Orleans Privateers                 | 20 |  5 | 15 |  6.4 | -1.4
- Saint Peter's Peacocks                 | 29 | 13 | 16 | 14.4 | -1.4
- Georgia State Panthers                 | 26 | 18 |  8 | 19.4 | -1.4
- Northern Illinois Huskies              | 24 |  9 | 15 | 10.4 | -1.4
- Princeton Tigers                       | 24 | 11 | 13 | 12.4 | -1.4
- Duquesne Dukes                         | 24 |  8 | 16 |  9.4 | -1.4
- San Jose State Spartans                | 24 |  0 | 24 |  1.4 | -1.4
  Longwood Lancers                       | 28 |  6 | 22 |  7.4 | -1.4
- Youngstown State Penguins              | 26 |  8 | 18 |  9.4 | -1.4
- Furman Paladins                        | 25 |  5 | 20 |  6.4 | -1.4
- New Mexico Lobos                       | 28 | 14 | 14 | 15.3 | -1.3
+ George Mason Patriots                  | 26 |  7 | 19 |  8.3 | -1.3
  Coppin State Eagles                    | 26 |  5 | 21 |  6.3 | -1.3
- Virginia Tech Hokies                   | 27 | 10 | 17 | 11.3 | -1.3
- Eastern Kentucky Colonels              | 25 | 15 | 10 | 16.3 | -1.3
- Wake Forest Demon Deacons              | 27 | 12 | 15 | 13.3 | -1.3
- Southeast Missouri State Redhawks      | 26 | 10 | 16 | 11.3 | -1.3
- Colorado Buffaloes                     | 26 | 12 | 14 | 13.3 | -1.3
- Detroit Mercy Titans                   | 28 | 11 | 17 | 12.3 | -1.3
+ Bethune-Cookman Wildcats               | 26 |  8 | 18 |  9.3 | -1.3
+ Fairleigh Dickinson Knights            | 27 |  6 | 21 |  7.3 | -1.3
  Florida A&M Rattlers                   | 27 |  1 | 26 |  2.3 | -1.3
- Northern Colorado Bears                | 24 | 10 | 14 | 11.3 | -1.3
- Texas Christian Horned Frogs           | 27 | 16 | 11 | 17.2 | -1.2
- Brigham Young Cougars                  | 27 | 19 |  8 | 20.2 | -1.2
- Arkansas-Little Rock Trojans           | 26 | 11 | 15 | 12.2 | -1.2
- Seattle Redhawks                       | 24 | 11 | 13 | 12.2 | -1.2
- Utah Utes                              | 25 | 20 |  5 | 21.2 | -1.2
+ North Dakota UND                       | 25 |  6 | 19 |  7.3 | -1.3
+ Virginia Military Institute Keydets    | 26 |  9 | 17 | 10.3 | -1.3
+ Stetson Hatters                        | 26 |  6 | 20 |  7.3 | -1.3
+ Quinnipiac Bobcats                     | 28 | 15 | 13 | 16.3 | -1.3
+ Southern California Trojans            | 28 | 10 | 18 | 11.3 | -1.3
+ Southeast Missouri State Redhawks      | 26 | 10 | 16 | 11.3 | -1.3
+ Princeton Tigers                       | 25 | 11 | 14 | 12.2 | -1.2
+ Marist Red Foxes                       | 29 |  6 | 23 |  7.2 | -1.2
+ Southern Illinois-Edwardsville Cougars | 25 | 10 | 15 | 11.2 | -1.2
  North Carolina Tar Heels               | 28 | 19 |  9 | 20.2 | -1.2
- Rice Owls                              | 23 |  8 | 15 |  9.2 | -1.2
- Missouri Tigers                        | 27 |  7 | 20 |  8.2 | -1.2
+ North Carolina-Asheville Bulldogs      | 25 | 10 | 15 | 11.2 | -1.2
+ Central Connecticut State Blue Devils  | 30 |  5 | 25 |  6.2 | -1.2
+ Seattle Redhawks                       | 24 | 11 | 13 | 12.2 | -1.2
+ Minnesota Golden Gophers               | 28 | 16 | 12 | 17.2 | -1.2
  Oklahoma Sooners                       | 27 | 19 |  8 | 20.2 | -1.2
- Memphis Tigers                         | 27 | 17 | 10 | 18.1 | -1.1
- George Mason Patriots                  | 25 |  7 | 18 |  8.1 | -1.1
+ Duquesne Dukes                         | 25 |  9 | 16 | 10.2 | -1.2
+ Boston University Terriers             | 27 | 12 | 15 | 13.2 | -1.2
  Prairie View Panthers                  | 26 | 10 | 16 | 11.1 | -1.1
+ Colorado Buffaloes                     | 27 | 12 | 15 | 13.1 | -1.1
+ Northern Colorado Bears                | 25 | 11 | 14 | 12.1 | -1.1
+ Missouri-Kansas City Kangaroos         | 27 | 10 | 17 | 11.1 | -1.1
+ Texas Christian Horned Frogs           | 28 | 17 | 11 | 18.1 | -1.1
+ Missouri Tigers                        | 27 |  7 | 20 |  8.1 | -1.1
+ Southern Utah Thunderbirds             | 25 |  7 | 18 |  8.1 | -1.1
  North Carolina State Wolfpack          | 28 | 17 | 11 | 18.1 | -1.1
- Maine Black Bears                      | 27 |  3 | 24 |  4.1 | -1.1
- Bethune-Cookman Wildcats               | 25 |  8 | 17 |  9.1 | -1.1
  Grambling Tigers                       | 22 |  0 | 22 |  1.0 | -1.0
- North Dakota UND                       | 24 |  6 | 18 |  7.0 | -1.0
+ Cal State Fullerton Titans             | 26 |  7 | 19 |  8.0 | -1.0
+ Mercer Bears                           | 28 | 14 | 14 | 15.0 | -1.0
  McNeese State Cowboys                  | 22 |  7 | 15 |  8.0 | -1.0
- Canisius Golden Griffins               | 28 | 15 | 13 | 16.0 | -1.0
- Wagner Seahawks                        | 26 |  9 | 17 | 10.0 | -1.0
- William & Mary Tribe                   | 25 | 15 | 10 | 16.0 | -1.0
- California-Irvine Anteaters            | 24 | 14 | 10 | 15.0 | -1.0
- Towson Tigers                          | 28 | 11 | 17 | 12.0 | -1.0
- Air Force Falcons                      | 24 | 10 | 14 | 11.0 | -1.0
- Missouri-Kansas City Kangaroos         | 26 |  9 | 17 | 10.0 | -1.0
- Southern Utah Thunderbirds             | 24 |  7 | 17 |  7.9 | -0.9
- Virginia Military Institute Keydets    | 25 |  9 | 16 |  9.9 | -0.9
- Marquette Golden Eagles                | 26 | 11 | 15 | 11.9 | -0.9
- Sacred Heart Pioneers                  | 28 | 12 | 16 | 12.9 | -0.9
- Cleveland State Vikings                | 27 | 15 | 12 | 15.9 | -0.9
- South Alabama Jaguars                  | 26 |  7 | 19 |  7.9 | -0.9
- Fairleigh Dickinson Knights            | 26 |  6 | 20 |  6.9 | -0.9
- Central Connecticut State Blue Devils  | 29 |  5 | 24 |  5.9 | -0.9
+ William & Mary Tribe                   | 26 | 16 | 10 | 17.0 | -1.0
+ Furman Paladins                        | 26 |  6 | 20 |  7.0 | -1.0
+ Texas-San Antonio Roadrunners          | 24 | 11 | 13 | 12.0 | -1.0
+ Brigham Young Cougars                  | 28 | 20 |  8 | 21.0 | -1.0
+ Towson Tigers                          | 29 | 11 | 18 | 12.0 | -1.0
+ Eastern Kentucky Colonels              | 26 | 16 | 10 | 17.0 | -1.0
+ Northern Illinois Huskies              | 25 | 10 | 15 | 10.9 | -0.9
+ Stanford Cardinal                      | 27 | 18 |  9 | 18.9 | -0.9
+ Detroit Mercy Titans                   | 29 | 12 | 17 | 12.9 | -0.9
+ Marshall Thundering Herd               | 26 |  8 | 18 |  8.9 | -0.9
  Syracuse Orange                        | 28 | 18 | 10 | 18.9 | -0.9
- Marshall Thundering Herd               | 25 |  7 | 18 |  7.9 | -0.9
- Southern Illinois-Edwardsville Cougars | 24 | 10 | 14 | 10.8 | -0.8
- North Carolina-Asheville Bulldogs      | 24 | 10 | 14 | 10.8 | -0.8
- Cal State Fullerton Titans             | 25 |  7 | 18 |  7.8 | -0.8
+ South Alabama Jaguars                  | 27 |  7 | 20 |  7.9 | -0.9
  Southern Jaguars                       | 26 | 11 | 15 | 11.8 | -0.8
- Iowa Hawkeyes                          | 27 | 17 | 10 | 17.8 | -0.8
- Montana State Bobcats                  | 26 |  6 | 20 |  6.8 | -0.8
- Connecticut Huskies                    | 26 | 15 | 11 | 15.8 | -0.8
- Texas State Bobcats                    | 22 |  8 | 14 |  8.8 | -0.8
+ Arkansas-Little Rock Trojans           | 27 | 12 | 15 | 12.8 | -0.8
  Hampton Pirates                        | 26 | 11 | 15 | 11.8 | -0.8
- Southern California Trojans            | 27 | 10 | 17 | 10.8 | -0.8
+ Marquette Golden Eagles                | 27 | 11 | 16 | 11.8 | -0.8
+ Montana Grizzlies                      | 25 | 14 | 11 | 14.8 | -0.8
  Morgan State Bears                     | 28 |  7 | 21 |  7.7 | -0.7
- North Florida Ospreys                  | 26 | 15 | 11 | 15.7 | -0.7
- East Carolina Pirates                  | 25 | 10 | 15 | 10.6 | -0.6
- Samford Bulldogs                       | 28 | 11 | 17 | 11.6 | -0.6
- Mercer Bears                           | 27 | 14 | 13 | 14.6 | -0.6
- Stanford Cardinal                      | 26 | 17 |  9 | 17.6 | -0.6
- Cornell Big Red                        | 25 | 11 | 14 | 11.6 | -0.6
- Texas-San Antonio Roadrunners          | 23 | 11 | 12 | 11.6 | -0.6
- Baylor Bears                           | 26 | 19 |  7 | 19.6 | -0.6
- Cincinnati Bearcats                    | 27 | 18 |  9 | 18.5 | -0.5
- South Carolina Upstate Spartans        | 25 | 16 |  9 | 16.5 | -0.5
- Purdue Boilermakers                    | 27 | 18 |  9 | 18.5 | -0.5
- Northern Kentucky Norse                | 25 |  9 | 16 |  9.5 | -0.5
- Elon Phoenix                           | 27 | 10 | 17 | 10.4 | -0.4
- Northwestern Wildcats                  | 27 | 13 | 14 | 13.4 | -0.4
- Eastern Michigan Eagles                | 24 | 13 | 11 | 13.4 | -0.4
- Saint Joseph's Hawks                   | 26 | 11 | 15 | 11.4 | -0.4
+ Wright State Raiders                   | 27 |  9 | 18 |  9.7 | -0.7
+ Montana State Bobcats                  | 27 |  6 | 21 |  6.7 | -0.7
+ Air Force Falcons                      | 25 | 11 | 14 | 11.7 | -0.7
+ Connecticut Huskies                    | 27 | 16 | 11 | 16.7 | -0.7
+ East Carolina Pirates                  | 26 | 10 | 16 | 10.7 | -0.7
+ South Carolina Upstate Spartans        | 26 | 17 |  9 | 17.7 | -0.7
+ Canisius Golden Griffins               | 29 | 16 | 13 | 16.7 | -0.7
+ California-Irvine Anteaters            | 25 | 15 | 10 | 15.7 | -0.7
+ Northern Kentucky Norse                | 26 | 10 | 16 | 10.7 | -0.7
+ Cal Poly Mustangs                      | 24 | 11 | 13 | 11.6 | -0.6
+ Iowa Hawkeyes                          | 28 | 18 | 10 | 18.6 | -0.6
+ Wake Forest Demon Deacons              | 28 | 12 | 16 | 12.6 | -0.6
+ Wagner Seahawks                        | 27 |  9 | 18 |  9.6 | -0.6
+ Western Carolina Catamounts            | 27 | 11 | 16 | 11.6 | -0.6
+ Samford Bulldogs                       | 29 | 11 | 18 | 11.6 | -0.6
+ Sacred Heart Pioneers                  | 29 | 13 | 16 | 13.5 | -0.5
+ Texas State Bobcats                    | 23 |  9 | 14 |  9.5 | -0.5
+ Cincinnati Bearcats                    | 28 | 19 |  9 | 19.5 | -0.5
+ North Florida Ospreys                  | 27 | 16 | 11 | 16.4 | -0.4
+ Indiana State Sycamores                | 28 | 13 | 15 | 13.4 | -0.4
+ Loyola Marymount Lions                 | 28 |  7 | 21 |  7.4 | -0.4
+ South Dakota State Jackrabbits         | 27 | 19 |  8 | 19.4 | -0.4
  Buffalo Bulls                          | 27 | 18 |  9 | 18.4 | -0.4
- Missouri State Bears                   | 26 |  8 | 18 |  8.4 | -0.4
- Montana Grizzlies                      | 24 | 14 | 10 | 14.4 | -0.4
- Weber State Wildcats                   | 24 |  9 | 15 |  9.3 | -0.3
- Miami (FL) Hurricanes                  | 27 | 17 | 10 | 17.3 | -0.3
+ Illinois Fighting Illini               | 28 | 17 | 11 | 17.4 | -0.4
+ Cornell Big Red                        | 26 | 12 | 14 | 12.4 | -0.4
+ Eastern Michigan Eagles                | 24 | 13 | 11 | 13.3 | -0.3
+ Coastal Carolina Chanticleers          | 26 | 17 |  9 | 17.3 | -0.3
  Nicholls State Colonels                | 21 |  4 | 17 |  4.3 | -0.3
- Loyola Marymount Lions                 | 28 |  7 | 21 |  7.3 | -0.3
- South Dakota State Jackrabbits         | 27 | 19 |  8 | 19.3 | -0.3
- Indiana State Sycamores                | 27 | 13 | 14 | 13.3 | -0.3
- Navy Midshipmen                        | 27 | 10 | 17 | 10.3 | -0.3
- Akron Zips                             | 27 | 16 | 11 | 16.3 | -0.3
- Wright State Raiders                   | 26 |  9 | 17 |  9.3 | -0.3
+ Rhode Island Rams                      | 25 | 18 |  7 | 18.3 | -0.3
+ IPFW Mastodons                         | 25 | 12 | 13 | 12.3 | -0.3
  South Florida Bulls                    | 27 |  7 | 20 |  7.3 | -0.3
- Cal Poly Mustangs                      | 23 | 11 | 12 | 11.3 | -0.3
+ Monmouth Hawks                         | 30 | 16 | 14 | 16.3 | -0.3
+ Weber State Wildcats                   | 24 |  9 | 15 |  9.3 | -0.3
+ Toledo Rockets                         | 28 | 18 | 10 | 18.3 | -0.3
+ Portland Pilots                        | 27 | 14 | 13 | 14.3 | -0.3
+ Jacksonville Dolphins                  | 27 |  6 | 21 |  6.3 | -0.3
+ Penn State Nittany Lions               | 28 | 15 | 13 | 15.2 | -0.2
+ Miami (OH) RedHawks                    | 27 | 11 | 16 | 11.2 | -0.2
+ Mississippi State Bulldogs             | 27 | 11 | 16 | 11.2 | -0.2
+ Akron Zips                             | 28 | 17 | 11 | 17.2 | -0.2
+ Nevada-Las Vegas Rebels                | 27 | 14 | 13 | 14.2 | -0.2
+ Robert Morris Colonials                | 29 | 15 | 14 | 15.2 | -0.2
  Sam Houston State Bearkats             | 23 | 18 |  5 | 18.2 | -0.2
  DePaul Blue Demons                     | 29 | 12 | 17 | 12.2 | -0.2
- New Hampshire Wildcats                 | 25 | 15 | 10 | 15.2 | -0.2
- Illinois Fighting Illini               | 27 | 17 | 10 | 17.2 | -0.2
- Penn State Nittany Lions               | 28 | 15 | 13 | 15.2 | -0.2
- Western Carolina Catamounts            | 26 | 11 | 15 | 11.2 | -0.2
- Miami (OH) RedHawks                    | 27 | 11 | 16 | 11.2 | -0.2
- Delaware Fightin' Blue Hens            | 27 |  8 | 19 |  8.1 | -0.1
+ Baylor Bears                           | 27 | 20 |  7 | 20.2 | -0.2
+ New Hampshire Wildcats                 | 26 | 15 | 11 | 15.2 | -0.2
+ Northwestern Wildcats                  | 28 | 14 | 14 | 14.1 | -0.1
+ Navy Midshipmen                        | 28 | 10 | 18 | 10.1 | -0.1
+ Saint Joseph's Hawks                   | 27 | 12 | 15 | 12.1 | -0.1
  Creighton Bluejays                     | 28 | 13 | 15 | 13.1 | -0.1
- Portland Pilots                        | 26 | 14 | 12 | 14.1 | -0.1
+ La Salle Explorers                     | 28 | 15 | 13 | 15.1 | -0.1
+ Siena Saints                           | 28 | 10 | 18 | 10.1 | -0.1
+ Delaware Fightin' Blue Hens            | 28 |  9 | 19 |  9.1 | -0.1
+ Purdue Boilermakers                    | 28 | 19 |  9 | 19.1 | -0.1
  Alabama-Birmingham Blazers             | 27 | 14 | 13 | 14.1 | -0.1
- Nevada-Las Vegas Rebels                | 27 | 14 | 13 | 14.1 | -0.1
- Chicago State Cougars                  | 25 |  3 | 22 |  3.1 | -0.1
- Alabama A&M Bulldogs                   | 23 |  7 | 16 |  7.0 |  0.0
- Boise State Broncos                    | 26 | 19 |  7 | 19.0 |  0.0
  Wisconsin Badgers                      | 28 | 25 |  3 | 25.0 |  0.0
- La Salle Explorers                     | 27 | 15 | 12 | 15.0 |  0.0
- Mississippi State Bulldogs             | 26 | 11 | 15 | 11.0 |  0.0
+ Texas-Pan American Broncs              | 25 |  6 | 19 |  6.0 |  0.0
+ Elon Phoenix                           | 28 | 11 | 17 | 11.0 |  0.0
+ Boise State Broncos                    | 26 | 19 |  7 | 19.0 |  0.0
+ Pepperdine Waves                       | 27 | 15 | 12 | 15.0 |  0.0
+ Alabama A&M Bulldogs                   | 23 |  7 | 16 |  7.0 |  0.0
  Alabama Crimson Tide                   | 27 | 16 | 11 | 16.0 |  0.0
- Siena Saints                           | 27 | 10 | 17 |  9.9 |  0.1
- Texas-Pan American Broncs              | 25 |  6 | 19 |  5.9 |  0.1
- Coastal Carolina Chanticleers          | 25 | 17 |  8 | 16.9 |  0.1
- Jacksonville Dolphins                  | 26 |  6 | 20 |  5.9 |  0.1
+ Missouri State Bears                   | 27 |  9 | 18 |  9.0 |  0.0
+ Mississippi Rebels                     | 28 | 19 |  9 | 19.0 |  0.0
+ Ohio Bobcats                           | 27 |  9 | 18 |  9.0 |  0.0
+ Butler Bulldogs                        | 28 | 20 |  8 | 20.0 |  0.0
  Middle Tennessee Blue Raiders          | 27 | 14 | 13 | 13.9 |  0.1
- IPFW Mastodons                         | 24 | 12 | 12 | 11.9 |  0.1
- Butler Bulldogs                        | 27 | 19 |  8 | 18.9 |  0.1
- Pepperdine Waves                       | 27 | 15 | 12 | 14.9 |  0.1
- Ohio Bobcats                           | 26 |  9 | 17 |  8.9 |  0.1
- Pacific Tigers                         | 25 |  8 | 17 |  7.8 |  0.2
- Arizona Wildcats                       | 27 | 24 |  3 | 23.8 |  0.2
- Robert Morris Colonials                | 28 | 14 | 14 | 13.8 |  0.2
- Toledo Rockets                         | 27 | 18 |  9 | 17.8 |  0.2
- Monmouth Hawks                         | 29 | 16 | 13 | 15.8 |  0.2
- Lipscomb Bisons                        | 24 |  9 | 15 |  8.8 |  0.2
- Davidson Wildcats                      | 24 | 18 |  6 | 17.8 |  0.2
- Rhode Island Rams                      | 24 | 18 |  6 | 17.8 |  0.2
+ Miami (FL) Hurricanes                  | 28 | 18 | 10 | 17.9 |  0.1
+ Pennsylvania Quakers                   | 24 |  7 | 17 |  6.9 |  0.1
+ Arizona Wildcats                       | 28 | 25 |  3 | 24.9 |  0.1
+ Manhattan Jaspers                      | 28 | 15 | 13 | 14.8 |  0.2
  Utah State Aggies                      | 26 | 16 | 10 | 15.8 |  0.2
- Presbyterian Blue Hose                 | 25 |  5 | 20 |  4.8 |  0.2
- Citadel Bulldogs                       | 24 |  7 | 17 |  6.8 |  0.2
- San Diego State Aztecs                 | 27 | 21 |  6 | 20.8 |  0.2
+ Texas-Arlington Mavericks              | 26 | 14 | 12 | 13.8 |  0.2
  Mississippi Valley State Delta Devils  | 28 |  5 | 23 |  4.8 |  0.2
+ San Diego State Aztecs                 | 27 | 21 |  6 | 20.8 |  0.2
  Oklahoma State Cowboys                 | 26 | 16 | 10 | 15.8 |  0.2
- St. Bonaventure Bonnies                | 25 | 14 | 11 | 13.7 |  0.3
- Fresno State Bulldogs                  | 25 | 10 | 15 |  9.7 |  0.3
- Washington Huskies                     | 26 | 15 | 11 | 14.7 |  0.3
- Hawaii Warriors                        | 27 | 16 | 11 | 15.6 |  0.4
- Pennsylvania Quakers                   | 23 |  7 | 16 |  6.6 |  0.4
- Northwestern State Demons              | 22 | 12 | 10 | 11.6 |  0.4
- St. Francis (NY) Terriers              | 28 | 19 |  9 | 18.6 |  0.4
- Holy Cross Crusaders                   | 25 | 10 | 15 |  9.6 |  0.4
- Long Beach State 49ers                 | 26 | 11 | 15 | 10.6 |  0.4
+ Hawaii Warriors                        | 28 | 17 | 11 | 16.7 |  0.3
+ Washington Huskies                     | 27 | 15 | 12 | 14.7 |  0.3
+ Florida State Seminoles                | 29 | 15 | 14 | 14.6 |  0.4
+ Lipscomb Bisons                        | 25 |  9 | 16 |  8.6 |  0.4
+ Grand Canyon Antelopes                 | 27 | 14 | 13 | 13.6 |  0.4
+ Long Beach State 49ers                 | 27 | 11 | 16 | 10.6 |  0.4
  Houston Baptist Huskies                | 20 |  7 | 13 |  6.6 |  0.4
- Old Dominion Monarchs                  | 26 | 20 |  6 | 19.5 |  0.5
- NJIT Highlanders                       | 24 | 13 | 11 | 12.5 |  0.5
- Mississippi Rebels                     | 27 | 19 |  8 | 18.5 |  0.5
+ Northwestern State Demons              | 22 | 12 | 10 | 11.5 |  0.5
+ Iowa State Cyclones                    | 27 | 20 |  7 | 19.5 |  0.5
  Georgetown Hoyas                       | 26 | 18 |  8 | 17.5 |  0.5
- Southern Mississippi Golden Eagles     | 24 |  5 | 19 |  4.5 |  0.5
+ Long Island University Blackbirds      | 28 | 12 | 16 | 11.5 |  0.5
+ NJIT Highlanders                       | 24 | 13 | 11 | 12.5 |  0.5
+ Pacific Tigers                         | 26 |  9 | 17 |  8.5 |  0.5
  Seton Hall Pirates                     | 27 | 15 | 12 | 14.5 |  0.5
- Manhattan Jaspers                      | 27 | 15 | 12 | 14.5 |  0.5
- Brown Bears                            | 25 | 10 | 15 |  9.4 |  0.6
- Arkansas State Red Wolves              | 24 |  9 | 15 |  8.4 |  0.6
- Milwaukee Panthers                     | 26 | 10 | 16 |  9.4 |  0.6
- Texas Tech Red Raiders                 | 28 | 12 | 16 | 11.4 |  0.6
- South Dakota Coyotes                   | 27 | 13 | 14 | 12.4 |  0.6
- IUPUI Jaguars                          | 28 |  9 | 19 |  8.4 |  0.6
- Nebraska Cornhuskers                   | 27 | 13 | 14 | 12.4 |  0.6
- Lamar Cardinals                        | 23 | 10 | 13 |  9.3 |  0.7
- Northern Arizona Lumberjacks           | 26 | 14 | 12 | 13.3 |  0.7
- Texas-Arlington Mavericks              | 25 | 14 | 11 | 13.3 |  0.7
- Delaware State Hornets                 | 26 | 11 | 15 | 10.3 |  0.7
+ St. Bonaventure Bonnies                | 26 | 14 | 12 | 13.4 |  0.6
+ Lehigh Mountain Hawks                  | 27 | 15 | 12 | 14.4 |  0.6
+ Texas Tech Red Raiders                 | 29 | 12 | 17 | 11.4 |  0.6
+ Western Illinois Leathernecks          | 24 |  6 | 18 |  5.4 |  0.6
+ Old Dominion Monarchs                  | 27 | 21 |  6 | 20.4 |  0.6
+ Chicago State Cougars                  | 26 |  4 | 22 |  3.4 |  0.6
+ Army Black Knights                     | 27 | 14 | 13 | 13.4 |  0.6
+ Fresno State Bulldogs                  | 26 | 11 | 15 | 10.3 |  0.7
+ Nebraska Cornhuskers                   | 28 | 13 | 15 | 12.3 |  0.7
+ South Dakota Coyotes                   | 28 | 13 | 15 | 12.3 |  0.7
+ George Washington Colonials            | 28 | 18 | 10 | 17.3 |  0.7
  Howard Bison                           | 25 | 12 | 13 | 11.3 |  0.7
- Lehigh Mountain Hawks                  | 26 | 14 | 12 | 13.3 |  0.7
- Oakland Golden Grizzlies               | 27 | 13 | 14 | 12.3 |  0.7
- Stony Brook Seawolves                  | 27 | 17 | 10 | 16.3 |  0.7
- Louisiana Tech Bulldogs                | 27 | 20 |  7 | 19.2 |  0.8
- Loyola (IL) Ramblers                   | 26 | 14 | 12 | 13.2 |  0.8
- Utah Valley Wolverines                 | 24 |  8 | 16 |  7.2 |  0.8
- Norfolk State Spartans                 | 27 | 16 | 11 | 15.2 |  0.8
+ Citadel Bulldogs                       | 25 |  8 | 17 |  7.3 |  0.7
+ Norfolk State Spartans                 | 27 | 16 | 11 | 15.3 |  0.7
+ St. Francis (NY) Terriers              | 29 | 20 |  9 | 19.3 |  0.7
+ Delaware State Hornets                 | 26 | 11 | 15 | 10.3 |  0.7
+ Presbyterian Blue Hose                 | 26 |  6 | 20 |  5.3 |  0.7
+ Lamar Cardinals                        | 23 | 10 | 13 |  9.3 |  0.7
+ Davidson Wildcats                      | 25 | 19 |  6 | 18.3 |  0.7
+ American Eagles                        | 29 | 15 | 14 | 14.2 |  0.8
+ Holy Cross Crusaders                   | 26 | 11 | 15 | 10.2 |  0.8
  Michigan Wolverines                    | 26 | 13 | 13 | 12.2 |  0.8
- Southern Methodist Mustangs            | 26 | 21 |  5 | 20.2 |  0.8
- Drexel Dragons                         | 26 | 10 | 16 |  9.2 |  0.8
- Florida State Seminoles                | 28 | 15 | 13 | 14.2 |  0.8
- Long Island University Blackbirds      | 27 | 12 | 15 | 11.1 |  0.9
+ Drexel Dragons                         | 27 | 10 | 17 |  9.2 |  0.8
+ Louisiana Tech Bulldogs                | 28 | 21 |  7 | 20.2 |  0.8
+ Louisville Cardinals                   | 28 | 22 |  6 | 21.2 |  0.8
+ Stony Brook Seawolves                  | 28 | 18 | 10 | 17.2 |  0.8
  Central Michigan Chippewas             | 23 | 18 |  5 | 17.1 |  0.9
- Wichita State Shockers                 | 27 | 24 |  3 | 23.1 |  0.9
- Louisville Cardinals                   | 28 | 22 |  6 | 21.1 |  0.9
- Army Black Knights                     | 26 | 14 | 12 | 13.1 |  0.9
- Georgia Bulldogs                       | 26 | 17 |  9 | 16.1 |  0.9
- Western Illinois Leathernecks          | 23 |  6 | 17 |  5.1 |  0.9
- Iowa State Cyclones                    | 26 | 20 |  6 | 19.1 |  0.9
- Grand Canyon Antelopes                 | 26 | 14 | 12 | 13.1 |  0.9
- Savannah State Tigers                  | 24 |  5 | 19 |  4.1 |  0.9
  Arkansas-Pine Bluff Golden Lions       | 29 |  9 | 20 |  8.1 |  0.9
- American Eagles                        | 28 | 14 | 14 | 13.0 |  1.0
- Auburn Tigers                          | 27 | 11 | 16 | 10.0 |  1.0
- Texas-El Paso Miners                   | 26 | 19 |  7 | 18.0 |  1.0
- George Washington Colonials            | 27 | 17 | 10 | 16.0 |  1.0
- North Carolina Central Eagles          | 24 | 18 |  6 | 17.0 |  1.0
- North Texas Mean Green                 | 24 | 11 | 13 | 10.0 |  1.0
+ Drake Bulldogs                         | 28 |  8 | 20 |  7.1 |  0.9
+ Oakland Golden Grizzlies               | 28 | 14 | 14 | 13.1 |  0.9
+ Texas-El Paso Miners                   | 27 | 19 |  8 | 18.1 |  0.9
+ Mount St. Mary's Mountaineers          | 28 | 14 | 14 | 13.1 |  0.9
+ Santa Clara Broncos                    | 27 | 10 | 17 |  9.1 |  0.9
+ IUPUI Jaguars                          | 29 | 10 | 19 |  9.1 |  0.9
+ Brown Bears                            | 26 | 11 | 15 | 10.1 |  0.9
+ Utah Valley Wolverines                 | 25 |  8 | 17 |  7.1 |  0.9
+ Wichita State Shockers                 | 28 | 25 |  3 | 24.0 |  1.0
  Clemson Tigers                         | 27 | 15 | 12 | 14.0 |  1.0
- Saint Francis (PA) Red Flash           | 26 | 13 | 13 | 12.0 |  1.0
- Green Bay Phoenix                      | 26 | 19 |  7 | 18.0 |  1.0
- Hartford Hawks                         | 26 | 12 | 14 | 10.9 |  1.1
- Bryant Bulldogs                        | 27 | 13 | 14 | 11.9 |  1.1
- Bowling Green State Falcons            | 25 | 18 |  7 | 16.9 |  1.1
+ Southern Mississippi Golden Eagles     | 25 |  6 | 19 |  5.0 |  1.0
+ Auburn Tigers                          | 27 | 11 | 16 | 10.0 |  1.0
+ Northern Arizona Lumberjacks           | 27 | 15 | 12 | 14.0 |  1.0
+ Indiana Hoosiers                       | 29 | 19 | 10 | 18.0 |  1.0
+ North Carolina Central Eagles          | 24 | 18 |  6 | 17.0 |  1.0
+ Milwaukee Panthers                     | 27 | 11 | 16 | 10.0 |  1.0
+ Tennessee Volunteers                   | 27 | 14 | 13 | 12.9 |  1.1
  Texas A&M-Corpus Christi Islanders     | 25 | 13 | 12 | 11.9 |  1.1
  Maryland-Eastern Shore Hawks           | 29 | 16 | 13 | 14.9 |  1.1
- Dayton Flyers                          | 26 | 20 |  6 | 18.9 |  1.1
- Western Kentucky Hilltoppers           | 24 | 14 | 10 | 12.9 |  1.1
- Drake Bulldogs                         | 27 |  8 | 19 |  6.8 |  1.2
- Florida International Panthers         | 25 | 11 | 14 |  9.8 |  1.2
- Georgia Southern Eagles                | 22 | 16 |  6 | 14.8 |  1.2
- Alabama State Hornets                  | 21 | 14 |  7 | 12.8 |  1.2
- Mount St. Mary's Mountaineers          | 27 | 14 | 13 | 12.7 |  1.3
- Tennessee Volunteers                   | 26 | 14 | 12 | 12.7 |  1.3
- Santa Clara Broncos                    | 26 | 10 | 16 |  8.7 |  1.3
- UCLA Bruins                            | 28 | 16 | 12 | 14.7 |  1.3
+ Northeastern Huskies                   | 30 | 19 | 11 | 17.9 |  1.1
+ Bowling Green State Falcons            | 25 | 18 |  7 | 16.9 |  1.1
+ Southern Methodist Mustangs            | 27 | 22 |  5 | 20.9 |  1.1
+ North Texas Mean Green                 | 25 | 12 | 13 | 10.9 |  1.1
+ Arkansas State Red Wolves              | 25 | 10 | 15 |  8.9 |  1.1
+ Alabama State Hornets                  | 21 | 14 |  7 | 12.9 |  1.1
+ Virginia Commonwealth Rams             | 28 | 21 |  7 | 19.9 |  1.1
+ Florida International Panthers         | 26 | 11 | 15 |  9.8 |  1.2
+ Loyola (IL) Ramblers                   | 27 | 15 | 12 | 13.8 |  1.2
+ Green Bay Phoenix                      | 27 | 20 |  7 | 18.8 |  1.2
+ Georgia Southern Eagles                | 23 | 17 |  6 | 15.8 |  1.2
+ East Tennessee State Buccaneers        | 26 | 14 | 12 | 12.8 |  1.2
+ UCLA Bruins                            | 29 | 17 | 12 | 15.7 |  1.3
  Stephen F. Austin Lumberjacks          | 24 | 20 |  4 | 18.7 |  1.3
- Kentucky Wildcats                      | 27 | 27 |  0 | 25.7 |  1.3
- Yale Elis                              | 25 | 17 |  8 | 15.6 |  1.4
- Tennessee-Martin Skyhawks              | 25 | 15 | 10 | 13.6 |  1.4
+ Tennessee-Martin Skyhawks              | 26 | 16 | 10 | 14.7 |  1.3
+ Dayton Flyers                          | 27 | 21 |  6 | 19.7 |  1.3
+ Lafayette Leopards                     | 27 | 15 | 12 | 13.7 |  1.3
+ Savannah State Tigers                  | 25 |  6 | 19 |  4.7 |  1.3
+ Saint Louis Billikens                  | 27 | 10 | 17 |  8.7 |  1.3
+ Kansas State Wildcats                  | 29 | 14 | 15 | 12.7 |  1.3
+ Yale Elis                              | 26 | 18 |  8 | 16.7 |  1.3
+ Georgia Bulldogs                       | 27 | 18 |  9 | 16.7 |  1.3
+ Virginia Cavaliers                     | 27 | 26 |  1 | 24.6 |  1.4
  St. John's (NY) Red Storm              | 27 | 18 |  9 | 16.6 |  1.4
- Kansas State Wildcats                  | 29 | 14 | 15 | 12.6 |  1.4
- Saint Louis Billikens                  | 26 | 10 | 16 |  8.6 |  1.4
- Indiana Hoosiers                       | 28 | 19 |  9 | 17.6 |  1.4
- Kent State Golden Flashes              | 27 | 18 |  9 | 16.5 |  1.5
- Virginia Commonwealth Rams             | 27 | 21 |  6 | 19.5 |  1.5
- Northeastern Huskies                   | 29 | 19 | 10 | 17.5 |  1.5
+ Bryant Bulldogs                        | 28 | 14 | 14 | 12.6 |  1.4
+ Saint Francis (PA) Red Flash           | 27 | 14 | 13 | 12.6 |  1.4
+ Kentucky Wildcats                      | 28 | 28 |  0 | 26.6 |  1.4
+ Western Kentucky Hilltoppers           | 25 | 15 | 10 | 13.6 |  1.4
  Louisiana State Fighting Tigers        | 28 | 20 |  8 | 18.5 |  1.5
- Oregon State Beavers                   | 26 | 16 | 10 | 14.5 |  1.5
- Lafayette Leopards                     | 26 | 15 | 11 | 13.4 |  1.6
- Kennesaw State Owls                    | 27 |  8 | 19 |  6.4 |  1.6
+ Harvard Crimson                        | 23 | 17 |  6 | 15.5 |  1.5
+ Charleston Southern Buccaneers         | 25 | 15 | 10 | 13.5 |  1.5
+ Kent State Golden Flashes              | 27 | 18 |  9 | 16.5 |  1.5
+ Hartford Hawks                         | 27 | 13 | 14 | 11.5 |  1.5
  South Carolina State Bulldogs          | 27 |  8 | 19 |  6.4 |  1.6
+ Kennesaw State Owls                    | 28 |  8 | 20 |  6.4 |  1.6
+ Saint Mary's (CA) Gaels                | 27 | 20 |  7 | 18.3 |  1.7
  Belmont Bruins                         | 27 | 17 | 10 | 15.3 |  1.7
- Gardner-Webb Runnin' Bulldogs          | 25 | 13 | 12 | 11.3 |  1.7
- East Tennessee State Buccaneers        | 25 | 14 | 11 | 12.3 |  1.7
- Tulane Green Wave                      | 25 | 13 | 12 | 11.3 |  1.7
- Virginia Cavaliers                     | 26 | 25 |  1 | 23.3 |  1.7
- Bucknell Bison                         | 28 | 16 | 12 | 14.2 |  1.8
- Charleston Southern Buccaneers         | 24 | 15 |  9 | 13.2 |  1.8
- Albany (NY) Great Danes                | 27 | 19 |  8 | 17.2 |  1.8
+ Rutgers Scarlet Knights                | 29 | 10 | 19 |  8.3 |  1.7
+ Albany (NY) Great Danes                | 28 | 20 |  8 | 18.3 |  1.7
+ Jacksonville State Gamecocks           | 28 | 10 | 18 |  8.3 |  1.7
+ Oregon State Beavers                   | 27 | 16 | 11 | 14.2 |  1.8
+ Tulane Green Wave                      | 26 | 13 | 13 | 11.2 |  1.8
+ Tulsa Golden Hurricane                 | 26 | 20 |  6 | 18.2 |  1.8
  Incarnate Word Cardinals               | 20 | 13 |  7 | 11.2 |  1.8
- Harvard Crimson                        | 22 | 17 |  5 | 15.2 |  1.8
- Central Florida Knights                | 25 | 11 | 14 |  9.1 |  1.9
+ Central Florida Knights                | 26 | 11 | 15 |  9.1 |  1.9
+ Gardner-Webb Runnin' Bulldogs          | 26 | 14 | 12 | 12.1 |  1.9
  Pittsburgh Panthers                    | 28 | 18 | 10 | 16.1 |  1.9
- Murray State Breds                     | 26 | 22 |  4 | 20.1 |  1.9
- Saint Mary's (CA) Gaels                | 26 | 19 |  7 | 17.1 |  1.9
- Tulsa Golden Hurricane                 | 25 | 19 |  6 | 17.1 |  1.9
+ Bucknell Bison                         | 29 | 16 | 13 | 14.1 |  1.9
+ Evansville Purple Aces                 | 28 | 18 | 10 | 16.0 |  2.0
+ North Dakota State Bison               | 27 | 18 |  9 | 16.0 |  2.0
  Providence Friars                      | 28 | 19 |  9 | 17.0 |  2.0
- Jacksonville State Gamecocks           | 27 | 10 | 17 |  8.0 |  2.0
- Chattanooga Mocs                       | 27 | 18 |  9 | 16.0 |  2.0
- North Dakota State Bison               | 26 | 18 |  8 | 16.0 |  2.0
- Temple Owls                            | 28 | 19 |  9 | 17.0 |  2.0
- California-Riverside Highlanders       | 25 | 12 | 13 |  9.9 |  2.1
+ California-Riverside Highlanders       | 25 | 12 | 13 | 10.0 |  2.0
+ Temple Owls                            | 29 | 20 |  9 | 17.9 |  2.1
  Texas A&M Aggies                       | 27 | 19 |  8 | 16.9 |  2.1
+ Louisiana-Monroe Warhawks              | 24 | 15 |  9 | 12.9 |  2.1
+ Murray State Breds                     | 27 | 23 |  4 | 20.9 |  2.1
  Villanova Wildcats                     | 28 | 26 |  2 | 23.9 |  2.1
- Rutgers Scarlet Knights                | 28 | 10 | 18 |  7.9 |  2.1
- Gonzaga Bulldogs                       | 28 | 27 |  1 | 24.8 |  2.2
+ Western Michigan Broncos               | 26 | 15 | 11 | 12.9 |  2.1
  Notre Dame Fighting Irish              | 29 | 24 |  5 | 21.8 |  2.2
- Louisiana-Monroe Warhawks              | 23 | 14 |  9 | 11.8 |  2.2
- Western Michigan Broncos               | 26 | 15 | 11 | 12.8 |  2.2
- Evansville Purple Aces                 | 27 | 18 |  9 | 15.8 |  2.2
+ Gonzaga Bulldogs                       | 29 | 28 |  1 | 25.8 |  2.2
  West Virginia Mountaineers             | 28 | 22 |  6 | 19.8 |  2.2
- Massachusetts-Lowell River Hawks       | 27 | 11 | 16 |  8.7 |  2.3
- Oral Roberts Golden Eagles             | 26 | 13 | 13 | 10.7 |  2.3
- Eastern Washington Eagles              | 24 | 17 |  7 | 14.7 |  2.3
- Arkansas Razorbacks                    | 28 | 23 |  5 | 20.7 |  2.3
+ Massachusetts-Lowell River Hawks       | 28 | 11 | 17 |  8.8 |  2.2
+ Massachusetts Minutemen                | 28 | 16 | 12 | 13.8 |  2.2
+ Eastern Washington Eagles              | 25 | 18 |  7 | 15.7 |  2.3
  Texas Southern Tigers                  | 27 | 15 | 12 | 12.7 |  2.3
+ Chattanooga Mocs                       | 28 | 19 |  9 | 16.7 |  2.3
+ Arkansas Razorbacks                    | 28 | 23 |  5 | 20.7 |  2.3
+ North Carolina-Wilmington Seahawks     | 27 | 16 | 11 | 13.7 |  2.3
+ Valparaiso Crusaders                   | 28 | 23 |  5 | 20.7 |  2.3
  Portland State Vikings                 | 23 | 12 | 11 |  9.6 |  2.4
- Duke Blue Devils                       | 27 | 24 |  3 | 21.6 |  2.4
- Appalachian State Mountaineers         | 25 |  9 | 16 |  6.6 |  2.4
- Valparaiso Crusaders                   | 26 | 22 |  4 | 19.6 |  2.4
- North Carolina-Wilmington Seahawks     | 26 | 15 | 11 | 12.6 |  2.4
- Oregon Ducks                           | 27 | 19 |  8 | 16.6 |  2.4
- Washington State Cougars               | 26 | 11 | 15 |  8.5 |  2.5
- Colorado State Rams                    | 27 | 22 |  5 | 19.5 |  2.5
- Rider Broncs                           | 29 | 19 | 10 | 16.5 |  2.5
- Massachusetts Minutemen                | 27 | 16 | 11 | 13.5 |  2.5
- Iona Gaels                             | 29 | 23 |  6 | 20.4 |  2.6
- Florida Gulf Coast Eagles              | 25 | 18 |  7 | 15.3 |  2.7
- Eastern Illinois Panthers              | 26 | 14 | 12 | 11.3 |  2.7
- James Madison Dukes                    | 29 | 18 | 11 | 15.3 |  2.7
- Radford Highlanders                    | 26 | 17 |  9 | 14.2 |  2.8
- Wofford Terriers                       | 27 | 21 |  6 | 18.2 |  2.8
- California Golden Bears                | 27 | 16 | 11 | 13.2 |  2.8
- Northern Iowa Panthers                 | 28 | 26 |  2 | 23.2 |  2.8
+ Oral Roberts Golden Eagles             | 27 | 14 | 13 | 11.6 |  2.4
+ Eastern Illinois Panthers              | 27 | 14 | 13 | 11.6 |  2.4
+ Appalachian State Mountaineers         | 26 |  9 | 17 |  6.6 |  2.4
+ Oregon Ducks                           | 28 | 20 |  8 | 17.5 |  2.5
+ Radford Highlanders                    | 27 | 17 | 10 | 14.5 |  2.5
+ California Golden Bears                | 28 | 16 | 12 | 13.5 |  2.5
+ Florida Gulf Coast Eagles              | 26 | 18 |  8 | 15.5 |  2.5
+ Wyoming Cowboys                        | 26 | 19 |  7 | 16.4 |  2.6
+ Duke Blue Devils                       | 28 | 25 |  3 | 22.3 |  2.7
+ James Madison Dukes                    | 30 | 18 | 12 | 15.2 |  2.8
+ Colorado State Rams                    | 28 | 23 |  5 | 20.2 |  2.8
  Sacramento State Hornets               | 24 | 16 |  8 | 13.1 |  2.9
- Wyoming Cowboys                        | 25 | 19 |  6 | 15.9 |  3.1
- California-Davis Aggies                | 23 | 19 |  4 | 15.8 |  3.2
- Loyola (MD) Greyhounds                 | 27 | 11 | 16 |  7.7 |  3.3
+ Northern Iowa Panthers                 | 29 | 27 |  2 | 24.1 |  2.9
+ Washington State Cougars               | 27 | 12 | 15 |  9.1 |  2.9
+ Iona Gaels                             | 30 | 24 |  6 | 21.1 |  2.9
+ Rider Broncs                           | 30 | 20 | 10 | 17.1 |  2.9
+ Loyola (MD) Greyhounds                 | 28 | 11 | 17 |  8.0 |  3.0
+ Wofford Terriers                       | 28 | 22 |  6 | 18.8 |  3.2
+ California-Davis Aggies                | 24 | 19 |  5 | 15.8 |  3.2
  Kansas Jayhawks                        | 28 | 22 |  6 | 18.6 |  3.4
- High Point Panthers                    | 25 | 18 |  7 | 14.5 |  3.5
+ High Point Panthers                    | 26 | 19 |  7 | 15.2 |  3.8
  Maryland Terrapins                     | 28 | 23 |  5 | 17.9 |  5.1
 (350 rows)
 
