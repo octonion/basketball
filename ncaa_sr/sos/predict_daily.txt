@@ -1,35 +1,44 @@
 BEGIN
 SET
-    date    |              home               |              opp              | t_score | o_score | h_str | o_str | pr_home 
-------------+---------------------------------+-------------------------------+---------+---------+-------+-------+---------
- 2015-03-03 | Alabama Crimson Tide            | Mississippi Rebels            |    67.7 |    65.8 |  1.21 |  1.18 |    0.57
- 2015-03-03 | Ball State Cardinals            | Eastern Michigan Eagles       |    62.3 |    64.3 |  1.00 |  1.03 |    0.42
- 2015-03-03 | Bowling Green State Falcons     | Kent State Golden Flashes     |    61.0 |    55.8 |  1.14 |  1.05 |    0.71
- 2015-03-03 | Buffalo Bulls                   | Ohio Bobcats                  |    82.3 |    64.5 |  1.19 |  0.93 |    0.92
- 2015-03-03 | Butler Bulldogs                 | Georgetown Hoyas              |    66.1 |    61.1 |  1.33 |  1.23 |    0.69
- 2015-03-03 | Central Michigan Chippewas      | Toledo Rockets                |    76.7 |    72.5 |  1.16 |  1.10 |    0.63
- 2015-03-03 | Clemson Tigers                  | North Carolina State Wolfpack |    60.3 |    62.7 |  1.15 |  1.20 |    0.41
- 2015-03-03 | Creighton Bluejays              | Villanova Wildcats            |    61.0 |    72.4 |  1.14 |  1.35 |    0.15
- 2015-03-03 | Dayton Flyers                   | Rhode Island Rams             |    62.1 |    58.4 |  1.22 |  1.15 |    0.65
- 2015-03-03 | Detroit Mercy Titans            | Youngstown State Penguins     |    80.8 |    71.3 |  1.04 |  0.92 |    0.78
- 2015-03-03 | Florida Gators                  | Texas A&M Aggies              |    62.0 |    56.9 |  1.27 |  1.17 |    0.70
- 2015-03-03 | Florida Gulf Coast Eagles       | Jacksonville Dolphins         |    73.0 |    55.3 |  1.05 |  0.80 |    0.94
- 2015-03-03 | Georgia Bulldogs                | Kentucky Wildcats             |    54.6 |    67.4 |  1.25 |  1.54 |    0.11
- 2015-03-03 | Georgia Tech Yellow Jackets     | North Carolina Tar Heels      |    64.7 |    72.9 |  1.16 |  1.30 |    0.23
- 2015-03-03 | Holy Cross Crusaders            | Loyola (MD) Greyhounds        |    64.4 |    57.2 |  0.97 |  0.86 |    0.77
- 2015-03-03 | Illinois-Chicago Flames         | Wright State Raiders          |    65.5 |    64.7 |  0.94 |  0.93 |    0.53
- 2015-03-03 | Indiana Hoosiers                | Iowa Hawkeyes                 |    73.6 |    73.2 |  1.24 |  1.23 |    0.51
- 2015-03-03 | Kansas Jayhawks                 | West Virginia Mountaineers    |    75.6 |    69.4 |  1.35 |  1.24 |    0.70
- 2015-03-03 | Miami (OH) RedHawks             | Akron Zips                    |    64.2 |    66.9 |  1.01 |  1.06 |    0.40
- 2015-03-03 | Missouri Tigers                 | Auburn Tigers                 |    68.2 |    66.0 |  1.05 |  1.01 |    0.58
- 2015-03-03 | Navy Midshipmen                 | Army Black Knights            |    68.4 |    67.4 |  0.95 |  0.93 |    0.54
- 2015-03-03 | North Dakota UND                | Nebraska-Omaha Mavericks      |    79.1 |    80.2 |  0.91 |  0.92 |    0.46
- 2015-03-03 | Northern Illinois Huskies       | Western Michigan Broncos      |    68.2 |    66.6 |  1.05 |  1.02 |    0.56
- 2015-03-03 | Northern Kentucky Norse         | Lipscomb Bisons               |    75.8 |    68.4 |  0.97 |  0.88 |    0.74
- 2015-03-03 | North Florida Ospreys           | Stetson Hatters               |    84.4 |    63.9 |  1.07 |  0.81 |    0.94
- 2015-03-03 | Northwestern Wildcats           | Michigan Wolverines           |    58.6 |    56.8 |  1.14 |  1.11 |    0.58
- 2015-03-03 | Rutgers Scarlet Knights         | Maryland Terrapins            |    57.9 |    67.4 |  1.03 |  1.20 |    0.18
- 2015-03-03 | South Carolina Upstate Spartans | Kennesaw State Owls           |    74.8 |    56.7 |  1.05 |  0.80 |    0.94
-(28 rows)
+    date    |              home               |                 opp                  | t_score | o_score | h_str | o_str | pr_home 
+------------+---------------------------------+--------------------------------------+---------+---------+-------+-------+---------
+ 2015-03-04 | Albany (NY) Great Danes         | Maine Black Bears                    |    75.9 |    55.3 |  1.08 |  0.79 |    0.96
+ 2015-03-04 | Bryant Bulldogs                 | Sacred Heart Pioneers                |    74.3 |    69.2 |  0.99 |  0.92 |    0.67
+ 2015-03-04 | Duke Blue Devils                | Wake Forest Demon Deacons            |    86.5 |    64.8 |  1.43 |  1.07 |    0.95
+ 2015-03-04 | Fordham Rams                    | Duquesne Dukes                       |    76.4 |    71.5 |  1.02 |  0.96 |    0.66
+ 2015-03-04 | Fresno State Bulldogs           | Air Force Falcons                    |    68.3 |    64.5 |  1.03 |  0.97 |    0.64
+ 2015-03-04 | George Mason Patriots           | George Washington Colonials          |    60.3 |    64.8 |  1.03 |  1.11 |    0.33
+ 2015-03-04 | Hawaii Warriors                 | California-Santa Barbara Gauchos     |    67.4 |    66.8 |  1.09 |  1.08 |    0.52
+ 2015-03-04 | Illinois Fighting Illini        | Nebraska Cornhuskers                 |    65.3 |    55.6 |  1.25 |  1.06 |    0.83
+ 2015-03-04 | Louisiana State Fighting Tigers | Tennessee Volunteers                 |    71.9 |    62.5 |  1.24 |  1.07 |    0.80
+ 2015-03-04 | Louisville Cardinals            | Notre Dame Fighting Irish            |    70.7 |    64.2 |  1.38 |  1.25 |    0.72
+ 2015-03-04 | Marquette Golden Eagles         | St. John's (NY) Red Storm            |    64.3 |    66.8 |  1.14 |  1.19 |    0.41
+ 2015-03-04 | Massachusetts Minutemen         | Richmond Spiders                     |    63.6 |    64.8 |  1.11 |  1.13 |    0.45
+ 2015-03-04 | Michigan State Spartans         | Purdue Boilermakers                  |    68.7 |    62.2 |  1.33 |  1.20 |    0.73
+ 2015-03-04 | Mount St. Mary's Mountaineers   | Saint Francis (PA) Red Flash         |    60.7 |    57.3 |  0.99 |  0.93 |    0.64
+ 2015-03-04 | Nevada Wolf Pack                | Colorado State Rams                  |    62.2 |    72.7 |  0.97 |  1.14 |    0.17
+ 2015-03-04 | Nevada-Las Vegas Rebels         | San Diego State Aztecs               |    56.3 |    59.7 |  1.14 |  1.21 |    0.36
+ 2015-03-04 | New Hampshire Wildcats          | Hartford Hawks                       |    66.1 |    57.5 |  1.03 |  0.90 |    0.80
+ 2015-03-04 | NJIT Highlanders                | Howard Bison                         |    65.7 |    58.1 |  1.02 |  0.90 |    0.77
+ 2015-03-04 | Oklahoma State Cowboys          | Texas Christian Horned Frogs         |    64.2 |    59.1 |  1.27 |  1.17 |    0.69
+ 2015-03-04 | Oregon State Beavers            | Oregon Ducks                         |    60.6 |    61.4 |  1.12 |  1.14 |    0.47
+ 2015-03-04 | Penn State Nittany Lions        | Ohio State Buckeyes                  |    62.4 |    71.6 |  1.15 |  1.32 |    0.20
+ 2015-03-04 | Pittsburgh Panthers             | Miami (FL) Hurricanes                |    64.3 |    63.4 |  1.19 |  1.17 |    0.53
+ 2015-03-04 | Robert Morris Colonials         | Wagner Seahawks                      |    74.4 |    64.5 |  1.01 |  0.88 |    0.81
+ 2015-03-04 | Saint Joseph's Hawks            | La Salle Explorers                   |    59.1 |    60.1 |  1.05 |  1.06 |    0.46
+ 2015-03-04 | Saint Louis Billikens           | St. Bonaventure Bonnies              |    60.5 |    65.0 |  0.97 |  1.04 |    0.33
+ 2015-03-04 | San Jose State Spartans         | Boise State Broncos                  |    49.1 |    73.0 |  0.80 |  1.19 |    0.02
+ 2015-03-04 | Seton Hall Pirates              | Providence Friars                    |    67.8 |    67.9 |  1.18 |  1.19 |    0.50
+ 2015-03-04 | South Florida Bulls             | Central Florida Knights              |    68.5 |    65.7 |  0.97 |  0.93 |    0.61
+ 2015-03-04 | St. Francis (NY) Terriers       | Long Island University Blackbirds    |    71.8 |    61.6 |  1.05 |  0.90 |    0.82
+ 2015-03-04 | Stony Brook Seawolves           | Binghamton Bearcats                  |    69.2 |    51.8 |  1.09 |  0.82 |    0.95
+ 2015-03-04 | Texas-Pan American Broncs       | New Mexico State Aggies              |    57.0 |    71.5 |  0.87 |  1.09 |    0.09
+ 2015-03-04 | Tulane Green Wave               | Houston Cougars                      |    65.6 |    60.9 |  1.02 |  0.95 |    0.68
+ 2015-03-04 | Tulsa Golden Hurricane          | Cincinnati Bearcats                  |    56.9 |    55.2 |  1.19 |  1.16 |    0.58
+ 2015-03-04 | UCLA Bruins                     | Southern California Trojans          |    75.1 |    63.9 |  1.19 |  1.01 |    0.83
+ 2015-03-04 | Vanderbilt Commodores           | Mississippi State Bulldogs           |    69.7 |    57.4 |  1.23 |  1.01 |    0.87
+ 2015-03-04 | Vermont Catamounts              | Maryland-Baltimore County Retrievers |    69.6 |    50.3 |  1.11 |  0.80 |    0.96
+ 2015-03-04 | Wyoming Cowboys                 | Utah State Aggies                    |    59.1 |    56.8 |  1.11 |  1.07 |    0.60
+(37 rows)
 
 COMMIT

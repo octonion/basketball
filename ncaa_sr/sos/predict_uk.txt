@@ -1,9 +1,8 @@
 BEGIN
 SET
-    date    |       home        |       away        | t_score | o_score | h_str | o_str | pr_home | pr_away 
-------------+-------------------+-------------------+---------+---------+-------+-------+---------+---------
- 2015-03-03 | Georgia Bulldogs  | Kentucky Wildcats |    54.6 |    67.4 |  1.25 |  1.54 |    0.11 |    0.89
- 2015-03-07 | Kentucky Wildcats | Florida Gators    |    66.1 |    48.9 |  1.63 |  1.21 |    0.95 |    0.05
-(2 rows)
+    date    |       home        |      away      | t_score | o_score | h_str | o_str | pr_home | pr_away 
+------------+-------------------+----------------+---------+---------+-------+-------+---------+---------
+ 2015-03-07 | Kentucky Wildcats | Florida Gators |    66.4 |    49.2 |  1.63 |  1.21 |    0.95 |    0.05
+(1 row)
 
 COMMIT
