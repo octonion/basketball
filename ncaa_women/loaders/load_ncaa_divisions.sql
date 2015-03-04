@@ -18,6 +18,7 @@ copy ncaa_women.schools_divisions from '/tmp/ncaa_divisions.csv' with delimiter 
 
 -- Temporary fix for 2013
 
+/*
 insert into ncaa_women.schools_divisions
 (sport_code,school_name,school_id,pulled_name,javascript,year,div_id,school_year,sport,division)
 (
@@ -27,6 +28,7 @@ where year=2012
 and (school_id,2013) not in
 (select school_id,year from ncaa_women.schools_divisions)
 );
+*/
 
 /*
 create table ncaa_women.schools_divisions (
