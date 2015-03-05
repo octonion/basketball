@@ -1,0 +1,125 @@
+[1] 10584     7
+[1] TRUE
+[1] 10584     5
+start par. =  1 1 fn =  -12523.45 
+At return
+eval:  51 fn:     -12917.781 par: 0.529861 0.518700
+start par. =  1 1 1 fn =  -13091.18 
+At return
+eval:  62 fn:     -13446.638 par: 0.688600 0.627734 0.644989
+Linear mixed model fit by REML ['lmerMod']
+Formula: log_ps ~ year + field + (1 | offense) + (1 | defense) + (1 |  
+    game_id)
+   Data: g
+REML criterion at convergence: -13446.64
+Random effects:
+ Groups   Name        Std.Dev.
+ game_id  (Intercept) 0.06849 
+ defense  (Intercept) 0.06244 
+ offense  (Intercept) 0.06415 
+ Residual             0.09946 
+Number of obs: 10584, groups:  game_id, 5292; defense, 464; offense, 464
+Fixed Effects:
+      (Intercept)           year2003           year2004           year2005  
+          4.34604           -0.02836           -0.02825           -0.04886  
+         year2006           year2007           year2008           year2009  
+         -0.02644           -0.02495           -0.04835           -0.03939  
+         year2010           year2011           year2012           year2013  
+         -0.04462           -0.09258           -0.02525           -0.04294  
+         year2014  fieldoffense_home  
+         -0.03516            0.05978  
+Linear mixed model fit by REML ['lmerMod']
+Formula: log_ps ~ year + field + (1 | offense) + (1 | defense) + (1 |  
+    game_id)
+   Data: g
+
+REML criterion at convergence: -13446.6
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.9736 -0.5248  0.0423  0.5575  2.9925 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ game_id  (Intercept) 0.004691 0.06849 
+ defense  (Intercept) 0.003898 0.06244 
+ offense  (Intercept) 0.004116 0.06415 
+ Residual             0.009893 0.09946 
+Number of obs: 10584, groups:  game_id, 5292; defense, 464; offense, 464
+
+Fixed effects:
+                   Estimate Std. Error t value
+(Intercept)        4.346039   0.019211  226.22
+year2003          -0.028356   0.024798   -1.14
+year2004          -0.028254   0.024084   -1.17
+year2005          -0.048862   0.027132   -1.80
+year2006          -0.026441   0.027133   -0.97
+year2007          -0.024952   0.023067   -1.08
+year2008          -0.048347   0.025659   -1.88
+year2009          -0.039392   0.025647   -1.54
+year2010          -0.044622   0.025647   -1.74
+year2011          -0.092580   0.025647   -3.61
+year2012          -0.025246   0.025646   -0.98
+year2013          -0.042938   0.022972   -1.87
+year2014          -0.035157   0.023914   -1.47
+fieldoffense_home  0.059781   0.001936   30.88
+
+Correlation of Fixed Effects:
+            (Intr) yr2003 yr2004 yr2005 yr2006 yr2007 yr2008 yr2009 yr2010
+year2003    -0.773                                                        
+year2004    -0.796  0.616                                                 
+year2005    -0.706  0.547  0.563                                          
+year2006    -0.706  0.547  0.563  0.500                                   
+year2007    -0.831  0.644  0.663  0.588  0.588                            
+year2008    -0.747  0.579  0.596  0.529  0.529  0.622                     
+year2009    -0.747  0.579  0.596  0.529  0.529  0.622  0.559              
+year2010    -0.747  0.579  0.596  0.529  0.529  0.622  0.559  0.560       
+year2011    -0.747  0.579  0.596  0.529  0.529  0.622  0.559  0.560  0.560
+year2012    -0.747  0.579  0.596  0.529  0.529  0.622  0.559  0.560  0.560
+year2013    -0.834  0.646  0.665  0.591  0.591  0.695  0.625  0.625  0.625
+year2014    -0.801  0.621  0.639  0.567  0.567  0.667  0.600  0.600  0.600
+fildffns_hm -0.050  0.000  0.000  0.000  0.000  0.000  0.000  0.000  0.000
+            yr2011 yr2012 yr2013 yr2014
+year2003                               
+year2004                               
+year2005                               
+year2006                               
+year2007                               
+year2008                               
+year2009                               
+year2010                               
+year2011                               
+year2012     0.560                     
+year2013     0.625  0.625              
+year2014     0.600  0.600  0.670       
+fildffns_hm  0.000  0.000  0.000  0.000
+Analysis of Variance Table
+      Df Sum Sq Mean Sq  F value
+year  12 0.2703  0.0225   1.5457
+field  1 9.4259  9.4259 646.8451
+Analysis of Variance Table
+      Df Sum Sq Mean Sq  F value
+year  12 0.1780  0.0148   1.4997
+field  1 9.4333  9.4333 953.5150
+Data: g
+Models:
+fit0: log_ps ~ year + field + (1 | offense) + (1 | defense)
+fit: log_ps ~ year + field + (1 | offense) + (1 | defense) + (1 | 
+fit:     game_id)
+     Df    AIC    BIC logLik deviance  Chisq Chi Df Pr(>Chisq)    
+fit0 17 -12978 -12854 6505.9   -13012                             
+fit  18 -13505 -13374 6770.3   -13541 528.88      1  < 2.2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] TRUE
+[1] 0.08364183
+[1] 0.0101308
+[1] 0.1672107
+          0%           5%          10%          15%          20%          25% 
+7.272881e-08 1.563902e-05 7.837926e-05 2.153098e-04 4.214523e-04 7.272711e-04 
+         30%          35%          40%          45%          50%          55% 
+1.202654e-03 2.104959e-03 3.511100e-03 5.684385e-03 1.013080e-02 1.533463e-02 
+         60%          65%          70%          75%          80%          85% 
+2.304061e-02 3.399216e-02 5.229244e-02 7.778512e-02 1.103422e-01 1.727967e-01 
+         90%          95%         100% 
+2.648261e-01 5.128340e-01 9.552835e-01 

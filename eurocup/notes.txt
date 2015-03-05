@@ -1,0 +1,7 @@
+Main:
+
+http://www.eurocupbasketball.com/eurocup
+
+Boxscore:
+
+http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=282&seasoncode=U2014#!boxscore
