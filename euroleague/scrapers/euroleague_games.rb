@@ -57,7 +57,7 @@ team_file.each do |team|
       case i
       when 2
         a = td.xpath('a').first
-        href = base+a.attribute('href').value
+        href = base+a.attribute('href').value.strip
         ps = CGI::parse(href.split("?")[1])
         gamecode = ps["gamecode"][0]
 
