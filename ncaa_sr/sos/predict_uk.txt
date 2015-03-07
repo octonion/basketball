@@ -2,7 +2,7 @@ BEGIN
 SET
     date    |       home        |      away      | t_score | o_score | h_str | o_str | pr_home | pr_away 
 ------------+-------------------+----------------+---------+---------+-------+-------+---------+---------
- 2015-03-07 | Kentucky Wildcats | Florida Gators |    66.4 |    49.2 |  1.63 |  1.20 |    0.95 |    0.05
+ 2015-03-07 | Kentucky Wildcats | Florida Gators |    66.4 |    49.2 |  1.62 |  1.20 |    0.95 |    0.05
 (1 row)
 
 COMMIT
