@@ -3,9 +3,9 @@ SET
     date    |            home             |            opp            | t_score | o_score | h_str | o_str | pr_home 
 ------------+-----------------------------+---------------------------+---------+---------+-------+-------+---------
  2015-03-09 | Akron Zips                  | Northern Illinois Huskies |    66.5 |    59.5 |  1.11 |  0.99 |    0.75
- 2015-03-09 | Bowling Green State Falcons | Ball State Cardinals      |    67.6 |    55.7 |  1.14 |  0.94 |    0.87
+ 2015-03-09 | Bowling Green State Falcons | Ball State Cardinals      |    67.7 |    55.7 |  1.14 |  0.94 |    0.87
  2015-03-09 | Eastern Michigan Eagles     | Miami (OH) RedHawks       |    70.1 |    60.6 |  1.11 |  0.96 |    0.81
- 2015-03-09 | Western Michigan Broncos    | Ohio Bobcats              |    77.0 |    66.9 |  1.09 |  0.94 |    0.80
+ 2015-03-09 | Western Michigan Broncos    | Ohio Bobcats              |    77.0 |    66.8 |  1.09 |  0.94 |    0.80
 (4 rows)
 
 COMMIT
