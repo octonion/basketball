@@ -1,17 +1,11 @@
 BEGIN
 SET
-    date    |            home             |               opp               | t_score | o_score | h_str | o_str | pr_home 
-------------+-----------------------------+---------------------------------+---------+---------+-------+-------+---------
- 2015-03-08 | Bucknell Bison              | Lafayette Leopards              |    75.0 |    71.8 |  1.01 |  0.97 |    0.61
- 2015-03-08 | Cincinnati Bearcats         | Memphis Tigers                  |    61.4 |    55.2 |  1.23 |  1.10 |    0.74
- 2015-03-08 | Colgate Raiders             | American Eagles                 |    57.6 |    53.6 |  1.04 |  0.97 |    0.67
- 2015-03-08 | Houston Cougars             | East Carolina Pirates           |    64.7 |    62.1 |  1.00 |  0.96 |    0.60
- 2015-03-08 | McNeese State Cowboys       | Central Arkansas Bears          |    79.5 |    62.7 |  0.95 |  0.75 |    0.92
- 2015-03-08 | Minnesota Golden Gophers    | Penn State Nittany Lions        |    72.7 |    64.2 |  1.23 |  1.09 |    0.78
- 2015-03-08 | Nebraska Cornhuskers        | Maryland Terrapins              |    58.1 |    62.1 |  1.12 |  1.20 |    0.34
- 2015-03-08 | North Florida Ospreys       | South Carolina Upstate Spartans |    72.3 |    67.7 |  1.07 |  1.01 |    0.66
- 2015-03-08 | Ohio State Buckeyes         | Wisconsin Badgers               |    64.5 |    65.4 |  1.39 |  1.41 |    0.47
- 2015-03-08 | Southern Methodist Mustangs | Tulsa Golden Hurricane          |    64.9 |    57.4 |  1.27 |  1.12 |    0.78
-(10 rows)
+    date    |            home             |            opp            | t_score | o_score | h_str | o_str | pr_home 
+------------+-----------------------------+---------------------------+---------+---------+-------+-------+---------
+ 2015-03-09 | Akron Zips                  | Northern Illinois Huskies |    66.5 |    59.5 |  1.11 |  0.99 |    0.75
+ 2015-03-09 | Bowling Green State Falcons | Ball State Cardinals      |    67.6 |    55.7 |  1.14 |  0.94 |    0.87
+ 2015-03-09 | Eastern Michigan Eagles     | Miami (OH) RedHawks       |    70.1 |    60.6 |  1.11 |  0.96 |    0.81
+ 2015-03-09 | Western Michigan Broncos    | Ohio Bobcats              |    77.0 |    66.9 |  1.09 |  0.94 |    0.80
+(4 rows)
 
 COMMIT
