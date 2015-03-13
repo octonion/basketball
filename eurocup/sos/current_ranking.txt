@@ -3,50 +3,50 @@ CREATE TABLE
 INSERT 0 44
  rk |               team                |  str  |  ofs  |  dfs  |  sos  
 ----+-----------------------------------+-------+-------+-------+-------
-  1 | Lokomotiv Kuban Krasnodar         | 1.193 | 1.049 | 0.879 | 1.002
-  2 | Valencia Basket                   | 1.160 | 1.071 | 0.924 | 1.035
-  3 | FC Bayern Munich                  | 1.155 | 1.100 | 0.953 | 1.017
-  4 | Herbalife Gran Canaria Las Palmas | 1.142 | 1.088 | 0.952 | 0.996
-  5 | PGE Turow Zgorzelec               | 1.092 | 1.111 | 1.017 | 1.004
-  6 | Khimki Moscow Region              | 1.091 | 1.099 | 1.008 | 0.981
-  7 | Lietuvos Rytas Vilnius            | 1.087 | 1.101 | 1.013 | 1.008
-  8 | Banvit Bandirma                   | 1.071 | 1.012 | 0.945 | 1.009
-  9 | Pinar Karsiyaka Izmir             | 1.061 | 1.069 | 1.008 | 1.000
- 10 | Unics Kazan                       | 1.045 | 0.987 | 0.945 | 0.996
- 11 | Brose Baskets Bamberg             | 1.044 | 0.975 | 0.934 | 1.003
- 12 | Virtus Rome                       | 1.033 | 1.018 | 0.986 | 0.994
- 13 | Strasbourg                        | 1.025 | 0.955 | 0.931 | 0.988
- 14 | Cedevita Zagreb                   | 1.014 | 1.052 | 1.037 | 1.016
- 15 | Limoges CSP                       | 1.014 | 0.957 | 0.944 | 1.007
- 16 | SLUC Nancy                        | 1.003 | 0.969 | 0.966 | 1.009
- 17 | Krasny Oktyabr Volgograd          | 1.001 | 0.983 | 0.981 | 1.008
- 18 | Hapoel Bank Yahav Jerusalem       | 1.001 | 1.037 | 1.035 | 1.011
- 19 | Telenet Ostend                    | 1.000 | 1.003 | 1.002 | 1.009
- 20 | FoxTown Cantu                     | 0.998 | 0.971 | 0.972 | 1.006
- 21 | Besiktas Integral Forex Istanbul  | 0.997 | 0.958 | 0.961 | 0.987
- 22 | Union Olimpija Ljubljana          | 0.991 | 1.024 | 1.034 | 0.996
- 23 | CSU Asesoft Ploiesti              | 0.991 | 1.060 | 1.069 | 1.025
- 24 | Dinamo Banco di Sardegna Sassari  | 0.988 | 1.025 | 1.037 | 1.026
- 25 | CAI Zaragoza                      | 0.982 | 1.017 | 1.035 | 0.994
- 26 | Partizan NIS Belgrade             | 0.978 | 0.950 | 0.971 | 1.013
- 27 | CEZ Basketball Nymburk            | 0.978 | 1.001 | 1.024 | 0.995
- 28 | EWE Baskets Oldenburg             | 0.978 | 0.956 | 0.978 | 0.989
- 29 | Paris Levallois                   | 0.978 | 0.986 | 1.008 | 0.997
- 30 | Baloncesto Seville                | 0.977 | 1.003 | 1.027 | 1.002
- 31 | Buducnost VOLI Podgorica          | 0.973 | 1.025 | 1.054 | 1.014
- 32 | JDA Dijon                         | 0.971 | 0.960 | 0.989 | 1.012
- 33 | PAOK Thessaloniki                 | 0.964 | 0.947 | 0.983 | 1.009
- 34 | Artland Dragons Quakenbrueck      | 0.962 | 0.965 | 1.003 | 1.006
- 35 | Neptunas Klaipeda                 | 0.961 | 1.012 | 1.053 | 1.005
- 36 | Zenit St Petersburg               | 0.960 | 1.007 | 1.048 | 0.997
- 37 | ASVEL Lyon Villeurbanne           | 0.949 | 0.980 | 1.033 | 1.007
- 38 | Ventspils                         | 0.940 | 0.888 | 0.945 | 1.009
- 39 | Stelmet Zielona Gora              | 0.929 | 0.966 | 1.039 | 1.010
- 40 | Grissin Bon Reggio Emilia         | 0.907 | 0.954 | 1.052 | 0.993
- 41 | Szolnoki Olaj                     | 0.894 | 0.946 | 1.059 | 0.989
- 42 | Telekom Baskets Bonn              | 0.894 | 0.990 | 1.108 | 0.994
- 43 | Proximus Spirou Charleroi         | 0.887 | 0.927 | 1.045 | 0.997
- 44 | VEF Riga                          | 0.853 | 0.907 | 1.063 | 0.993
+  1 | Valencia Basket                   | 1.220 | 1.096 | 0.899 | 1.034
+  2 | Lokomotiv Kuban Krasnodar         | 1.211 | 1.050 | 0.867 | 1.008
+  3 | Herbalife Gran Canaria Las Palmas | 1.130 | 1.078 | 0.954 | 0.998
+  4 | FC Bayern Munich                  | 1.098 | 1.070 | 0.974 | 1.019
+  5 | Khimki Moscow Region              | 1.092 | 1.098 | 1.005 | 0.991
+  6 | Pinar Karsiyaka Izmir             | 1.075 | 1.079 | 1.004 | 1.007
+  7 | Lietuvos Rytas Vilnius            | 1.074 | 1.099 | 1.023 | 1.006
+  8 | Banvit Bandirma                   | 1.062 | 0.998 | 0.940 | 1.007
+  9 | PGE Turow Zgorzelec               | 1.057 | 1.094 | 1.035 | 1.003
+ 10 | Virtus Rome                       | 1.044 | 1.014 | 0.972 | 0.996
+ 11 | Unics Kazan                       | 1.037 | 0.986 | 0.950 | 1.013
+ 12 | Brose Baskets Bamberg             | 1.036 | 0.965 | 0.932 | 1.001
+ 13 | Cedevita Zagreb                   | 1.031 | 1.052 | 1.021 | 1.017
+ 14 | Strasbourg                        | 1.026 | 0.956 | 0.932 | 0.988
+ 15 | Limoges CSP                       | 1.015 | 0.959 | 0.944 | 1.008
+ 16 | SLUC Nancy                        | 1.014 | 0.976 | 0.963 | 1.014
+ 17 | Krasny Oktyabr Volgograd          | 1.002 | 0.986 | 0.984 | 1.009
+ 18 | Besiktas Integral Forex Istanbul  | 0.999 | 0.960 | 0.961 | 0.988
+ 19 | Hapoel Bank Yahav Jerusalem       | 0.998 | 1.036 | 1.038 | 1.009
+ 20 | CSU Asesoft Ploiesti              | 0.997 | 1.065 | 1.068 | 1.028
+ 21 | FoxTown Cantu                     | 0.997 | 0.972 | 0.975 | 1.004
+ 22 | Paris Levallois                   | 0.992 | 0.994 | 1.003 | 1.000
+ 23 | Telenet Ostend                    | 0.990 | 0.998 | 1.008 | 1.004
+ 24 | CAI Zaragoza                      | 0.987 | 1.022 | 1.036 | 0.996
+ 25 | Dinamo Banco di Sardegna Sassari  | 0.984 | 1.026 | 1.043 | 1.023
+ 26 | Union Olimpija Ljubljana          | 0.982 | 1.022 | 1.040 | 0.992
+ 27 | EWE Baskets Oldenburg             | 0.982 | 0.960 | 0.977 | 0.991
+ 28 | CEZ Basketball Nymburk            | 0.980 | 1.004 | 1.024 | 0.995
+ 29 | Partizan NIS Belgrade             | 0.976 | 0.950 | 0.974 | 1.011
+ 30 | Buducnost VOLI Podgorica          | 0.976 | 1.029 | 1.054 | 1.015
+ 31 | Baloncesto Seville                | 0.975 | 1.003 | 1.029 | 1.001
+ 32 | Neptunas Klaipeda                 | 0.969 | 1.016 | 1.049 | 1.009
+ 33 | PAOK Thessaloniki                 | 0.969 | 0.951 | 0.981 | 1.012
+ 34 | JDA Dijon                         | 0.960 | 0.956 | 0.996 | 1.006
+ 35 | Zenit St Petersburg               | 0.956 | 1.003 | 1.048 | 0.996
+ 36 | Artland Dragons Quakenbrueck      | 0.955 | 0.962 | 1.008 | 1.002
+ 37 | Ventspils                         | 0.948 | 0.892 | 0.942 | 1.012
+ 38 | ASVEL Lyon Villeurbanne           | 0.943 | 0.978 | 1.037 | 1.003
+ 39 | Stelmet Zielona Gora              | 0.936 | 0.970 | 1.036 | 1.013
+ 40 | Grissin Bon Reggio Emilia         | 0.909 | 0.956 | 1.052 | 0.994
+ 41 | Telekom Baskets Bonn              | 0.896 | 0.993 | 1.108 | 0.995
+ 42 | Szolnoki Olaj                     | 0.892 | 0.946 | 1.061 | 0.988
+ 43 | Proximus Spirou Charleroi         | 0.891 | 0.931 | 1.044 | 0.999
+ 44 | VEF Riga                          | 0.852 | 0.908 | 1.065 | 0.992
 (44 rows)
 
 COMMIT
