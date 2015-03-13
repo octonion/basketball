@@ -1,0 +1,83 @@
+[1] 4424    7
+[1] TRUE
+[1] 4424    5
+start par. =  1 1 fn =  -5172.687 
+At return
+eval:  39 fn:     -5331.2086 par: 0.483993 0.429435
+start par. =  1 1 1 fn =  -5346.21 
+At return
+eval:  57 fn:     -5526.1667 par: 0.654462 0.527287 0.591841
+Linear mixed model fit by REML ['lmerMod']
+Formula: log_ps ~ year + field + (1 | offense) + (1 | defense) + (1 |  
+    game_id)
+   Data: g
+REML criterion at convergence: -5526.167
+Random effects:
+ Groups   Name        Std.Dev.
+ game_id  (Intercept) 0.06816 
+ defense  (Intercept) 0.05491 
+ offense  (Intercept) 0.06163 
+ Residual             0.10414 
+Number of obs: 4424, groups:  game_id, 2212; defense, 132; offense, 132
+Fixed Effects:
+      (Intercept)           year2014  fieldoffense_home  
+          4.29876            0.01491            0.05255  
+Linear mixed model fit by REML ['lmerMod']
+Formula: log_ps ~ year + field + (1 | offense) + (1 | defense) + (1 |  
+    game_id)
+   Data: g
+
+REML criterion at convergence: -5526.2
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.3794 -0.5481  0.0511  0.5738  2.3906 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ game_id  (Intercept) 0.004645 0.06816 
+ defense  (Intercept) 0.003015 0.05491 
+ offense  (Intercept) 0.003799 0.06163 
+ Residual             0.010845 0.10414 
+Number of obs: 4424, groups:  game_id, 2212; defense, 132; offense, 132
+
+Fixed effects:
+                  Estimate Std. Error t value
+(Intercept)       4.298756   0.010334   416.0
+year2014          0.014914   0.015138     1.0
+fieldoffense_home 0.052550   0.003134    16.8
+
+Correlation of Fixed Effects:
+            (Intr) yr2014
+year2014    -0.667       
+fildffns_hm -0.152  0.000
+Analysis of Variance Table
+      Df  Sum Sq Mean Sq  F value
+year   1 0.01598 0.01598   1.0298
+field  1 3.05223 3.05223 196.6500
+Analysis of Variance Table
+      Df  Sum Sq Mean Sq  F value
+year   1 0.01053 0.01053   0.9706
+field  1 3.05023 3.05023 281.2474
+Data: g
+Models:
+fit0: log_ps ~ year + field + (1 | offense) + (1 | defense)
+fit: log_ps ~ year + field + (1 | offense) + (1 | defense) + (1 | 
+fit:     game_id)
+     Df     AIC     BIC logLik deviance  Chisq Chi Df Pr(>Chisq)    
+fit0  6 -5343.2 -5304.8 2677.6  -5355.2                             
+fit   7 -5536.4 -5491.6 2775.2  -5550.4 195.19      1  < 2.2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] TRUE
+[1] 0.06363372
+[1] 0.007358941
+[1] 0.1392294
+          0%           5%          10%          15%          20%          25% 
+1.326417e-06 4.560096e-05 1.182852e-04 2.933081e-04 5.042053e-04 8.806823e-04 
+         30%          35%          40%          45%          50%          55% 
+1.566126e-03 2.352714e-03 3.506625e-03 5.001118e-03 7.358941e-03 1.071618e-02 
+         60%          65%          70%          75%          80%          85% 
+1.470187e-02 2.353392e-02 3.339967e-02 4.941325e-02 7.205151e-02 1.150197e-01 
+         90%          95%         100% 
+1.876722e-01 3.788652e-01 9.607448e-01 
