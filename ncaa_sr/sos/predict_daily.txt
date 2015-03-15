@@ -1,9 +1,7 @@
 BEGIN
 SET
-    date    |        home         |         opp          | t_score | o_score | h_str | o_str | pr_home 
-------------+---------------------+----------------------+---------+---------+-------+-------+---------
- 2015-03-12 | Connecticut Huskies | South Florida Bulls  |    71.1 |    55.6 |  1.18 |  0.92 |    0.92
- 2015-03-12 | Montana Grizzlies   | Weber State Wildcats |    68.3 |    58.5 |  1.07 |  0.91 |    0.83
-(2 rows)
+ date | home | opp | t_score | o_score | h_str | o_str | pr_home 
+------+------+-----+---------+---------+-------+-------+---------
+(0 rows)
 
 COMMIT
