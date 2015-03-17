@@ -28,7 +28,7 @@ left join ncaa_sr._schedule_factors sf2
   on (sf2.year,sf2.team_id)=(r2.year,r2.school_id)
 where
     r1.year=2015
-and r1.round_id=7
+and r1.round_id=1
 group by r1.year,round,r1.school_id,r1.school_name,r1.bracket
 );
 

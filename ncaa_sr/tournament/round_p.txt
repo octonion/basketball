@@ -1,11 +1,12 @@
+BEGIN
  rd |              name               |   p   
 ----+---------------------------------+-------
   2 | Manhattan Jaspers               | 0.741
   2 | North Florida Ospreys           | 0.619
-  2 | Brigham Young Cougars           | 0.555
-  2 | Boise State Broncos             | 0.540
-  2 | Dayton Flyers                   | 0.460
-  2 | Mississippi Rebels              | 0.445
+  2 | Brigham Young Cougars           | 0.556
+  2 | Boise State Broncos             | 0.545
+  2 | Dayton Flyers                   | 0.455
+  2 | Mississippi Rebels              | 0.444
   2 | Robert Morris Colonials         | 0.381
   2 | Hampton Pirates                 | 0.259
   3 | Kentucky Wildcats               | 0.990
@@ -16,56 +17,56 @@
   3 | Duke Blue Devils                | 0.962
   3 | Gonzaga Bulldogs                | 0.956
   3 | Oklahoma Sooners                | 0.929
-  3 | Iowa State Cyclones             | 0.914
+  3 | Iowa State Cyclones             | 0.913
   3 | Notre Dame Fighting Irish       | 0.888
   3 | North Carolina Tarheels         | 0.886
   3 | Louisville Cardinals            | 0.874
   3 | Georgetown Hoyas                | 0.866
   3 | Kansas Jayhawks                 | 0.853
   3 | Utah Utes                       | 0.835
-  3 | Baylor Bears                    | 0.820
+  3 | Baylor Bears                    | 0.822
   3 | Northern Iowa Panthers          | 0.800
-  3 | Arkansas Razorbacks             | 0.780
-  3 | Ohio State Buckeyes             | 0.712
+  3 | Arkansas Razorbacks             | 0.781
+  3 | Ohio State Buckeyes             | 0.708
   3 | West Virginia Mountaineers      | 0.707
   3 | Wichita State Shockers          | 0.697
-  3 | Maryland Terrapins              | 0.692
-  3 | Michigan State Spartans         | 0.666
-  3 | Southern Methodist Mustangs     | 0.636
+  3 | Maryland Terrapins              | 0.691
+  3 | Michigan State Spartans         | 0.665
+  3 | Southern Methodist Mustangs     | 0.642
   3 | Oklahoma State Cowboys          | 0.629
   3 | North Carolina State Wolfpack   | 0.591
-  3 | Iowa Hawkeyes                   | 0.591
+  3 | Iowa Hawkeyes                   | 0.590
   3 | Xavier Musketeers               | 0.580
   3 | San Diego State Aztecs          | 0.578
   3 | Purdue Boilermakers             | 0.569
-  3 | Providence Friars               | 0.566
-  3 | Texas Longhorns                 | 0.548
-  3 | Butler Bulldogs                 | 0.452
+  3 | Providence Friars               | 0.568
+  3 | Texas Longhorns                 | 0.547
+  3 | Butler Bulldogs                 | 0.453
   3 | Cincinnati Bearcats             | 0.431
   3 | St. John's (NY) Red Storm       | 0.422
-  3 | Davidson Wildcats               | 0.409
+  3 | Davidson Wildcats               | 0.410
   3 | Louisiana State Fighting Tigers | 0.409
   3 | Oregon Ducks                    | 0.371
-  3 | UCLA Bruins                     | 0.364
-  3 | Georgia Bulldogs                | 0.334
-  3 | Valparaiso Crusaders            | 0.308
+  3 | UCLA Bruins                     | 0.358
+  3 | Georgia Bulldogs                | 0.335
+  3 | Valparaiso Crusaders            | 0.309
   3 | Indiana Hoosiers                | 0.303
   3 | Buffalo Bulls                   | 0.293
-  3 | Virginia Commonwealth Rams      | 0.288
+  3 | Virginia Commonwealth Rams      | 0.292
   3 | Brigham Young Cougars           | 0.247
-  3 | Boise State Broncos             | 0.244
-  3 | Wofford Terriers                | 0.220
+  3 | Boise State Broncos             | 0.246
+  3 | Wofford Terriers                | 0.219
   3 | Wyoming Cowboys                 | 0.200
-  3 | Dayton Flyers                   | 0.190
-  3 | Georgia State Panthers          | 0.180
-  3 | Mississippi Rebels              | 0.174
+  3 | Dayton Flyers                   | 0.185
+  3 | Georgia State Panthers          | 0.178
+  3 | Mississippi Rebels              | 0.173
   3 | Stephen F. Austin Lumberjacks   | 0.165
   3 | New Mexico State Aggies         | 0.147
   3 | Eastern Washington Eagles       | 0.134
   3 | California-Irvine Anteaters     | 0.126
   3 | Harvard Crimson                 | 0.114
   3 | Northeastern Huskies            | 0.112
-  3 | Alabama-Birmingham Blazers      | 0.086
+  3 | Alabama-Birmingham Blazers      | 0.087
   3 | Albany (NY) Great Danes         | 0.071
   3 | North Dakota State Bison        | 0.044
   3 | Coastal Carolina Chanticleers   | 0.029
@@ -77,18 +78,18 @@
   3 | Manhattan Jaspers               | 0.009
   3 | Hampton Pirates                 | 0.001
   4 | Kentucky Wildcats               | 0.926
-  4 | Wisconsin Badgers               | 0.853
+  4 | Wisconsin Badgers               | 0.854
   4 | Villanova Wildcats              | 0.800
-  4 | Virginia Cavaliers              | 0.796
-  4 | Duke Blue Devils                | 0.774
+  4 | Virginia Cavaliers              | 0.797
+  4 | Duke Blue Devils                | 0.773
   4 | Arizona Wildcats                | 0.717
   4 | Gonzaga Bulldogs                | 0.705
-  4 | Oklahoma Sooners                | 0.680
-  4 | North Carolina Tarheels         | 0.670
-  4 | Iowa State Cyclones             | 0.653
+  4 | Oklahoma Sooners                | 0.681
+  4 | North Carolina Tarheels         | 0.669
+  4 | Iowa State Cyclones             | 0.649
   4 | Utah Utes                       | 0.624
   4 | Louisville Cardinals            | 0.587
-  4 | Baylor Bears                    | 0.546
+  4 | Baylor Bears                    | 0.547
   4 | Kansas Jayhawks                 | 0.507
   4 | Notre Dame Fighting Irish       | 0.473
   4 | West Virginia Mountaineers      | 0.447
@@ -97,33 +98,33 @@
   4 | Maryland Terrapins              | 0.336
   4 | Georgetown Hoyas                | 0.300
   4 | Texas Longhorns                 | 0.292
-  4 | Arkansas Razorbacks             | 0.263
+  4 | Arkansas Razorbacks             | 0.265
   4 | Xavier Musketeers               | 0.247
-  4 | Southern Methodist Mustangs     | 0.235
-  4 | Ohio State Buckeyes             | 0.233
+  4 | Southern Methodist Mustangs     | 0.240
+  4 | Ohio State Buckeyes             | 0.232
   4 | Butler Bulldogs                 | 0.221
   4 | Iowa Hawkeyes                   | 0.188
   4 | Providence Friars               | 0.187
-  4 | Michigan State Spartans         | 0.154
-  4 | San Diego State Aztecs          | 0.139
+  4 | Michigan State Spartans         | 0.153
+  4 | San Diego State Aztecs          | 0.140
   4 | North Carolina State Wolfpack   | 0.129
   4 | Buffalo Bulls                   | 0.124
-  4 | Oklahoma State Cowboys          | 0.102
   4 | Davidson Wildcats               | 0.102
   4 | Indiana Hoosiers                | 0.101
-  4 | UCLA Bruins                     | 0.095
-  4 | Valparaiso Crusaders            | 0.093
+  4 | Oklahoma State Cowboys          | 0.101
+  4 | UCLA Bruins                     | 0.094
   4 | Brigham Young Cougars           | 0.093
+  4 | Valparaiso Crusaders            | 0.093
   4 | St. John's (NY) Red Storm       | 0.082
-  4 | Boise State Broncos             | 0.071
+  4 | Boise State Broncos             | 0.072
   4 | Louisiana State Fighting Tigers | 0.068
   4 | Stephen F. Austin Lumberjacks   | 0.064
   4 | Mississippi Rebels              | 0.057
-  4 | Georgia State Panthers          | 0.055
-  4 | Dayton Flyers                   | 0.050
-  4 | Virginia Commonwealth Rams      | 0.049
+  4 | Georgia State Panthers          | 0.054
+  4 | Virginia Commonwealth Rams      | 0.051
+  4 | Dayton Flyers                   | 0.048
   4 | Georgia Bulldogs                | 0.046
-  4 | Purdue Boilermakers             | 0.045
+  4 | Purdue Boilermakers             | 0.046
   4 | Oregon Ducks                    | 0.040
   4 | Wyoming Cowboys                 | 0.036
   4 | Harvard Crimson                 | 0.035
@@ -133,61 +134,61 @@
   4 | Cincinnati Bearcats             | 0.027
   4 | Alabama-Birmingham Blazers      | 0.017
   4 | Northeastern Huskies            | 0.014
-  4 | Albany (NY) Great Danes         | 0.012
   4 | Eastern Washington Eagles       | 0.012
+  4 | Albany (NY) Great Danes         | 0.012
   4 | Coastal Carolina Chanticleers   | 0.005
   4 | North Dakota State Bison        | 0.005
   4 | North Florida Ospreys           | 0.004
   4 | Lafayette Leopards              | 0.003
   4 | Belmont Bruins                  | 0.003
-  4 | Manhattan Jaspers               | 0.001
   4 | Robert Morris Colonials         | 0.001
   4 | Texas Southern Tigers           | 0.001
+  4 | Manhattan Jaspers               | 0.001
   4 | Hampton Pirates                 | 0.000
-  5 | Kentucky Wildcats               | 0.855
-  5 | Wisconsin Badgers               | 0.640
-  5 | Virginia Cavaliers              | 0.612
+  5 | Kentucky Wildcats               | 0.854
+  5 | Wisconsin Badgers               | 0.642
+  5 | Virginia Cavaliers              | 0.613
   5 | Villanova Wildcats              | 0.568
   5 | Arizona Wildcats                | 0.535
   5 | Duke Blue Devils                | 0.496
   5 | Gonzaga Bulldogs                | 0.475
-  5 | Utah Utes                       | 0.323
-  5 | Iowa State Cyclones             | 0.304
+  5 | Utah Utes                       | 0.324
+  5 | Iowa State Cyclones             | 0.302
   5 | Kansas Jayhawks                 | 0.274
-  5 | North Carolina Tarheels         | 0.251
   5 | Notre Dame Fighting Irish       | 0.250
+  5 | North Carolina Tarheels         | 0.249
   5 | Louisville Cardinals            | 0.245
-  5 | Oklahoma Sooners                | 0.240
+  5 | Oklahoma Sooners                | 0.241
   5 | Baylor Bears                    | 0.207
   5 | Wichita State Shockers          | 0.182
   5 | Texas Longhorns                 | 0.151
-  5 | Ohio State Buckeyes             | 0.136
+  5 | Ohio State Buckeyes             | 0.135
   5 | Northern Iowa Panthers          | 0.108
   5 | Butler Bulldogs                 | 0.104
   5 | Georgetown Hoyas                | 0.094
   5 | Iowa Hawkeyes                   | 0.088
   5 | Michigan State Spartans         | 0.075
-  5 | Southern Methodist Mustangs     | 0.072
+  5 | Southern Methodist Mustangs     | 0.074
   5 | Xavier Musketeers               | 0.065
-  5 | West Virginia Mountaineers      | 0.060
+  5 | West Virginia Mountaineers      | 0.061
   5 | Arkansas Razorbacks             | 0.056
   5 | North Carolina State Wolfpack   | 0.050
   5 | San Diego State Aztecs          | 0.049
   5 | Davidson Wildcats               | 0.039
-  5 | Oklahoma State Cowboys          | 0.036
-  5 | Providence Friars               | 0.036
+  5 | Providence Friars               | 0.037
   5 | Maryland Terrapins              | 0.036
+  5 | Oklahoma State Cowboys          | 0.036
   5 | Indiana Hoosiers                | 0.031
   5 | St. John's (NY) Red Storm       | 0.024
-  5 | Purdue Boilermakers             | 0.022
-  5 | Brigham Young Cougars           | 0.021
+  5 | Purdue Boilermakers             | 0.023
   5 | Louisiana State Fighting Tigers | 0.021
-  5 | UCLA Bruins                     | 0.020
-  5 | Virginia Commonwealth Rams      | 0.018
+  5 | Brigham Young Cougars           | 0.021
+  5 | Virginia Commonwealth Rams      | 0.019
+  5 | UCLA Bruins                     | 0.019
   5 | Georgia Bulldogs                | 0.015
   5 | Stephen F. Austin Lumberjacks   | 0.013
-  5 | Cincinnati Bearcats             | 0.012
   5 | Boise State Broncos             | 0.012
+  5 | Cincinnati Bearcats             | 0.012
   5 | Mississippi Rebels              | 0.011
   5 | Oregon Ducks                    | 0.010
   5 | Buffalo Bulls                   | 0.009
@@ -200,11 +201,11 @@
   5 | Wofford Terriers                | 0.003
   5 | Harvard Crimson                 | 0.003
   5 | Northeastern Huskies            | 0.002
+  5 | Alabama-Birmingham Blazers      | 0.001
   5 | North Dakota State Bison        | 0.001
   5 | Coastal Carolina Chanticleers   | 0.001
-  5 | Alabama-Birmingham Blazers      | 0.001
-  5 | Eastern Washington Eagles       | 0.001
   5 | Albany (NY) Great Danes         | 0.001
+  5 | Eastern Washington Eagles       | 0.001
   5 | Texas Southern Tigers           | 0.000
   5 | Hampton Pirates                 | 0.000
   5 | Lafayette Leopards              | 0.000
@@ -212,22 +213,22 @@
   5 | Belmont Bruins                  | 0.000
   5 | Manhattan Jaspers               | 0.000
   5 | North Florida Ospreys           | 0.000
-  6 | Kentucky Wildcats               | 0.748
-  6 | Virginia Cavaliers              | 0.424
-  6 | Wisconsin Badgers               | 0.421
-  6 | Duke Blue Devils                | 0.315
-  6 | Arizona Wildcats                | 0.284
+  6 | Kentucky Wildcats               | 0.747
+  6 | Virginia Cavaliers              | 0.425
+  6 | Wisconsin Badgers               | 0.423
+  6 | Duke Blue Devils                | 0.314
+  6 | Arizona Wildcats                | 0.283
   6 | Villanova Wildcats              | 0.281
   6 | Gonzaga Bulldogs                | 0.248
   6 | Utah Utes                       | 0.189
-  6 | Iowa State Cyclones             | 0.127
-  6 | North Carolina Tarheels         | 0.119
+  6 | Iowa State Cyclones             | 0.126
+  6 | North Carolina Tarheels         | 0.118
   6 | Oklahoma Sooners                | 0.116
   6 | Louisville Cardinals            | 0.086
   6 | Baylor Bears                    | 0.074
   6 | Kansas Jayhawks                 | 0.059
-  6 | Notre Dame Fighting Irish       | 0.051
-  6 | Ohio State Buckeyes             | 0.049
+  6 | Notre Dame Fighting Irish       | 0.052
+  6 | Ohio State Buckeyes             | 0.048
   6 | Wichita State Shockers          | 0.036
   6 | Georgetown Hoyas                | 0.035
   6 | Michigan State Spartans         | 0.030
@@ -235,7 +236,7 @@
   6 | Northern Iowa Panthers          | 0.028
   6 | Iowa Hawkeyes                   | 0.028
   6 | West Virginia Mountaineers      | 0.026
-  6 | Southern Methodist Mustangs     | 0.019
+  6 | Southern Methodist Mustangs     | 0.020
   6 | Butler Bulldogs                 | 0.018
   6 | San Diego State Aztecs          | 0.017
   6 | Xavier Musketeers               | 0.016
@@ -280,16 +281,16 @@
   6 | Harvard Crimson                 | 0.000
   6 | Albany (NY) Great Danes         | 0.000
   6 | Belmont Bruins                  | 0.000
-  7 | Kentucky Wildcats               | 0.556
-  7 | Virginia Cavaliers              | 0.288
-  7 | Wisconsin Badgers               | 0.185
-  7 | Villanova Wildcats              | 0.161
+  7 | Kentucky Wildcats               | 0.553
+  7 | Virginia Cavaliers              | 0.289
+  7 | Wisconsin Badgers               | 0.188
+  7 | Villanova Wildcats              | 0.162
   7 | Duke Blue Devils                | 0.159
   7 | Gonzaga Bulldogs                | 0.113
   7 | Arizona Wildcats                | 0.111
   7 | Utah Utes                       | 0.086
   7 | Oklahoma Sooners                | 0.054
-  7 | Iowa State Cyclones             | 0.046
+  7 | Iowa State Cyclones             | 0.045
   7 | Louisville Cardinals            | 0.036
   7 | North Carolina Tarheels         | 0.034
   7 | Kansas Jayhawks                 | 0.020
@@ -298,35 +299,35 @@
   7 | Ohio State Buckeyes             | 0.012
   7 | Wichita State Shockers          | 0.011
   7 | Michigan State Spartans         | 0.011
-  7 | Northern Iowa Panthers          | 0.009
   7 | Texas Longhorns                 | 0.009
+  7 | Northern Iowa Panthers          | 0.009
   7 | Georgetown Hoyas                | 0.009
   7 | Iowa Hawkeyes                   | 0.008
   7 | West Virginia Mountaineers      | 0.007
   7 | Butler Bulldogs                 | 0.005
-  7 | San Diego State Aztecs          | 0.004
   7 | Southern Methodist Mustangs     | 0.004
-  7 | Maryland Terrapins              | 0.003
-  7 | Providence Friars               | 0.003
-  7 | Xavier Musketeers               | 0.003
+  7 | San Diego State Aztecs          | 0.004
   7 | North Carolina State Wolfpack   | 0.003
+  7 | Providence Friars               | 0.003
+  7 | Maryland Terrapins              | 0.003
+  7 | Xavier Musketeers               | 0.003
   7 | Purdue Boilermakers             | 0.002
-  7 | Arkansas Razorbacks             | 0.002
   7 | Davidson Wildcats               | 0.002
-  7 | Brigham Young Cougars           | 0.001
+  7 | Arkansas Razorbacks             | 0.002
   7 | Oklahoma State Cowboys          | 0.001
-  7 | St. John's (NY) Red Storm       | 0.001
-  7 | Georgia Bulldogs                | 0.001
-  7 | Cincinnati Bearcats             | 0.001
-  7 | Louisiana State Fighting Tigers | 0.001
   7 | Boise State Broncos             | 0.001
+  7 | Louisiana State Fighting Tigers | 0.001
   7 | Indiana Hoosiers                | 0.001
+  7 | Virginia Commonwealth Rams      | 0.001
+  7 | Georgia Bulldogs                | 0.001
+  7 | St. John's (NY) Red Storm       | 0.001
+  7 | Brigham Young Cougars           | 0.001
+  7 | Cincinnati Bearcats             | 0.001
   7 | Texas Southern Tigers           | 0.000
   7 | Wofford Terriers                | 0.000
   7 | Alabama-Birmingham Blazers      | 0.000
   7 | New Mexico State Aggies         | 0.000
   7 | Hampton Pirates                 | 0.000
-  7 | Virginia Commonwealth Rams      | 0.000
   7 | Robert Morris Colonials         | 0.000
   7 | North Dakota State Bison        | 0.000
   7 | Northeastern Huskies            | 0.000
@@ -348,9 +349,9 @@
   7 | Oregon Ducks                    | 0.000
   7 | Albany (NY) Great Danes         | 0.000
   7 | California-Irvine Anteaters     | 0.000
-  8 | Kentucky Wildcats               | 0.421
-  8 | Virginia Cavaliers              | 0.132
-  8 | Wisconsin Badgers               | 0.113
+  8 | Kentucky Wildcats               | 0.418
+  8 | Virginia Cavaliers              | 0.133
+  8 | Wisconsin Badgers               | 0.114
   8 | Arizona Wildcats                | 0.061
   8 | Villanova Wildcats              | 0.058
   8 | Duke Blue Devils                | 0.057
@@ -418,3 +419,5 @@
   8 | Wyoming Cowboys                 | 0.000
 (416 rows)
 
+COPY 416
+COMMIT
