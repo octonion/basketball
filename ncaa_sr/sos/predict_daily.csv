@@ -1,20 +1,18 @@
-date,site,home,str,score,away,str,score,pwin
-2015-03-17,home,Alabama Crimson Tide,1.21,65.1,Illinois Fighting Illini,1.17,63.2,0.57
-2015-03-17,neutral,Brigham Young Cougars,1.20,78.7,Mississippi Rebels,1.17,77.0,0.56
-2015-03-17,home,Eastern Kentucky Colonels,1.09,70.6,Norfolk State Spartans,0.96,62.2,0.78
-2015-03-17,neutral,Hampton Pirates,0.90,64.6,Manhattan Jaspers,1.00,71.5,0.26
-2015-03-17,home,Incarnate Word Cardinals,1.01,77.3,Louisiana-Lafayette Ragin' Cajuns,1.04,79.1,0.44
-2015-03-17,home,Louisiana Tech Bulldogs,1.17,73.5,Central Michigan Chippewas,1.10,69.2,0.65
-2015-03-17,home,Loyola (IL) Ramblers,1.09,62.6,Rider Broncs,1.00,57.1,0.72
-2015-03-17,neutral,Manhattan Jaspers,1.00,71.5,Hampton Pirates,0.90,64.6,0.74
-2015-03-17,home,Miami (FL) Hurricanes,1.25,62.8,North Carolina Central Eagles,1.06,53.5,0.84
-2015-03-17,neutral,Mississippi Rebels,1.17,77.0,Brigham Young Cougars,1.20,78.7,0.44
-2015-03-17,home,Murray State Breds,1.17,73.2,Texas-El Paso Miners,1.09,68.4,0.67
-2015-03-17,home,Oakland Golden Grizzlies,1.06,72.2,Eastern Illinois Panthers,0.94,64.0,0.77
-2015-03-17,home,Pittsburgh Panthers,1.18,63.5,George Washington Colonials,1.12,60.3,0.63
-2015-03-17,home,Rhode Island Rams,1.21,76.9,Iona Gaels,1.07,67.8,0.79
-2015-03-17,home,Saint Francis (PA) Red Flash,0.99,57.9,Bowling Green State Falcons,1.08,63.0,0.29
-2015-03-17,home,South Carolina Upstate Spartans,1.06,68.5,James Madison Dukes,0.97,62.9,0.71
-2015-03-17,home,Stanford Cardinal,1.24,75.2,California-Davis Aggies,1.05,64.0,0.84
-2015-03-17,home,Texas A&M Aggies,1.22,69.3,Montana Grizzlies,1.00,56.9,0.88
-2015-03-17,home,Tulsa Golden Hurricane,1.18,68.0,William & Mary Tribe,1.06,61.2,0.75
+date,type,site,home,str,score,away,str,score,pwin
+2015-03-17,NIT,home,Alabama Crimson Tide,1.21,65.1,Illinois Fighting Illini,1.17,63.2,0.57
+2015-03-17,NCAA,neutral,Brigham Young Cougars,1.20,78.7,Mississippi Rebels,1.17,77.0,0.56
+2015-03-17,CIT,home,Eastern Kentucky Colonels,1.09,70.6,Norfolk State Spartans,0.96,62.2,0.78
+2015-03-17,NCAA,neutral,Hampton Pirates,0.90,64.6,Manhattan Jaspers,1.00,71.5,0.26
+2015-03-17,CIT,home,Incarnate Word Cardinals,1.01,77.3,Louisiana-Lafayette Ragin' Cajuns,1.04,79.1,0.44
+2015-03-17,NIT,home,Louisiana Tech Bulldogs,1.17,73.5,Central Michigan Chippewas,1.10,69.2,0.65
+2015-03-17,CBI,home,Loyola (IL) Ramblers,1.09,62.6,Rider Broncs,1.00,57.1,0.72
+2015-03-17,NIT,home,Miami (FL) Hurricanes,1.25,62.8,North Carolina Central Eagles,1.06,53.5,0.84
+2015-03-17,NIT,home,Murray State Breds,1.17,73.2,Texas-El Paso Miners,1.09,68.4,0.67
+2015-03-17,CIT,home,Oakland Golden Grizzlies,1.06,72.2,Eastern Illinois Panthers,0.94,64.0,0.77
+2015-03-17,NIT,home,Pittsburgh Panthers,1.18,63.5,George Washington Colonials,1.12,60.3,0.63
+2015-03-17,NIT,home,Rhode Island Rams,1.21,76.9,Iona Gaels,1.07,67.8,0.79
+2015-03-17,CIT,home,Saint Francis (PA) Red Flash,0.99,57.9,Bowling Green State Falcons,1.08,63.0,0.29
+2015-03-17,CIT,home,South Carolina Upstate Spartans,1.06,68.5,James Madison Dukes,0.97,62.9,0.71
+2015-03-17,NIT,home,Stanford Cardinal,1.24,75.2,California-Davis Aggies,1.05,64.0,0.84
+2015-03-17,NIT,home,Texas A&M Aggies,1.22,69.3,Montana Grizzlies,1.00,56.9,0.88
+2015-03-17,NIT,home,Tulsa Golden Hurricane,1.18,68.0,William & Mary Tribe,1.06,61.2,0.75

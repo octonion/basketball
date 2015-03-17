@@ -4,6 +4,7 @@ set timezone to 'America/New_York';
 
 select
 g.game_date::date as date,
+g.type as type,
 'home' as site,
 hn.school_name as home,
 (h.strength*o.exp_factor)::numeric(4,2) as str,
@@ -40,6 +41,7 @@ union all
 
 select
 g.game_date::date as date,
+g.type as type,
 'neutral' as site,
 hn.school_name as home,
 (h.strength)::numeric(4,2) as str,
@@ -67,6 +69,7 @@ join ncaa_sr._basic_factors i
 where
     g.game_date::date = current_date
 and g.location='N'
+and hn.school_name < vn.school_name
 
 order by home asc;
 
@@ -74,6 +77,7 @@ copy
 (
 select
 g.game_date::date as date,
+g.type as type,
 'home' as site,
 hn.school_name as home,
 (h.strength*o.exp_factor)::numeric(4,2) as str,
@@ -110,6 +114,7 @@ union all
 
 select
 g.game_date::date as date,
+g.type as type,
 'neutral' as site,
 hn.school_name as home,
 (h.strength)::numeric(4,2) as str,
@@ -137,6 +142,7 @@ join ncaa_sr._basic_factors i
 where
     g.game_date::date = current_date
 and g.location='N'
+and hn.school_name < vn.school_name
 
 order by home asc
 ) to '/tmp/predict_daily.csv' csv header;
