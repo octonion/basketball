@@ -139,6 +139,6 @@ where
 and g.location='N'
 
 order by home asc
-) to '/tmp/predict_weekly.csv';
+) to '/tmp/predict_weekly.csv' csv header;
 
 commit;
