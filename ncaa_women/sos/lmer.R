@@ -1,8 +1,8 @@
-sink("ncaa_women_lmer.txt")
+sink("diagnostics/lmer.txt")
 
-library("lme4")
-library("nortest")
-library("RPostgreSQL")
+library(lme4)
+library(nortest)
+library(RPostgreSQL)
 
 #library("sp")
 
@@ -25,7 +25,7 @@ ln(r.team_score::float) as log_ps
 from ncaa_women.results r
 
 where
-    r.year between 2002 and 2013
+    r.year between 2002 and 2015
 --and r.game_date < '2012/11/29'::date
 and r.school_div_id is not null
 and r.opponent_div_id is not null
@@ -34,8 +34,7 @@ and r.opponent_score>0
 and not(r.team_score,r.opponent_score)=(0,0)
 
 -- fit all excluding March and April
-
-and not(extract(month from r.game_date)) in (3,4)
+--and not(extract(month from r.game_date)) in (3,4)
 
 ;")
 
@@ -67,13 +66,13 @@ fpn <- names(fp)
 # Random parameters
 
 game_id <- as.factor(game_id)
-contrasts(game_id) <- 'contr.sum'
+#contrasts(game_id) <- 'contr.sum'
 
 offense <- as.factor(paste(year,"/",team,sep=""))
-contrasts(offense) <- 'contr.sum'
+#contrasts(offense) <- 'contr.sum'
 
 defense <- as.factor(paste(year,"/",opponent,sep=""))
-contrasts(defense) <- 'contr.sum'
+#contrasts(defense) <- 'contr.sum'
 
 rp <- data.frame(offense,defense)
 rpn <- names(rp)
@@ -105,18 +104,18 @@ g$log_ps <- log_ps
 
 dim(g)
 
-model0 <- log_ps ~ year+field+d_div+o_div+(1|offense)+(1|defense)+(1|game_id) 
-fit0 <- lmer(model0,data=g,REML=T,verbose=T) #,control=list(maxIter=5000))
+#model0 <- log_ps ~ year+field+d_div+o_div+(1|offense)+(1|defense)+(1|game_id) 
+#fit0 <- lmer(model0,data=g,REML=T,verbose=T) #,control=list(maxIter=5000))
 
 model <- log_ps ~ year+field+d_div+o_div+game_length+(1|offense)+(1|defense)+(1|game_id) 
-fit <- lmer(model,data=g,REML=T,verbose=T)
+fit <- lmer(model, data=g, REML=FALSE, verbose=TRUE)
 
 fit
 summary(fit)
 
-anova(fit0)
+#anova(fit0)
 anova(fit)
-anova(fit0,fit)
+#anova(fit0,fit)
 
 # List of data frames
 
@@ -190,16 +189,16 @@ sd(pvals)
 
 # Graph p-values
 
-jpeg("ncaa_women_shapiro-francia.jpg")
+jpeg("diagnostics/shapiro-francia.jpg")
 hist(pvals,xlim=c(0,1))
 abline(v=0.05,lty='dashed',lwd=2,col='red')
 quantile(pvals,prob=seq(0,1,0.05))
 
 # Examine residuals
 
-jpeg("ncaa_women_fitted_vs_residuals.jpg")
+jpeg("diagnostics/fitted_vs_residuals.jpg")
 plot(f,r)
-jpeg("ncaa_women_q-q_plot.jpg")
+jpeg("diagnostics/q-q_plot.jpg")
 qqnorm(r,main="Q-Q plot for residuals")
 
 quit("no")

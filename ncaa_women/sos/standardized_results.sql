@@ -88,7 +88,7 @@ and not((g.team_score,g.opponent_score)=(0,0))
 and g.school_id is not NULL
 and g.opponent_id is not NULL
 and not(g.game_date is null)
-and g.year between 2002 and 2013
+and g.year between 2002 and 2015
 );
 
 insert into ncaa_women.results
@@ -130,7 +130,7 @@ and not((g.team_score,g.opponent_score)=(0,0))
 and g.school_id is not NULL
 and g.opponent_id is not NULL
 and not(g.game_date is null)
-and g.year between 2002 and 2013
+and g.year between 2002 and 2015
 );
 
 update ncaa_women.results

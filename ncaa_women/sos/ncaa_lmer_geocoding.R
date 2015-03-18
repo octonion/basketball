@@ -37,7 +37,7 @@ join ncaa_women.geocodes team
 join ncaa_women.geocodes opponent
   on (opponent.school_id)=(r.opponent_id)
 where
-    r.year between 2002 and 2013
+    r.year between 2002 and 2015
 and r.school_div_id is not null
 and r.opponent_div_id is not null
 and r.team_score>0
