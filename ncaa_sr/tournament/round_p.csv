@@ -1,13 +1,9 @@
 rd,name,p
-2,Manhattan Jaspers,0.741
 2,North Florida Ospreys,0.619
-2,Brigham Young Cougars,0.556
 2,Boise State Broncos,0.545
 2,Dayton Flyers,0.455
-2,Mississippi Rebels,0.444
 2,Robert Morris Colonials,0.381
-2,Hampton Pirates,0.259
-3,Kentucky Wildcats,0.990
+3,Kentucky Wildcats,0.996
 3,Arizona Wildcats,0.983
 3,Virginia Cavaliers,0.973
 3,Villanova Wildcats,0.972
@@ -32,9 +28,9 @@ rd,name,p
 3,Michigan State Spartans,0.665
 3,Southern Methodist Mustangs,0.642
 3,Oklahoma State Cowboys,0.629
+3,Xavier Musketeers,0.610
 3,North Carolina State Wolfpack,0.591
 3,Iowa Hawkeyes,0.590
-3,Xavier Musketeers,0.580
 3,San Diego State Aztecs,0.578
 3,Purdue Boilermakers,0.569
 3,Providence Friars,0.568
@@ -44,6 +40,7 @@ rd,name,p
 3,St. John's (NY) Red Storm,0.422
 3,Davidson Wildcats,0.410
 3,Louisiana State Fighting Tigers,0.409
+3,Mississippi Rebels,0.390
 3,Oregon Ducks,0.371
 3,UCLA Bruins,0.358
 3,Georgia Bulldogs,0.335
@@ -51,13 +48,11 @@ rd,name,p
 3,Indiana Hoosiers,0.303
 3,Buffalo Bulls,0.293
 3,Virginia Commonwealth Rams,0.292
-3,Brigham Young Cougars,0.247
 3,Boise State Broncos,0.246
 3,Wofford Terriers,0.219
 3,Wyoming Cowboys,0.200
 3,Dayton Flyers,0.185
 3,Georgia State Panthers,0.178
-3,Mississippi Rebels,0.173
 3,Stephen F. Austin Lumberjacks,0.165
 3,New Mexico State Aggies,0.147
 3,Eastern Washington Eagles,0.134
@@ -73,9 +68,8 @@ rd,name,p
 3,North Florida Ospreys,0.027
 3,Texas Southern Tigers,0.017
 3,Robert Morris Colonials,0.010
-3,Manhattan Jaspers,0.009
-3,Hampton Pirates,0.001
-4,Kentucky Wildcats,0.926
+3,Hampton Pirates,0.004
+4,Kentucky Wildcats,0.931
 4,Wisconsin Badgers,0.854
 4,Villanova Wildcats,0.800
 4,Virginia Cavaliers,0.797
@@ -87,7 +81,7 @@ rd,name,p
 4,Iowa State Cyclones,0.649
 4,Utah Utes,0.624
 4,Louisville Cardinals,0.587
-4,Baylor Bears,0.547
+4,Baylor Bears,0.554
 4,Kansas Jayhawks,0.507
 4,Notre Dame Fighting Irish,0.473
 4,West Virginia Mountaineers,0.447
@@ -97,7 +91,7 @@ rd,name,p
 4,Georgetown Hoyas,0.300
 4,Texas Longhorns,0.292
 4,Arkansas Razorbacks,0.265
-4,Xavier Musketeers,0.247
+4,Xavier Musketeers,0.260
 4,Southern Methodist Mustangs,0.240
 4,Ohio State Buckeyes,0.232
 4,Butler Bulldogs,0.221
@@ -105,35 +99,34 @@ rd,name,p
 4,Providence Friars,0.187
 4,Michigan State Spartans,0.153
 4,San Diego State Aztecs,0.140
+4,Mississippi Rebels,0.129
 4,North Carolina State Wolfpack,0.129
 4,Buffalo Bulls,0.124
 4,Davidson Wildcats,0.102
 4,Indiana Hoosiers,0.101
 4,Oklahoma State Cowboys,0.101
 4,UCLA Bruins,0.094
-4,Brigham Young Cougars,0.093
 4,Valparaiso Crusaders,0.093
 4,St. John's (NY) Red Storm,0.082
 4,Boise State Broncos,0.072
 4,Louisiana State Fighting Tigers,0.068
 4,Stephen F. Austin Lumberjacks,0.064
-4,Mississippi Rebels,0.057
-4,Georgia State Panthers,0.054
+4,Georgia State Panthers,0.056
 4,Virginia Commonwealth Rams,0.051
 4,Dayton Flyers,0.048
 4,Georgia Bulldogs,0.046
-4,Purdue Boilermakers,0.046
+4,Purdue Boilermakers,0.043
 4,Oregon Ducks,0.040
 4,Wyoming Cowboys,0.036
 4,Harvard Crimson,0.035
 4,California-Irvine Anteaters,0.032
 4,Wofford Terriers,0.031
 4,New Mexico State Aggies,0.031
-4,Cincinnati Bearcats,0.027
+4,Cincinnati Bearcats,0.026
 4,Alabama-Birmingham Blazers,0.017
 4,Northeastern Huskies,0.014
-4,Eastern Washington Eagles,0.012
 4,Albany (NY) Great Danes,0.012
+4,Eastern Washington Eagles,0.012
 4,Coastal Carolina Chanticleers,0.005
 4,North Dakota State Bison,0.005
 4,North Florida Ospreys,0.004
@@ -141,13 +134,12 @@ rd,name,p
 4,Belmont Bruins,0.003
 4,Robert Morris Colonials,0.001
 4,Texas Southern Tigers,0.001
-4,Manhattan Jaspers,0.001
 4,Hampton Pirates,0.000
-5,Kentucky Wildcats,0.854
+5,Kentucky Wildcats,0.860
 5,Wisconsin Badgers,0.642
 5,Virginia Cavaliers,0.613
 5,Villanova Wildcats,0.568
-5,Arizona Wildcats,0.535
+5,Arizona Wildcats,0.536
 5,Duke Blue Devils,0.496
 5,Gonzaga Bulldogs,0.475
 5,Utah Utes,0.324
@@ -157,7 +149,7 @@ rd,name,p
 5,North Carolina Tarheels,0.249
 5,Louisville Cardinals,0.245
 5,Oklahoma Sooners,0.241
-5,Baylor Bears,0.207
+5,Baylor Bears,0.210
 5,Wichita State Shockers,0.182
 5,Texas Longhorns,0.151
 5,Ohio State Buckeyes,0.135
@@ -167,51 +159,49 @@ rd,name,p
 5,Iowa Hawkeyes,0.088
 5,Michigan State Spartans,0.075
 5,Southern Methodist Mustangs,0.074
-5,Xavier Musketeers,0.065
-5,West Virginia Mountaineers,0.061
+5,Xavier Musketeers,0.068
+5,West Virginia Mountaineers,0.059
 5,Arkansas Razorbacks,0.056
 5,North Carolina State Wolfpack,0.050
 5,San Diego State Aztecs,0.049
 5,Davidson Wildcats,0.039
 5,Providence Friars,0.037
-5,Maryland Terrapins,0.036
 5,Oklahoma State Cowboys,0.036
+5,Maryland Terrapins,0.035
 5,Indiana Hoosiers,0.031
 5,St. John's (NY) Red Storm,0.024
-5,Purdue Boilermakers,0.023
+5,Mississippi Rebels,0.024
+5,Purdue Boilermakers,0.021
 5,Louisiana State Fighting Tigers,0.021
-5,Brigham Young Cougars,0.021
-5,Virginia Commonwealth Rams,0.019
 5,UCLA Bruins,0.019
+5,Virginia Commonwealth Rams,0.019
 5,Georgia Bulldogs,0.015
 5,Stephen F. Austin Lumberjacks,0.013
 5,Boise State Broncos,0.012
-5,Cincinnati Bearcats,0.012
-5,Mississippi Rebels,0.011
+5,Cincinnati Bearcats,0.011
 5,Oregon Ducks,0.010
-5,Buffalo Bulls,0.009
+5,Buffalo Bulls,0.008
 5,Dayton Flyers,0.007
 5,Georgia State Panthers,0.007
-5,Valparaiso Crusaders,0.005
 5,New Mexico State Aggies,0.005
-5,California-Irvine Anteaters,0.004
+5,Valparaiso Crusaders,0.005
 5,Wyoming Cowboys,0.004
-5,Wofford Terriers,0.003
+5,California-Irvine Anteaters,0.004
 5,Harvard Crimson,0.003
+5,Wofford Terriers,0.003
 5,Northeastern Huskies,0.002
 5,Alabama-Birmingham Blazers,0.001
+5,Eastern Washington Eagles,0.001
+5,Albany (NY) Great Danes,0.001
 5,North Dakota State Bison,0.001
 5,Coastal Carolina Chanticleers,0.001
-5,Albany (NY) Great Danes,0.001
-5,Eastern Washington Eagles,0.001
 5,Texas Southern Tigers,0.000
 5,Hampton Pirates,0.000
 5,Lafayette Leopards,0.000
 5,Robert Morris Colonials,0.000
 5,Belmont Bruins,0.000
-5,Manhattan Jaspers,0.000
 5,North Florida Ospreys,0.000
-6,Kentucky Wildcats,0.747
+6,Kentucky Wildcats,0.751
 6,Virginia Cavaliers,0.425
 6,Wisconsin Badgers,0.423
 6,Duke Blue Devils,0.314
@@ -223,65 +213,63 @@ rd,name,p
 6,North Carolina Tarheels,0.118
 6,Oklahoma Sooners,0.116
 6,Louisville Cardinals,0.086
-6,Baylor Bears,0.074
-6,Kansas Jayhawks,0.059
-6,Notre Dame Fighting Irish,0.052
+6,Baylor Bears,0.075
+6,Kansas Jayhawks,0.058
+6,Notre Dame Fighting Irish,0.051
 6,Ohio State Buckeyes,0.048
-6,Wichita State Shockers,0.036
+6,Wichita State Shockers,0.035
 6,Georgetown Hoyas,0.035
-6,Michigan State Spartans,0.030
 6,Texas Longhorns,0.030
+6,Michigan State Spartans,0.030
 6,Northern Iowa Panthers,0.028
 6,Iowa Hawkeyes,0.028
 6,West Virginia Mountaineers,0.026
 6,Southern Methodist Mustangs,0.020
 6,Butler Bulldogs,0.018
 6,San Diego State Aztecs,0.017
-6,Xavier Musketeers,0.016
+6,Xavier Musketeers,0.017
 6,Arkansas Razorbacks,0.015
 6,Maryland Terrapins,0.013
-6,Providence Friars,0.011
 6,North Carolina State Wolfpack,0.011
+6,Providence Friars,0.011
 6,Davidson Wildcats,0.010
 6,Oklahoma State Cowboys,0.009
 6,Purdue Boilermakers,0.008
 6,St. John's (NY) Red Storm,0.006
-6,Brigham Young Cougars,0.004
-6,Virginia Commonwealth Rams,0.004
 6,Georgia Bulldogs,0.004
-6,Louisiana State Fighting Tigers,0.003
-6,Cincinnati Bearcats,0.003
+6,Virginia Commonwealth Rams,0.004
+6,Mississippi Rebels,0.004
 6,Indiana Hoosiers,0.003
-6,Stephen F. Austin Lumberjacks,0.003
-6,UCLA Bruins,0.003
+6,Louisiana State Fighting Tigers,0.003
 6,Boise State Broncos,0.003
-6,Oregon Ducks,0.002
-6,Mississippi Rebels,0.002
-6,Buffalo Bulls,0.002
+6,UCLA Bruins,0.003
+6,Cincinnati Bearcats,0.003
+6,Stephen F. Austin Lumberjacks,0.003
 6,Dayton Flyers,0.002
-6,Valparaiso Crusaders,0.001
+6,Buffalo Bulls,0.002
+6,Oregon Ducks,0.002
 6,Georgia State Panthers,0.001
+6,Valparaiso Crusaders,0.001
+6,Texas Southern Tigers,0.000
 6,North Florida Ospreys,0.000
-6,Manhattan Jaspers,0.000
+6,Lafayette Leopards,0.000
 6,Wyoming Cowboys,0.000
-6,Eastern Washington Eagles,0.000
-6,North Dakota State Bison,0.000
-6,Hampton Pirates,0.000
-6,New Mexico State Aggies,0.000
-6,Alabama-Birmingham Blazers,0.000
 6,California-Irvine Anteaters,0.000
+6,Harvard Crimson,0.000
+6,Albany (NY) Great Danes,0.000
+6,Belmont Bruins,0.000
+6,Eastern Washington Eagles,0.000
+6,New Mexico State Aggies,0.000
+6,Hampton Pirates,0.000
+6,Alabama-Birmingham Blazers,0.000
+6,North Dakota State Bison,0.000
 6,Wofford Terriers,0.000
 6,Robert Morris Colonials,0.000
 6,Northeastern Huskies,0.000
 6,Coastal Carolina Chanticleers,0.000
-6,Texas Southern Tigers,0.000
-6,Lafayette Leopards,0.000
-6,Harvard Crimson,0.000
-6,Albany (NY) Great Danes,0.000
-6,Belmont Bruins,0.000
-7,Kentucky Wildcats,0.553
+7,Kentucky Wildcats,0.556
 7,Virginia Cavaliers,0.289
-7,Wisconsin Badgers,0.188
+7,Wisconsin Badgers,0.187
 7,Villanova Wildcats,0.162
 7,Duke Blue Devils,0.159
 7,Gonzaga Bulldogs,0.113
@@ -293,61 +281,59 @@ rd,name,p
 7,North Carolina Tarheels,0.034
 7,Kansas Jayhawks,0.020
 7,Baylor Bears,0.019
-7,Notre Dame Fighting Irish,0.017
+7,Notre Dame Fighting Irish,0.016
 7,Ohio State Buckeyes,0.012
-7,Wichita State Shockers,0.011
 7,Michigan State Spartans,0.011
+7,Wichita State Shockers,0.011
+7,Georgetown Hoyas,0.009
 7,Texas Longhorns,0.009
 7,Northern Iowa Panthers,0.009
-7,Georgetown Hoyas,0.009
 7,Iowa Hawkeyes,0.008
 7,West Virginia Mountaineers,0.007
 7,Butler Bulldogs,0.005
-7,Southern Methodist Mustangs,0.004
 7,San Diego State Aztecs,0.004
+7,Southern Methodist Mustangs,0.004
 7,North Carolina State Wolfpack,0.003
 7,Providence Friars,0.003
 7,Maryland Terrapins,0.003
 7,Xavier Musketeers,0.003
+7,Arkansas Razorbacks,0.002
 7,Purdue Boilermakers,0.002
 7,Davidson Wildcats,0.002
-7,Arkansas Razorbacks,0.002
-7,Oklahoma State Cowboys,0.001
+7,Cincinnati Bearcats,0.001
 7,Boise State Broncos,0.001
 7,Louisiana State Fighting Tigers,0.001
-7,Indiana Hoosiers,0.001
 7,Virginia Commonwealth Rams,0.001
 7,Georgia Bulldogs,0.001
 7,St. John's (NY) Red Storm,0.001
-7,Brigham Young Cougars,0.001
-7,Cincinnati Bearcats,0.001
-7,Texas Southern Tigers,0.000
-7,Wofford Terriers,0.000
-7,Alabama-Birmingham Blazers,0.000
-7,New Mexico State Aggies,0.000
-7,Hampton Pirates,0.000
-7,Robert Morris Colonials,0.000
-7,North Dakota State Bison,0.000
-7,Northeastern Huskies,0.000
-7,Coastal Carolina Chanticleers,0.000
-7,Eastern Washington Eagles,0.000
-7,Lafayette Leopards,0.000
-7,Stephen F. Austin Lumberjacks,0.000
-7,Buffalo Bulls,0.000
-7,Dayton Flyers,0.000
-7,North Florida Ospreys,0.000
-7,Harvard Crimson,0.000
+7,Indiana Hoosiers,0.001
+7,Mississippi Rebels,0.001
+7,Oklahoma State Cowboys,0.001
 7,Belmont Bruins,0.000
+7,New Mexico State Aggies,0.000
+7,Alabama-Birmingham Blazers,0.000
+7,Dayton Flyers,0.000
+7,Wofford Terriers,0.000
+7,North Florida Ospreys,0.000
+7,California-Irvine Anteaters,0.000
+7,Robert Morris Colonials,0.000
+7,Hampton Pirates,0.000
+7,Northeastern Huskies,0.000
 7,UCLA Bruins,0.000
 7,Valparaiso Crusaders,0.000
-7,Manhattan Jaspers,0.000
+7,Coastal Carolina Chanticleers,0.000
+7,Texas Southern Tigers,0.000
 7,Wyoming Cowboys,0.000
+7,North Dakota State Bison,0.000
 7,Georgia State Panthers,0.000
-7,Mississippi Rebels,0.000
+7,Stephen F. Austin Lumberjacks,0.000
+7,Lafayette Leopards,0.000
+7,Eastern Washington Eagles,0.000
+7,Buffalo Bulls,0.000
 7,Oregon Ducks,0.000
 7,Albany (NY) Great Danes,0.000
-7,California-Irvine Anteaters,0.000
-8,Kentucky Wildcats,0.418
+7,Harvard Crimson,0.000
+8,Kentucky Wildcats,0.420
 8,Virginia Cavaliers,0.133
 8,Wisconsin Badgers,0.114
 8,Arizona Wildcats,0.061
@@ -355,63 +341,61 @@ rd,name,p
 8,Duke Blue Devils,0.057
 8,Gonzaga Bulldogs,0.036
 8,Utah Utes,0.027
-8,Oklahoma Sooners,0.014
 8,North Carolina Tarheels,0.014
+8,Oklahoma Sooners,0.014
 8,Iowa State Cyclones,0.011
 8,Louisville Cardinals,0.009
 8,Baylor Bears,0.007
 8,Kansas Jayhawks,0.007
-8,Notre Dame Fighting Irish,0.006
 8,Ohio State Buckeyes,0.005
-8,Wichita State Shockers,0.004
+8,Notre Dame Fighting Irish,0.005
+8,Wichita State Shockers,0.003
 8,Texas Longhorns,0.003
 8,West Virginia Mountaineers,0.002
 8,Michigan State Spartans,0.002
-8,Northern Iowa Panthers,0.001
-8,Arkansas Razorbacks,0.001
-8,Iowa Hawkeyes,0.001
-8,Butler Bulldogs,0.001
-8,Southern Methodist Mustangs,0.001
 8,Georgetown Hoyas,0.001
+8,Xavier Musketeers,0.001
+8,Southern Methodist Mustangs,0.001
+8,Arkansas Razorbacks,0.001
+8,Butler Bulldogs,0.001
+8,Iowa Hawkeyes,0.001
+8,Northern Iowa Panthers,0.001
 8,Maryland Terrapins,0.001
 8,San Diego State Aztecs,0.001
-8,Xavier Musketeers,0.001
-8,Brigham Young Cougars,0.000
+8,Cincinnati Bearcats,0.000
+8,North Dakota State Bison,0.000
+8,Purdue Boilermakers,0.000
+8,Wyoming Cowboys,0.000
 8,Indiana Hoosiers,0.000
-8,Alabama-Birmingham Blazers,0.000
+8,Lafayette Leopards,0.000
 8,Mississippi Rebels,0.000
 8,Oklahoma State Cowboys,0.000
 8,Georgia State Panthers,0.000
 8,Dayton Flyers,0.000
+8,Coastal Carolina Chanticleers,0.000
 8,North Florida Ospreys,0.000
-8,Wofford Terriers,0.000
+8,Texas Southern Tigers,0.000
+8,Alabama-Birmingham Blazers,0.000
+8,Louisiana State Fighting Tigers,0.000
 8,North Carolina State Wolfpack,0.000
-8,California-Irvine Anteaters,0.000
+8,Wofford Terriers,0.000
+8,UCLA Bruins,0.000
 8,Valparaiso Crusaders,0.000
 8,St. John's (NY) Red Storm,0.000
 8,Georgia Bulldogs,0.000
+8,Harvard Crimson,0.000
 8,Buffalo Bulls,0.000
-8,Boise State Broncos,0.000
+8,California-Irvine Anteaters,0.000
 8,Eastern Washington Eagles,0.000
-8,North Dakota State Bison,0.000
-8,Purdue Boilermakers,0.000
+8,New Mexico State Aggies,0.000
+8,Virginia Commonwealth Rams,0.000
+8,Boise State Broncos,0.000
+8,Hampton Pirates,0.000
 8,Stephen F. Austin Lumberjacks,0.000
 8,Davidson Wildcats,0.000
-8,Virginia Commonwealth Rams,0.000
-8,Hampton Pirates,0.000
-8,Louisiana State Fighting Tigers,0.000
-8,New Mexico State Aggies,0.000
-8,UCLA Bruins,0.000
-8,Northeastern Huskies,0.000
-8,Robert Morris Colonials,0.000
-8,Lafayette Leopards,0.000
-8,Albany (NY) Great Danes,0.000
 8,Belmont Bruins,0.000
-8,Coastal Carolina Chanticleers,0.000
+8,Albany (NY) Great Danes,0.000
+8,Robert Morris Colonials,0.000
 8,Oregon Ducks,0.000
-8,Harvard Crimson,0.000
-8,Texas Southern Tigers,0.000
+8,Northeastern Huskies,0.000
 8,Providence Friars,0.000
-8,Cincinnati Bearcats,0.000
-8,Manhattan Jaspers,0.000
-8,Wyoming Cowboys,0.000
