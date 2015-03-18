@@ -3,7 +3,7 @@
 [1] 668974      8
 start par. =  1 1 1 fn =  -540915.9 
 At return
-eval:  52 fn:     -564423.48 par: 0.628441 0.923692  1.18234
+eval:  49 fn:     -564423.48 par: 0.628438 0.923698  1.18234
 Linear mixed model fit by maximum likelihood  ['lmerMod']
 Formula: log_ps ~ year + field + d_div + o_div + game_length + (1 | offense) +  
     (1 | defense) + (1 | game_id)
@@ -14,7 +14,7 @@ Random effects:
  Groups   Name        Std.Dev.
  game_id  (Intercept) 0.08016 
  defense  (Intercept) 0.11782 
- offense  (Intercept) 0.15081 
+ offense  (Intercept) 0.15080 
  Residual             0.12755 
 Number of obs: 668974, groups:  game_id, 334487; defense, 13652; offense, 13652
 Fixed Effects:
@@ -45,9 +45,9 @@ Scaled residuals:
 Random effects:
  Groups   Name        Variance Std.Dev.
  game_id  (Intercept) 0.006425 0.08016 
- defense  (Intercept) 0.013880 0.11782 
- offense  (Intercept) 0.022742 0.15081 
- Residual             0.016268 0.12755 
+ defense  (Intercept) 0.013881 0.11782 
+ offense  (Intercept) 0.022742 0.15080 
+ Residual             0.016269 0.12755 
 Number of obs: 668974, groups:  game_id, 334487; defense, 13652; offense, 13652
 
 Fixed effects:
@@ -63,35 +63,35 @@ year7              0.0045943  0.0057539     0.8
 year8              0.0010162  0.0056984     0.2
 year9              0.0010053  0.0056770     0.2
 year10            -0.0040896  0.0056602    -0.7
-year11            -0.0185409  0.0056593    -3.3
+year11            -0.0185409  0.0056594    -3.3
 year12            -0.0216467  0.0058049    -3.7
 fielddefense_home -0.0199569  0.0007731   -25.8
 fieldoffense_home  0.0336331  0.0007731    43.5
-d_div2             0.1724071  0.0036134    47.7
+d_div2             0.1724071  0.0036135    47.7
 d_div3             0.3152387  0.0040119    78.6
 o_div2            -0.1426683  0.0041827   -34.1
 o_div3            -0.3516095  0.0044400   -79.2
 game_length1 OT    0.1190519  0.0012024    99.0
 game_length2 OT    0.1940686  0.0030285    64.1
 game_length3 OT    0.3292066  0.0090367    36.4
-game_length4 OT    0.4119764  0.0207948    19.8
-game_length5 OT    0.4376967  0.0625516     7.0
+game_length4 OT    0.4119765  0.0207948    19.8
+game_length5 OT    0.4376967  0.0625515     7.0
 Analysis of Variance Table
             Df Sum Sq Mean Sq   F value
 year        12   0.65   0.054     3.331
-field        2 442.10 221.049 13587.529
-d_div        2  27.30  13.648   838.909
-o_div        2 104.17  52.083  3201.488
-game_length  5 251.14  50.227  3087.383
+field        2 442.10 221.049 13587.500
+d_div        2  27.30  13.648   838.893
+o_div        2 104.17  52.084  3201.496
+game_length  5 251.14  50.227  3087.390
 [1] TRUE
-[1] 9.855303e-12
-[1] 1.570408e-17
-[1] 3.08616e-10
+[1] 6.132811e-13
+[1] 1.160203e-17
+[1] 1.134529e-11
           0%           5%          10%          15%          20%          25% 
-1.348611e-28 5.684397e-23 1.273937e-21 6.988884e-21 3.792399e-20 1.304654e-19 
+8.827232e-30 2.094798e-23 5.768384e-22 6.066446e-21 3.259835e-20 9.575576e-20 
          30%          35%          40%          45%          50%          55% 
-3.892295e-19 1.081623e-18 3.111230e-18 6.754362e-18 1.570408e-17 3.593989e-17 
+2.951564e-19 8.159587e-19 2.099241e-18 5.329978e-18 1.160203e-17 2.859246e-17 
          60%          65%          70%          75%          80%          85% 
-6.765757e-17 1.456109e-16 3.723164e-16 8.509334e-16 2.016811e-15 5.669676e-15 
+5.912257e-17 1.094283e-16 2.210549e-16 5.487545e-16 1.207931e-15 3.496931e-15 
          90%          95%         100% 
-1.949975e-14 9.626874e-14 9.759355e-09 
+1.474372e-14 1.241755e-13 3.447455e-10 
