@@ -38,7 +38,7 @@ join ncaa_women._basic_factors i
   on (i.factor)=('(Intercept)')
 where
 not(g.game_date='')
-and g.game_date::date = current_date
+and g.game_date::date between current_date and current_date+6
 and g.location='Home'
 
 union
@@ -75,7 +75,7 @@ join ncaa_women._basic_factors i
   on (i.factor)=('(Intercept)')
 where
 not(g.game_date='')
-and g.game_date::date = current_date
+and g.game_date::date between current_date and current_date+6
 and g.location='Neutral'
 order by date,home asc;
 
@@ -117,7 +117,7 @@ join ncaa_women._basic_factors i
   on (i.factor)=('(Intercept)')
 where
 not(g.game_date='')
-and g.game_date::date = current_date
+and g.game_date::date between current_date and current_date+6
 and g.location='Home'
 
 union
@@ -154,10 +154,10 @@ join ncaa_women._basic_factors i
   on (i.factor)=('(Intercept)')
 where
 not(g.game_date='')
-and g.game_date::date = current_date
+and g.game_date::date between current_date and current_date+6
 and g.location='Neutral'
 order by date,home asc
 )
-to '/tmp/predict_daily.csv' csv header;
+to '/tmp/predict_weekly.csv' csv header;
 
 commit;

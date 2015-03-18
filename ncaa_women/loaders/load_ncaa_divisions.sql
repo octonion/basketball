@@ -16,19 +16,17 @@ create table ncaa_women.schools_divisions (
 
 copy ncaa_women.schools_divisions from '/tmp/ncaa_divisions.csv' with delimiter as ',' csv quote as '"';
 
--- Temporary fix for 2013
+-- Temporary fix for 2015
 
-/*
 insert into ncaa_women.schools_divisions
 (sport_code,school_name,school_id,pulled_name,javascript,year,div_id,school_year,sport,division)
 (
-select sport_code,school_name,school_id,pulled_name,javascript,2013,div_id,school_year,sport,division
+select sport_code,school_name,school_id,pulled_name,javascript,2015,div_id,school_year,sport,division
 from ncaa_women.schools_divisions
-where year=2012
-and (school_id,2013) not in
+where year=2014
+and (school_id,2015) not in
 (select school_id,year from ncaa_women.schools_divisions)
 );
-*/
 
 /*
 create table ncaa_women.schools_divisions (

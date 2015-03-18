@@ -18965,8 +18965,8 @@ WBB,Omaha,464,Omaha,"javascript:showTeamPage(-100, 2008, 'WBB', 2, 464);",2008,2
 WBB,Omaha,464,Omaha,"javascript:showTeamPage(-100, 2009, 'WBB', 2, 464);",2009,2,2008-09,Women's Basketball,II
 WBB,Omaha,464,Omaha,"javascript:showTeamPage(-100, 2010, 'WBB', 2, 464);",2010,2,2009-10,Women's Basketball,II
 WBB,Omaha,464,Omaha,"javascript:showTeamPage(-100, 2011, 'WBB', 2, 464);",2011,2,2010-11,Women's Basketball,II
-WBB,Omaha,464,Omaha,"javascript:showTeamPage(-100, 2012, 'WBB', 2, 464);",2012,2,2011-12,Women's Basketball,II
-WBB,Omaha,464,Omaha,"javascript:showTeamPage(-100, 2013, 'WBB', 2, 464);",2013,2,2012-13,Women's Basketball,II
+WBB,Omaha,464,Omaha,"javascript:showTeamPage(-100, 2012, 'WBB', 1, 464);",2012,1,2011-12,Women's Basketball,I
+WBB,Omaha,464,Omaha,"javascript:showTeamPage(-100, 2013, 'WBB', 1, 464);",2013,1,2012-13,Women's Basketball,I
 WBB,Omaha,464,Omaha,"javascript:showTeamPage(-100, 2014, 'WBB', 2, 464);",2014,2,2013-14,Women's Basketball,II
 WBB,Omaha,464,Omaha,"javascript:showTeamPage(-100, 2015, 'WBB', 1, 464);",2015,1,2014-15,Women's Basketball,I
 WBB,Oral Roberts,527,Oral Roberts,"javascript:showTeamPage(-100, 1982, 'WBB', 1, 527);",1982,1,1981-82,Women's Basketball,I
@@ -20721,40 +20721,6 @@ WBB,Rice,574,Rice,"javascript:showTeamPage(-100, 2012, 'WBB', 1, 574);",2012,1,2
 WBB,Rice,574,Rice,"javascript:showTeamPage(-100, 2013, 'WBB', 1, 574);",2013,1,2012-13,Women's Basketball,I
 WBB,Rice,574,Rice,"javascript:showTeamPage(-100, 2014, 'WBB', 1, 574);",2014,1,2013-14,Women's Basketball,I
 WBB,Rice,574,Rice,"javascript:showTeamPage(-100, 2015, 'WBB', 1, 574);",2015,1,2014-15,Women's Basketball,I
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 1982, 'WBB', 3, 681);",1982,3,1981-82,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 1983, 'WBB', 3, 681);",1983,3,1982-83,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 1984, 'WBB', 3, 681);",1984,3,1983-84,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 1985, 'WBB', 3, 681);",1985,3,1984-85,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 1986, 'WBB', 3, 681);",1986,3,1985-86,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 1987, 'WBB', 3, 681);",1987,3,1986-87,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 1988, 'WBB', 3, 681);",1988,3,1987-88,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 1989, 'WBB', 3, 681);",1989,3,1988-89,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 1990, 'WBB', 3, 681);",1990,3,1989-90,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 1991, 'WBB', 3, 681);",1991,3,1990-91,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 1992, 'WBB', 3, 681);",1992,3,1991-92,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 1993, 'WBB', 3, 681);",1993,3,1992-93,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 1994, 'WBB', 3, 681);",1994,3,1993-94,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 1995, 'WBB', 3, 681);",1995,3,1994-95,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 1996, 'WBB', 3, 681);",1996,3,1995-96,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 1997, 'WBB', 3, 681);",1997,3,1996-97,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 1998, 'WBB', 3, 681);",1998,3,1997-98,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 1999, 'WBB', 3, 681);",1999,3,1998-99,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 2000, 'WBB', 3, 681);",2000,3,1999-00,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 2001, 'WBB', 3, 681);",2001,3,2000-01,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 2002, 'WBB', 3, 681);",2002,3,2001-02,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 2003, 'WBB', 3, 681);",2003,3,2002-03,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 2004, 'WBB', 3, 681);",2004,3,2003-04,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 2005, 'WBB', 3, 681);",2005,3,2004-05,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 2006, 'WBB', 3, 681);",2006,3,2005-06,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 2007, 'WBB', 3, 681);",2007,3,2006-07,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 2008, 'WBB', 3, 681);",2008,3,2007-08,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 2009, 'WBB', 3, 681);",2009,3,2008-09,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 2010, 'WBB', 3, 681);",2010,3,2009-10,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 2011, 'WBB', 3, 681);",2011,3,2010-11,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 2012, 'WBB', 3, 681);",2012,3,2011-12,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 2013, 'WBB', 3, 681);",2013,3,2012-13,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 2014, 'WBB', 3, 681);",2014,3,2013-14,Women's Basketball,III
-WBB,Richard Stockton,681,Richard Stockton,"javascript:showTeamPage(-100, 2015, 'WBB', 3, 681);",2015,3,2014-15,Women's Basketball,III
 WBB,Richmond,575,Richmond,"javascript:showTeamPage(-100, 1982, 'WBB', 1, 575);",1982,1,1981-82,Women's Basketball,I
 WBB,Richmond,575,Richmond,"javascript:showTeamPage(-100, 1983, 'WBB', 1, 575);",1983,1,1982-83,Women's Basketball,I
 WBB,Richmond,575,Richmond,"javascript:showTeamPage(-100, 1984, 'WBB', 1, 575);",1984,1,1983-84,Women's Basketball,I
@@ -24555,6 +24521,40 @@ WBB,Stillman,680,Stillman,"javascript:showTeamPage(-100, 2012, 'WBB', 2, 680);",
 WBB,Stillman,680,Stillman,"javascript:showTeamPage(-100, 2013, 'WBB', 2, 680);",2013,2,2012-13,Women's Basketball,II
 WBB,Stillman,680,Stillman,"javascript:showTeamPage(-100, 2014, 'WBB', 2, 680);",2014,2,2013-14,Women's Basketball,II
 WBB,Stillman,680,Stillman,"javascript:showTeamPage(-100, 2015, 'WBB', 2, 680);",2015,2,2014-15,Women's Basketball,II
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 1982, 'WBB', 3, 681);",1982,3,1981-82,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 1983, 'WBB', 3, 681);",1983,3,1982-83,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 1984, 'WBB', 3, 681);",1984,3,1983-84,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 1985, 'WBB', 3, 681);",1985,3,1984-85,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 1986, 'WBB', 3, 681);",1986,3,1985-86,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 1987, 'WBB', 3, 681);",1987,3,1986-87,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 1988, 'WBB', 3, 681);",1988,3,1987-88,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 1989, 'WBB', 3, 681);",1989,3,1988-89,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 1990, 'WBB', 3, 681);",1990,3,1989-90,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 1991, 'WBB', 3, 681);",1991,3,1990-91,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 1992, 'WBB', 3, 681);",1992,3,1991-92,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 1993, 'WBB', 3, 681);",1993,3,1992-93,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 1994, 'WBB', 3, 681);",1994,3,1993-94,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 1995, 'WBB', 3, 681);",1995,3,1994-95,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 1996, 'WBB', 3, 681);",1996,3,1995-96,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 1997, 'WBB', 3, 681);",1997,3,1996-97,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 1998, 'WBB', 3, 681);",1998,3,1997-98,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 1999, 'WBB', 3, 681);",1999,3,1998-99,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 2000, 'WBB', 3, 681);",2000,3,1999-00,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 2001, 'WBB', 3, 681);",2001,3,2000-01,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 2002, 'WBB', 3, 681);",2002,3,2001-02,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 2003, 'WBB', 3, 681);",2003,3,2002-03,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 2004, 'WBB', 3, 681);",2004,3,2003-04,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 2005, 'WBB', 3, 681);",2005,3,2004-05,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 2006, 'WBB', 3, 681);",2006,3,2005-06,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 2007, 'WBB', 3, 681);",2007,3,2006-07,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 2008, 'WBB', 3, 681);",2008,3,2007-08,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 2009, 'WBB', 3, 681);",2009,3,2008-09,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 2010, 'WBB', 3, 681);",2010,3,2009-10,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 2011, 'WBB', 3, 681);",2011,3,2010-11,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 2012, 'WBB', 3, 681);",2012,3,2011-12,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 2013, 'WBB', 3, 681);",2013,3,2012-13,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 2014, 'WBB', 3, 681);",2014,3,2013-14,Women's Basketball,III
+WBB,Stockton,681,Stockton,"javascript:showTeamPage(-100, 2015, 'WBB', 3, 681);",2015,3,2014-15,Women's Basketball,III
 WBB,Stonehill,682,Stonehill,"javascript:showTeamPage(-100, 1982, 'WBB', 2, 682);",1982,2,1981-82,Women's Basketball,II
 WBB,Stonehill,682,Stonehill,"javascript:showTeamPage(-100, 1983, 'WBB', 2, 682);",1983,2,1982-83,Women's Basketball,II
 WBB,Stonehill,682,Stonehill,"javascript:showTeamPage(-100, 1984, 'WBB', 2, 682);",1984,2,1983-84,Women's Basketball,II

@@ -1,0 +1,101 @@
+date,site,home,div,score,away,div,score
+2015-03-18,home,Arkansas St.,1,64.9,Western Mich.,1,59.5
+2015-03-18,home,East Carolina,1,73.2,Radford,1,46.2
+2015-03-18,home,Michigan,1,81.3,Cleveland St.,1,60.0
+2015-03-18,home,New Mexico,1,64.3,North Dakota,1,58.2
+2015-03-18,home,Ole Miss,1,70.1,UT Martin,1,62.4
+2015-03-18,home,Texas St.,1,58.4,Oral Roberts,1,58.7
+2015-03-18,home,Washington St.,1,73.9,Eastern Wash.,1,61.5
+2015-03-19,home,Colorado St.,1,58.4,Northern Colo.,1,53.8
+2015-03-19,home,Drexel,1,54.5,Hampton,1,51.5
+2015-03-19,home,East Tenn. St.,1,60.4,North Carolina St.,1,67.5
+2015-03-19,home,Fordham,1,59.4,Central Conn. St.,1,46.9
+2015-03-19,home,Fresno St.,1,61.6,San Francisco,1,57.3
+2015-03-19,home,Georgia Tech,1,77.9,Elon,1,63.1
+2015-03-19,home,Kansas St.,1,66.9,Akron,1,58.7
+2015-03-19,home,La.-Lafayette,1,61.6,Tex.-Pan American,1,53.4
+2015-03-19,home,Marist,1,62.3,Temple,1,64.7
+2015-03-19,home,McNeese St.,1,65.0,Furman,1,70.4
+2015-03-19,home,Mercer,1,77.2,Troy,1,73.5
+2015-03-19,home,Middle Tenn.,1,66.7,Ball St.,1,55.3
+2015-03-19,home,Northern Ky.,1,58.7,Marshall,1,56.2
+2015-03-19,home,Old Dominion,1,60.2,Virginia,1,62.8
+2015-03-19,home,Pacific,1,86.6,Sacramento St.,1,80.0
+2015-03-19,home,Penn,1,56.1,Hofstra,1,49.2
+2015-03-19,home,San Diego,1,62.7,Long Beach St.,1,58.4
+2015-03-19,home,Siena,1,56.5,Stony Brook,1,55.0
+2015-03-19,home,South Dakota,1,72.6,Creighton,1,73.9
+2015-03-19,home,Southern Miss.,1,64.8,Texas Southern,1,56.7
+2015-03-19,home,St. John's (NY),1,55.7,Army,1,47.8
+2015-03-19,home,TCU,1,77.3,Stephen F. Austin,1,62.0
+2015-03-19,home,UCLA,1,81.3,Bakersfield,1,62.3
+2015-03-19,home,UNI,1,56.5,Missouri,1,59.8
+2015-03-19,home,West Virginia,1,67.2,Buffalo,1,53.5
+2015-03-19,home,Xavier,1,62.1,William & Mary,1,57.8
+2015-03-19,home,Youngstown St.,1,64.5,Duquesne,1,67.3
+2015-03-20,neutral,Arkansas,1,55.2,Northwestern,1,58.8
+2015-03-20,home,Baylor,1,88.3,Northwestern St.,1,46.1
+2015-03-20,home,California,1,58.6,Wichita St.,1,53.2
+2015-03-20,neutral,Dayton,1,71.6,Iowa St.,1,67.5
+2015-03-20,neutral,DePaul,1,86.6,Minnesota,1,78.0
+2015-03-20,home,Drake,1,74.6,Eastern Mich.,1,69.7
+2015-03-20,home,Duke,1,67.7,Albany (NY),1,52.7
+2015-03-20,neutral,George Fox,3,63.0,Montclair St.,3,53.5
+2015-03-20,neutral,George Washington,1,66.5,Gonzaga,1,60.3
+2015-03-20,neutral,Gonzaga,1,60.3,George Washington,1,66.5
+2015-03-20,home,Iowa,1,76.6,American,1,60.3
+2015-03-20,neutral,Iowa St.,1,67.5,Dayton,1,71.6
+2015-03-20,home,Kentucky,1,85.2,Tennessee St.,1,57.8
+2015-03-20,neutral,Miami (FL),1,66.6,Washington,1,67.6
+2015-03-20,neutral,Minnesota,1,78.0,DePaul,1,86.6
+2015-03-20,neutral,Mississippi St.,1,63.6,Tulane,1,56.6
+2015-03-20,home,Missouri St.,1,69.9,Tulsa,1,69.4
+2015-03-20,neutral,Montclair St.,3,53.5,George Fox,3,63.0
+2015-03-20,neutral,Nebraska,1,59.0,Syracuse,1,61.2
+2015-03-20,neutral,Northwestern,1,58.8,Arkansas,1,55.2
+2015-03-20,home,Notre Dame,1,78.0,Montana,1,48.8
+2015-03-20,home,Oregon St.,1,71.2,South Dakota St.,1,55.5
+2015-03-20,home,South Carolina,1,84.2,Savannah St.,1,44.0
+2015-03-20,home,Stetson,1,64.7,Richmond,1,58.1
+2015-03-20,home,St. Mary's (CA),1,58.4,Hawaii,1,58.6
+2015-03-20,neutral,Syracuse,1,61.2,Nebraska,1,59.0
+2015-03-20,neutral,Texas,1,67.7,Western Ky.,1,61.0
+2015-03-20,neutral,Thomas More,3,59.4,Tufts,3,56.7
+2015-03-20,home,Toledo,1,66.7,Wright St.,1,68.9
+2015-03-20,neutral,Tufts,3,56.7,Thomas More,3,59.4
+2015-03-20,neutral,Tulane,1,56.6,Mississippi St.,1,63.6
+2015-03-20,home,Villanova,1,54.7,Maine,1,44.7
+2015-03-20,neutral,Washington,1,67.6,Miami (FL),1,66.6
+2015-03-20,neutral,Western Ky.,1,61.0,Texas,1,67.7
+2015-03-21,home,Arizona St.,1,64.7,Ohio,1,53.5
+2015-03-21,neutral,BYU,1,55.3,Louisville,1,73.9
+2015-03-21,neutral,Chattanooga,1,51.8,Pittsburgh,1,51.7
+2015-03-21,neutral,FGCU,1,56.5,Oklahoma St.,1,54.2
+2015-03-21,home,Florida St.,1,84.1,Alabama St.,1,44.6
+2015-03-21,neutral,Green Bay,1,54.5,Princeton,1,60.7
+2015-03-21,neutral,James Madison,1,74.7,Ohio St.,1,77.3
+2015-03-21,neutral,Louisville,1,73.9,BYU,1,55.3
+2015-03-21,home,Maryland,1,90.6,New Mexico St.,1,52.9
+2015-03-21,home,North Carolina,1,76.2,Liberty,1,55.3
+2015-03-21,neutral,Ohio St.,1,77.3,James Madison,1,74.7
+2015-03-21,neutral,Oklahoma,1,80.7,Quinnipiac,1,73.7
+2015-03-21,neutral,Oklahoma St.,1,54.2,FGCU,1,56.5
+2015-03-21,neutral,Pittsburgh,1,51.7,Chattanooga,1,51.8
+2015-03-21,neutral,Princeton,1,60.7,Green Bay,1,54.5
+2015-03-21,neutral,Quinnipiac,1,73.7,Oklahoma,1,80.7
+2015-03-21,neutral,Rutgers,1,69.9,Seton Hall,1,63.1
+2015-03-21,neutral,Seton Hall,1,63.1,Rutgers,1,69.9
+2015-03-21,home,South Fla.,1,67.8,LSU,1,55.7
+2015-03-21,home,Stanford,1,67.1,CSUN,1,53.4
+2015-03-21,home,Tennessee,1,78.7,Boise St.,1,50.9
+2015-03-21,neutral,Texas A&M,1,56.2,UALR,1,53.0
+2015-03-21,neutral,UALR,1,53.0,Texas A&M,1,56.2
+2015-03-21,home,UConn,1,95.3,St. Francis Brooklyn,1,36.3
+2015-03-24,neutral,California Baptist,2,70.2,New Haven,2,73.3
+2015-03-24,neutral,California (PA),2,65.2,Nova Southeastern,2,63.0
+2015-03-24,neutral,Emporia St.,2,71.4,West Tex. A&M,2,59.2
+2015-03-24,neutral,Lewis,2,72.0,Limestone,2,67.6
+2015-03-24,neutral,Limestone,2,67.6,Lewis,2,72.0
+2015-03-24,neutral,New Haven,2,73.3,California Baptist,2,70.2
+2015-03-24,neutral,Nova Southeastern,2,63.0,California (PA),2,65.2
+2015-03-24,neutral,West Tex. A&M,2,59.2,Emporia St.,2,71.4
