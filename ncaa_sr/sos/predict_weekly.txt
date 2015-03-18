@@ -29,6 +29,7 @@ SET
  2015-03-20 | NCAA | neutral | Georgia Bulldogs                | 1.18 |  60.8 | Michigan State Spartans            | 1.27 |  65.0 | 0.34
  2015-03-20 | NCAA | neutral | Gonzaga Bulldogs                | 1.35 |  72.0 | North Dakota State Bison           | 1.00 |  53.3 | 0.96
  2015-03-18 | CIT  | home    | Grand Canyon Antelopes          | 0.96 |  68.3 | Northern Arizona Lumberjacks       | 0.97 |  68.7 | 0.49
+ 2015-03-19 | NCAA | neutral | Hampton Pirates                 | 0.90 |  47.8 | Kentucky Wildcats                  | 1.54 |  81.2 | 0.00
  2015-03-17 | NCAA | neutral | Hampton Pirates                 | 0.90 |  64.6 | Manhattan Jaspers                  | 1.00 |  71.5 | 0.26
  2015-03-19 | NCAA | neutral | Harvard Crimson                 | 1.08 |  58.1 | North Carolina Tar Heels           | 1.32 |  71.0 | 0.11
  2015-03-18 | CIT  | home    | High Point Panthers             | 1.05 |  70.7 | Maryland-Eastern Shore Hawks       | 0.94 |  63.5 | 0.75
@@ -73,7 +74,7 @@ SET
  2015-03-17 | NIT  | home    | Texas A&M Aggies                | 1.22 |  69.3 | Montana Grizzlies                  | 1.00 |  56.9 | 0.88
  2015-03-17 | NIT  | home    | Tulsa Golden Hurricane          | 1.18 |  68.0 | William & Mary Tribe               | 1.06 |  61.2 | 0.75
  2015-03-18 | CIT  | home    | Western Michigan Broncos        | 1.08 |  65.9 | Cleveland State Vikings            | 1.05 |  64.4 | 0.56
-(71 rows)
+(72 rows)
 
-COPY 71
+COPY 72
 COMMIT
