@@ -34,4 +34,14 @@ from r
 order by rk asc
 limit 100;
 
+copy
+(
+select
+rk,team,year,str,ofs,dfs,sos
+from r
+order by rk asc
+limit 100
+)
+to '/tmp/total_ranking.csv' csv header;
+
 commit;

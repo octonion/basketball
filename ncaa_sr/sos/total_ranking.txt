@@ -105,4 +105,5 @@ INSERT 0 11109
  100 | Arizona Wildcats          | 1998 | 1.345 | 1.318 | 0.980 | 1.051
 (100 rows)
 
+COPY 100
 COMMIT
