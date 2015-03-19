@@ -40,7 +40,6 @@ year,round_id,school_id,school_name,bracket,p
 2015,1,louisville,Louisville Cardinals,"{41,39,20,10,5,3,2,1}",1.0
 2015,1,california-irvine,California-Irvine Anteaters,"{42,40,20,10,5,3,2,1}",1.0
 2015,1,providence,Providence Friars,"{43,41,21,11,6,3,2,1}",1.0
-2015,1,boise-state,Boise State Broncos,"{44,42,21,11,6,3,2,1}",1.0
 2015,1,dayton,Dayton Flyers,"{45,42,21,11,6,3,2,1}",1.0
 2015,1,oklahoma,Oklahoma Sooners,"{46,43,22,11,6,3,2,1}",1.0
 2015,1,albany-ny,Albany (NY) Great Danes,"{47,44,22,11,6,3,2,1}",1.0
@@ -49,7 +48,6 @@ year,round_id,school_id,school_name,bracket,p
 2015,1,virginia,Virginia Cavaliers,"{50,47,24,12,6,3,2,1}",1.0
 2015,1,belmont,Belmont Bruins,"{51,48,24,12,6,3,2,1}",1.0
 2015,1,duke,Duke Blue Devils,"{52,49,25,13,7,4,2,1}",1.0
-2015,1,north-florida,North Florida Ospreys,"{53,50,25,13,7,4,2,1}",1.0
 2015,1,robert-morris,Robert Morris Colonials,"{54,50,25,13,7,4,2,1}",1.0
 2015,1,san-diego-state,San Diego State Aztecs,"{55,51,26,13,7,4,2,1}",1.0
 2015,1,st-johns-ny,St. John's (NY) Red Storm,"{56,52,26,13,7,4,2,1}",1.0

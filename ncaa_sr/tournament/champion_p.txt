@@ -1,73 +1,71 @@
 BEGIN
            school_name           |       p       
 ---------------------------------+---------------
- Kentucky Wildcats               | 0.42592678633
- Virginia Cavaliers              | 0.13189477784
- Wisconsin Badgers               | 0.11155825517
- Arizona Wildcats                | 0.06022854143
- Villanova Wildcats              | 0.05786223516
- Duke Blue Devils                | 0.05622063589
- Gonzaga Bulldogs                | 0.03599213459
- Utah Utes                       | 0.02708551661
- Oklahoma Sooners                | 0.01444414050
- North Carolina Tarheels         | 0.01389633055
- Iowa State Cyclones             | 0.01096366244
- Louisville Cardinals            | 0.00843339006
- Kansas Jayhawks                 | 0.00692961541
- Baylor Bears                    | 0.00692281166
- Notre Dame Fighting Irish       | 0.00532695270
- Ohio State Buckeyes             | 0.00438647352
- Wichita State Shockers          | 0.00352351925
- Texas Longhorns                 | 0.00304264991
- Michigan State Spartans         | 0.00217332027
- West Virginia Mountaineers      | 0.00177006098
- Georgetown Hoyas                | 0.00149261545
- Butler Bulldogs                 | 0.00143599537
- Northern Iowa Panthers          | 0.00142079983
- Iowa Hawkeyes                   | 0.00129549066
- Xavier Musketeers               | 0.00075755116
- Southern Methodist Mustangs     | 0.00063452772
- Arkansas Razorbacks             | 0.00058573332
- San Diego State Aztecs          | 0.00057462089
- Maryland Terrapins              | 0.00052928459
- Providence Friars               | 0.00039461711
- North Carolina State Wolfpack   | 0.00037164573
- Purdue Boilermakers             | 0.00030572961
- Oklahoma State Cowboys          | 0.00030339393
- Davidson Wildcats               | 0.00027530853
- St. John's (NY) Red Storm       | 0.00014119526
- Georgia Bulldogs                | 0.00012307655
- Mississippi Rebels              | 0.00011577184
- Virginia Commonwealth Rams      | 0.00010884160
- Indiana Hoosiers                | 0.00009522256
- Cincinnati Bearcats             | 0.00009079102
- Boise State Broncos             | 0.00008424836
- Louisiana State Fighting Tigers | 0.00007329541
- UCLA Bruins                     | 0.00004310540
- Stephen F. Austin Lumberjacks   | 0.00004067005
- Buffalo Bulls                   | 0.00003492489
- Dayton Flyers                   | 0.00003396069
- Oregon Ducks                    | 0.00002508370
- Valparaiso Crusaders            | 0.00001186767
- Georgia State Panthers          | 0.00000877967
- New Mexico State Aggies         | 0.00000245146
- Harvard Crimson                 | 0.00000206216
- Wyoming Cowboys                 | 0.00000194400
- California-Irvine Anteaters     | 0.00000145238
- Wofford Terriers                | 0.00000116871
- Northeastern Huskies            | 0.00000032037
- Alabama-Birmingham Blazers      | 0.00000019663
- Eastern Washington Eagles       | 0.00000013885
- Albany (NY) Great Danes         | 0.00000009488
- Coastal Carolina Chanticleers   | 0.00000007123
- North Florida Ospreys           | 0.00000005437
- Belmont Bruins                  | 0.00000004393
- North Dakota State Bison        | 0.00000003107
- Lafayette Leopards              | 0.00000000810
- Robert Morris Colonials         | 0.00000000228
+ Kentucky Wildcats               | 0.42587582996
+ Virginia Cavaliers              | 0.13179294116
+ Wisconsin Badgers               | 0.11153230694
+ Arizona Wildcats                | 0.06021129728
+ Villanova Wildcats              | 0.05778325087
+ Duke Blue Devils                | 0.05680930110
+ Gonzaga Bulldogs                | 0.03590271676
+ Utah Utes                       | 0.02691986605
+ Oklahoma Sooners                | 0.01454497440
+ North Carolina Tarheels         | 0.01389028648
+ Iowa State Cyclones             | 0.01092761827
+ Louisville Cardinals            | 0.00841634068
+ Kansas Jayhawks                 | 0.00692601381
+ Baylor Bears                    | 0.00691936002
+ Notre Dame Fighting Irish       | 0.00532404020
+ Ohio State Buckeyes             | 0.00438427842
+ Wichita State Shockers          | 0.00352152527
+ Texas Longhorns                 | 0.00304095068
+ Michigan State Spartans         | 0.00217203066
+ West Virginia Mountaineers      | 0.00176890361
+ Georgetown Hoyas                | 0.00147600466
+ Butler Bulldogs                 | 0.00143510358
+ Northern Iowa Panthers          | 0.00141725685
+ Iowa Hawkeyes                   | 0.00129003246
+ Xavier Musketeers               | 0.00075703546
+ Southern Methodist Mustangs     | 0.00063151204
+ Arkansas Razorbacks             | 0.00058530948
+ San Diego State Aztecs          | 0.00056081341
+ Maryland Terrapins              | 0.00052888267
+ Providence Friars               | 0.00040977457
+ North Carolina State Wolfpack   | 0.00037064398
+ Purdue Boilermakers             | 0.00030549541
+ Oklahoma State Cowboys          | 0.00030316526
+ Davidson Wildcats               | 0.00027394357
+ St. John's (NY) Red Storm       | 0.00013709247
+ Georgia Bulldogs                | 0.00012314660
+ Mississippi Rebels              | 0.00011567753
+ Virginia Commonwealth Rams      | 0.00010875639
+ Indiana Hoosiers                | 0.00009514268
+ Cincinnati Bearcats             | 0.00009071412
+ Dayton Flyers                   | 0.00007414763
+ Louisiana State Fighting Tigers | 0.00007308318
+ UCLA Bruins                     | 0.00004284955
+ Stephen F. Austin Lumberjacks   | 0.00004003153
+ Buffalo Bulls                   | 0.00003489255
+ Oregon Ducks                    | 0.00002506080
+ Valparaiso Crusaders            | 0.00001185595
+ Georgia State Panthers          | 0.00000877119
+ New Mexico State Aggies         | 0.00000244892
+ Harvard Crimson                 | 0.00000206002
+ Wyoming Cowboys                 | 0.00000193810
+ California-Irvine Anteaters     | 0.00000144797
+ Wofford Terriers                | 0.00000116747
+ Northeastern Huskies            | 0.00000032002
+ Alabama-Birmingham Blazers      | 0.00000019511
+ Eastern Washington Eagles       | 0.00000013568
+ Albany (NY) Great Danes         | 0.00000009758
+ Coastal Carolina Chanticleers   | 0.00000007115
+ Belmont Bruins                  | 0.00000004418
+ North Dakota State Bison        | 0.00000003082
+ Lafayette Leopards              | 0.00000000808
+ Robert Morris Colonials         | 0.00000000598
  Texas Southern Tigers           | 0.00000000055
  Hampton Pirates                 | 0.00000000018
-(66 rows)
+(64 rows)
 
-COPY 66
+COPY 64
 COMMIT

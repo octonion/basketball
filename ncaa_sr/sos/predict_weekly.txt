@@ -1,64 +1,39 @@
 BEGIN
 SET
-    date    | type |  site   |              home               | str  | score |                away                | str  | score | pwin 
-------------+------+---------+---------------------------------+------+-------+------------------------------------+------+-------+------
- 2015-03-19 | NCAA | neutral | Alabama-Birmingham Blazers      | 1.03 |  63.5 | Iowa State Cyclones                | 1.29 |  79.9 | 0.09
- 2015-03-20 | NCAA | neutral | Albany (NY) Great Danes         | 1.02 |  54.5 | Oklahoma Sooners                   | 1.31 |  70.1 | 0.07
- 2015-03-19 | NCAA | neutral | Arizona Wildcats                | 1.40 |  78.7 | Texas Southern Tigers              | 0.94 |  53.1 | 0.98
- 2015-03-19 | NCAA | neutral | Arkansas Razorbacks             | 1.21 |  69.4 | Wofford Terriers                   | 1.07 |  61.2 | 0.78
- 2015-03-19 | NCAA | neutral | Baylor Bears                    | 1.29 |  65.7 | Georgia State Panthers             | 1.12 |  56.7 | 0.82
- 2015-03-20 | NCAA | neutral | Belmont Bruins                  | 1.01 |  50.0 | Virginia Cavaliers                 | 1.44 |  70.8 | 0.03
- 2015-03-18 | NCAA | neutral | Boise State Broncos             | 1.18 |  61.9 | Dayton Flyers                      | 1.16 |  60.9 | 0.54
- 2015-03-20 | NCAA | neutral | Buffalo Bulls                   | 1.13 |  69.8 | West Virginia Mountaineers         | 1.24 |  76.1 | 0.29
- 2015-03-19 | NCAA | neutral | Butler Bulldogs                 | 1.25 |  58.1 | Texas Longhorns                    | 1.27 |  59.2 | 0.45
- 2015-03-20 | NCAA | neutral | California-Irvine Anteaters     | 1.07 |  54.6 | Louisville Cardinals               | 1.29 |  65.9 | 0.13
- 2015-03-18 | CIT  | home    | Canisius Golden Griffins        | 1.06 |  61.8 | Dartmouth Big Green                | 0.99 |  57.9 | 0.66
- 2015-03-19 | NCAA | neutral | Cincinnati Bearcats             | 1.16 |  56.6 | Purdue Boilermakers                | 1.19 |  58.1 | 0.43
- 2015-03-20 | NCAA | neutral | Coastal Carolina Chanticleers   | 1.02 |  51.6 | Wisconsin Badgers                  | 1.43 |  72.6 | 0.03
- 2015-03-18 | CBI  | home    | Colorado Buffaloes              | 1.14 |  78.6 | Gardner-Webb Runnin' Bulldogs      | 0.95 |  65.4 | 0.87
- 2015-03-18 | NIT  | home    | Colorado State Rams             | 1.20 |  74.3 | South Dakota State Jackrabbits     | 1.08 |  66.7 | 0.75
- 2015-03-18 | NIT  | home    | Connecticut Huskies             | 1.19 |  65.6 | Arizona State Sun Devils           | 1.13 |  61.9 | 0.65
- 2015-03-20 | NCAA | neutral | Davidson Wildcats               | 1.19 |  68.9 | Iowa Hawkeyes                      | 1.24 |  71.3 | 0.41
- 2015-03-18 | CBI  | home    | Delaware State Hornets          | 0.95 |  70.6 | Radford Highlanders                | 0.96 |  71.3 | 0.47
- 2015-03-19 | NCAA | neutral | Eastern Washington Eagles       | 1.02 |  65.6 | Georgetown Hoyas                   | 1.23 |  78.7 | 0.13
- 2015-03-18 | CIT  | home    | Evansville Purple Aces          | 1.09 |  72.6 | IPFW Mastodons                     | 0.97 |  64.3 | 0.78
- 2015-03-18 | CIT  | home    | Florida Gulf Coast Eagles       | 1.05 |  64.5 | Texas A&M-Corpus Christi Islanders | 0.95 |  58.4 | 0.74
- 2015-03-20 | NCAA | neutral | Georgia Bulldogs                | 1.19 |  60.8 | Michigan State Spartans            | 1.26 |  64.9 | 0.34
- 2015-03-20 | NCAA | neutral | Gonzaga Bulldogs                | 1.35 |  72.0 | North Dakota State Bison           | 1.00 |  53.3 | 0.96
- 2015-03-18 | CIT  | home    | Grand Canyon Antelopes          | 0.96 |  68.2 | Northern Arizona Lumberjacks       | 0.97 |  68.6 | 0.49
- 2015-03-19 | NCAA | neutral | Hampton Pirates                 | 0.91 |  48.0 | Kentucky Wildcats                  | 1.54 |  80.9 | 0.00
- 2015-03-19 | NCAA | neutral | Harvard Crimson                 | 1.08 |  58.1 | North Carolina Tar Heels           | 1.32 |  71.0 | 0.11
- 2015-03-18 | CIT  | home    | High Point Panthers             | 1.05 |  70.7 | Maryland-Eastern Shore Hawks       | 0.94 |  63.5 | 0.75
- 2015-03-18 | CBI  | home    | Hofstra Pride                   | 1.14 |  71.5 | Vermont Catamounts                 | 1.06 |  66.0 | 0.69
- 2015-03-18 | NIT  | home    | Illinois State Redbirds         | 1.19 |  65.7 | Green Bay Phoenix                  | 1.11 |  61.2 | 0.67
- 2015-03-20 | NCAA | neutral | Indiana Hoosiers                | 1.17 |  65.9 | Wichita State Shockers             | 1.27 |  71.6 | 0.30
- 2015-03-20 | NCAA | neutral | Kansas Jayhawks                 | 1.29 |  70.6 | New Mexico State Aggies            | 1.08 |  59.4 | 0.85
- 2015-03-19 | NCAA | neutral | Lafayette Leopards              | 0.97 |  60.2 | Villanova Wildcats                 | 1.37 |  84.9 | 0.03
- 2015-03-18 | CBI  | home    | Louisiana-Monroe Warhawks       | 1.03 |  57.6 | Eastern Michigan Eagles            | 1.04 |  58.2 | 0.47
- 2015-03-19 | NCAA | neutral | Louisiana State Fighting Tigers | 1.16 |  68.2 | North Carolina State Wolfpack      | 1.20 |  70.6 | 0.41
- 2015-03-20 | NCAA | neutral | Maryland Terrapins              | 1.20 |  63.0 | Valparaiso Crusaders               | 1.11 |  58.3 | 0.69
- 2015-03-18 | CBI  | home    | Mercer Bears                    | 1.04 |  60.2 | Stony Brook Seawolves              | 1.04 |  59.9 | 0.51
- 2015-03-18 | CIT  | home    | Middle Tennessee Blue Raiders   | 1.07 |  59.4 | Kent State Golden Flashes          | 1.05 |  58.1 | 0.56
- 2015-03-19 | NCAA | neutral | Mississippi Rebels              | 1.18 |  69.3 | Xavier Musketeers                  | 1.23 |  72.2 | 0.40
- 2015-03-19 | NCAA | neutral | Northeastern Huskies            | 1.04 |  62.3 | Notre Dame Fighting Irish          | 1.28 |  76.2 | 0.11
- 2015-03-20 | NCAA | neutral | Northern Iowa Panthers          | 1.23 |  56.1 | Wyoming Cowboys                    | 1.07 |  49.0 | 0.80
- 2015-03-18 | NCAA | neutral | North Florida Ospreys           | 1.02 |  70.6 | Robert Morris Colonials            | 0.97 |  67.3 | 0.62
- 2015-03-19 | CIT  | home    | Northwestern State Demons       | 1.02 |  82.3 | Tennessee-Martin Skyhawks          | 0.98 |  79.0 | 0.60
- 2015-03-19 | NCAA | neutral | Ohio State Buckeyes             | 1.29 |  71.3 | Virginia Commonwealth Rams         | 1.19 |  65.4 | 0.71
- 2015-03-20 | NCAA | neutral | Oklahoma State Cowboys          | 1.20 |  69.0 | Oregon Ducks                       | 1.14 |  65.6 | 0.63
- 2015-03-18 | NIT  | home    | Old Dominion Monarchs           | 1.20 |  70.0 | Charleston Southern Buccaneers     | 0.96 |  55.7 | 0.91
- 2015-03-18 | CBI  | home    | Oral Roberts Golden Eagles      | 1.01 |  64.4 | California-Santa Barbara Gauchos   | 1.08 |  68.9 | 0.33
- 2015-03-18 | CIT  | home    | Portland Pilots                 | 1.11 |  74.5 | Sacramento State Hornets           | 0.95 |  64.0 | 0.82
- 2015-03-18 | NIT  | home    | Richmond Spiders                | 1.20 |  66.8 | St. Francis (NY) Terriers          | 1.00 |  55.4 | 0.87
- 2015-03-18 | NIT  | home    | Saint Mary's (CA) Gaels         | 1.19 |  66.2 | Vanderbilt Commodores              | 1.17 |  64.8 | 0.56
- 2015-03-18 | CIT  | home    | Sam Houston State Bearkats      | 1.15 |  68.8 | North Carolina-Wilmington Seahawks | 0.99 |  59.5 | 0.82
- 2015-03-20 | NCAA | neutral | San Diego State Aztecs          | 1.21 |  57.4 | St. John's (NY) Red Storm          | 1.18 |  55.7 | 0.58
- 2015-03-18 | CBI  | home    | Seattle Redhawks                | 0.97 |  55.5 | Pepperdine Waves                   | 1.07 |  61.1 | 0.27
- 2015-03-19 | NCAA | neutral | Southern Methodist Mustangs     | 1.21 |  67.7 | UCLA Bruins                        | 1.14 |  64.0 | 0.64
- 2015-03-19 | NCAA | neutral | Stephen F. Austin Lumberjacks   | 1.15 |  58.6 | Utah Utes                          | 1.35 |  68.8 | 0.16
- 2015-03-18 | NIT  | home    | Temple Owls                     | 1.18 |  71.3 | Bucknell Bison                     | 0.96 |  58.1 | 0.89
- 2015-03-18 | CIT  | home    | Western Michigan Broncos        | 1.08 |  65.8 | Cleveland State Vikings            | 1.05 |  64.3 | 0.56
-(56 rows)
+    date    | type |  site   |              home               | str  | score |             away              | str  | score | pwin 
+------------+------+---------+---------------------------------+------+-------+-------------------------------+------+-------+------
+ 2015-03-19 | NCAA | neutral | Alabama-Birmingham Blazers      | 1.03 |  63.5 | Iowa State Cyclones           | 1.29 |  79.9 | 0.09
+ 2015-03-20 | NCAA | neutral | Albany (NY) Great Danes         | 1.02 |  54.5 | Oklahoma Sooners              | 1.31 |  70.1 | 0.07
+ 2015-03-19 | NCAA | neutral | Arizona Wildcats                | 1.40 |  78.7 | Texas Southern Tigers         | 0.94 |  53.1 | 0.98
+ 2015-03-19 | NCAA | neutral | Arkansas Razorbacks             | 1.21 |  69.4 | Wofford Terriers              | 1.07 |  61.2 | 0.78
+ 2015-03-19 | NCAA | neutral | Baylor Bears                    | 1.29 |  65.7 | Georgia State Panthers        | 1.12 |  56.7 | 0.82
+ 2015-03-20 | NCAA | neutral | Belmont Bruins                  | 1.01 |  50.0 | Virginia Cavaliers            | 1.44 |  70.8 | 0.03
+ 2015-03-20 | NCAA | neutral | Buffalo Bulls                   | 1.13 |  69.8 | West Virginia Mountaineers    | 1.24 |  76.1 | 0.29
+ 2015-03-19 | NCAA | neutral | Butler Bulldogs                 | 1.25 |  58.1 | Texas Longhorns               | 1.27 |  59.2 | 0.45
+ 2015-03-20 | NCAA | neutral | California-Irvine Anteaters     | 1.07 |  54.6 | Louisville Cardinals          | 1.29 |  65.9 | 0.13
+ 2015-03-19 | NCAA | neutral | Cincinnati Bearcats             | 1.16 |  56.6 | Purdue Boilermakers           | 1.19 |  58.1 | 0.43
+ 2015-03-20 | NCAA | neutral | Coastal Carolina Chanticleers   | 1.02 |  51.6 | Wisconsin Badgers             | 1.43 |  72.6 | 0.03
+ 2015-03-20 | NCAA | neutral | Davidson Wildcats               | 1.19 |  68.9 | Iowa Hawkeyes                 | 1.24 |  71.3 | 0.41
+ 2015-03-19 | NCAA | neutral | Eastern Washington Eagles       | 1.02 |  65.6 | Georgetown Hoyas              | 1.23 |  78.7 | 0.13
+ 2015-03-20 | NCAA | neutral | Georgia Bulldogs                | 1.19 |  60.8 | Michigan State Spartans       | 1.26 |  64.9 | 0.34
+ 2015-03-20 | NCAA | neutral | Gonzaga Bulldogs                | 1.35 |  72.0 | North Dakota State Bison      | 1.00 |  53.3 | 0.96
+ 2015-03-19 | NCAA | neutral | Hampton Pirates                 | 0.91 |  48.0 | Kentucky Wildcats             | 1.54 |  80.9 | 0.00
+ 2015-03-19 | NCAA | neutral | Harvard Crimson                 | 1.08 |  58.1 | North Carolina Tar Heels      | 1.32 |  71.0 | 0.11
+ 2015-03-20 | NCAA | neutral | Indiana Hoosiers                | 1.17 |  65.9 | Wichita State Shockers        | 1.27 |  71.6 | 0.30
+ 2015-03-20 | NCAA | neutral | Kansas Jayhawks                 | 1.29 |  70.6 | New Mexico State Aggies       | 1.08 |  59.4 | 0.85
+ 2015-03-19 | NCAA | neutral | Lafayette Leopards              | 0.97 |  60.2 | Villanova Wildcats            | 1.37 |  84.9 | 0.03
+ 2015-03-19 | NCAA | neutral | Louisiana State Fighting Tigers | 1.16 |  68.2 | North Carolina State Wolfpack | 1.20 |  70.6 | 0.41
+ 2015-03-20 | NCAA | neutral | Maryland Terrapins              | 1.20 |  63.0 | Valparaiso Crusaders          | 1.11 |  58.3 | 0.69
+ 2015-03-19 | NCAA | neutral | Mississippi Rebels              | 1.18 |  69.3 | Xavier Musketeers             | 1.23 |  72.2 | 0.40
+ 2015-03-19 | NCAA | neutral | Northeastern Huskies            | 1.04 |  62.3 | Notre Dame Fighting Irish     | 1.28 |  76.2 | 0.11
+ 2015-03-20 | NCAA | neutral | Northern Iowa Panthers          | 1.23 |  56.1 | Wyoming Cowboys               | 1.07 |  49.0 | 0.80
+ 2015-03-19 | CIT  | home    | Northwestern State Demons       | 1.02 |  82.3 | Tennessee-Martin Skyhawks     | 0.98 |  79.0 | 0.60
+ 2015-03-19 | NCAA | neutral | Ohio State Buckeyes             | 1.29 |  71.3 | Virginia Commonwealth Rams    | 1.19 |  65.4 | 0.71
+ 2015-03-20 | NCAA | neutral | Oklahoma State Cowboys          | 1.20 |  69.0 | Oregon Ducks                  | 1.14 |  65.6 | 0.63
+ 2015-03-20 | NCAA | neutral | San Diego State Aztecs          | 1.21 |  57.4 | St. John's (NY) Red Storm     | 1.18 |  55.7 | 0.58
+ 2015-03-19 | NCAA | neutral | Southern Methodist Mustangs     | 1.21 |  67.7 | UCLA Bruins                   | 1.14 |  64.0 | 0.64
+ 2015-03-19 | NCAA | neutral | Stephen F. Austin Lumberjacks   | 1.15 |  58.6 | Utah Utes                     | 1.35 |  68.8 | 0.16
+(31 rows)
 
-COPY 56
+COPY 31
 COMMIT
