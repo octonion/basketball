@@ -1,35 +1,42 @@
 BEGIN
 SET
-    date    | site |      home       | div | score |        away        | div | score 
-------------+------+-----------------+-----+-------+--------------------+-----+-------
- 2015-03-19 | home | Colorado St.    |   1 |  58.4 | Northern Colo.     |   1 |  53.9
- 2015-03-19 | home | Drexel          |   1 |  54.5 | Hampton            |   1 |  51.5
- 2015-03-19 | home | East Tenn. St.  |   1 |  60.4 | North Carolina St. |   1 |  67.5
- 2015-03-19 | home | Fordham         |   1 |  59.4 | Central Conn. St.  |   1 |  46.9
- 2015-03-19 | home | Fresno St.      |   1 |  61.6 | San Francisco      |   1 |  57.4
- 2015-03-19 | home | Georgia Tech    |   1 |  77.9 | Elon               |   1 |  63.1
- 2015-03-19 | home | Kansas St.      |   1 |  67.0 | Akron              |   1 |  58.7
- 2015-03-19 | home | La.-Lafayette   |   1 |  61.7 | Tex.-Pan American  |   1 |  53.4
- 2015-03-19 | home | Marist          |   1 |  62.3 | Temple             |   1 |  64.6
- 2015-03-19 | home | McNeese St.     |   1 |  65.0 | Furman             |   1 |  70.4
- 2015-03-19 | home | Mercer          |   1 |  77.2 | Troy               |   1 |  73.6
- 2015-03-19 | home | Middle Tenn.    |   1 |  66.7 | Ball St.           |   1 |  55.3
- 2015-03-19 | home | Northern Ky.    |   1 |  58.7 | Marshall           |   1 |  56.2
- 2015-03-19 | home | Old Dominion    |   1 |  60.1 | Virginia           |   1 |  62.8
- 2015-03-19 | home | Pacific         |   1 |  86.5 | Sacramento St.     |   1 |  80.1
- 2015-03-19 | home | Penn            |   1 |  56.1 | Hofstra            |   1 |  49.2
- 2015-03-19 | home | San Diego       |   1 |  62.7 | Long Beach St.     |   1 |  58.4
- 2015-03-19 | home | Siena           |   1 |  56.5 | Stony Brook        |   1 |  55.0
- 2015-03-19 | home | South Dakota    |   1 |  72.7 | Creighton          |   1 |  73.9
- 2015-03-19 | home | Southern Miss.  |   1 |  64.8 | Texas Southern     |   1 |  56.7
- 2015-03-19 | home | St. John's (NY) |   1 |  55.7 | Army               |   1 |  47.7
- 2015-03-19 | home | TCU             |   1 |  77.3 | Stephen F. Austin  |   1 |  62.0
- 2015-03-19 | home | UCLA            |   1 |  81.3 | Bakersfield        |   1 |  62.3
- 2015-03-19 | home | UNI             |   1 |  56.5 | Missouri           |   1 |  59.8
- 2015-03-19 | home | West Virginia   |   1 |  67.3 | Buffalo            |   1 |  53.5
- 2015-03-19 | home | Xavier          |   1 |  62.1 | William & Mary     |   1 |  57.8
- 2015-03-19 | home | Youngstown St.  |   1 |  64.5 | Duquesne           |   1 |  67.3
-(27 rows)
+    date    |  site   |       home        | div | score |       away        | div | score 
+------------+---------+-------------------+-----+-------+-------------------+-----+-------
+ 2015-03-20 | neutral | Arkansas          |   1 |  55.2 | Northwestern      |   1 |  58.8
+ 2015-03-20 | home    | Baylor            |   1 |  88.1 | Northwestern St.  |   1 |  46.1
+ 2015-03-20 | home    | California        |   1 |  58.6 | Wichita St.       |   1 |  53.2
+ 2015-03-20 | neutral | Dayton            |   1 |  71.5 | Iowa St.          |   1 |  67.5
+ 2015-03-20 | neutral | DePaul            |   1 |  86.6 | Minnesota         |   1 |  78.1
+ 2015-03-20 | home    | Drake             |   1 |  74.7 | Eastern Mich.     |   1 |  69.7
+ 2015-03-20 | home    | Duke              |   1 |  67.8 | Albany (NY)       |   1 |  52.6
+ 2015-03-20 | neutral | George Fox        |   3 |  63.0 | Montclair St.     |   3 |  53.5
+ 2015-03-20 | neutral | George Washington |   1 |  66.5 | Gonzaga           |   1 |  60.2
+ 2015-03-20 | neutral | Gonzaga           |   1 |  60.2 | George Washington |   1 |  66.5
+ 2015-03-20 | home    | Iowa              |   1 |  76.6 | American          |   1 |  60.3
+ 2015-03-20 | neutral | Iowa St.          |   1 |  67.5 | Dayton            |   1 |  71.5
+ 2015-03-20 | home    | Kentucky          |   1 |  85.2 | Tennessee St.     |   1 |  57.7
+ 2015-03-20 | neutral | Miami (FL)        |   1 |  66.7 | Washington        |   1 |  67.5
+ 2015-03-20 | neutral | Minnesota         |   1 |  78.1 | DePaul            |   1 |  86.6
+ 2015-03-20 | neutral | Mississippi St.   |   1 |  63.6 | Tulane            |   1 |  56.6
+ 2015-03-20 | home    | Missouri St.      |   1 |  69.8 | Tulsa             |   1 |  69.4
+ 2015-03-20 | neutral | Montclair St.     |   3 |  53.5 | George Fox        |   3 |  63.0
+ 2015-03-20 | neutral | Nebraska          |   1 |  59.0 | Syracuse          |   1 |  61.2
+ 2015-03-20 | neutral | Northwestern      |   1 |  58.8 | Arkansas          |   1 |  55.2
+ 2015-03-20 | home    | Notre Dame        |   1 |  77.9 | Montana           |   1 |  48.9
+ 2015-03-20 | home    | Oregon St.        |   1 |  71.3 | South Dakota St.  |   1 |  55.6
+ 2015-03-20 | home    | South Carolina    |   1 |  84.2 | Savannah St.      |   1 |  44.0
+ 2015-03-20 | home    | Stetson           |   1 |  64.7 | Richmond          |   1 |  58.1
+ 2015-03-20 | home    | St. Mary's (CA)   |   1 |  58.4 | Hawaii            |   1 |  58.7
+ 2015-03-20 | neutral | Syracuse          |   1 |  61.2 | Nebraska          |   1 |  59.0
+ 2015-03-20 | neutral | Texas             |   1 |  67.5 | Western Ky.       |   1 |  60.9
+ 2015-03-20 | neutral | Thomas More       |   3 |  59.4 | Tufts             |   3 |  56.7
+ 2015-03-20 | home    | Toledo            |   1 |  66.7 | Wright St.        |   1 |  68.9
+ 2015-03-20 | neutral | Tufts             |   3 |  56.7 | Thomas More       |   3 |  59.4
+ 2015-03-20 | neutral | Tulane            |   1 |  56.6 | Mississippi St.   |   1 |  63.6
+ 2015-03-20 | home    | Villanova         |   1 |  54.7 | Maine             |   1 |  44.8
+ 2015-03-20 | neutral | Washington        |   1 |  67.5 | Miami (FL)        |   1 |  66.7
+ 2015-03-20 | neutral | Western Ky.       |   1 |  60.9 | Texas             |   1 |  67.5
+(34 rows)
 
-COPY 27
+COPY 34
 COMMIT

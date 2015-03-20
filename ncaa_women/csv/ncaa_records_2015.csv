@@ -7,7 +7,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,4,Adrian,8,17,0,25
 2015,11324,Agnes Scott,8,14,0,22
 2015,721,Air Force,2,28,0,30
-2015,5,Akron,22,8,1,31
+2015,5,Akron,22,9,0,31
 2015,10,Ala.-Huntsville,11,18,0,29
 2015,8,Alabama,13,19,0,32
 2015,6,Alabama A&M,6,24,0,30
@@ -45,7 +45,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,30,Arkansas St.,24,10,0,34
 2015,947,Arkansas Tech,23,7,0,30
 2015,33,Armstrong,13,14,0,27
-2015,725,Army,23,7,1,31
+2015,725,Army,23,8,0,31
 2015,35,Ashland,25,9,0,34
 2015,36,Assumption,15,12,0,27
 2015,37,Auburn,13,18,0,31
@@ -58,9 +58,9 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,44,Averett,11,15,0,26
 2015,30146,Azusa Pacific,19,10,0,29
 2015,45,Babson,20,9,0,29
-2015,94,Bakersfield,23,8,1,32
+2015,94,Bakersfield,23,9,0,32
 2015,46,Baldwin Wallace,22,7,0,29
-2015,47,Ball St.,17,13,1,31
+2015,47,Ball St.,17,14,0,31
 2015,958,Baptist Bible (PA),2,20,0,22
 2015,962,Bard,4,21,0,25
 2015,49,Barry,15,16,0,31
@@ -111,7 +111,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,82,Bryn Mawr,1,19,0,20
 2015,83,Bucknell,18,12,0,30
 2015,84,Buena Vista,8,17,0,25
-2015,86,Buffalo,19,12,1,32
+2015,86,Buffalo,19,13,0,32
 2015,85,Buffalo St.,12,14,0,26
 2015,87,Butler,14,16,0,30
 2015,77,BYU,23,9,1,33
@@ -155,7 +155,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,12884,Centenary (NJ),8,17,0,25
 2015,126,Central (IA),10,15,0,25
 2015,1004,Central Ark.,17,14,0,31
-2015,127,Central Conn. St.,19,12,1,32
+2015,127,Central Conn. St.,19,13,0,32
 2015,129,Central Mich.,13,18,0,31
 2015,130,Central Mo.,21,9,0,30
 2015,1009,Central Okla.,17,13,0,30
@@ -202,7 +202,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,154,Colorado Col.,2,23,0,25
 2015,11416,Colorado Mesa,23,6,0,29
 2015,155,Colorado Mines,13,15,0,28
-2015,156,Colorado St.,23,7,1,31
+2015,156,Colorado St.,23,8,0,31
 2015,2720,Colorado St.-Pueblo,18,12,0,30
 2015,158,Columbia,8,20,0,28
 2015,159,Columbus St.,31,2,0,33
@@ -219,7 +219,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,167,Cornell,15,13,0,28
 2015,166,Cornell College,15,10,0,25
 2015,30111,Covenant,3,22,0,25
-2015,169,Creighton,17,13,1,31
+2015,169,Creighton,17,14,0,31
 2015,30035,Crown (MN),3,22,0,25
 2015,101,CSUN,23,9,1,33
 2015,170,Curry,17,12,0,29
@@ -251,16 +251,16 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,2692,Dowling,5,21,0,26
 2015,189,Drake,20,10,1,31
 2015,190,Drew,12,13,0,25
-2015,191,Drexel,20,10,1,31
+2015,191,Drexel,20,11,0,31
 2015,1057,Drury,26,4,0,30
 2015,192,Dubuque,17,9,0,26
 2015,193,Duke,21,10,1,32
-2015,194,Duquesne,21,10,1,32
+2015,194,Duquesne,22,10,0,32
 2015,195,Earlham,9,16,0,25
 2015,196,East Carolina,22,10,0,32
 2015,8965,East Central,15,12,0,27
 2015,197,East Stroudsburg,11,16,0,27
-2015,198,East Tenn. St.,21,11,1,33
+2015,198,East Tenn. St.,21,12,0,33
 2015,1062,East Tex. Baptist,10,15,0,25
 2015,203,East. Mennonite,23,5,0,28
 2015,8968,Eastern,22,6,0,28
@@ -279,9 +279,9 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,212,Elmhurst,16,10,0,26
 2015,213,Elmira,10,15,0,25
 2015,532,Elms,18,9,0,27
-2015,1068,Elon,19,12,1,32
+2015,1068,Elon,19,13,0,32
 2015,214,Emerson,12,14,0,26
-2015,30193,Emmanuel (GA),13,10,0,23
+2015,30193,Emmanuel (GA),13,11,0,24
 2015,215,Emmanuel (MA),19,11,0,30
 2015,217,Emory,12,13,0,25
 2015,216,Emory & Henry,15,13,0,28
@@ -312,7 +312,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,234,Florida St.,29,4,1,34
 2015,230,Florida Tech,20,7,0,27
 2015,11538,Fontbonne,11,14,0,25
-2015,236,Fordham,20,11,1,32
+2015,236,Fordham,21,11,0,32
 2015,9011,Fort Hays St.,30,4,0,34
 2015,1083,Fort Lewis,16,11,0,27
 2015,237,Fort Valley St.,9,20,0,29
@@ -326,7 +326,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,30147,Fresno Pacific,6,20,0,26
 2015,96,Fresno St.,22,9,1,32
 2015,243,Frostburg St.,6,19,0,25
-2015,244,Furman,19,13,1,33
+2015,244,Furman,19,14,0,33
 2015,253,Ga. Southern,5,24,0,29
 2015,1097,Ga. Southwestern,14,12,0,26
 2015,245,Gallaudet,14,11,0,25
@@ -340,7 +340,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,257,Georgia,19,12,0,31
 2015,1096,Georgia College,16,13,0,29
 2015,254,Georgia St.,13,17,0,30
-2015,255,Georgia Tech,18,14,1,33
+2015,255,Georgia Tech,19,14,0,33
 2015,9004,Georgian Court,2,24,0,26
 2015,258,Gettysburg,16,9,0,25
 2015,1098,Glenville St.,15,13,0,28
@@ -363,7 +363,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,12399,Gwynedd Mercy,17,10,0,27
 2015,267,Hamilton,12,12,0,24
 2015,268,Hamline,12,13,0,25
-2015,270,Hampton,18,12,1,31
+2015,270,Hampton,19,12,0,31
 2015,1115,Hanover,19,9,0,28
 2015,271,Hardin-Simmons,12,14,0,26
 2015,1116,Harding,23,7,0,30
@@ -381,7 +381,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,8398,Hilbert,3,20,0,23
 2015,280,Hillsdale,15,12,0,27
 2015,281,Hiram,7,19,0,26
-2015,283,Hofstra,20,12,1,33
+2015,283,Hofstra,20,13,0,33
 2015,284,Hollins,3,23,0,26
 2015,285,Holy Cross,15,17,0,32
 2015,1126,Holy Family,21,11,0,32
@@ -431,7 +431,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,325,Juniata,8,17,0,25
 2015,326,Kalamazoo,16,10,0,26
 2015,328,Kansas,15,17,0,32
-2015,327,Kansas St.,18,13,1,32
+2015,327,Kansas St.,19,13,0,32
 2015,329,Kean,12,13,0,25
 2015,330,Keene St.,18,11,0,29
 2015,1157,Kennesaw St.,17,13,0,30
@@ -449,7 +449,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,1163,La Roche,22,6,0,28
 2015,340,La Salle,15,16,0,31
 2015,341,La Verne,10,15,0,25
-2015,671,La.-Lafayette,19,12,1,32
+2015,671,La.-Lafayette,20,12,0,32
 2015,498,La.-Monroe,12,17,0,29
 2015,342,Lafayette,14,17,0,31
 2015,1162,LaGrange,17,10,0,27
@@ -465,7 +465,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,348,Lawrence,1,22,0,23
 2015,349,Le Moyne,17,14,0,31
 2015,351,Lebanon Valley,21,9,0,30
-2015,30013,Lee,20,8,0,28
+2015,30013,Lee,22,8,0,30
 2015,13302,Lees-McRae,6,22,0,28
 2015,352,Lehigh,19,12,0,31
 2015,279,Lehman,16,10,0,26
@@ -487,7 +487,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,362,LIU Post,17,12,0,29
 2015,359,Livingstone,26,2,0,28
 2015,360,Lock Haven,11,16,0,27
-2015,99,Long Beach St.,22,9,1,32
+2015,99,Long Beach St.,22,10,0,32
 2015,363,Longwood,4,26,0,30
 2015,364,Loras,15,11,0,26
 2015,1182,Louisiana Col.,17,8,0,25
@@ -515,10 +515,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,1194,Maranatha Baptist,3,21,2,26
 2015,1196,Marian (WI),12,13,0,25
 2015,385,Marietta,9,17,0,26
-2015,386,Marist,21,11,1,33
+2015,386,Marist,21,12,0,33
 2015,387,Marquette,9,22,0,31
 2015,1199,Mars Hill,11,17,0,28
-2015,388,Marshall,16,14,1,31
+2015,388,Marshall,17,14,0,31
 2015,8597,Martin Luther,9,14,0,23
 2015,30075,Mary,10,19,0,29
 2015,389,Mary Baldwin,0,25,0,25
@@ -534,13 +534,13 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,30138,McKendree,2,24,0,26
 2015,486,MCLA,7,18,0,25
 2015,8530,McMurry,4,20,0,24
-2015,402,McNeese St.,17,13,1,31
+2015,402,McNeese St.,18,13,0,31
 2015,379,Me.-Farmington,11,15,0,26
 2015,30040,Me.-Presque Isle,6,8,0,14
 2015,23725,Medaille,10,16,0,26
 2015,403,Medgar Evers,1,24,0,25
 2015,404,Memphis,14,17,0,31
-2015,406,Mercer,18,14,1,33
+2015,406,Mercer,19,14,0,33
 2015,724,Merchant Marine,6,19,0,25
 2015,407,Mercy,9,19,0,28
 2015,408,Mercyhurst,9,19,0,28
@@ -554,7 +554,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,418,Michigan,17,14,0,31
 2015,416,Michigan St.,16,15,0,31
 2015,417,Michigan Tech,28,3,0,31
-2015,419,Middle Tenn.,21,9,1,31
+2015,419,Middle Tenn.,22,9,0,31
 2015,420,Middlebury,11,14,0,25
 2015,1222,Midwestern St.,23,7,0,30
 2015,422,Miles,7,19,0,26
@@ -573,7 +573,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,429,Mississippi Col.,8,18,0,26
 2015,430,Mississippi St.,26,6,1,33
 2015,432,Mississippi Val.,4,26,0,30
-2015,434,Missouri,17,13,1,31
+2015,434,Missouri,18,13,0,31
 2015,435,Missouri S&T,6,20,0,26
 2015,669,Missouri St.,18,14,1,33
 2015,398,MIT,11,15,0,26
@@ -636,7 +636,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,485,Norfolk St.,14,16,0,30
 2015,487,North Ala.,15,12,0,27
 2015,457,North Carolina,24,8,1,33
-2015,490,North Carolina St.,16,14,1,31
+2015,490,North Carolina St.,17,14,0,31
 2015,492,North Central (IL),22,6,0,28
 2015,30039,North Central (MN),10,18,0,28
 2015,494,North Dakota,17,15,0,32
@@ -649,9 +649,9 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,500,Northeastern,4,25,0,29
 2015,12810,Northeastern St.,12,16,0,28
 2015,501,Northern Ariz.,13,17,0,30
-2015,502,Northern Colo.,20,12,1,33
+2015,502,Northern Colo.,21,12,0,33
 2015,503,Northern Ill.,12,17,0,29
-2015,505,Northern Ky.,19,13,1,33
+2015,505,Northern Ky.,19,14,0,33
 2015,506,Northern Mich.,17,10,0,27
 2015,1266,Northern St.,26,7,0,33
 2015,1267,Northland,2,22,0,24
@@ -686,7 +686,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,24342,Okla. Panhandle,3,25,0,28
 2015,522,Oklahoma,20,11,1,32
 2015,521,Oklahoma St.,20,11,1,32
-2015,523,Old Dominion,20,12,1,33
+2015,523,Old Dominion,21,12,0,33
 2015,524,Old Westbury,11,14,0,25
 2015,433,Ole Miss,18,13,0,31
 2015,525,Olivet,14,12,0,26
@@ -702,12 +702,12 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,24361,P.R.-Mayaguez,0,6,0,6
 2015,2716,P.R.-Rio Piedras,0,10,0,10
 2015,533,Pace,12,16,0,28
-2015,534,Pacific,21,9,1,31
+2015,534,Pacific,21,10,0,31
 2015,2751,Pacific (OR),9,16,0,25
 2015,1297,Pacific Lutheran,5,20,0,25
 2015,535,Paine,11,17,0,28
 2015,30045,Palm Beach Atl.,9,17,0,26
-2015,540,Penn,20,8,1,29
+2015,540,Penn,21,8,0,29
 2015,30190,Penn College,10,11,0,21
 2015,539,Penn St.,6,24,0,30
 2015,30081,Penn St. Harrisburg,4,21,0,25
@@ -778,7 +778,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,588,Rutgers-Camden,9,16,0,25
 2015,589,Rutgers-Newark,15,14,0,29
 2015,11276,S.C. Aiken,18,12,0,30
-2015,102,Sacramento St.,16,15,1,32
+2015,102,Sacramento St.,17,15,0,32
 2015,590,Sacred Heart,16,13,0,29
 2015,11036,Sage Colleges,18,8,0,26
 2015,591,Saginaw Valley,9,19,0,28
@@ -801,7 +801,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,623,Salve Regina,12,14,0,26
 2015,624,Sam Houston St.,6,22,0,28
 2015,625,Samford,15,15,0,30
-2015,627,San Diego,24,6,1,31
+2015,627,San Diego,25,6,0,31
 2015,626,San Diego St.,12,19,0,31
 2015,628,San Fran. St.,1,25,0,26
 2015,629,San Francisco,19,13,1,33
@@ -820,7 +820,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,10870,Shepherd,22,10,0,32
 2015,638,Shippensburg,19,11,0,30
 2015,30151,Shorter,13,17,0,30
-2015,639,Siena,19,12,1,32
+2015,639,Siena,20,12,0,32
 2015,640,Simmons,5,19,0,24
 2015,30127,Simon Fraser,15,13,0,28
 2015,641,Simpson,16,10,0,26
@@ -834,7 +834,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,646,South Ala.,5,24,0,29
 2015,648,South Carolina,30,2,1,33
 2015,647,South Carolina St.,16,12,0,28
-2015,650,South Dakota,25,7,1,33
+2015,650,South Dakota,26,7,0,33
 2015,30139,South Dakota Mines,13,12,0,25
 2015,649,South Dakota St.,24,8,1,33
 2015,651,South Fla.,26,7,1,34
@@ -847,7 +847,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,659,Southern Ill.,17,13,0,30
 2015,661,Southern Ind.,25,7,0,32
 2015,662,Southern Me.,12,14,0,26
-2015,664,Southern Miss.,22,10,1,33
+2015,664,Southern Miss.,24,10,0,34
 2015,468,Southern N.H.,11,17,0,28
 2015,30152,Southern Nazarene,8,18,0,26
 2015,665,Southern U.,19,12,0,31
@@ -870,7 +870,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,9684,St. Elizabeth,13,12,0,25
 2015,599,St. Francis Brooklyn,15,18,1,34
 2015,601,St. John Fisher,22,7,0,29
-2015,603,St. John's (NY),21,10,1,32
+2015,603,St. John's (NY),22,10,0,32
 2015,8687,St. Joseph (CT),9,16,0,25
 2015,30072,St. Joseph's (Brkln),17,12,0,29
 2015,604,St. Joseph's (IN),11,18,0,29
@@ -888,14 +888,14 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,1348,St. Thomas Aquinas,14,17,0,31
 2015,674,Stanford,24,9,1,34
 2015,675,Staten Island,17,12,0,29
-2015,676,Stephen F. Austin,23,7,1,31
+2015,676,Stephen F. Austin,23,8,0,31
 2015,678,Stetson,23,7,1,31
 2015,679,Stevens,22,5,0,27
 2015,21852,Stevenson,24,4,0,28
 2015,680,Stillman,10,18,0,28
 2015,681,Stockton,22,7,0,29
 2015,682,Stonehill,24,5,0,29
-2015,683,Stony Brook,17,13,1,31
+2015,683,Stony Brook,17,14,0,31
 2015,684,Suffolk,13,14,0,27
 2015,1390,Sul Ross St.,4,21,0,25
 2015,30165,SUNY Canton,7,15,0,22
@@ -911,8 +911,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,689,Tampa,17,11,0,28
 2015,1395,Tarleton St.,17,10,0,27
 2015,712,TCNJ,16,11,0,27
-2015,698,TCU,17,13,1,31
-2015,690,Temple,16,16,1,33
+2015,698,TCU,18,13,0,31
+2015,690,Temple,17,16,0,33
 2015,694,Tennessee,27,5,1,33
 2015,691,Tennessee St.,18,12,1,31
 2015,692,Tennessee Tech,6,23,0,29
@@ -920,11 +920,11 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,199,Tex. A&M-Commerce,14,14,0,28
 2015,696,Tex. A&M-Kingsville,0,26,0,26
 2015,30088,Tex. Permian Basin,16,12,0,28
-2015,536,Tex.-Pan American,19,14,1,34
+2015,536,Tex.-Pan American,19,15,0,34
 2015,703,Texas,22,10,1,33
 2015,697,Texas A&M,23,9,1,33
 2015,1400,Texas Lutheran,16,9,0,25
-2015,699,Texas Southern,19,10,1,30
+2015,699,Texas Southern,19,12,0,31
 2015,670,Texas St.,17,15,0,32
 2015,700,Texas Tech,15,16,0,31
 2015,701,Texas Woman's,16,13,0,29
@@ -943,7 +943,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,713,Trinity (CT),9,15,0,24
 2015,715,Trinity (TX),22,6,0,28
 2015,23413,Trinity Washington,10,5,0,15
-2015,716,Troy,20,10,1,31
+2015,716,Troy,20,11,0,31
 2015,499,Truman,16,11,0,27
 2015,717,Tufts,30,1,1,32
 2015,718,Tulane,22,10,1,33
@@ -961,7 +961,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,113,UC Santa Cruz,17,8,0,25
 2015,9754,UC-Colo. Springs,26,7,0,33
 2015,128,UCF,9,21,0,30
-2015,110,UCLA,13,18,1,32
+2015,110,UCLA,14,18,0,32
 2015,164,UConn,32,1,1,34
 2015,401,UMass Boston,19,9,0,28
 2015,656,UMass Dartmouth,19,8,0,27
@@ -973,7 +973,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,459,UNC Greensboro,6,24,0,30
 2015,537,UNC Pembroke,10,16,0,26
 2015,460,UNCW,14,16,0,30
-2015,504,UNI,17,14,1,32
+2015,504,UNI,17,15,0,32
 2015,727,Union (NY),17,9,0,26
 2015,30153,Union (TN),28,4,0,32
 2015,465,UNLV,13,17,0,30
@@ -1000,7 +1000,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,740,VCU,16,14,0,30
 2015,738,Vermont,5,24,0,29
 2015,739,Villanova,19,13,1,33
-2015,746,Virginia,17,13,1,31
+2015,746,Virginia,17,14,0,31
 2015,743,Virginia St.,19,10,0,29
 2015,742,Virginia Tech,12,20,0,32
 2015,744,Virginia Union,9,18,0,27
@@ -1033,7 +1033,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,1438,West Liberty,24,9,0,33
 2015,767,West Tex. A&M,30,2,1,33
 2015,9630,West Va. Wesleyan,4,23,0,27
-2015,768,West Virginia,18,14,1,33
+2015,768,West Virginia,19,14,0,33
 2015,1439,West Virginia St.,8,20,0,28
 2015,769,Western Caro.,11,19,0,30
 2015,770,Western Conn. St.,16,10,0,26
@@ -1059,7 +1059,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,783,Widener,11,14,0,25
 2015,784,Wilkes,10,14,0,24
 2015,785,Willamette,7,18,0,25
-2015,786,William & Mary,15,15,1,31
+2015,786,William & Mary,15,16,0,31
 2015,30120,William Jewell,15,12,0,27
 2015,17094,William Peace,9,16,0,25
 2015,30073,William Smith,4,20,0,24
@@ -1091,10 +1091,10 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,808,WPI,16,10,0,26
 2015,810,Wright St.,25,8,1,34
 2015,811,Wyoming,16,14,0,30
-2015,812,Xavier,17,14,1,32
+2015,812,Xavier,18,14,0,32
 2015,813,Yale,13,15,0,28
 2015,814,Yeshiva,3,18,0,21
 2015,2730,York (NY),7,18,0,25
 2015,815,York (PA),12,15,0,27
 2015,30154,Young Harris,10,16,0,26
-2015,817,Youngstown St.,21,10,1,32
+2015,817,Youngstown St.,21,11,0,32
