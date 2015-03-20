@@ -2,111 +2,111 @@ BEGIN
  rd |         name         |   p   
 ----+----------------------+-------
   2 | UConn                | 1.000
-  2 | South Carolina       | 0.998
   2 | Baylor               | 0.998
+  2 | South Carolina       | 0.998
   2 | Florida St.          | 0.997
   2 | Maryland             | 0.993
   2 | Notre Dame           | 0.986
   2 | Tennessee            | 0.981
   2 | Kentucky             | 0.969
   2 | Louisville           | 0.951
-  2 | North Carolina       | 0.938
-  2 | Duke                 | 0.884
-  2 | Oregon St.           | 0.880
+  2 | North Carolina       | 0.939
+  2 | Duke                 | 0.885
+  2 | Oregon St.           | 0.879
   2 | Iowa                 | 0.871
   2 | Stanford             | 0.856
   2 | South Fla.           | 0.810
-  2 | Arizona St.          | 0.801
-  2 | Mississippi St.      | 0.770
-  2 | Princeton            | 0.751
-  2 | DePaul               | 0.745
-  2 | Texas                | 0.743
-  2 | Rutgers              | 0.740
+  2 | Arizona St.          | 0.803
+  2 | Mississippi St.      | 0.769
+  2 | Princeton            | 0.753
+  2 | Rutgers              | 0.743
+  2 | DePaul               | 0.742
+  2 | Texas                | 0.742
   2 | George Washington    | 0.734
-  2 | Oklahoma             | 0.718
-  2 | Northwestern         | 0.656
-  2 | Dayton               | 0.645
+  2 | Oklahoma             | 0.722
+  2 | Northwestern         | 0.654
+  2 | Dayton               | 0.644
   2 | Texas A&M            | 0.643
-  2 | FGCU                 | 0.608
-  2 | California           | 0.606
-  2 | Syracuse             | 0.591
-  2 | Ohio St.             | 0.587
-  2 | Washington           | 0.533
-  2 | Chattanooga          | 0.502
-  2 | Pittsburgh           | 0.498
-  2 | Miami (FL)           | 0.467
-  2 | James Madison        | 0.413
-  2 | Nebraska             | 0.409
-  2 | Wichita St.          | 0.394
-  2 | Oklahoma St.         | 0.392
+  2 | California           | 0.607
+  2 | FGCU                 | 0.605
+  2 | Syracuse             | 0.592
+  2 | Ohio St.             | 0.591
+  2 | Washington           | 0.532
+  2 | Pittsburgh           | 0.501
+  2 | Chattanooga          | 0.499
+  2 | Miami (FL)           | 0.468
+  2 | James Madison        | 0.409
+  2 | Nebraska             | 0.408
+  2 | Oklahoma St.         | 0.395
+  2 | Wichita St.          | 0.393
   2 | UALR                 | 0.357
-  2 | Iowa St.             | 0.355
-  2 | Arkansas             | 0.344
-  2 | Quinnipiac           | 0.282
+  2 | Iowa St.             | 0.356
+  2 | Arkansas             | 0.346
+  2 | Quinnipiac           | 0.278
   2 | Gonzaga              | 0.266
-  2 | Seton Hall           | 0.260
-  2 | Western Ky.          | 0.257
-  2 | Minnesota            | 0.255
-  2 | Green Bay            | 0.249
-  2 | Tulane               | 0.230
-  2 | Ohio                 | 0.199
+  2 | Western Ky.          | 0.258
+  2 | Minnesota            | 0.258
+  2 | Seton Hall           | 0.257
+  2 | Green Bay            | 0.247
+  2 | Tulane               | 0.231
+  2 | Ohio                 | 0.197
   2 | LSU                  | 0.190
   2 | CSUN                 | 0.144
   2 | American             | 0.129
-  2 | South Dakota St.     | 0.120
-  2 | Albany (NY)          | 0.116
-  2 | Liberty              | 0.062
+  2 | South Dakota St.     | 0.121
+  2 | Albany (NY)          | 0.115
+  2 | Liberty              | 0.061
   2 | BYU                  | 0.049
   2 | Tennessee St.        | 0.031
   2 | Boise St.            | 0.019
   2 | Montana              | 0.014
   2 | New Mexico St.       | 0.007
   2 | Alabama St.          | 0.003
-  2 | Savannah St.         | 0.002
   2 | Northwestern St.     | 0.002
+  2 | Savannah St.         | 0.002
   2 | St. Francis Brooklyn | 0.000
   3 | UConn                | 0.995
   3 | South Carolina       | 0.927
-  3 | Notre Dame           | 0.911
-  3 | Tennessee            | 0.889
-  3 | Baylor               | 0.815
+  3 | Notre Dame           | 0.912
+  3 | Tennessee            | 0.890
+  3 | Baylor               | 0.816
   3 | Florida St.          | 0.766
-  3 | Oregon St.           | 0.675
   3 | Maryland             | 0.675
-  3 | Louisville           | 0.601
-  3 | Duke                 | 0.587
-  3 | Kentucky             | 0.585
-  3 | North Carolina       | 0.572
-  3 | Stanford             | 0.541
-  3 | Texas                | 0.522
+  3 | Oregon St.           | 0.675
+  3 | Louisville           | 0.600
+  3 | Duke                 | 0.586
+  3 | Kentucky             | 0.586
+  3 | North Carolina       | 0.574
+  3 | Stanford             | 0.540
+  3 | Texas                | 0.523
   3 | Arizona St.          | 0.511
   3 | Iowa                 | 0.508
-  3 | South Fla.           | 0.361
-  3 | Oklahoma             | 0.345
-  3 | Mississippi St.      | 0.338
-  3 | Texas A&M            | 0.305
-  3 | Dayton               | 0.298
+  3 | South Fla.           | 0.362
+  3 | Oklahoma             | 0.348
+  3 | Mississippi St.      | 0.340
+  3 | Texas A&M            | 0.306
+  3 | Dayton               | 0.297
   3 | Princeton            | 0.283
-  3 | Ohio St.             | 0.267
+  3 | Ohio St.             | 0.268
   3 | Washington           | 0.258
   3 | George Washington    | 0.241
-  3 | California           | 0.241
+  3 | California           | 0.240
   3 | Miami (FL)           | 0.212
-  3 | FGCU                 | 0.160
-  3 | James Madison        | 0.155
-  3 | Northwestern         | 0.141
-  3 | UALR                 | 0.122
-  3 | Wichita St.          | 0.120
-  3 | Western Ky.          | 0.116
+  3 | FGCU                 | 0.159
+  3 | James Madison        | 0.152
+  3 | Northwestern         | 0.140
+  3 | UALR                 | 0.123
+  3 | Wichita St.          | 0.119
+  3 | Western Ky.          | 0.118
   3 | Iowa St.             | 0.116
-  3 | Quinnipiac           | 0.080
-  3 | DePaul               | 0.076
-  3 | Oklahoma St.         | 0.074
-  3 | Ohio                 | 0.062
-  3 | Chattanooga          | 0.055
+  3 | Quinnipiac           | 0.078
+  3 | Oklahoma St.         | 0.075
+  3 | DePaul               | 0.075
+  3 | Ohio                 | 0.060
   3 | Pittsburgh           | 0.054
+  3 | Chattanooga          | 0.054
   3 | Syracuse             | 0.049
-  3 | Tulane               | 0.048
+  3 | Tulane               | 0.049
   3 | Gonzaga              | 0.044
   3 | Arkansas             | 0.044
   3 | Green Bay            | 0.042
@@ -122,8 +122,8 @@ BEGIN
   3 | Rutgers              | 0.005
   3 | Boise St.            | 0.003
   3 | Montana              | 0.002
-  3 | Tennessee St.        | 0.002
   3 | Seton Hall           | 0.001
+  3 | Tennessee St.        | 0.001
   3 | St. Francis Brooklyn | 0.000
   3 | Alabama St.          | 0.000
   3 | Northwestern St.     | 0.000
@@ -131,49 +131,49 @@ BEGIN
   3 | Savannah St.         | 0.000
   4 | UConn                | 0.990
   4 | South Carolina       | 0.845
-  4 | Notre Dame           | 0.830
-  4 | Baylor               | 0.696
-  4 | Tennessee            | 0.670
+  4 | Notre Dame           | 0.831
+  4 | Baylor               | 0.697
+  4 | Tennessee            | 0.671
   4 | Florida St.          | 0.562
   4 | Maryland             | 0.503
-  4 | Louisville           | 0.444
+  4 | Louisville           | 0.443
   4 | Oregon St.           | 0.245
-  4 | South Fla.           | 0.243
+  4 | South Fla.           | 0.244
   4 | Duke                 | 0.206
   4 | Arizona St.          | 0.199
   4 | Kentucky             | 0.195
-  4 | Princeton            | 0.181
-  4 | Iowa                 | 0.114
+  4 | Princeton            | 0.180
+  4 | Iowa                 | 0.113
   4 | Texas A&M            | 0.095
-  4 | Mississippi St.      | 0.087
-  4 | Northwestern         | 0.087
-  4 | Dayton               | 0.086
-  4 | FGCU                 | 0.081
+  4 | Mississippi St.      | 0.089
+  4 | Northwestern         | 0.086
+  4 | Dayton               | 0.085
   4 | Stanford             | 0.080
+  4 | FGCU                 | 0.080
   4 | North Carolina       | 0.080
   4 | Washington           | 0.047
   4 | George Washington    | 0.047
-  4 | Oklahoma             | 0.041
-  4 | DePaul               | 0.040
+  4 | Oklahoma             | 0.042
+  4 | DePaul               | 0.039
   4 | Miami (FL)           | 0.035
   4 | Ohio St.             | 0.030
-  4 | Oklahoma St.         | 0.029
-  4 | UALR                 | 0.025
+  4 | Oklahoma St.         | 0.030
+  4 | UALR                 | 0.026
   4 | Syracuse             | 0.023
   4 | Iowa St.             | 0.021
   4 | Arkansas             | 0.020
   4 | Green Bay            | 0.016
-  4 | Pittsburgh           | 0.015
   4 | Chattanooga          | 0.015
+  4 | Pittsburgh           | 0.015
   4 | James Madison        | 0.013
   4 | LSU                  | 0.011
-  4 | Ohio                 | 0.009
   4 | Nebraska             | 0.009
+  4 | Ohio                 | 0.009
   4 | Tulane               | 0.005
   4 | Texas                | 0.005
-  4 | Quinnipiac           | 0.005
   4 | South Dakota St.     | 0.004
   4 | Gonzaga              | 0.004
+  4 | Quinnipiac           | 0.004
   4 | Rutgers              | 0.003
   4 | Minnesota            | 0.003
   4 | Albany (NY)          | 0.002
@@ -194,18 +194,18 @@ BEGIN
   4 | Montana              | 0.000
   4 | Wichita St.          | 0.000
   5 | UConn                | 0.981
-  5 | South Carolina       | 0.714
+  5 | South Carolina       | 0.715
   5 | Notre Dame           | 0.631
-  5 | Tennessee            | 0.386
+  5 | Tennessee            | 0.387
   5 | Maryland             | 0.302
-  5 | Baylor               | 0.275
-  5 | Florida St.          | 0.161
+  5 | Baylor               | 0.276
+  5 | Florida St.          | 0.160
   5 | Oregon St.           | 0.095
-  5 | Princeton            | 0.087
+  5 | Princeton            | 0.086
   5 | Duke                 | 0.084
   5 | Arizona St.          | 0.036
   5 | North Carolina       | 0.033
-  5 | Mississippi St.      | 0.027
+  5 | Mississippi St.      | 0.028
   5 | Stanford             | 0.026
   5 | Iowa                 | 0.017
   5 | Northwestern         | 0.016
@@ -215,18 +215,18 @@ BEGIN
   5 | DePaul               | 0.011
   5 | Ohio St.             | 0.010
   5 | George Washington    | 0.009
-  5 | Syracuse             | 0.008
   5 | Louisville           | 0.008
+  5 | Syracuse             | 0.008
   5 | Washington           | 0.006
-  5 | South Fla.           | 0.004
   5 | Green Bay            | 0.004
-  5 | James Madison        | 0.004
   5 | Miami (FL)           | 0.004
+  5 | South Fla.           | 0.004
   5 | Oklahoma St.         | 0.003
+  5 | Texas                | 0.003
   5 | Nebraska             | 0.003
+  5 | James Madison        | 0.003
   5 | Chattanooga          | 0.002
   5 | Kentucky             | 0.002
-  5 | Texas                | 0.002
   5 | UALR                 | 0.002
   5 | Pittsburgh           | 0.002
   5 | Arkansas             | 0.002
@@ -258,15 +258,15 @@ BEGIN
   5 | Iowa St.             | 0.000
   5 | New Mexico St.       | 0.000
   6 | UConn                | 0.960
-  6 | South Carolina       | 0.445
-  6 | Notre Dame           | 0.358
-  6 | Baylor               | 0.108
+  6 | South Carolina       | 0.446
+  6 | Notre Dame           | 0.357
+  6 | Baylor               | 0.109
   6 | Florida St.          | 0.052
   6 | Tennessee            | 0.015
   6 | Maryland             | 0.012
   6 | Arizona St.          | 0.007
   6 | North Carolina       | 0.006
-  6 | Stanford             | 0.005
+  6 | Stanford             | 0.004
   6 | Louisville           | 0.003
   6 | Northwestern         | 0.003
   6 | Princeton            | 0.002
