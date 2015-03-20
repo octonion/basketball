@@ -1,61 +1,55 @@
 BEGIN
-           school_name           |       p       
----------------------------------+---------------
- Kentucky Wildcats               | 0.42547334497
- Virginia Cavaliers              | 0.13023472343
- Wisconsin Badgers               | 0.10916191093
- Arizona Wildcats                | 0.06294268787
- Villanova Wildcats              | 0.05902915469
- Duke Blue Devils                | 0.05842571291
- Gonzaga Bulldogs                | 0.04644930005
- Utah Utes                       | 0.02790455867
- North Carolina Tarheels         | 0.01584156240
- Oklahoma Sooners                | 0.01430497482
- Louisville Cardinals            | 0.00817711353
- Ohio State Buckeyes             | 0.00697824700
- Kansas Jayhawks                 | 0.00692977362
- Notre Dame Fighting Irish       | 0.00624833151
- Wichita State Shockers          | 0.00352364052
- Butler Bulldogs                 | 0.00284453536
- Michigan State Spartans         | 0.00213635587
- Iowa Hawkeyes                   | 0.00203524659
- Xavier Musketeers               | 0.00202601902
- West Virginia Mountaineers      | 0.00177025202
- Georgetown Hoyas                | 0.00161660571
- Northern Iowa Panthers          | 0.00137231000
- San Diego State Aztecs          | 0.00062104768
- Maryland Terrapins              | 0.00053005230
- Arkansas Razorbacks             | 0.00050855523
- Davidson Wildcats               | 0.00047318423
- Providence Friars               | 0.00040420895
- North Carolina State Wolfpack   | 0.00033752421
- UCLA Bruins                     | 0.00033683966
- Purdue Boilermakers             | 0.00030620212
- Oklahoma State Cowboys          | 0.00028722100
- St. John's (NY) Red Storm       | 0.00015590887
- Georgia Bulldogs                | 0.00012165872
- Indiana Hoosiers                | 0.00009508398
- Cincinnati Bearcats             | 0.00009104513
- Dayton Flyers                   | 0.00007343407
- Louisiana State Fighting Tigers | 0.00006483627
- Stephen F. Austin Lumberjacks   | 0.00004660989
- Georgia State Panthers          | 0.00003975167
- Buffalo Bulls                   | 0.00003507066
- Oregon Ducks                    | 0.00002347960
- Valparaiso Crusaders            | 0.00001193099
- Alabama-Birmingham Blazers      | 0.00000292869
- New Mexico State Aggies         | 0.00000243367
- Wyoming Cowboys                 | 0.00000187524
- California-Irvine Anteaters     | 0.00000140103
- Wofford Terriers                | 0.00000088258
- Eastern Washington Eagles       | 0.00000017529
- Albany (NY) Great Danes         | 0.00000009853
- North Dakota State Bison        | 0.00000008032
- Coastal Carolina Chanticleers   | 0.00000006511
- Belmont Bruins                  | 0.00000004464
- Robert Morris Colonials         | 0.00000000803
- Hampton Pirates                 | 0.00000000018
-(54 rows)
+          school_name          |       p       
+-------------------------------+---------------
+ Kentucky Wildcats             | 0.41445056489
+ Virginia Cavaliers            | 0.13204983469
+ Wisconsin Badgers             | 0.11498292064
+ Villanova Wildcats            | 0.07100431806
+ Arizona Wildcats              | 0.05875057040
+ Duke Blue Devils              | 0.05662306616
+ Gonzaga Bulldogs              | 0.04216086545
+ Utah Utes                     | 0.03205496016
+ North Carolina Tarheels       | 0.01388945386
+ Oklahoma Sooners              | 0.01322892996
+ Louisville Cardinals          | 0.00796144149
+ Ohio State Buckeyes           | 0.00695319690
+ Kansas Jayhawks               | 0.00638283718
+ Notre Dame Fighting Irish     | 0.00551905488
+ Butler Bulldogs               | 0.00384704903
+ Wichita State Shockers        | 0.00378757337
+ Xavier Musketeers             | 0.00279592436
+ Michigan State Spartans       | 0.00215541514
+ Iowa Hawkeyes                 | 0.00201428896
+ Georgetown Hoyas              | 0.00172662086
+ West Virginia Mountaineers    | 0.00164548551
+ Northern Iowa Panthers        | 0.00142363185
+ Arkansas Razorbacks           | 0.00060961742
+ Maryland Terrapins            | 0.00054978682
+ San Diego State Aztecs        | 0.00053371882
+ North Carolina State Wolfpack | 0.00053107347
+ Davidson Wildcats             | 0.00049321164
+ Providence Friars             | 0.00045568786
+ UCLA Bruins                   | 0.00034646751
+ Oklahoma State Cowboys        | 0.00027269523
+ Cincinnati Bearcats           | 0.00021016193
+ St. John's (NY) Red Storm     | 0.00016261744
+ Georgia Bulldogs              | 0.00011675042
+ Indiana Hoosiers              | 0.00010011134
+ Dayton Flyers                 | 0.00007629449
+ Georgia State Panthers        | 0.00004918456
+ Buffalo Bulls                 | 0.00003641101
+ Oregon Ducks                  | 0.00002452990
+ Valparaiso Crusaders          | 0.00001371687
+ Alabama-Birmingham Blazers    | 0.00000391566
+ New Mexico State Aggies       | 0.00000278554
+ Wyoming Cowboys               | 0.00000166582
+ California-Irvine Anteaters   | 0.00000125857
+ Albany (NY) Great Danes       | 0.00000010385
+ North Dakota State Bison      | 0.00000009423
+ Coastal Carolina Chanticleers | 0.00000007897
+ Belmont Bruins                | 0.00000004874
+ Robert Morris Colonials       | 0.00000000809
+(48 rows)
 
-COPY 54
+COPY 48
 COMMIT

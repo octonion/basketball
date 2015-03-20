@@ -1,8 +1,6 @@
 year,round_id,school_id,school_name,bracket,p
-2015,1,hampton,Hampton Pirates,"{1,1,1,1,1,1,1,1}",1.0
 2015,1,kentucky,Kentucky Wildcats,"{3,2,1,1,1,1,1,1}",1.0
 2015,1,cincinnati,Cincinnati Bearcats,"{4,3,2,1,1,1,1,1}",1.0
-2015,1,purdue,Purdue Boilermakers,"{5,4,2,1,1,1,1,1}",1.0
 2015,1,west-virginia,West Virginia Mountaineers,"{6,5,3,2,1,1,1,1}",1.0
 2015,1,buffalo,Buffalo Bulls,"{7,6,3,2,1,1,1,1}",1.0
 2015,1,maryland,Maryland Terrapins,"{8,7,4,2,1,1,1,1}",1.0
@@ -18,7 +16,6 @@ year,round_id,school_id,school_name,bracket,p
 2015,1,oregon,Oregon Ducks,"{20,19,10,5,3,2,1,1}",1.0
 2015,1,oklahoma-state,Oklahoma State Cowboys,"{21,20,10,5,3,2,1,1}",1.0
 2015,1,arkansas,Arkansas Razorbacks,"{22,21,11,6,3,2,1,1}",1.0
-2015,1,wofford,Wofford Terriers,"{23,22,11,6,3,2,1,1}",1.0
 2015,1,north-carolina,North Carolina Tarheels,"{24,23,12,6,3,2,1,1}",1.0
 2015,1,xavier,Xavier Musketeers,"{26,25,13,7,4,2,1,1}",1.0
 2015,1,georgia-state,Georgia State Panthers,"{30,28,14,7,4,2,1,1}",1.0
@@ -26,7 +23,6 @@ year,round_id,school_id,school_name,bracket,p
 2015,1,arizona,Arizona Wildcats,"{33,31,16,8,4,2,1,1}",1.0
 2015,1,villanova,Villanova Wildcats,"{35,33,17,9,5,3,2,1}",1.0
 2015,1,north-carolina-state,North Carolina State Wolfpack,"{37,35,18,9,5,3,2,1}",1.0
-2015,1,louisiana-state,Louisiana State Fighting Tigers,"{38,36,18,9,5,3,2,1}",1.0
 2015,1,northern-iowa,Northern Iowa Panthers,"{39,37,19,10,5,3,2,1}",1.0
 2015,1,wyoming,Wyoming Cowboys,"{40,38,19,10,5,3,2,1}",1.0
 2015,1,louisville,Louisville Cardinals,"{41,39,20,10,5,3,2,1}",1.0
@@ -44,9 +40,7 @@ year,round_id,school_id,school_name,bracket,p
 2015,1,san-diego-state,San Diego State Aztecs,"{55,51,26,13,7,4,2,1}",1.0
 2015,1,st-johns-ny,St. John's (NY) Red Storm,"{56,52,26,13,7,4,2,1}",1.0
 2015,1,utah,Utah Utes,"{57,53,27,14,7,4,2,1}",1.0
-2015,1,stephen-f-austin,Stephen F. Austin Lumberjacks,"{58,54,27,14,7,4,2,1}",1.0
 2015,1,georgetown,Georgetown Hoyas,"{59,55,28,14,7,4,2,1}",1.0
-2015,1,eastern-washington,Eastern Washington Eagles,"{60,56,28,14,7,4,2,1}",1.0
 2015,1,ucla,UCLA Bruins,"{62,58,29,15,8,4,2,1}",1.0
 2015,1,alabama-birmingham,Alabama-Birmingham Blazers,"{64,60,30,15,8,4,2,1}",1.0
 2015,1,iowa,Iowa Hawkeyes,"{65,61,31,16,8,4,2,1}",1.0
