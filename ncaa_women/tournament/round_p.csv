@@ -1,264 +1,184 @@
 rd,name,p
 2,UConn,1.000
-2,Baylor,0.998
-2,South Carolina,0.998
 2,Florida St.,0.997
 2,Maryland,0.993
-2,Notre Dame,0.986
 2,Tennessee,0.981
-2,Kentucky,0.969
 2,Louisville,0.951
 2,North Carolina,0.939
-2,Duke,0.885
-2,Oregon St.,0.879
-2,Iowa,0.871
 2,Stanford,0.856
 2,South Fla.,0.810
 2,Arizona St.,0.803
-2,Mississippi St.,0.769
 2,Princeton,0.753
 2,Rutgers,0.743
-2,DePaul,0.742
-2,Texas,0.742
-2,George Washington,0.734
 2,Oklahoma,0.722
-2,Northwestern,0.654
-2,Dayton,0.644
 2,Texas A&M,0.643
-2,California,0.607
 2,FGCU,0.605
-2,Syracuse,0.592
 2,Ohio St.,0.591
-2,Washington,0.532
 2,Pittsburgh,0.501
 2,Chattanooga,0.499
-2,Miami (FL),0.468
 2,James Madison,0.409
-2,Nebraska,0.408
 2,Oklahoma St.,0.395
-2,Wichita St.,0.393
 2,UALR,0.357
-2,Iowa St.,0.356
-2,Arkansas,0.346
 2,Quinnipiac,0.278
-2,Gonzaga,0.266
-2,Western Ky.,0.258
-2,Minnesota,0.258
 2,Seton Hall,0.257
 2,Green Bay,0.247
-2,Tulane,0.231
 2,Ohio,0.197
 2,LSU,0.190
 2,CSUN,0.144
-2,American,0.129
-2,South Dakota St.,0.121
-2,Albany (NY),0.115
 2,Liberty,0.061
 2,BYU,0.049
-2,Tennessee St.,0.031
 2,Boise St.,0.019
-2,Montana,0.014
 2,New Mexico St.,0.007
 2,Alabama St.,0.003
-2,Northwestern St.,0.002
-2,Savannah St.,0.002
 2,St. Francis Brooklyn,0.000
 3,UConn,0.995
-3,South Carolina,0.927
-3,Notre Dame,0.912
+3,South Carolina,0.920
+3,Notre Dame,0.910
 3,Tennessee,0.890
-3,Baylor,0.816
+3,Oregon St.,0.881
+3,Baylor,0.875
 3,Florida St.,0.766
 3,Maryland,0.675
-3,Oregon St.,0.675
+3,Texas,0.670
+3,Duke,0.609
 3,Louisville,0.600
-3,Duke,0.586
-3,Kentucky,0.586
+3,Iowa,0.600
 3,North Carolina,0.574
+3,Kentucky,0.555
 3,Stanford,0.540
-3,Texas,0.523
 3,Arizona St.,0.511
-3,Iowa,0.508
+3,Dayton,0.445
+3,Miami (FL),0.400
+3,Mississippi St.,0.391
 3,South Fla.,0.362
 3,Oklahoma,0.348
-3,Mississippi St.,0.340
+3,California,0.330
 3,Texas A&M,0.306
-3,Dayton,0.297
 3,Princeton,0.283
 3,Ohio St.,0.268
-3,Washington,0.258
-3,George Washington,0.241
-3,California,0.240
-3,Miami (FL),0.212
 3,FGCU,0.159
 3,James Madison,0.152
-3,Northwestern,0.140
+3,Arkansas,0.125
 3,UALR,0.123
-3,Wichita St.,0.119
-3,Western Ky.,0.118
-3,Iowa St.,0.116
+3,Gonzaga,0.119
+3,DePaul,0.090
+3,Syracuse,0.080
 3,Quinnipiac,0.078
 3,Oklahoma St.,0.075
-3,DePaul,0.075
 3,Ohio,0.060
-3,Pittsburgh,0.054
 3,Chattanooga,0.054
-3,Syracuse,0.049
-3,Tulane,0.049
-3,Gonzaga,0.044
-3,Arkansas,0.044
+3,Pittsburgh,0.054
 3,Green Bay,0.042
-3,South Dakota St.,0.040
 3,CSUN,0.034
 3,LSU,0.033
-3,Albany (NY),0.026
-3,Nebraska,0.024
-3,American,0.022
-3,Minnesota,0.011
 3,Liberty,0.006
 3,BYU,0.005
 3,Rutgers,0.005
 3,Boise St.,0.003
-3,Montana,0.002
 3,Seton Hall,0.001
-3,Tennessee St.,0.001
-3,St. Francis Brooklyn,0.000
-3,Alabama St.,0.000
-3,Northwestern St.,0.000
 3,New Mexico St.,0.000
-3,Savannah St.,0.000
-4,UConn,0.990
-4,South Carolina,0.845
-4,Notre Dame,0.831
-4,Baylor,0.697
-4,Tennessee,0.671
+3,Alabama St.,0.000
+3,St. Francis Brooklyn,0.000
+4,UConn,0.989
+4,South Carolina,0.838
+4,Notre Dame,0.830
+4,Baylor,0.745
+4,Tennessee,0.644
 4,Florida St.,0.562
-4,Maryland,0.503
-4,Louisville,0.443
-4,Oregon St.,0.245
-4,South Fla.,0.244
-4,Duke,0.206
+4,Maryland,0.494
+4,Louisville,0.437
+4,Oregon St.,0.319
+4,South Fla.,0.239
+4,Duke,0.214
 4,Arizona St.,0.199
-4,Kentucky,0.195
-4,Princeton,0.180
-4,Iowa,0.113
+4,Kentucky,0.185
+4,Princeton,0.175
+4,Iowa,0.132
+4,Dayton,0.128
+4,Mississippi St.,0.102
 4,Texas A&M,0.095
-4,Mississippi St.,0.089
-4,Northwestern,0.086
-4,Dayton,0.085
-4,Stanford,0.080
+4,North Carolina,0.081
 4,FGCU,0.080
-4,North Carolina,0.080
-4,Washington,0.047
-4,George Washington,0.047
-4,Oklahoma,0.042
-4,DePaul,0.039
-4,Miami (FL),0.035
-4,Ohio St.,0.030
+4,Stanford,0.079
+4,Miami (FL),0.066
+4,Arkansas,0.057
+4,DePaul,0.046
+4,Oklahoma,0.040
+4,Syracuse,0.038
 4,Oklahoma St.,0.030
+4,Ohio St.,0.030
 4,UALR,0.026
-4,Syracuse,0.023
-4,Iowa St.,0.021
-4,Arkansas,0.020
-4,Green Bay,0.016
-4,Chattanooga,0.015
-4,Pittsburgh,0.015
+4,Green Bay,0.015
 4,James Madison,0.013
+4,Pittsburgh,0.013
+4,Chattanooga,0.013
 4,LSU,0.011
-4,Nebraska,0.009
+4,Gonzaga,0.011
 4,Ohio,0.009
-4,Tulane,0.005
-4,Texas,0.005
-4,South Dakota St.,0.004
-4,Gonzaga,0.004
+4,Texas,0.007
 4,Quinnipiac,0.004
-4,Rutgers,0.003
-4,Minnesota,0.003
-4,Albany (NY),0.002
-4,CSUN,0.001
+4,California,0.002
+4,Rutgers,0.002
 4,BYU,0.001
-4,American,0.001
-4,California,0.001
-4,Savannah St.,0.000
-4,Western Ky.,0.000
-4,St. Francis Brooklyn,0.000
-4,Liberty,0.000
-4,Tennessee St.,0.000
+4,CSUN,0.001
 4,New Mexico St.,0.000
-4,Northwestern St.,0.000
-4,Alabama St.,0.000
+4,St. Francis Brooklyn,0.000
 4,Boise St.,0.000
 4,Seton Hall,0.000
-4,Montana,0.000
-4,Wichita St.,0.000
-5,UConn,0.981
-5,South Carolina,0.715
-5,Notre Dame,0.631
-5,Tennessee,0.387
-5,Maryland,0.302
-5,Baylor,0.276
-5,Florida St.,0.160
-5,Oregon St.,0.095
-5,Princeton,0.086
-5,Duke,0.084
+4,Alabama St.,0.000
+4,Liberty,0.000
+5,UConn,0.980
+5,South Carolina,0.709
+5,Notre Dame,0.623
+5,Tennessee,0.372
+5,Baylor,0.295
+5,Maryland,0.295
+5,Florida St.,0.162
+5,Oregon St.,0.124
+5,Duke,0.086
+5,Princeton,0.083
 5,Arizona St.,0.036
-5,North Carolina,0.033
-5,Mississippi St.,0.028
-5,Stanford,0.026
-5,Iowa,0.017
-5,Northwestern,0.016
-5,Texas A&M,0.013
+5,North Carolina,0.034
+5,Mississippi St.,0.031
+5,Stanford,0.024
+5,Iowa,0.020
+5,Syracuse,0.014
+5,Texas A&M,0.014
+5,DePaul,0.013
 5,FGCU,0.012
 5,Oklahoma,0.011
-5,DePaul,0.011
 5,Ohio St.,0.010
-5,George Washington,0.009
 5,Louisville,0.008
-5,Syracuse,0.008
-5,Washington,0.006
+5,Miami (FL),0.007
+5,Arkansas,0.007
 5,Green Bay,0.004
-5,Miami (FL),0.004
 5,South Fla.,0.004
-5,Oklahoma St.,0.003
 5,Texas,0.003
-5,Nebraska,0.003
+5,Oklahoma St.,0.003
 5,James Madison,0.003
-5,Chattanooga,0.002
-5,Kentucky,0.002
 5,UALR,0.002
+5,Kentucky,0.002
 5,Pittsburgh,0.002
-5,Arkansas,0.002
+5,Chattanooga,0.002
+5,Quinnipiac,0.001
+5,Rutgers,0.001
+5,California,0.001
 5,Ohio,0.001
 5,Dayton,0.001
-5,Quinnipiac,0.001
-5,Tulane,0.001
-5,Rutgers,0.001
-5,South Dakota St.,0.000
-5,American,0.000
-5,Northwestern St.,0.000
-5,BYU,0.000
+5,Gonzaga,0.001
+5,Alabama St.,0.000
+5,Boise St.,0.000
 5,Seton Hall,0.000
-5,Gonzaga,0.000
-5,Albany (NY),0.000
 5,CSUN,0.000
 5,St. Francis Brooklyn,0.000
-5,Alabama St.,0.000
-5,LSU,0.000
-5,Minnesota,0.000
-5,Western Ky.,0.000
-5,Tennessee St.,0.000
-5,Montana,0.000
-5,Boise St.,0.000
 5,Liberty,0.000
-5,Savannah St.,0.000
-5,California,0.000
-5,Wichita St.,0.000
-5,Iowa St.,0.000
+5,BYU,0.000
+5,LSU,0.000
 5,New Mexico St.,0.000
-6,UConn,0.960
-6,South Carolina,0.446
-6,Notre Dame,0.357
-6,Baylor,0.109
+6,UConn,0.959
+6,South Carolina,0.442
+6,Notre Dame,0.354
+6,Baylor,0.117
 6,Florida St.,0.052
 6,Tennessee,0.015
 6,Maryland,0.012
@@ -266,120 +186,88 @@ rd,name,p
 6,North Carolina,0.006
 6,Stanford,0.004
 6,Louisville,0.003
-6,Northwestern,0.003
-6,Princeton,0.002
-6,FGCU,0.002
-6,Oregon St.,0.002
-6,Iowa,0.002
-6,DePaul,0.002
-6,Oklahoma,0.002
-6,Ohio St.,0.002
+6,Iowa,0.003
+6,Oregon St.,0.003
 6,Duke,0.002
+6,Ohio St.,0.002
+6,FGCU,0.002
+6,Syracuse,0.002
+6,Princeton,0.002
+6,Oklahoma,0.002
+6,DePaul,0.002
 6,Texas A&M,0.002
-6,Washington,0.001
-6,Syracuse,0.001
-6,Texas,0.001
+6,Mississippi St.,0.001
 6,South Fla.,0.001
-6,American,0.000
-6,BYU,0.000
-6,Gonzaga,0.000
-6,Liberty,0.000
-6,George Washington,0.000
-6,Miami (FL),0.000
-6,Tulane,0.000
-6,Mississippi St.,0.000
-6,Alabama St.,0.000
-6,Tennessee St.,0.000
-6,Dayton,0.000
-6,Oklahoma St.,0.000
-6,Boise St.,0.000
+6,Arkansas,0.001
+6,Miami (FL),0.001
+6,Texas,0.001
 6,Pittsburgh,0.000
-6,Ohio,0.000
+6,CSUN,0.000
+6,Quinnipiac,0.000
+6,Seton Hall,0.000
+6,LSU,0.000
+6,St. Francis Brooklyn,0.000
+6,New Mexico St.,0.000
+6,James Madison,0.000
+6,Liberty,0.000
 6,California,0.000
-6,South Dakota St.,0.000
+6,Rutgers,0.000
 6,Kentucky,0.000
 6,Green Bay,0.000
 6,UALR,0.000
-6,LSU,0.000
-6,St. Francis Brooklyn,0.000
-6,Northwestern St.,0.000
-6,Arkansas,0.000
-6,New Mexico St.,0.000
-6,Western Ky.,0.000
-6,Savannah St.,0.000
-6,Wichita St.,0.000
-6,CSUN,0.000
-6,Quinnipiac,0.000
-6,Albany (NY),0.000
-6,Nebraska,0.000
-6,Seton Hall,0.000
-6,Iowa St.,0.000
+6,Alabama St.,0.000
+6,Dayton,0.000
+6,Oklahoma St.,0.000
+6,Boise St.,0.000
 6,Chattanooga,0.000
-6,Minnesota,0.000
-6,James Madison,0.000
-6,Montana,0.000
-6,Rutgers,0.000
+6,Gonzaga,0.000
+6,BYU,0.000
+6,Ohio,0.000
 7,UConn,0.913
 7,South Carolina,0.039
 7,Notre Dame,0.028
 7,Tennessee,0.005
-7,Baylor,0.005
 7,Maryland,0.005
+7,Baylor,0.005
 7,Florida St.,0.002
+7,Oregon St.,0.001
 7,Louisville,0.001
 7,Princeton,0.001
-7,Iowa St.,0.000
-7,Washington,0.000
-7,Duke,0.000
-7,Albany (NY),0.000
-7,Nebraska,0.000
-7,Seton Hall,0.000
-7,CSUN,0.000
-7,Quinnipiac,0.000
-7,Iowa,0.000
-7,Texas A&M,0.000
-7,Wichita St.,0.000
-7,Savannah St.,0.000
-7,Western Ky.,0.000
-7,DePaul,0.000
-7,South Fla.,0.000
-7,Arkansas,0.000
-7,New Mexico St.,0.000
-7,Northwestern St.,0.000
-7,UALR,0.000
-7,LSU,0.000
-7,St. Francis Brooklyn,0.000
-7,Kentucky,0.000
-7,Green Bay,0.000
-7,Oklahoma,0.000
-7,South Dakota St.,0.000
-7,California,0.000
-7,Ohio,0.000
 7,Pittsburgh,0.000
-7,American,0.000
+7,Miami (FL),0.000
 7,Boise St.,0.000
 7,Oklahoma St.,0.000
 7,Dayton,0.000
 7,Alabama St.,0.000
 7,North Carolina,0.000
-7,Tennessee St.,0.000
-7,Mississippi St.,0.000
-7,Stanford,0.000
-7,Oregon St.,0.000
-7,Tulane,0.000
-7,George Washington,0.000
-7,Miami (FL),0.000
-7,Liberty,0.000
-7,Arizona St.,0.000
-7,Gonzaga,0.000
-7,BYU,0.000
 7,Rutgers,0.000
-7,Ohio St.,0.000
-7,Northwestern,0.000
 7,James Madison,0.000
-7,Montana,0.000
 7,Syracuse,0.000
 7,Texas,0.000
-7,Minnesota,0.000
 7,FGCU,0.000
 7,Chattanooga,0.000
+7,Duke,0.000
+7,Seton Hall,0.000
+7,Mississippi St.,0.000
+7,CSUN,0.000
+7,Quinnipiac,0.000
+7,Stanford,0.000
+7,Iowa,0.000
+7,Texas A&M,0.000
+7,DePaul,0.000
+7,South Fla.,0.000
+7,Liberty,0.000
+7,Arkansas,0.000
+7,New Mexico St.,0.000
+7,Arizona St.,0.000
+7,UALR,0.000
+7,LSU,0.000
+7,St. Francis Brooklyn,0.000
+7,Kentucky,0.000
+7,Green Bay,0.000
+7,Gonzaga,0.000
+7,BYU,0.000
+7,Ohio St.,0.000
+7,Oklahoma,0.000
+7,California,0.000
+7,Ohio,0.000
