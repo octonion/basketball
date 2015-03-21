@@ -1,19 +1,14 @@
 date,type,site,home,str,score,away,str,score,pwin
-2015-03-20,NCAA,neutral,Albany (NY) Great Danes,1.02,54.6,Oklahoma Sooners,1.31,70.0,0.07
-2015-03-20,NCAA,neutral,Belmont Bruins,1.02,50.0,Virginia Cavaliers,1.44,70.8,0.03
-2015-03-20,NCAA,neutral,Buffalo Bulls,1.13,70.0,West Virginia Mountaineers,1.23,76.1,0.30
-2015-03-20,NCAA,neutral,California-Irvine Anteaters,1.07,54.6,Louisville Cardinals,1.29,65.9,0.13
-2015-03-20,NCAA,neutral,Coastal Carolina Chanticleers,1.02,51.7,Wisconsin Badgers,1.43,72.5,0.03
-2015-03-20,NCAA,neutral,Davidson Wildcats,1.19,68.9,Iowa Hawkeyes,1.24,71.3,0.42
-2015-03-20,NCAA,neutral,Dayton Flyers,1.16,61.8,Providence Friars,1.21,64.2,0.40
-2015-03-20,NCAA,neutral,Duke Blue Devils,1.37,83.3,Robert Morris Colonials,0.97,59.1,0.97
-2015-03-20,CIT,home,Eastern Kentucky Colonels,1.09,68.4,High Point Panthers,1.00,62.5,0.72
-2015-03-20,NCAA,neutral,Georgia Bulldogs,1.18,60.8,Michigan State Spartans,1.26,64.9,0.34
-2015-03-20,NCAA,neutral,Gonzaga Bulldogs,1.34,71.7,North Dakota State Bison,1.00,53.5,0.95
-2015-03-20,NCAA,neutral,Indiana Hoosiers,1.17,65.9,Wichita State Shockers,1.27,71.7,0.30
-2015-03-20,NCAA,neutral,Kansas Jayhawks,1.28,70.4,New Mexico State Aggies,1.08,59.6,0.85
-2015-03-20,NCAA,neutral,Maryland Terrapins,1.20,63.0,Valparaiso Crusaders,1.11,58.4,0.69
-2015-03-20,NCAA,neutral,Northern Iowa Panthers,1.23,56.2,Wyoming Cowboys,1.07,48.9,0.80
-2015-03-20,NCAA,neutral,Oklahoma State Cowboys,1.20,69.0,Oregon Ducks,1.14,65.7,0.62
-2015-03-20,NCAA,neutral,San Diego State Aztecs,1.21,57.3,St. John's (NY) Red Storm,1.18,55.9,0.57
-2015-03-20,NIT,home,Vanderbilt Commodores,1.23,72.8,South Dakota State Jackrabbits,1.08,64.0,0.79
+2015-03-21,NCAA,neutral,Alabama-Birmingham Blazers,1.03,63.1,UCLA Bruins,1.14,69.6,0.27
+2015-03-21,NCAA,neutral,Arizona Wildcats,1.39,69.7,Ohio State Buckeyes,1.29,64.8,0.68
+2015-03-21,NCAA,neutral,Arkansas Razorbacks,1.21,73.9,North Carolina Tar Heels,1.32,80.6,0.29
+2015-03-21,CIT,home,Bowling Green State Falcons,1.14,64.8,Canisius Golden Griffins,1.01,57.4,0.78
+2015-03-21,NCAA,neutral,Butler Bulldogs,1.26,65.3,Notre Dame Fighting Irish,1.27,65.9,0.47
+2015-03-21,NCAA,neutral,Cincinnati Bearcats,1.16,47.7,Kentucky Wildcats,1.53,62.6,0.06
+2015-03-21,NCAA,neutral,Georgetown Hoyas,1.23,57.6,Utah Utes,1.34,62.8,0.29
+2015-03-21,NCAA,neutral,Georgia State Panthers,1.12,62.6,Xavier Musketeers,1.24,69.0,0.27
+2015-03-21,NIT,home,Miami (FL) Hurricanes,1.24,66.0,Alabama Crimson Tide,1.15,61.2,0.68
+2015-03-21,NCAA,neutral,North Carolina State Wolfpack,1.20,61.7,Villanova Wildcats,1.39,71.6,0.18
+2015-03-21,CIT,home,Sacramento State Hornets,1.02,68.1,Northern Arizona Lumberjacks,0.97,65.1,0.61
+2015-03-21,CIT,home,Sam Houston State Bearkats,1.15,71.4,Louisiana-Lafayette Ragin' Cajuns,1.04,64.9,0.73
+2015-03-21,CIT,home,South Carolina Upstate Spartans,1.06,67.2,Tennessee-Martin Skyhawks,0.99,63.2,0.65
