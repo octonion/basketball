@@ -1,69 +1,69 @@
-year,school_name,region_id,seed,ncaa_order,octonion_rank,octonion_order,octonion_seed
-2015,Kentucky,midwest,1,1,1,1,1
-2015,Villanova,east,1,2,6,6,2
-2015,Duke,south,1,3,5,5,2
-2015,Wisconsin,west,1,4,3,3,1
-2015,Virginia,east,2,5,2,2,1
-2015,Arizona,west,2,6,4,4,1
-2015,Gonzaga,south,2,7,7,7,2
-2015,Kansas,midwest,2,8,15,15,4
-2015,Iowa State,south,3,9,13,13,4
-2015,Baylor,west,3,10,11,11,3
-2015,Oklahoma,east,3,11,10,10,3
-2015,Notre Dame,midwest,3,12,16,16,4
-2015,North Carolina,west,4,13,9,9,3
-2015,Maryland,midwest,4,14,31,30,8
-2015,Louisville,east,4,15,14,14,4
-2015,Georgetown,south,4,16,23,23,6
-2015,Utah,south,5,17,8,8,2
-2015,Arkansas,west,5,18,27,27,7
-2015,West Virginia,midwest,5,19,22,22,6
-2015,Northern Iowa,east,5,20,24,24,6
-2015,SMU,south,6,21,29,28,7
-2015,Providence,east,6,22,30,29,8
-2015,Butler,midwest,6,23,20,20,5
-2015,Xavier,west,6,24,25,25,7
-2015,Michigan State,east,7,25,19,19,5
-2015,Wichita State,midwest,7,26,18,18,5
-2015,Iowa,south,7,27,21,21,6
-2015,VCU,west,7,28,37,36,9
-2015,Cincinnati,midwest,8,29,48,42,11
-2015,Oregon,west,8,30,60,47,12
-2015,NC State,east,8,31,33,32,8
-2015,San Diego State,south,8,32,26,26,7
-2015,St. John's,south,9,33,42,39,10
-2015,Oklahoma State,west,9,34,32,31,8
-2015,LSU,east,9,35,52,44,11
-2015,Purdue,midwest,9,36,35,34,9
-2015,Indiana,midwest,10,37,46,41,11
-2015,Davidson,south,10,38,36,35,9
-2015,Ohio State,west,10,39,12,12,3
-2015,Georgia,east,10,40,38,37,10
-2015,Texas,midwest,11,41,17,17,5
-2015,UCLA,south,11,42,59,46,11
-2015,Ole Miss,west,11,43,44,40,10
-2015,BYU,west,11,44,34,33,9
-2015,Boise State,east,11,45,40,38,10
-2015,Dayton,east,11,46,50,43,11
-2015,Wyoming,east,12,47,101,53,13
-2015,Buffalo,midwest,12,48,64,48,12
-2015,Wofford,west,12,49,109,55,14
-2015,Stephen F. Austin,south,12,50,54,45,11
-2015,Valpariaso,midwest,13,51,75,50,12
-2015,Harvard,west,13,52,95,52,13
-2015,Eastern Washington,south,13,53,142,58,14
-2015,UC Irvine,east,13,54,108,54,13
-2015,Georgia State,west,14,55,72,49,12
-2015,Northeastern,midwest,14,56,129,56,14
-2015,UAB,south,14,57,140,57,14
-2015,Albany,east,14,58,144,59,15
-2015,New Mexico State,midwest,15,59,93,51,13
-2015,Belmont,east,15,60,152,62,15
-2015,Texas Southern,west,15,61,229,67,16
-2015,North Dakota State,south,15,62,163,64,16
-2015,Lafayette,east,16,63,190,65,16
-2015,Coastal Carolina,west,16,64,147,61,15
-2015,North Florida,south,16,65,146,60,15
-2015,Robert Morris,south,16,66,194,66,16
-2015,Manhattan,midwest,16,67,160,63,16
-2015,Hampton,midwest,16,68,278,68,16
+year,school_name,region_id,seed,ncaa_order,octonion_rank,octonion_order,octonion_seed,seed_diff
+2015,Kentucky,midwest,1,1,1,1,1,0
+2015,Villanova,east,1,2,6,6,2,-1
+2015,Duke,south,1,3,5,5,2,-1
+2015,Wisconsin,west,1,4,3,3,1,0
+2015,Virginia,east,2,5,2,2,1,1
+2015,Arizona,west,2,6,4,4,1,1
+2015,Gonzaga,south,2,7,7,7,2,0
+2015,Kansas,midwest,2,8,15,15,4,-2
+2015,Iowa State,south,3,9,13,13,4,-1
+2015,Baylor,west,3,10,11,11,3,0
+2015,Oklahoma,east,3,11,10,10,3,0
+2015,Notre Dame,midwest,3,12,16,16,4,-1
+2015,North Carolina,west,4,13,9,9,3,1
+2015,Maryland,midwest,4,14,31,30,8,-4
+2015,Louisville,east,4,15,14,14,4,0
+2015,Georgetown,south,4,16,23,23,6,-2
+2015,Utah,south,5,17,8,8,2,3
+2015,Arkansas,west,5,18,27,27,7,-2
+2015,West Virginia,midwest,5,19,22,22,6,-1
+2015,Northern Iowa,east,5,20,24,24,6,-1
+2015,SMU,south,6,21,29,28,7,-1
+2015,Providence,east,6,22,30,29,8,-2
+2015,Butler,midwest,6,23,20,20,5,1
+2015,Xavier,west,6,24,25,25,7,-1
+2015,Michigan State,east,7,25,19,19,5,2
+2015,Wichita State,midwest,7,26,18,18,5,2
+2015,Iowa,south,7,27,21,21,6,1
+2015,VCU,west,7,28,37,36,9,-2
+2015,Cincinnati,midwest,8,29,48,42,11,-3
+2015,Oregon,west,8,30,60,47,12,-4
+2015,NC State,east,8,31,33,32,8,0
+2015,San Diego State,south,8,32,26,26,7,1
+2015,St. John's,south,9,33,42,39,10,-1
+2015,Oklahoma State,west,9,34,32,31,8,1
+2015,LSU,east,9,35,52,44,11,-2
+2015,Purdue,midwest,9,36,35,34,9,0
+2015,Indiana,midwest,10,37,46,41,11,-1
+2015,Davidson,south,10,38,36,35,9,1
+2015,Ohio State,west,10,39,12,12,3,7
+2015,Georgia,east,10,40,38,37,10,0
+2015,Texas,midwest,11,41,17,17,5,6
+2015,UCLA,south,11,42,59,46,11,0
+2015,Ole Miss,west,11,43,44,40,10,1
+2015,BYU,west,11,44,34,33,9,2
+2015,Boise State,east,11,45,40,38,10,1
+2015,Dayton,east,11,46,50,43,11,0
+2015,Wyoming,east,12,47,101,53,13,-1
+2015,Buffalo,midwest,12,48,64,48,12,0
+2015,Wofford,west,12,49,109,55,14,-2
+2015,Stephen F. Austin,south,12,50,54,45,11,1
+2015,Valpariaso,midwest,13,51,75,50,12,1
+2015,Harvard,west,13,52,95,52,13,0
+2015,Eastern Washington,south,13,53,142,58,14,-1
+2015,UC Irvine,east,13,54,108,54,13,0
+2015,Georgia State,west,14,55,72,49,12,2
+2015,Northeastern,midwest,14,56,129,56,14,0
+2015,UAB,south,14,57,140,57,14,0
+2015,Albany,east,14,58,144,59,15,-1
+2015,New Mexico State,midwest,15,59,93,51,13,2
+2015,Belmont,east,15,60,152,62,15,0
+2015,Texas Southern,west,15,61,229,67,16,-1
+2015,North Dakota State,south,15,62,163,64,16,-1
+2015,Lafayette,east,16,63,190,65,16,0
+2015,Coastal Carolina,west,16,64,147,61,15,1
+2015,North Florida,south,16,65,146,60,15,1
+2015,Robert Morris,south,16,66,194,66,16,0
+2015,Manhattan,midwest,16,67,160,63,16,0
+2015,Hampton,midwest,16,68,278,68,16,0
