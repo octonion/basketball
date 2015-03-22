@@ -1,24 +1,11 @@
 date,type,site,home,str,score,away,str,score,pwin
-2015-03-21,NCAA,neutral,Alabama-Birmingham Blazers,1.03,63.1,UCLA Bruins,1.14,69.6,0.27
-2015-03-21,NCAA,neutral,Arizona Wildcats,1.39,69.7,Ohio State Buckeyes,1.29,64.8,0.68
-2015-03-21,NCAA,neutral,Arkansas Razorbacks,1.21,73.9,North Carolina Tar Heels,1.32,80.6,0.29
-2015-03-21,CIT,home,Bowling Green State Falcons,1.14,64.8,Canisius Golden Griffins,1.01,57.4,0.78
-2015-03-21,NCAA,neutral,Butler Bulldogs,1.26,65.3,Notre Dame Fighting Irish,1.27,65.9,0.47
-2015-03-21,NCAA,neutral,Cincinnati Bearcats,1.16,47.7,Kentucky Wildcats,1.53,62.6,0.06
 2015-03-23,CIT,home,Eastern Illinois Panthers,1.00,62.9,Evansville Purple Aces,1.03,64.9,0.42
-2015-03-21,NCAA,neutral,Georgetown Hoyas,1.23,57.6,Utah Utes,1.34,62.8,0.29
-2015-03-21,NCAA,neutral,Georgia State Panthers,1.12,62.6,Xavier Musketeers,1.24,69.0,0.27
 2015-03-23,CBI,home,Loyola (IL) Ramblers,1.09,68.5,Oral Roberts Golden Eagles,0.96,60.2,0.79
 2015-03-23,CBI,home,Mercer Bears,1.04,58.4,Louisiana-Monroe Warhawks,0.98,55.1,0.65
-2015-03-21,NIT,home,Miami (FL) Hurricanes,1.24,66.0,Alabama Crimson Tide,1.15,61.2,0.68
 2015-03-23,CIT,home,NJIT Highlanders,1.03,63.4,Cleveland State Vikings,1.07,65.9,0.40
-2015-03-21,NCAA,neutral,North Carolina State Wolfpack,1.20,61.7,Villanova Wildcats,1.39,71.6,0.18
 2015-03-23,NIT,home,Old Dominion Monarchs,1.20,61.5,Illinois State Redbirds,1.13,58.0,0.65
 2015-03-22,NIT,home,Richmond Spiders,1.20,64.9,Arizona State Sun Devils,1.13,61.2,0.65
-2015-03-21,CIT,home,Sacramento State Hornets,1.02,68.1,Northern Arizona Lumberjacks,0.97,65.1,0.61
-2015-03-21,CIT,home,Sam Houston State Bearkats,1.15,71.4,Louisiana-Lafayette Ragin' Cajuns,1.04,64.9,0.73
 2015-03-23,CBI,home,Seattle Redhawks,0.99,58.7,Colorado Buffaloes,1.08,64.4,0.28
-2015-03-21,CIT,home,South Carolina Upstate Spartans,1.06,67.2,Tennessee-Martin Skyhawks,0.99,63.2,0.65
 2015-03-22,NIT,home,Stanford Cardinal,1.24,67.4,Rhode Island Rams,1.15,62.4,0.69
 2015-03-22,NIT,home,Temple Owls,1.17,61.1,George Washington Colonials,1.13,58.9,0.60
 2015-03-23,NIT,home,Texas A&M Aggies,1.22,70.0,Louisiana Tech Bulldogs,1.11,63.5,0.73
