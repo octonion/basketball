@@ -1,135 +1,135 @@
-[1] 635588      8
+[1] 635660      8
 [1] TRUE
-[1] 635588      7
+[1] 635660      7
 Linear mixed model fit by maximum likelihood  ['lmerMod']
 Formula: log_ps ~ year + field + game_length + (1 | offense) + (1 | defense) +  
     (1 | game_id)
    Data: g
       AIC       BIC    logLik  deviance  df.resid 
--695704.0 -695147.3  347901.0 -695802.0    635539 
+-695775.6 -695218.9  347936.8 -695873.6    635611 
 Random effects:
  Groups   Name        Std.Dev.
  game_id  (Intercept) 0.09292 
- defense  (Intercept) 0.09027 
+ defense  (Intercept) 0.09026 
  offense  (Intercept) 0.09460 
  Residual             0.10405 
-Number of obs: 635588, groups:  game_id, 317794; defense, 11111; offense, 11111
+Number of obs: 635660, groups:  game_id, 317830; defense, 11111; offense, 11111
 Fixed Effects:
       (Intercept)           year1981           year1982           year1983  
-          4.22673           -0.02772           -0.06809           -0.03961  
+         4.226728          -0.027725          -0.068087          -0.039605  
          year1984           year1985           year1986           year1987  
-         -0.05483           -0.03522           -0.03505            0.01047  
+        -0.054828          -0.035224          -0.035049           0.010471  
          year1988           year1989           year1990           year1991  
-          0.02630            0.05239            0.04063            0.06129  
+         0.026297           0.052390           0.040632           0.061293  
          year1992           year1993           year1994           year1995  
-          0.02529            0.02345            0.04509            0.02835  
+         0.025288           0.023446           0.045092           0.028353  
          year1996           year1997           year1998           year1999  
-          0.00397           -0.02339           -0.01068           -0.02717  
+         0.003971          -0.023388          -0.010675          -0.027174  
          year2000           year2001           year2002           year2003  
-         -0.02848           -0.01697           -0.01755           -0.03224  
+        -0.028483          -0.016968          -0.017548          -0.032236  
          year2004           year2005           year2006           year2007  
-         -0.04357           -0.04776           -0.05002           -0.04600  
+        -0.043568          -0.047757          -0.050014          -0.046002  
          year2008           year2009           year2010           year2011  
-         -0.04580           -0.05654           -0.04955           -0.05237  
+        -0.045801          -0.056536          -0.049551          -0.052374  
          year2012           year2013           year2014           year2015  
-         -0.06723           -0.07513           -0.02495           -0.07549  
+        -0.067230          -0.075125          -0.024946          -0.075279  
      fieldneutral  fieldoffense_home     game_length1OT     game_length2OT  
-          0.01191            0.05797            0.10074            0.20555  
+         0.011966           0.057974           0.100724           0.205531  
    game_length3OT     game_length4OT     game_length5OT     game_length6OT  
-          0.29147            0.37803            0.46517            0.51485  
+         0.291449           0.378046           0.465184           0.514806  
    game_length7OT  
-          0.16117  
+         0.161180  
 Linear mixed model fit by maximum likelihood  ['lmerMod']
 Formula: log_ps ~ year + field + game_length + (1 | offense) + (1 | defense) +  
     (1 | game_id)
    Data: g
 
       AIC       BIC    logLik  deviance  df.resid 
--695704.0 -695147.3  347901.0 -695802.0    635539 
+-695775.6 -695218.9  347936.8 -695873.6    635611 
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--6.4163 -0.5152  0.0304  0.5516  4.0895 
+-6.4162 -0.5152  0.0305  0.5515  4.0895 
 
 Random effects:
  Groups   Name        Variance Std.Dev.
  game_id  (Intercept) 0.008634 0.09292 
- defense  (Intercept) 0.008148 0.09027 
- offense  (Intercept) 0.008949 0.09460 
+ defense  (Intercept) 0.008146 0.09026 
+ offense  (Intercept) 0.008948 0.09460 
  Residual             0.010827 0.10405 
-Number of obs: 635588, groups:  game_id, 317794; defense, 11111; offense, 11111
+Number of obs: 635660, groups:  game_id, 317830; defense, 11111; offense, 11111
 
 Fixed effects:
                     Estimate Std. Error t value
-(Intercept)        4.2267348  0.0082561   512.0
-year1981          -0.0277246  0.0116203    -2.4
-year1982          -0.0680862  0.0115231    -5.9
-year1983          -0.0396052  0.0115101    -3.4
-year1984          -0.0548281  0.0114989    -4.8
-year1985          -0.0352236  0.0114293    -3.1
-year1986          -0.0350485  0.0114191    -3.1
-year1987           0.0104715  0.0113523     0.9
-year1988           0.0262973  0.0113514     2.3
-year1989           0.0523901  0.0113232     4.6
-year1990           0.0406325  0.0113317     3.6
-year1991           0.0612931  0.0113039     5.4
-year1992           0.0252877  0.0112779     2.2
-year1993           0.0234460  0.0112808     2.1
-year1994           0.0450921  0.0112538     4.0
-year1995           0.0283526  0.0112452     2.5
-year1996           0.0039704  0.0112196     0.4
-year1997          -0.0233879  0.0112191    -2.1
-year1998          -0.0106752  0.0112108    -1.0
-year1999          -0.0271733  0.0111778    -2.4
-year2000          -0.0284839  0.0111106    -2.6
-year2001          -0.0169692  0.0111115    -1.5
-year2002          -0.0175483  0.0110875    -1.6
-year2003          -0.0322371  0.0110574    -2.9
-year2004          -0.0435699  0.0110501    -3.9
-year2005          -0.0477582  0.0110503    -4.3
-year2006          -0.0500154  0.0110509    -4.5
-year2007          -0.0460024  0.0110552    -4.2
-year2008          -0.0458021  0.0110326    -4.2
-year2009          -0.0565368  0.0110177    -5.1
-year2010          -0.0495520  0.0109887    -4.5
-year2011          -0.0523744  0.0109095    -4.8
-year2012          -0.0672308  0.0109161    -6.2
-year2013          -0.0751253  0.0108954    -6.9
-year2014          -0.0249470  0.0108694    -2.3
-year2015          -0.0754856  0.0108700    -6.9
-fieldneutral       0.0119105  0.0007141    16.7
-fieldoffense_home  0.0579721  0.0002890   200.6
-game_length1OT     0.1007418  0.0013467    74.8
-game_length2OT     0.2055542  0.0032278    63.7
-game_length3OT     0.2914684  0.0076566    38.1
-game_length4OT     0.3780254  0.0180694    20.9
-game_length5OT     0.4651654  0.0859598     5.4
-game_length6OT     0.5148461  0.0860968     6.0
-game_length7OT     0.1611736  0.0867075     1.9
+(Intercept)        4.2267281  0.0082556   512.0
+year1981          -0.0277247  0.0116197    -2.4
+year1982          -0.0680866  0.0115225    -5.9
+year1983          -0.0396055  0.0115095    -3.4
+year1984          -0.0548282  0.0114983    -4.8
+year1985          -0.0352238  0.0114286    -3.1
+year1986          -0.0350488  0.0114185    -3.1
+year1987           0.0104709  0.0113517     0.9
+year1988           0.0262970  0.0113508     2.3
+year1989           0.0523897  0.0113225     4.6
+year1990           0.0406318  0.0113311     3.6
+year1991           0.0612929  0.0113033     5.4
+year1992           0.0252875  0.0112773     2.2
+year1993           0.0234459  0.0112801     2.1
+year1994           0.0450919  0.0112532     4.0
+year1995           0.0283529  0.0112446     2.5
+year1996           0.0039705  0.0112190     0.4
+year1997          -0.0233879  0.0112185    -2.1
+year1998          -0.0106753  0.0112102    -1.0
+year1999          -0.0271736  0.0111772    -2.4
+year2000          -0.0284832  0.0111100    -2.6
+year2001          -0.0169677  0.0111109    -1.5
+year2002          -0.0175478  0.0110869    -1.6
+year2003          -0.0322357  0.0110568    -2.9
+year2004          -0.0435683  0.0110495    -3.9
+year2005          -0.0477568  0.0110497    -4.3
+year2006          -0.0500141  0.0110503    -4.5
+year2007          -0.0460016  0.0110546    -4.2
+year2008          -0.0458011  0.0110320    -4.2
+year2009          -0.0565357  0.0110171    -5.1
+year2010          -0.0495513  0.0109881    -4.5
+year2011          -0.0523737  0.0109089    -4.8
+year2012          -0.0672300  0.0109155    -6.2
+year2013          -0.0751247  0.0108948    -6.9
+year2014          -0.0249463  0.0108688    -2.3
+year2015          -0.0752788  0.0108693    -6.9
+fieldneutral       0.0119658  0.0007138    16.8
+fieldoffense_home  0.0579743  0.0002890   200.6
+game_length1OT     0.1007241  0.0013467    74.8
+game_length2OT     0.2055315  0.0032278    63.7
+game_length3OT     0.2914490  0.0076567    38.1
+game_length4OT     0.3780464  0.0180692    20.9
+game_length5OT     0.4651841  0.0859614     5.4
+game_length6OT     0.5148062  0.0860984     6.0
+game_length7OT     0.1611797  0.0867090     1.9
 Linear mixed model fit by maximum likelihood  ['lmerMod']
 Formula: log_ps ~ year * field + game_length + (1 | offense) + (1 | defense) +  
     (1 | game_id)
    Data: g
       AIC       BIC    logLik  deviance  df.resid 
--696014.9 -694662.8  348126.4 -696252.9    635469 
+-696086.3 -694734.2  348162.2 -696324.3    635541 
 Random effects:
  Groups   Name        Std.Dev.
  game_id  (Intercept) 0.09288 
- defense  (Intercept) 0.09026 
+ defense  (Intercept) 0.09025 
  offense  (Intercept) 0.09462 
- Residual             0.10401 
-Number of obs: 635588, groups:  game_id, 317794; defense, 11111; offense, 11111
+ Residual             0.10402 
+Number of obs: 635660, groups:  game_id, 317830; defense, 11111; offense, 11111
 Fixed Effects:
                (Intercept)                    year1981  
-                 4.2244440                  -0.0254172  
+                 4.2244439                  -0.0254171  
                   year1982                    year1983  
-                -0.0671410                  -0.0342781  
+                -0.0671409                  -0.0342780  
                   year1984                    year1985  
-                -0.0507684                  -0.0310158  
+                -0.0507684                  -0.0310157  
                   year1986                    year1987  
                 -0.0337303                   0.0110929  
                   year1988                    year1989  
-                 0.0252641                   0.0553744  
+                 0.0252642                   0.0553745  
                   year1990                    year1991  
                  0.0419997                   0.0625964  
                   year1992                    year1993  
@@ -141,249 +141,249 @@ Fixed Effects:
                   year1998                    year1999  
                 -0.0066089                  -0.0271833  
                   year2000                    year2001  
-                -0.0278149                  -0.0170871  
+                -0.0278141                  -0.0170862  
                   year2002                    year2003  
-                -0.0190098                  -0.0314615  
+                -0.0190090                  -0.0314609  
                   year2004                    year2005  
-                -0.0420440                  -0.0468250  
+                -0.0420432                  -0.0468242  
                   year2006                    year2007  
-                -0.0459242                  -0.0454219  
+                -0.0459234                  -0.0454212  
                   year2008                    year2009  
-                -0.0449582                  -0.0518898  
+                -0.0449574                  -0.0518890  
                   year2010                    year2011  
-                -0.0456941                  -0.0480220  
+                -0.0456934                  -0.0480212  
                   year2012                    year2013  
-                -0.0652734                  -0.0728489  
+                -0.0652726                  -0.0728482  
                   year2014                    year2015  
-                -0.0178878                  -0.0696426  
+                -0.0178869                  -0.0696359  
               fieldneutral           fieldoffense_home  
-                 0.0519474                   0.0538853  
+                 0.0519475                   0.0538855  
             game_length1OT              game_length2OT  
-                 0.1007926                   0.2055552  
+                 0.1007792                   0.2055392  
             game_length3OT              game_length4OT  
-                 0.2915309                   0.3776585  
+                 0.2915142                   0.3776209  
             game_length5OT              game_length6OT  
-                 0.4688926                   0.5150712  
+                 0.4688915                   0.5150700  
             game_length7OT       year1981:fieldneutral  
-                 0.1626979                  -0.0288932  
+                 0.1626965                  -0.0288932  
      year1982:fieldneutral       year1983:fieldneutral  
-                -0.0292124                  -0.0648871  
+                -0.0292122                  -0.0648870  
      year1984:fieldneutral       year1985:fieldneutral  
-                -0.0487927                  -0.0459765  
+                -0.0487925                  -0.0459763  
      year1986:fieldneutral       year1987:fieldneutral  
-                -0.0346380                  -0.0212501  
+                -0.0346379                  -0.0212497  
      year1988:fieldneutral       year1989:fieldneutral  
-                -0.0352645                  -0.0465242  
+                -0.0352645                  -0.0465239  
      year1990:fieldneutral       year1991:fieldneutral  
-                -0.0460182                  -0.0309030  
+                -0.0460178                  -0.0309027  
      year1992:fieldneutral       year1993:fieldneutral  
-                -0.0325046                  -0.0566318  
+                -0.0325045                  -0.0566318  
      year1994:fieldneutral       year1995:fieldneutral  
-                -0.0468441                  -0.0436172  
+                -0.0468440                  -0.0436169  
      year1996:fieldneutral       year1997:fieldneutral  
-                -0.0503527                  -0.0426592  
+                -0.0503525                  -0.0426588  
      year1998:fieldneutral       year1999:fieldneutral  
-                -0.0561945                  -0.0453712  
+                -0.0561942                  -0.0453710  
      year2000:fieldneutral       year2001:fieldneutral  
-                -0.0386264                  -0.0432134  
+                -0.0386268                  -0.0432137  
      year2002:fieldneutral       year2003:fieldneutral  
-                -0.0350506                  -0.0463763  
+                -0.0350508                  -0.0463763  
      year2004:fieldneutral       year2005:fieldneutral  
-                -0.0448338                  -0.0440807  
+                -0.0448340                  -0.0440808  
      year2006:fieldneutral       year2007:fieldneutral  
-                -0.0502207                  -0.0306602  
+                -0.0502210                  -0.0306601  
      year2008:fieldneutral       year2009:fieldneutral  
-                -0.0362465                  -0.0426878  
+                -0.0362465                  -0.0426879  
      year2010:fieldneutral       year2011:fieldneutral  
-                -0.0397884                  -0.0433177  
+                -0.0397886                  -0.0433178  
      year2012:fieldneutral       year2013:fieldneutral  
-                -0.0295633                  -0.0309852  
+                -0.0295632                  -0.0309853  
      year2014:fieldneutral       year2015:fieldneutral  
-                -0.0365634                  -0.0434573  
+                -0.0365636                  -0.0418443  
 year1981:fieldoffense_home  year1982:fieldoffense_home  
                  0.0013809                   0.0044115  
 year1983:fieldoffense_home  year1984:fieldoffense_home  
-                 0.0033920                   0.0022200  
+                 0.0033920                   0.0022201  
 year1985:fieldoffense_home  year1986:fieldoffense_home  
-                 0.0012354                   0.0049398  
+                 0.0012354                   0.0049399  
 year1987:fieldoffense_home  year1988:fieldoffense_home  
                  0.0029240                   0.0103732  
 year1989:fieldoffense_home  year1990:fieldoffense_home  
                  0.0041744                   0.0077610  
 year1991:fieldoffense_home  year1992:fieldoffense_home  
-                 0.0041068                   0.0077792  
+                 0.0041069                   0.0077793  
 year1993:fieldoffense_home  year1994:fieldoffense_home  
-                 0.0032254                   0.0039455  
+                 0.0032255                   0.0039456  
 year1995:fieldoffense_home  year1996:fieldoffense_home  
-                 0.0011031                   0.0010005  
+                 0.0011032                   0.0010006  
 year1997:fieldoffense_home  year1998:fieldoffense_home  
-                 0.0111800                   0.0039582  
+                 0.0111800                   0.0039583  
 year1999:fieldoffense_home  year2000:fieldoffense_home  
-                 0.0105637                   0.0073768  
+                 0.0105638                   0.0073769  
 year2001:fieldoffense_home  year2002:fieldoffense_home  
-                 0.0100877                   0.0112796  
+                 0.0100878                   0.0112797  
 year2003:fieldoffense_home  year2004:fieldoffense_home  
-                 0.0087221                   0.0067732  
+                 0.0087222                   0.0067732  
 year2005:fieldoffense_home  year2006:fieldoffense_home  
-                 0.0079309                   0.0023021  
+                 0.0079310                   0.0023022  
 year2007:fieldoffense_home  year2008:fieldoffense_home  
-                 0.0056758                   0.0064338  
+                 0.0056759                   0.0064338  
 year2009:fieldoffense_home  year2010:fieldoffense_home  
-                -0.0005658                   0.0005137  
+                -0.0005657                   0.0005138  
 year2011:fieldoffense_home  year2012:fieldoffense_home  
-                 0.0002594                   0.0023023  
+                 0.0002595                   0.0023024  
 year2013:fieldoffense_home  year2014:fieldoffense_home  
-                 0.0018376                  -0.0075551  
+                 0.0018377                  -0.0075549  
 year2015:fieldoffense_home  
-                -0.0030542  
+                -0.0029851  
 Linear mixed model fit by maximum likelihood  ['lmerMod']
 Formula: log_ps ~ year * field + game_length + (1 | offense) + (1 | defense) +  
     (1 | game_id)
    Data: g
 
       AIC       BIC    logLik  deviance  df.resid 
--696014.9 -694662.8  348126.4 -696252.9    635469 
+-696086.3 -694734.2  348162.2 -696324.3    635541 
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--6.4143 -0.5145  0.0303  0.5517  4.0760 
+-6.4142 -0.5146  0.0303  0.5517  4.0760 
 
 Random effects:
  Groups   Name        Variance Std.Dev.
  game_id  (Intercept) 0.008627 0.09288 
- defense  (Intercept) 0.008147 0.09026 
+ defense  (Intercept) 0.008146 0.09025 
  offense  (Intercept) 0.008953 0.09462 
- Residual             0.010819 0.10401 
-Number of obs: 635588, groups:  game_id, 317794; defense, 11111; offense, 11111
+ Residual             0.010819 0.10402 
+Number of obs: 635660, groups:  game_id, 317830; defense, 11111; offense, 11111
 
 Fixed effects:
                              Estimate Std. Error t value
-(Intercept)                 4.2244440  0.0083314   507.0
-year1981                   -0.0254172  0.0117279    -2.2
-year1982                   -0.0671410  0.0116306    -5.8
-year1983                   -0.0342781  0.0116159    -3.0
-year1984                   -0.0507684  0.0116030    -4.4
-year1985                   -0.0310158  0.0115332    -2.7
-year1986                   -0.0337303  0.0115220    -2.9
-year1987                    0.0110929  0.0114553     1.0
-year1988                    0.0252641  0.0114535     2.2
-year1989                    0.0553744  0.0114247     4.8
-year1990                    0.0419997  0.0114336     3.7
-year1991                    0.0625964  0.0114036     5.5
-year1992                    0.0251213  0.0113781     2.2
-year1993                    0.0278742  0.0113820     2.4
-year1994                    0.0481806  0.0113550     4.2
-year1995                    0.0323427  0.0113453     2.9
-year1996                    0.0086974  0.0113199     0.8
-year1997                   -0.0239971  0.0113195    -2.1
-year1998                   -0.0066089  0.0113115    -0.6
-year1999                   -0.0271833  0.0112785    -2.4
-year2000                   -0.0278149  0.0112094    -2.5
-year2001                   -0.0170871  0.0112091    -1.5
-year2002                   -0.0190098  0.0111861    -1.7
-year2003                   -0.0314615  0.0111543    -2.8
-year2004                   -0.0420440  0.0111470    -3.8
-year2005                   -0.0468250  0.0111476    -4.2
-year2006                   -0.0459242  0.0111486    -4.1
-year2007                   -0.0454219  0.0111529    -4.1
-year2008                   -0.0449582  0.0111289    -4.0
-year2009                   -0.0518898  0.0111138    -4.7
-year2010                   -0.0456941  0.0110852    -4.1
-year2011                   -0.0480220  0.0110050    -4.4
-year2012                   -0.0652734  0.0110110    -5.9
-year2013                   -0.0728489  0.0109905    -6.6
-year2014                   -0.0178878  0.0109648    -1.6
-year2015                   -0.0696426  0.0109649    -6.4
-fieldneutral                0.0519474  0.0051060    10.2
-fieldoffense_home           0.0538853  0.0019968    27.0
-game_length1OT              0.1007926  0.0013466    74.8
-game_length2OT              0.2055552  0.0032270    63.7
-game_length3OT              0.2915309  0.0076542    38.1
-game_length4OT              0.3776585  0.0180639    20.9
-game_length5OT              0.4688926  0.0859369     5.5
-game_length6OT              0.5150712  0.0861095     6.0
-game_length7OT              0.1626979  0.0866768     1.9
-year1981:fieldneutral      -0.0288932  0.0070801    -4.1
-year1982:fieldneutral      -0.0292124  0.0069925    -4.2
-year1983:fieldneutral      -0.0648871  0.0069831    -9.3
-year1984:fieldneutral      -0.0487927  0.0069153    -7.1
-year1985:fieldneutral      -0.0459765  0.0068619    -6.7
-year1986:fieldneutral      -0.0346380  0.0067974    -5.1
-year1987:fieldneutral      -0.0212501  0.0066909    -3.2
-year1988:fieldneutral      -0.0352645  0.0067277    -5.2
-year1989:fieldneutral      -0.0465242  0.0066758    -7.0
-year1990:fieldneutral      -0.0460182  0.0066462    -6.9
-year1991:fieldneutral      -0.0309030  0.0067131    -4.6
-year1992:fieldneutral      -0.0325046  0.0067142    -4.8
-year1993:fieldneutral      -0.0566318  0.0067767    -8.4
-year1994:fieldneutral      -0.0468441  0.0067344    -7.0
-year1995:fieldneutral      -0.0436172  0.0068347    -6.4
-year1996:fieldneutral      -0.0503527  0.0067916    -7.4
-year1997:fieldneutral      -0.0426592  0.0067296    -6.3
-year1998:fieldneutral      -0.0561945  0.0067012    -8.4
-year1999:fieldneutral      -0.0453712  0.0066498    -6.8
-year2000:fieldneutral      -0.0386264  0.0065760    -5.9
-year2001:fieldneutral      -0.0432134  0.0067220    -6.4
-year2002:fieldneutral      -0.0350506  0.0065336    -5.4
-year2003:fieldneutral      -0.0463763  0.0067406    -6.9
-year2004:fieldneutral      -0.0448338  0.0067169    -6.7
-year2005:fieldneutral      -0.0440807  0.0066951    -6.6
-year2006:fieldneutral      -0.0502207  0.0066538    -7.5
-year2007:fieldneutral      -0.0306602  0.0065190    -4.7
-year2008:fieldneutral      -0.0362465  0.0065407    -5.5
-year2009:fieldneutral      -0.0426878  0.0065536    -6.5
-year2010:fieldneutral      -0.0397884  0.0064784    -6.1
-year2011:fieldneutral      -0.0433177  0.0063691    -6.8
-year2012:fieldneutral      -0.0295633  0.0063893    -4.6
-year2013:fieldneutral      -0.0309852  0.0063307    -4.9
-year2014:fieldneutral      -0.0365634  0.0063129    -5.8
-year2015:fieldneutral      -0.0434573  0.0064273    -6.8
-year1981:fieldoffense_home  0.0013809  0.0027972     0.5
+(Intercept)                 4.2244439  0.0083310   507.1
+year1981                   -0.0254171  0.0117273    -2.2
+year1982                   -0.0671409  0.0116299    -5.8
+year1983                   -0.0342780  0.0116152    -3.0
+year1984                   -0.0507684  0.0116024    -4.4
+year1985                   -0.0310157  0.0115326    -2.7
+year1986                   -0.0337303  0.0115213    -2.9
+year1987                    0.0110929  0.0114547     1.0
+year1988                    0.0252642  0.0114529     2.2
+year1989                    0.0553745  0.0114240     4.8
+year1990                    0.0419997  0.0114330     3.7
+year1991                    0.0625964  0.0114030     5.5
+year1992                    0.0251213  0.0113775     2.2
+year1993                    0.0278742  0.0113814     2.4
+year1994                    0.0481806  0.0113544     4.2
+year1995                    0.0323427  0.0113447     2.9
+year1996                    0.0086974  0.0113193     0.8
+year1997                   -0.0239971  0.0113189    -2.1
+year1998                   -0.0066089  0.0113109    -0.6
+year1999                   -0.0271833  0.0112778    -2.4
+year2000                   -0.0278141  0.0112088    -2.5
+year2001                   -0.0170862  0.0112085    -1.5
+year2002                   -0.0190090  0.0111855    -1.7
+year2003                   -0.0314609  0.0111537    -2.8
+year2004                   -0.0420432  0.0111464    -3.8
+year2005                   -0.0468242  0.0111470    -4.2
+year2006                   -0.0459234  0.0111480    -4.1
+year2007                   -0.0454212  0.0111523    -4.1
+year2008                   -0.0449574  0.0111283    -4.0
+year2009                   -0.0518890  0.0111132    -4.7
+year2010                   -0.0456934  0.0110846    -4.1
+year2011                   -0.0480212  0.0110044    -4.4
+year2012                   -0.0652726  0.0110104    -5.9
+year2013                   -0.0728482  0.0109899    -6.6
+year2014                   -0.0178869  0.0109642    -1.6
+year2015                   -0.0696359  0.0109642    -6.4
+fieldneutral                0.0519475  0.0051061    10.2
+fieldoffense_home           0.0538855  0.0019968    27.0
+game_length1OT              0.1007792  0.0013466    74.8
+game_length2OT              0.2055392  0.0032271    63.7
+game_length3OT              0.2915142  0.0076542    38.1
+game_length4OT              0.3776209  0.0180638    20.9
+game_length5OT              0.4688915  0.0859383     5.5
+game_length6OT              0.5150700  0.0861109     6.0
+game_length7OT              0.1626965  0.0866782     1.9
+year1981:fieldneutral      -0.0288932  0.0070802    -4.1
+year1982:fieldneutral      -0.0292122  0.0069926    -4.2
+year1983:fieldneutral      -0.0648870  0.0069832    -9.3
+year1984:fieldneutral      -0.0487925  0.0069154    -7.1
+year1985:fieldneutral      -0.0459763  0.0068620    -6.7
+year1986:fieldneutral      -0.0346379  0.0067975    -5.1
+year1987:fieldneutral      -0.0212497  0.0066910    -3.2
+year1988:fieldneutral      -0.0352645  0.0067278    -5.2
+year1989:fieldneutral      -0.0465239  0.0066759    -7.0
+year1990:fieldneutral      -0.0460178  0.0066463    -6.9
+year1991:fieldneutral      -0.0309027  0.0067132    -4.6
+year1992:fieldneutral      -0.0325045  0.0067143    -4.8
+year1993:fieldneutral      -0.0566318  0.0067768    -8.4
+year1994:fieldneutral      -0.0468440  0.0067345    -7.0
+year1995:fieldneutral      -0.0436169  0.0068348    -6.4
+year1996:fieldneutral      -0.0503525  0.0067917    -7.4
+year1997:fieldneutral      -0.0426588  0.0067297    -6.3
+year1998:fieldneutral      -0.0561942  0.0067013    -8.4
+year1999:fieldneutral      -0.0453710  0.0066499    -6.8
+year2000:fieldneutral      -0.0386268  0.0065761    -5.9
+year2001:fieldneutral      -0.0432137  0.0067221    -6.4
+year2002:fieldneutral      -0.0350508  0.0065337    -5.4
+year2003:fieldneutral      -0.0463763  0.0067407    -6.9
+year2004:fieldneutral      -0.0448340  0.0067170    -6.7
+year2005:fieldneutral      -0.0440808  0.0066952    -6.6
+year2006:fieldneutral      -0.0502210  0.0066539    -7.5
+year2007:fieldneutral      -0.0306601  0.0065191    -4.7
+year2008:fieldneutral      -0.0362465  0.0065408    -5.5
+year2009:fieldneutral      -0.0426879  0.0065537    -6.5
+year2010:fieldneutral      -0.0397886  0.0064785    -6.1
+year2011:fieldneutral      -0.0433178  0.0063692    -6.8
+year2012:fieldneutral      -0.0295632  0.0063894    -4.6
+year2013:fieldneutral      -0.0309853  0.0063308    -4.9
+year2014:fieldneutral      -0.0365636  0.0063130    -5.8
+year2015:fieldneutral      -0.0418443  0.0064020    -6.5
+year1981:fieldoffense_home  0.0013809  0.0027973     0.5
 year1982:fieldoffense_home  0.0044115  0.0027756     1.6
 year1983:fieldoffense_home  0.0033920  0.0027501     1.2
-year1984:fieldoffense_home  0.0022200  0.0027384     0.8
+year1984:fieldoffense_home  0.0022201  0.0027385     0.8
 year1985:fieldoffense_home  0.0012354  0.0027246     0.5
-year1986:fieldoffense_home  0.0049398  0.0027100     1.8
+year1986:fieldoffense_home  0.0049399  0.0027101     1.8
 year1987:fieldoffense_home  0.0029240  0.0026953     1.1
 year1988:fieldoffense_home  0.0103732  0.0026909     3.9
 year1989:fieldoffense_home  0.0041744  0.0026771     1.6
 year1990:fieldoffense_home  0.0077610  0.0026786     2.9
-year1991:fieldoffense_home  0.0041068  0.0026565     1.5
-year1992:fieldoffense_home  0.0077792  0.0026608     2.9
-year1993:fieldoffense_home  0.0032254  0.0026768     1.2
-year1994:fieldoffense_home  0.0039455  0.0026689     1.5
-year1995:fieldoffense_home  0.0011031  0.0026627     0.4
-year1996:fieldoffense_home  0.0010005  0.0026598     0.4
-year1997:fieldoffense_home  0.0111800  0.0026598     4.2
-year1998:fieldoffense_home  0.0039582  0.0026620     1.5
-year1999:fieldoffense_home  0.0105637  0.0026550     4.0
-year2000:fieldoffense_home  0.0073768  0.0026234     2.8
-year2001:fieldoffense_home  0.0100877  0.0026205     3.8
-year2002:fieldoffense_home  0.0112796  0.0026151     4.3
-year2003:fieldoffense_home  0.0087221  0.0026085     3.3
+year1991:fieldoffense_home  0.0041069  0.0026566     1.5
+year1992:fieldoffense_home  0.0077793  0.0026608     2.9
+year1993:fieldoffense_home  0.0032255  0.0026768     1.2
+year1994:fieldoffense_home  0.0039456  0.0026689     1.5
+year1995:fieldoffense_home  0.0011032  0.0026627     0.4
+year1996:fieldoffense_home  0.0010006  0.0026598     0.4
+year1997:fieldoffense_home  0.0111800  0.0026599     4.2
+year1998:fieldoffense_home  0.0039583  0.0026621     1.5
+year1999:fieldoffense_home  0.0105638  0.0026550     4.0
+year2000:fieldoffense_home  0.0073769  0.0026234     2.8
+year2001:fieldoffense_home  0.0100878  0.0026205     3.8
+year2002:fieldoffense_home  0.0112797  0.0026152     4.3
+year2003:fieldoffense_home  0.0087222  0.0026085     3.3
 year2004:fieldoffense_home  0.0067732  0.0026049     2.6
-year2005:fieldoffense_home  0.0079309  0.0026135     3.0
-year2006:fieldoffense_home  0.0023021  0.0026165     0.9
-year2007:fieldoffense_home  0.0056758  0.0026088     2.2
+year2005:fieldoffense_home  0.0079310  0.0026135     3.0
+year2006:fieldoffense_home  0.0023022  0.0026165     0.9
+year2007:fieldoffense_home  0.0056759  0.0026088     2.2
 year2008:fieldoffense_home  0.0064338  0.0025865     2.5
-year2009:fieldoffense_home -0.0005658  0.0025863    -0.2
-year2010:fieldoffense_home  0.0005137  0.0025824     0.2
-year2011:fieldoffense_home  0.0002594  0.0025562     0.1
-year2012:fieldoffense_home  0.0023023  0.0025513     0.9
-year2013:fieldoffense_home  0.0018376  0.0025481     0.7
-year2014:fieldoffense_home -0.0075551  0.0025487    -3.0
-year2015:fieldoffense_home -0.0030542  0.0025520    -1.2
+year2009:fieldoffense_home -0.0005657  0.0025863    -0.2
+year2010:fieldoffense_home  0.0005138  0.0025824     0.2
+year2011:fieldoffense_home  0.0002595  0.0025562     0.1
+year2012:fieldoffense_home  0.0023024  0.0025513     0.9
+year2013:fieldoffense_home  0.0018377  0.0025481     0.7
+year2014:fieldoffense_home -0.0075549  0.0025487    -3.0
+year2015:fieldoffense_home -0.0029851  0.0025514    -1.2
 Analysis of Variance Table
             Df Sum Sq Mean Sq   F value
-year        35   8.46   0.242    22.339
-field        2 440.90 220.450 20361.438
-game_length  7 122.65  17.521  1618.299
+year        35   8.46   0.242    22.333
+field        2 440.92 220.461 20362.158
+game_length  7 122.62  17.517  1617.889
 Analysis of Variance Table
             Df Sum Sq Mean Sq    F value
-year        35   8.46   0.242    22.3340
-field        2 440.88 220.440 20375.0371
-game_length  7 122.65  17.522  1619.5347
-year:field  70   4.88   0.070     6.4432
+year        35   8.46   0.242    22.3283
+field        2 440.90 220.451 20375.6745
+game_length  7 122.63  17.518  1619.1295
+year:field  70   4.88   0.070     6.4407
 Data: g
 Models:
 fit0: log_ps ~ year + field + game_length + (1 | offense) + (1 | defense) + 
@@ -391,8 +391,8 @@ fit0:     (1 | game_id)
 fit: log_ps ~ year * field + game_length + (1 | offense) + (1 | defense) + 
 fit:     (1 | game_id)
       Df     AIC     BIC logLik deviance  Chisq Chi Df Pr(>Chisq)    
-fit0  49 -695704 -695147 347901  -695802                             
-fit  119 -696015 -694663 348126  -696253 450.85     70  < 2.2e-16 ***
+fit0  49 -695776 -695219 347937  -695874                             
+fit  119 -696086 -694734 348162  -696324 450.68     70  < 2.2e-16 ***
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 [1] TRUE
