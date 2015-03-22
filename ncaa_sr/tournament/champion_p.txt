@@ -1,32 +1,30 @@
 BEGIN
           school_name          |       p       
 -------------------------------+---------------
- Kentucky Wildcats             | 0.43244937596
- Virginia Cavaliers            | 0.15098618174
- Wisconsin Badgers             | 0.10685101483
- Arizona Wildcats              | 0.07892330702
- Duke Blue Devils              | 0.05474896193
- Utah Utes                     | 0.04771912198
- Gonzaga Bulldogs              | 0.04262753823
- Oklahoma Sooners              | 0.01935168931
- North Carolina Tarheels       | 0.01621875840
- Louisville Cardinals          | 0.01387637009
- Kansas Jayhawks               | 0.00588774341
- Notre Dame Fighting Irish     | 0.00446695249
- Wichita State Shockers        | 0.00417141963
- Michigan State Spartans       | 0.00392066112
- Iowa Hawkeyes                 | 0.00308137827
- Butler Bulldogs               | 0.00307086587
- Xavier Musketeers             | 0.00284258409
- Northern Iowa Panthers        | 0.00278936796
- North Carolina State Wolfpack | 0.00246226875
- West Virginia Mountaineers    | 0.00156664379
- San Diego State Aztecs        | 0.00078359466
- Maryland Terrapins            | 0.00048460270
- UCLA Bruins                   | 0.00046617470
- Dayton Flyers                 | 0.00021968951
- Oregon Ducks                  | 0.00003373354
-(25 rows)
+ Kentucky Wildcats             | 0.45834063284
+ Wisconsin Badgers             | 0.10981657546
+ Arizona Wildcats              | 0.10181699614
+ Duke Blue Devils              | 0.09355781856
+ Utah Utes                     | 0.05990278057
+ Gonzaga Bulldogs              | 0.04629574453
+ Oklahoma Sooners              | 0.02976376872
+ North Carolina Tarheels       | 0.01924811271
+ Michigan State Spartans       | 0.01921275095
+ Louisville Cardinals          | 0.01761237855
+ Kansas Jayhawks               | 0.00775573815
+ Iowa Hawkeyes                 | 0.00615799183
+ Notre Dame Fighting Irish     | 0.00554847273
+ Northern Iowa Panthers        | 0.00503730613
+ Wichita State Shockers        | 0.00496888366
+ North Carolina State Wolfpack | 0.00457854130
+ Butler Bulldogs               | 0.00331722753
+ Xavier Musketeers             | 0.00320545216
+ West Virginia Mountaineers    | 0.00192890627
+ UCLA Bruins                   | 0.00073222744
+ Maryland Terrapins            | 0.00058364484
+ Dayton Flyers                 | 0.00056442525
+ Oregon Ducks                  | 0.00005362368
+(23 rows)
 
-COPY 25
+COPY 23
 COMMIT

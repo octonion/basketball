@@ -17,9 +17,7 @@ year,round_id,school_id,school_name,bracket,p
 2015,1,dayton,Dayton Flyers,"{45,42,21,11,6,3,2,1}",1.0
 2015,1,oklahoma,Oklahoma Sooners,"{46,43,22,11,6,3,2,1}",1.0
 2015,1,michigan-state,Michigan State Spartans,"{48,45,23,12,6,3,2,1}",1.0
-2015,1,virginia,Virginia Cavaliers,"{50,47,24,12,6,3,2,1}",1.0
 2015,1,duke,Duke Blue Devils,"{52,49,25,13,7,4,2,1}",1.0
-2015,1,san-diego-state,San Diego State Aztecs,"{55,51,26,13,7,4,2,1}",1.0
 2015,1,utah,Utah Utes,"{57,53,27,14,7,4,2,1}",1.0
 2015,1,ucla,UCLA Bruins,"{62,58,29,15,8,4,2,1}",1.0
 2015,1,iowa,Iowa Hawkeyes,"{65,61,31,16,8,4,2,1}",1.0
