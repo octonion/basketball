@@ -1,16 +1,11 @@
 rd,name,p
-4,Kentucky Wildcats,0.942
 4,Wisconsin Badgers,0.913
-4,Villanova Wildcats,0.819
 4,Virginia Cavaliers,0.791
 4,Duke Blue Devils,0.785
 4,Oklahoma Sooners,0.773
-4,UCLA Bruins,0.733
-4,Xavier Musketeers,0.730
 4,Utah Utes,0.710
 4,North Carolina Tarheels,0.709
 4,Gonzaga Bulldogs,0.701
-4,Arizona Wildcats,0.678
 4,Louisville Cardinals,0.617
 4,West Virginia Mountaineers,0.573
 4,Notre Dame Fighting Irish,0.526
@@ -19,143 +14,118 @@ rd,name,p
 4,Butler Bulldogs,0.474
 4,Maryland Terrapins,0.427
 4,Northern Iowa Panthers,0.383
-4,Ohio State Buckeyes,0.322
 4,Iowa Hawkeyes,0.299
 4,Arkansas Razorbacks,0.291
 4,Georgetown Hoyas,0.290
-4,Georgia State Panthers,0.270
-4,Alabama-Birmingham Blazers,0.267
 4,Dayton Flyers,0.227
 4,San Diego State Aztecs,0.215
 4,Michigan State Spartans,0.209
-4,North Carolina State Wolfpack,0.181
 4,Oregon Ducks,0.087
-4,Cincinnati Bearcats,0.058
-5,Kentucky Wildcats,0.858
+5,Kentucky Wildcats,0.911
+5,Arizona Wildcats,0.768
 5,Wisconsin Badgers,0.681
-5,Gonzaga Bulldogs,0.608
 5,Virginia Cavaliers,0.603
-5,Villanova Wildcats,0.586
-5,Arizona Wildcats,0.545
+5,Gonzaga Bulldogs,0.590
 5,Duke Blue Devils,0.480
+5,Louisville Cardinals,0.420
 5,Utah Utes,0.363
+5,North Carolina State Wolfpack,0.361
 5,Kansas Jayhawks,0.281
 5,Oklahoma Sooners,0.265
 5,Notre Dame Fighting Irish,0.257
-5,Wichita State Shockers,0.243
 5,North Carolina Tarheels,0.243
-5,Louisville Cardinals,0.238
-5,Iowa Hawkeyes,0.221
+5,Wichita State Shockers,0.243
+5,Xavier Musketeers,0.232
+5,Northern Iowa Panthers,0.219
 5,Butler Bulldogs,0.219
-5,Ohio State Buckeyes,0.214
-5,Xavier Musketeers,0.206
-5,UCLA Bruins,0.149
-5,Northern Iowa Panthers,0.111
+5,Iowa Hawkeyes,0.207
+5,UCLA Bruins,0.203
 5,Michigan State Spartans,0.100
 5,Georgetown Hoyas,0.090
-5,West Virginia Mountaineers,0.075
 5,San Diego State Aztecs,0.067
-5,North Carolina State Wolfpack,0.065
+5,West Virginia Mountaineers,0.057
 5,Arkansas Razorbacks,0.056
-5,Maryland Terrapins,0.045
-5,Georgia State Panthers,0.035
+5,Maryland Terrapins,0.032
 5,Dayton Flyers,0.032
-5,Cincinnati Bearcats,0.023
-5,Alabama-Birmingham Blazers,0.023
 5,Oregon Ducks,0.020
-6,Kentucky Wildcats,0.745
-6,Wisconsin Badgers,0.457
-6,Virginia Cavaliers,0.407
-6,Duke Blue Devils,0.315
-6,Gonzaga Bulldogs,0.307
-6,Villanova Wildcats,0.303
-6,Arizona Wildcats,0.278
-6,Utah Utes,0.221
-6,Oklahoma Sooners,0.121
-6,North Carolina Tarheels,0.116
-6,Louisville Cardinals,0.083
-6,Ohio State Buckeyes,0.073
-6,Iowa Hawkeyes,0.069
-6,Kansas Jayhawks,0.060
-6,Xavier Musketeers,0.053
-6,Notre Dame Fighting Irish,0.052
-6,Wichita State Shockers,0.048
-6,Butler Bulldogs,0.041
-6,Michigan State Spartans,0.037
-6,Georgetown Hoyas,0.037
-6,West Virginia Mountaineers,0.032
-6,Northern Iowa Panthers,0.028
+6,Kentucky Wildcats,0.791
+6,Virginia Cavaliers,0.490
+6,Wisconsin Badgers,0.429
+6,Arizona Wildcats,0.391
+6,Duke Blue Devils,0.317
+6,Gonzaga Bulldogs,0.298
+6,Utah Utes,0.223
+6,Oklahoma Sooners,0.167
+6,Louisville Cardinals,0.146
+6,North Carolina Tarheels,0.104
+6,North Carolina State Wolfpack,0.076
+6,Iowa Hawkeyes,0.064
+6,Xavier Musketeers,0.059
+6,Northern Iowa Panthers,0.056
+6,Michigan State Spartans,0.054
+6,Kansas Jayhawks,0.052
+6,Notre Dame Fighting Irish,0.044
+6,Wichita State Shockers,0.042
+6,Georgetown Hoyas,0.038
+6,Butler Bulldogs,0.035
+6,UCLA Bruins,0.035
 6,San Diego State Aztecs,0.025
-6,UCLA Bruins,0.025
-6,Arkansas Razorbacks,0.016
-6,Maryland Terrapins,0.016
-6,North Carolina State Wolfpack,0.014
-6,Cincinnati Bearcats,0.007
-6,Dayton Flyers,0.007
-6,Oregon Ducks,0.004
-6,Georgia State Panthers,0.004
-6,Alabama-Birmingham Blazers,0.002
-7,Kentucky Wildcats,0.545
-7,Virginia Cavaliers,0.277
-7,Wisconsin Badgers,0.206
-7,Villanova Wildcats,0.180
-7,Duke Blue Devils,0.156
-7,Gonzaga Bulldogs,0.135
-7,Arizona Wildcats,0.109
-7,Utah Utes,0.098
-7,Oklahoma Sooners,0.055
-7,Louisville Cardinals,0.035
-7,North Carolina Tarheels,0.033
-7,Kansas Jayhawks,0.020
-7,Ohio State Buckeyes,0.019
-7,Iowa Hawkeyes,0.018
-7,Notre Dame Fighting Irish,0.016
-7,Wichita State Shockers,0.015
-7,Michigan State Spartans,0.014
-7,Butler Bulldogs,0.012
+6,West Virginia Mountaineers,0.024
+6,Arkansas Razorbacks,0.014
+6,Maryland Terrapins,0.011
+6,Dayton Flyers,0.011
+6,Oregon Ducks,0.003
+7,Kentucky Wildcats,0.571
+7,Virginia Cavaliers,0.334
+7,Wisconsin Badgers,0.184
+7,Duke Blue Devils,0.171
+7,Gonzaga Bulldogs,0.145
+7,Arizona Wildcats,0.145
+7,Utah Utes,0.109
+7,Oklahoma Sooners,0.076
+7,Louisville Cardinals,0.061
+7,North Carolina Tarheels,0.028
+7,North Carolina State Wolfpack,0.020
+7,Iowa Hawkeyes,0.020
+7,Michigan State Spartans,0.020
+7,Northern Iowa Panthers,0.018
+7,Kansas Jayhawks,0.016
+7,Notre Dame Fighting Irish,0.013
+7,Wichita State Shockers,0.012
+7,Georgetown Hoyas,0.011
+7,Butler Bulldogs,0.010
 7,Xavier Musketeers,0.010
-7,Northern Iowa Panthers,0.009
-7,Georgetown Hoyas,0.009
-7,West Virginia Mountaineers,0.008
-7,San Diego State Aztecs,0.006
-7,UCLA Bruins,0.004
-7,North Carolina State Wolfpack,0.004
-7,Arkansas Razorbacks,0.003
-7,Maryland Terrapins,0.003
-7,Cincinnati Bearcats,0.001
-7,Dayton Flyers,0.001
-7,Alabama-Birmingham Blazers,0.000
+7,San Diego State Aztecs,0.007
+7,West Virginia Mountaineers,0.006
+7,UCLA Bruins,0.006
+7,Dayton Flyers,0.002
+7,Maryland Terrapins,0.002
+7,Arkansas Razorbacks,0.002
 7,Oregon Ducks,0.000
-7,Georgia State Panthers,0.000
-8,Kentucky Wildcats,0.406
-8,Virginia Cavaliers,0.130
-8,Wisconsin Badgers,0.124
-8,Villanova Wildcats,0.070
-8,Arizona Wildcats,0.058
-8,Duke Blue Devils,0.057
-8,Gonzaga Bulldogs,0.043
-8,Utah Utes,0.031
-8,Oklahoma Sooners,0.015
-8,North Carolina Tarheels,0.013
-8,Louisville Cardinals,0.008
-8,Ohio State Buckeyes,0.007
-8,Kansas Jayhawks,0.007
-8,Wichita State Shockers,0.005
-8,Notre Dame Fighting Irish,0.005
-8,Butler Bulldogs,0.004
-8,Iowa Hawkeyes,0.003
-8,Michigan State Spartans,0.003
+8,Kentucky Wildcats,0.431
+8,Virginia Cavaliers,0.152
+8,Wisconsin Badgers,0.114
+8,Arizona Wildcats,0.080
+8,Duke Blue Devils,0.060
+8,Gonzaga Bulldogs,0.044
+8,Utah Utes,0.034
+8,Oklahoma Sooners,0.020
+8,Louisville Cardinals,0.014
+8,North Carolina Tarheels,0.012
+8,Kansas Jayhawks,0.006
+8,Michigan State Spartans,0.004
+8,Notre Dame Fighting Irish,0.004
+8,Wichita State Shockers,0.004
+8,North Carolina State Wolfpack,0.003
 8,Xavier Musketeers,0.003
-8,Georgetown Hoyas,0.002
-8,Northern Iowa Panthers,0.002
+8,Butler Bulldogs,0.003
+8,Iowa Hawkeyes,0.003
+8,Northern Iowa Panthers,0.003
 8,West Virginia Mountaineers,0.002
-8,Maryland Terrapins,0.001
+8,Georgetown Hoyas,0.002
+8,UCLA Bruins,0.001
 8,San Diego State Aztecs,0.001
-8,Arkansas Razorbacks,0.001
-8,Cincinnati Bearcats,0.000
-8,Georgia State Panthers,0.000
+8,Maryland Terrapins,0.000
 8,Dayton Flyers,0.000
-8,North Carolina State Wolfpack,0.000
-8,Alabama-Birmingham Blazers,0.000
-8,UCLA Bruins,0.000
+8,Arkansas Razorbacks,0.000
 8,Oregon Ducks,0.000
