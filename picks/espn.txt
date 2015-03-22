@@ -1,0 +1,122 @@
+
+R version 3.1.3 (2015-03-09) -- "Smooth Sidewalk"
+Copyright (C) 2015 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> library(BradleyTerry2)
+> 
+> games <- read.csv("outcomes.csv", header=TRUE)
+> teams <- read.csv("teams.csv", header=TRUE)
+> 
+> games$team <- as.factor(games$team)
+> games$opponent <- as.factor(games$opponent)
+> 
+> head(games)
+  team opponent    won lost
+1    1        1      0    0
+2   64       64      0    0
+3    1        2 425850 6270
+4    1        3 198058 4075
+5    1        4 218806 4911
+6    1        5 107224 5690
+> 
+> dim(games)
+[1] 2011    4
+> 
+> fit <- BTm(cbind(won, lost), team, opponent, data = games)
+> 
+> espn <- as.data.frame(BTabilities(fit))
+> espn$id <- rownames(espn)
+> 
+> ranks <- merge(teams, espn)
+> ranks <- ranks[with(ranks, order(-ability)), ]
+> 
+> ranks <- subset(ranks, TRUE, select=c(name_long,ability))
+> colnames(ranks)[1] <- "team"
+> 
+> ranks$strength <- exp(ranks$ability)
+> 
+> ranks <- cbind(rank=rank(-ranks$ability), ranks)
+> 
+> ranks
+   rank          team   ability    strength
+1     1      Kentucky  0.000000 1.000000000
+17    2     Wisconsin -0.949480 0.386942168
+31    3       Arizona -1.086433 0.337417814
+49    4          Duke -1.455490 0.233286028
+11    5    Notre Dame -1.476587 0.228415943
+47    6      Virginia -1.572151 0.207598176
+33    7     Villanova -1.736306 0.176170037
+15    8        Kansas -1.847550 0.157622793
+63    9       Gonzaga -1.886274 0.151635782
+23   10           UNC -1.889654 0.151124090
+46   11       Georgia -1.938666 0.143895746
+59   12    Iowa State -2.026890 0.131744552
+39   13    Louisville -2.284505 0.101824433
+7    14      Maryland -2.399581 0.090755933
+27   15        Baylor -2.412109 0.089626046
+45   16   Michigan St -2.425041 0.088474508
+13   17    Wichita St -2.429967 0.088039717
+43   18      Oklahoma -2.725988 0.065481463
+37   19        N Iowa -2.823817 0.059378884
+9    20        Butler -2.860599 0.057234482
+30   21    Ohio State -2.891407 0.055498058
+21   22      Arkansas -3.011559 0.049214875
+10   23         Texas -3.057521 0.047004062
+5    24 West Virginia -3.096314 0.045215541
+57   25           SMU -3.132752 0.043597658
+29   26           VCU -3.180017 0.041584968
+14   27       Indiana -3.283904 0.037481657
+35   28      NC State -3.337945 0.035509872
+25   29        Xavier -3.372325 0.034309782
+19   30        Oregon -3.388321 0.033765321
+53   31          Utah -3.615765 0.026896353
+4    32        Purdue -3.640130 0.026248924
+36   33           LSU -3.649972 0.025991853
+55   34    Georgetown -3.650189 0.025986215
+61   35          Iowa -3.719548 0.024244934
+41   36    Providence -3.744926 0.023637371
+3    37    Cincinnati -3.746163 0.023608167
+58   38          UCLA -3.830207 0.021705121
+20   39   Oklahoma St -3.838614 0.021523414
+62   40      Davidson -3.862514 0.021015107
+6    41       Buffalo -3.927183 0.019699090
+26   42      Ole Miss -3.928502 0.019673118
+2    43       Hampton -3.953447 0.019188453
+24   44       Harvard -4.063771 0.017184100
+38   45       Wyoming -4.126885 0.016133048
+8    46    Valparaiso -4.175259 0.015371217
+51   47  San Diego St -4.197709 0.015029976
+18   48   Coastal Car -4.408584 0.012172404
+12   49  Northeastern -4.436765 0.011834157
+54   50     SF Austin -4.438404 0.011814775
+52   51    St. John's -4.462460 0.011533950
+32   52      Texas So -4.464210 0.011513787
+48   53       Belmont -4.508272 0.011017482
+22   54       Wofford -4.523829 0.010847409
+42   55        Dayton -4.576811 0.010287647
+40   56     UC Irvine -4.684375 0.009238509
+28   57    Georgia St -4.702375 0.009073703
+16   58      NM State -4.797878 0.008247226
+60   59           UAB -4.897758 0.007463300
+64   60      ND State -4.903561 0.007420116
+34   61     Lafayette -4.990178 0.006804456
+44   62        Albany -4.999409 0.006741932
+50   63     R. Morris -5.121123 0.005969319
+56   64  E Washington -5.333227 0.004828462
+> write.csv(ranks, file="ranks.csv", row.names=FALSE)
+> 
