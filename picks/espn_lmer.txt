@@ -1,0 +1,151 @@
+
+R version 3.1.3 (2015-03-09) -- "Smooth Sidewalk"
+Copyright (C) 2015 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> library(lme4)
+> 
+> games <- read.csv("outcomes.csv", header=TRUE)
+> teams <- read.csv("teams.csv", header=TRUE)
+> 
+> games$team <- as.factor(games$team)
+> games$opponent <- as.factor(games$opponent)
+> 
+> games <- rbind(games, data.frame(team=games$opponent, opponent=games$team, won=games$lost, lost=games$won))
+> 
+> head(games)
+  team opponent    won lost
+1    1        1      0    0
+2   64       64      0    0
+3    1        2 425850 6270
+4    1        3 198058 4075
+5    1        4 218806 4911
+6    1        5 107224 5690
+> 
+> dim(games)
+[1] 4022    4
+> 
+> fit <- glmer(cbind(won,lost) ~ (1|team)+(1|opponent), family=binomial(logit), data=games)
+> 
+> fit
+Generalized linear mixed model fit by maximum likelihood (Laplace
+  Approximation) [glmerMod]
+ Family: binomial  ( logit )
+Formula: cbind(won, lost) ~ (1 | team) + (1 | opponent)
+   Data: games
+      AIC       BIC    logLik  deviance  df.resid 
+ 821736.3  821755.2 -410865.2  821730.3      4019 
+Random effects:
+ Groups   Name        Std.Dev.
+ team     (Intercept) 1.187   
+ opponent (Intercept) 1.187   
+Number of obs: 4022, groups:  team, 64; opponent, 64
+Fixed Effects:
+(Intercept)  
+  1.261e-10  
+> summary(fit)
+Generalized linear mixed model fit by maximum likelihood (Laplace
+  Approximation) [glmerMod]
+ Family: binomial  ( logit )
+Formula: cbind(won, lost) ~ (1 | team) + (1 | opponent)
+   Data: games
+
+      AIC       BIC    logLik  deviance  df.resid 
+ 821736.3  821755.2 -410865.2  821730.3      4019 
+
+Scaled residuals: 
+     Min       1Q   Median       3Q      Max 
+-223.247   -3.547    0.000    3.547  223.247 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ team     (Intercept) 1.41     1.187   
+ opponent (Intercept) 1.41     1.187   
+Number of obs: 4022, groups:  team, 64; opponent, 64
+
+Fixed effects:
+             Estimate Std. Error z value Pr(>|z|)
+(Intercept) 1.261e-10  2.097e-01       0        1
+> exp(ranef(fit)$team)
+   (Intercept)
+1   29.1768128
+2    0.5598838
+3    0.6888357
+4    0.7658869
+5    1.3192543
+6    0.5747626
+7    2.6479799
+8    0.4484894
+9    1.6698860
+10   1.3714015
+11   6.6643463
+12   0.3452887
+13   2.5686675
+14   1.0935749
+15   4.5988604
+16   0.2406348
+17  11.2897708
+18   0.3551707
+19   0.9851797
+20   0.6279958
+21   1.4359491
+22   0.3164999
+23   4.4093369
+24   0.5013856
+25   1.0010635
+26   0.5740081
+27   2.6150270
+28   0.2647502
+29   1.2133151
+30   1.6192535
+31   9.8447914
+32   0.3359522
+33   5.1403988
+34   0.1985574
+35   1.0361336
+36   0.7584108
+37   1.7326002
+38   0.4707450
+39   2.9711039
+40   0.2695744
+41   0.6897239
+42   0.3001891
+43   1.9106878
+44   0.1967288
+45   2.5815651
+46   4.1985778
+47   6.0574144
+48   0.3214859
+49   6.8070128
+50   0.1741952
+51   0.4385812
+52   0.3365665
+53   0.7848340
+54   0.3447564
+55   0.7582757
+56   0.1408952
+57   1.2721334
+58   0.6333344
+59   3.8441523
+60   0.2177798
+61   0.7074477
+62   0.6132045
+63   4.4245545
+64   0.2165211
+> 
+> 
+> 
