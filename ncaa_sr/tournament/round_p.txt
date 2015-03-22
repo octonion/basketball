@@ -5,7 +5,6 @@ BEGIN
   4 | Virginia Cavaliers            | 0.791
   4 | Duke Blue Devils              | 0.785
   4 | Oklahoma Sooners              | 0.773
-  4 | Utah Utes                     | 0.710
   4 | North Carolina Tarheels       | 0.709
   4 | Gonzaga Bulldogs              | 0.701
   4 | Louisville Cardinals          | 0.617
@@ -18,7 +17,6 @@ BEGIN
   4 | Northern Iowa Panthers        | 0.383
   4 | Iowa Hawkeyes                 | 0.299
   4 | Arkansas Razorbacks           | 0.291
-  4 | Georgetown Hoyas              | 0.290
   4 | Dayton Flyers                 | 0.227
   4 | San Diego State Aztecs        | 0.215
   4 | Michigan State Spartans       | 0.209
@@ -28,9 +26,9 @@ BEGIN
   5 | Wisconsin Badgers             | 0.681
   5 | Virginia Cavaliers            | 0.603
   5 | Gonzaga Bulldogs              | 0.590
-  5 | Duke Blue Devils              | 0.480
+  5 | Utah Utes                     | 0.511
+  5 | Duke Blue Devils              | 0.435
   5 | Louisville Cardinals          | 0.420
-  5 | Utah Utes                     | 0.363
   5 | North Carolina State Wolfpack | 0.361
   5 | Kansas Jayhawks               | 0.281
   5 | Oklahoma Sooners              | 0.265
@@ -38,100 +36,96 @@ BEGIN
   5 | North Carolina Tarheels       | 0.243
   5 | Wichita State Shockers        | 0.243
   5 | Xavier Musketeers             | 0.232
-  5 | Northern Iowa Panthers        | 0.219
   5 | Butler Bulldogs               | 0.219
+  5 | Northern Iowa Panthers        | 0.219
   5 | Iowa Hawkeyes                 | 0.207
   5 | UCLA Bruins                   | 0.203
   5 | Michigan State Spartans       | 0.100
-  5 | Georgetown Hoyas              | 0.090
-  5 | San Diego State Aztecs        | 0.067
   5 | West Virginia Mountaineers    | 0.057
   5 | Arkansas Razorbacks           | 0.056
-  5 | Maryland Terrapins            | 0.032
+  5 | San Diego State Aztecs        | 0.055
   5 | Dayton Flyers                 | 0.032
+  5 | Maryland Terrapins            | 0.032
   5 | Oregon Ducks                  | 0.020
   6 | Kentucky Wildcats             | 0.791
   6 | Virginia Cavaliers            | 0.490
   6 | Wisconsin Badgers             | 0.429
   6 | Arizona Wildcats              | 0.391
-  6 | Duke Blue Devils              | 0.317
-  6 | Gonzaga Bulldogs              | 0.298
-  6 | Utah Utes                     | 0.223
+  6 | Utah Utes                     | 0.314
+  6 | Duke Blue Devils              | 0.287
+  6 | Gonzaga Bulldogs              | 0.286
   6 | Oklahoma Sooners              | 0.167
   6 | Louisville Cardinals          | 0.146
   6 | North Carolina Tarheels       | 0.104
   6 | North Carolina State Wolfpack | 0.076
-  6 | Iowa Hawkeyes                 | 0.064
+  6 | Iowa Hawkeyes                 | 0.060
   6 | Xavier Musketeers             | 0.059
   6 | Northern Iowa Panthers        | 0.056
   6 | Michigan State Spartans       | 0.054
   6 | Kansas Jayhawks               | 0.052
   6 | Notre Dame Fighting Irish     | 0.044
   6 | Wichita State Shockers        | 0.042
-  6 | Georgetown Hoyas              | 0.038
   6 | Butler Bulldogs               | 0.035
-  6 | UCLA Bruins                   | 0.035
-  6 | San Diego State Aztecs        | 0.025
+  6 | UCLA Bruins                   | 0.032
   6 | West Virginia Mountaineers    | 0.024
+  6 | San Diego State Aztecs        | 0.021
   6 | Arkansas Razorbacks           | 0.014
   6 | Maryland Terrapins            | 0.011
   6 | Dayton Flyers                 | 0.011
   6 | Oregon Ducks                  | 0.003
   7 | Kentucky Wildcats             | 0.571
-  7 | Virginia Cavaliers            | 0.334
+  7 | Virginia Cavaliers            | 0.330
   7 | Wisconsin Badgers             | 0.184
-  7 | Duke Blue Devils              | 0.171
-  7 | Gonzaga Bulldogs              | 0.145
+  7 | Duke Blue Devils              | 0.155
+  7 | Utah Utes                     | 0.154
   7 | Arizona Wildcats              | 0.145
-  7 | Utah Utes                     | 0.109
-  7 | Oklahoma Sooners              | 0.076
-  7 | Louisville Cardinals          | 0.061
+  7 | Gonzaga Bulldogs              | 0.139
+  7 | Oklahoma Sooners              | 0.075
+  7 | Louisville Cardinals          | 0.060
   7 | North Carolina Tarheels       | 0.028
-  7 | North Carolina State Wolfpack | 0.020
-  7 | Iowa Hawkeyes                 | 0.020
   7 | Michigan State Spartans       | 0.020
-  7 | Northern Iowa Panthers        | 0.018
+  7 | North Carolina State Wolfpack | 0.019
+  7 | Iowa Hawkeyes                 | 0.018
+  7 | Northern Iowa Panthers        | 0.017
   7 | Kansas Jayhawks               | 0.016
   7 | Notre Dame Fighting Irish     | 0.013
   7 | Wichita State Shockers        | 0.012
-  7 | Georgetown Hoyas              | 0.011
-  7 | Butler Bulldogs               | 0.010
   7 | Xavier Musketeers             | 0.010
-  7 | San Diego State Aztecs        | 0.007
+  7 | Butler Bulldogs               | 0.010
   7 | West Virginia Mountaineers    | 0.006
-  7 | UCLA Bruins                   | 0.006
+  7 | San Diego State Aztecs        | 0.005
+  7 | UCLA Bruins                   | 0.005
   7 | Dayton Flyers                 | 0.002
   7 | Maryland Terrapins            | 0.002
   7 | Arkansas Razorbacks           | 0.002
   7 | Oregon Ducks                  | 0.000
   8 | Kentucky Wildcats             | 0.431
-  8 | Virginia Cavaliers            | 0.152
-  8 | Wisconsin Badgers             | 0.114
-  8 | Arizona Wildcats              | 0.080
-  8 | Duke Blue Devils              | 0.060
-  8 | Gonzaga Bulldogs              | 0.044
-  8 | Utah Utes                     | 0.034
-  8 | Oklahoma Sooners              | 0.020
+  8 | Virginia Cavaliers            | 0.151
+  8 | Wisconsin Badgers             | 0.113
+  8 | Arizona Wildcats              | 0.079
+  8 | Duke Blue Devils              | 0.055
+  8 | Utah Utes                     | 0.048
+  8 | Gonzaga Bulldogs              | 0.042
+  8 | Oklahoma Sooners              | 0.019
   8 | Louisville Cardinals          | 0.014
-  8 | North Carolina Tarheels       | 0.012
+  8 | North Carolina Tarheels       | 0.011
   8 | Kansas Jayhawks               | 0.006
   8 | Michigan State Spartans       | 0.004
   8 | Notre Dame Fighting Irish     | 0.004
   8 | Wichita State Shockers        | 0.004
-  8 | North Carolina State Wolfpack | 0.003
   8 | Xavier Musketeers             | 0.003
   8 | Butler Bulldogs               | 0.003
   8 | Iowa Hawkeyes                 | 0.003
   8 | Northern Iowa Panthers        | 0.003
+  8 | North Carolina State Wolfpack | 0.002
   8 | West Virginia Mountaineers    | 0.002
-  8 | Georgetown Hoyas              | 0.002
-  8 | UCLA Bruins                   | 0.001
   8 | San Diego State Aztecs        | 0.001
   8 | Maryland Terrapins            | 0.000
+  8 | UCLA Bruins                   | 0.000
   8 | Dayton Flyers                 | 0.000
-  8 | Arkansas Razorbacks           | 0.000
   8 | Oregon Ducks                  | 0.000
-(130 rows)
+  8 | Arkansas Razorbacks           | 0.000
+(124 rows)
 
-COPY 130
+COPY 124
 COMMIT
