@@ -1,5 +1,5 @@
 
-Generate from 432K ESPN NCAA tournament brackets.
+Generate from 635K ESPN NCAA tournament brackets.
 
 outcomes.csv is a files with team ID, opponent ID, number of wins and
 losses between the two teams in the brackets
