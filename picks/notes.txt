@@ -9,4 +9,4 @@ have the same levels
 
 Probability of team beating opponent is the Bradley-Terry-Luce:
 
-strength(team)/( strength(team) + strength(opponent)
+strength(team)/( strength(team) + strength(opponent) )
