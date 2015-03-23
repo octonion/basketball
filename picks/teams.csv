@@ -1,65 +1,65 @@
-id,seed,name_short,name_long,eid
-1,1,"UK","Kentucky",96
-2,16,"HAMP","Hampton",2261
-3,8,"CIN","Cincinnati",2132
-4,9,"PUR","Purdue",2509
-5,5,"WVU","West Virginia",277
-6,12,"BUFF","Buffalo",2084
-7,4,"MD","Maryland",120
-8,13,"VALP","Valparaiso",2674
-9,6,"BUT","Butler",2086
-10,11,"TEX","Texas",251
-11,3,"ND","Notre Dame",87
-12,14,"NE","Northeastern",111
-13,7,"WICH","Wichita St",2724
-14,10,"IND","Indiana",84
-15,2,"KU","Kansas",2305
-16,15,"NMSU","NM State",166
-17,1,"WIS","Wisconsin",275
-18,16,"CCAR","Coastal Car",324
-19,8,"ORE","Oregon",2483
-20,9,"OKST","Oklahoma St",197
-21,5,"ARK","Arkansas",8
-22,12,"WOF","Wofford",2747
-23,4,"UNC","UNC",153
-24,13,"HARV","Harvard",108
-25,6,"XAV","Xavier",2752
-26,11,"MISS","Ole Miss",145
-27,3,"BAY","Baylor",239
-28,14,"GAST","Georgia St",2247
-29,7,"VCU","VCU",2670
-30,10,"OSU","Ohio State",194
-31,2,"ARIZ","Arizona",12
-32,15,"TXSO","Texas So",2640
-33,1,"VILL","Villanova",222
-34,16,"LAF","Lafayette",322
-35,8,"NCST","NC State",152
-36,9,"LSU","LSU",99
-37,5,"UNI","N Iowa",2460
-38,12,"WYO","Wyoming",2751
-39,4,"LOU","Louisville",97
-40,13,"UCI","UC Irvine",300
-41,6,"PROV","Providence",2507
-42,11,"DAY","Dayton",2168
-43,3,"OKLA","Oklahoma",201
-44,14,"ALB","Albany",399
-45,7,"MSU","Michigan St",127
-46,10,"UGA","Georgia",61
-47,2,"UVA","Virginia",258
-48,15,"BEL","Belmont",2057
-49,1,"DUKE","Duke",150
-50,16,"RMU","R. Morris",2523
-51,8,"SDSU","San Diego St",21
-52,9,"SJU","St. John's",2599
-53,5,"UTAH","Utah",254
-54,12,"SFA","SF Austin",2617
-55,4,"GTWN","Georgetown",46
-56,13,"EWU","E Washington",331
-57,6,"SMU","SMU",2567
-58,11,"UCLA","UCLA",26
-59,3,"ISU","Iowa State",66
-60,14,"UAB","UAB",5
-61,7,"IOWA","Iowa",2294
-62,10,"DAV","Davidson",2166
-63,2,"GONZ","Gonzaga",2250
-64,15,"NDSU","ND State",2449
+id,seed,name_short,name_long,eid,k_id
+1,1,"UK","Kentucky",96,1246
+2,16,"HAMP","Hampton",2261,1214
+3,8,"CIN","Cincinnati",2132,1153
+4,9,"PUR","Purdue",2509,1345
+5,5,"WVU","West Virginia",277,1452
+6,12,"BUFF","Buffalo",2084,1138
+7,4,"MD","Maryland",120,1268
+8,13,"VALP","Valparaiso",2674,1434
+9,6,"BUT","Butler",2086,1139
+10,11,"TEX","Texas",251,1400
+11,3,"ND","Notre Dame",87,1323
+12,14,"NE","Northeastern",111,1318
+13,7,"WICH","Wichita St",2724,1455
+14,10,"IND","Indiana",84,1231
+15,2,"KU","Kansas",2305,1242
+16,15,"NMSU","NM State",166,1308
+17,1,"WIS","Wisconsin",275,1458
+18,16,"CCAR","Coastal Car",324,1157
+19,8,"ORE","Oregon",2483,1332
+20,9,"OKST","Oklahoma St",197,1329
+21,5,"ARK","Arkansas",8,1116
+22,12,"WOF","Wofford",2747,1459
+23,4,"UNC","UNC",153,1314
+24,13,"HARV","Harvard",108,1217
+25,6,"XAV","Xavier",2752,1462
+26,11,"MISS","Ole Miss",145,1279
+27,3,"BAY","Baylor",239,1124
+28,14,"GAST","Georgia St",2247,1209
+29,7,"VCU","VCU",2670,1433
+30,10,"OSU","Ohio State",194,1326
+31,2,"ARIZ","Arizona",12,1112
+32,15,"TXSO","Texas So",2640,1411
+33,1,"VILL","Villanova",222,1437
+34,16,"LAF","Lafayette",322,1248
+35,8,"NCST","NC State",152,1301
+36,9,"LSU","LSU",99,1261
+37,5,"UNI","N Iowa",2460,1320
+38,12,"WYO","Wyoming",2751,1461
+39,4,"LOU","Louisville",97,1257
+40,13,"UCI","UC Irvine",300,1414
+41,6,"PROV","Providence",2507,1344
+42,11,"DAY","Dayton",2168,1173
+43,3,"OKLA","Oklahoma",201,1328
+44,14,"ALB","Albany",399,1107
+45,7,"MSU","Michigan St",127,1277
+46,10,"UGA","Georgia",61,1208
+47,2,"UVA","Virginia",258,1438
+48,15,"BEL","Belmont",2057,1125
+49,1,"DUKE","Duke",150,1181
+50,16,"RMU","R. Morris",2523,1352
+51,8,"SDSU","San Diego St",21,1361
+52,9,"SJU","St. John's",2599,1385
+53,5,"UTAH","Utah",254,1428
+54,12,"SFA","SF Austin",2617,1372
+55,4,"GTWN","Georgetown",46,1207
+56,13,"EWU","E Washington",331,1186
+57,6,"SMU","SMU",2567,1374
+58,11,"UCLA","UCLA",26,1417
+59,3,"ISU","Iowa State",66,1235
+60,14,"UAB","UAB",5,1412
+61,7,"IOWA","Iowa",2294,1234
+62,10,"DAV","Davidson",2166,1172
+63,2,"GONZ","Gonzaga",2250,1211
+64,15,"NDSU","ND State",2449,1295

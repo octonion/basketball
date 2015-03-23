@@ -18,8 +18,9 @@ espn$id <- rownames(espn)
 ranks <- merge(teams, espn)
 ranks <- ranks[with(ranks, order(-ability)), ]
 
-ranks <- subset(ranks, TRUE, select=c(name_long,ability))
-colnames(ranks)[1] <- "team"
+ranks <- subset(ranks, TRUE, select=c(k_id,name_long,ability))
+colnames(ranks)[1] <- "id"
+colnames(ranks)[2] <- "team"
 
 ranks$strength <- exp(ranks$ability)
 
