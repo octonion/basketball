@@ -1,97 +1,97 @@
-[1] 669274      9
+[1] 669366      9
 [1] TRUE
-[1] 669274      8
-start par. =  1 1 1 fn =  -541258.7 
+[1] 669366      8
+start par. =  1 1 1 fn =  -541328 
 At return
-eval:  43 fn:     -564757.04 par: 0.628614 0.923688  1.18247
+eval:  45 fn:     -564820.55 par: 0.628687 0.923587  1.18247
 Linear mixed model fit by maximum likelihood  ['lmerMod']
 Formula: log_ps ~ year + field + d_div + o_div + game_length + (1 | offense) +  
     (1 | defense) + (1 | game_id)
    Data: g
       AIC       BIC    logLik  deviance  df.resid 
--564701.0 -564381.5  282378.5 -564757.0    669246 
+-564764.5 -564445.0  282410.3 -564820.5    669338 
 Random effects:
  Groups   Name        Std.Dev.
- game_id  (Intercept) 0.08017 
- defense  (Intercept) 0.11780 
+ game_id  (Intercept) 0.08018 
+ defense  (Intercept) 0.11779 
  offense  (Intercept) 0.15081 
  Residual             0.12754 
-Number of obs: 669274, groups:  game_id, 334637; defense, 13652; offense, 13652
+Number of obs: 669366, groups:  game_id, 334683; defense, 13652; offense, 13652
 Fixed Effects:
       (Intercept)              year1              year2              year3  
-        4.1212134          0.0139567          0.0120809          0.0047911  
+         4.121239           0.013950           0.012075           0.004785  
             year4              year5              year6              year7  
-       -0.0077910          0.0038927          0.0018799          0.0045869  
+        -0.007797           0.003886           0.001873           0.004580  
             year8              year9             year10             year11  
-        0.0010092          0.0009984         -0.0040962         -0.0185473  
+         0.001003           0.000992          -0.004103          -0.018553  
            year12  fielddefense_home  fieldoffense_home             d_div2  
-       -0.0216570         -0.0200026          0.0335801          0.1723934  
+        -0.021664          -0.020008           0.033571           0.172373  
            d_div3             o_div2             o_div3    game_length1 OT  
-        0.3150262         -0.1426842         -0.3514199          0.1190373  
+         0.315014          -0.142686          -0.351428           0.119083  
   game_length2 OT    game_length3 OT    game_length4 OT    game_length5 OT  
-        0.1940630          0.3291634          0.4112756          0.4376979  
+         0.194040           0.329165           0.411119           0.437703  
 Linear mixed model fit by maximum likelihood  ['lmerMod']
 Formula: log_ps ~ year + field + d_div + o_div + game_length + (1 | offense) +  
     (1 | defense) + (1 | game_id)
    Data: g
 
       AIC       BIC    logLik  deviance  df.resid 
--564701.0 -564381.5  282378.5 -564757.0    669246 
+-564764.5 -564445.0  282410.3 -564820.5    669338 
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--9.9753 -0.5268  0.0470  0.5829  5.0542 
+-9.9750 -0.5268  0.0470  0.5829  5.0542 
 
 Random effects:
  Groups   Name        Variance Std.Dev.
- game_id  (Intercept) 0.006427 0.08017 
- defense  (Intercept) 0.013878 0.11780 
+ game_id  (Intercept) 0.006429 0.08018 
+ defense  (Intercept) 0.013874 0.11779 
  offense  (Intercept) 0.022743 0.15081 
  Residual             0.016265 0.12754 
-Number of obs: 669274, groups:  game_id, 334637; defense, 13652; offense, 13652
+Number of obs: 669366, groups:  game_id, 334683; defense, 13652; offense, 13652
 
 Fixed effects:
                     Estimate Std. Error t value
-(Intercept)        4.1212134  0.0029998  1373.8
-year1              0.0139567  0.0058487     2.4
-year2              0.0120809  0.0058144     2.1
-year3              0.0047911  0.0058188     0.8
-year4             -0.0077910  0.0058121    -1.3
-year5              0.0038927  0.0057793     0.7
-year6              0.0018799  0.0057672     0.3
-year7              0.0045869  0.0057537     0.8
-year8              0.0010092  0.0056982     0.2
-year9              0.0009984  0.0056768     0.2
-year10            -0.0040962  0.0056600    -0.7
-year11            -0.0185473  0.0056592    -3.3
-year12            -0.0216570  0.0058048    -3.7
-fielddefense_home -0.0200026  0.0007727   -25.9
-fieldoffense_home  0.0335801  0.0007727    43.5
-d_div2             0.1723934  0.0036130    47.7
-d_div3             0.3150262  0.0040102    78.6
-o_div2            -0.1426842  0.0041825   -34.1
-o_div3            -0.3514199  0.0044386   -79.2
-game_length1 OT    0.1190373  0.0012024    99.0
-game_length2 OT    0.1940630  0.0030285    64.1
-game_length3 OT    0.3291634  0.0090368    36.4
-game_length4 OT    0.4112756  0.0207942    19.8
-game_length5 OT    0.4376979  0.0625532     7.0
+(Intercept)        4.1212393  0.0029997  1373.9
+year1              0.0139502  0.0058484     2.4
+year2              0.0120745  0.0058142     2.1
+year3              0.0047848  0.0058186     0.8
+year4             -0.0077972  0.0058119    -1.3
+year5              0.0038860  0.0057791     0.7
+year6              0.0018734  0.0057669     0.3
+year7              0.0045805  0.0057534     0.8
+year8              0.0010028  0.0056980     0.2
+year9              0.0009920  0.0056765     0.2
+year10            -0.0041025  0.0056598    -0.7
+year11            -0.0185534  0.0056589    -3.3
+year12            -0.0216636  0.0058046    -3.7
+fielddefense_home -0.0200081  0.0007727   -25.9
+fieldoffense_home  0.0335705  0.0007727    43.4
+d_div2             0.1723733  0.0036128    47.7
+d_div3             0.3150137  0.0040100    78.6
+o_div2            -0.1426857  0.0041825   -34.1
+o_div3            -0.3514280  0.0044386   -79.2
+game_length1 OT    0.1190833  0.0012023    99.0
+game_length2 OT    0.1940399  0.0030286    64.1
+game_length3 OT    0.3291645  0.0090372    36.4
+game_length4 OT    0.4111194  0.0207946    19.8
+game_length5 OT    0.4377025  0.0625561     7.0
 Analysis of Variance Table
-            Df Sum Sq Mean Sq    F value
-year        12   0.65   0.054     3.3341
-field        2 442.09 221.045 13589.8786
-d_div        2  27.30  13.649   839.1279
-o_div        2 104.10  52.049  3199.9993
-game_length  5 251.02  50.205  3086.5925
+            Df Sum Sq Mean Sq   F value
+year        12   0.65   0.054     3.339
+field        2 442.07 221.037 13589.542
+d_div        2  27.29  13.646   838.989
+o_div        2 104.10  52.052  3200.202
+game_length  5 251.15  50.230  3088.198
 [1] TRUE
-[1] 8.266897e-13
-[1] 7.505942e-18
-[1] 2.280626e-11
+[1] 9.242756e-09
+[1] 8.885336e-18
+[1] 2.922395e-07
           0%           5%          10%          15%          20%          25% 
-1.063865e-30 2.320785e-23 6.907336e-22 5.154386e-21 2.356521e-20 8.118228e-20 
+1.607446e-31 9.988301e-23 2.063902e-21 6.981089e-21 3.128365e-20 1.016861e-19 
          30%          35%          40%          45%          50%          55% 
-2.161308e-19 5.420340e-19 1.395222e-18 3.293847e-18 7.505942e-18 1.999635e-17 
+3.075129e-19 7.084086e-19 1.542628e-18 3.910685e-18 8.885336e-18 2.042202e-17 
          60%          65%          70%          75%          80%          85% 
-4.278373e-17 1.159722e-16 2.959439e-16 7.212308e-16 1.865316e-15 4.327736e-15 
+3.928424e-17 8.981801e-17 2.376135e-16 5.540835e-16 1.695732e-15 4.659380e-15 
          90%          95%         100% 
-1.520742e-14 1.361646e-13 7.205475e-10 
+1.696152e-14 1.436185e-13 9.241427e-06 
