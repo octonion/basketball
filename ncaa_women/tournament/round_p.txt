@@ -1,119 +1,71 @@
 BEGIN
  rd |      name      |   p   
 ----+----------------+-------
-  3 | UConn          | 0.994
-  3 | Tennessee      | 0.892
-  3 | Florida St.    | 0.735
-  3 | Arizona St.    | 0.711
-  3 | Maryland       | 0.606
-  3 | Louisville     | 0.602
-  3 | Stanford       | 0.554
-  3 | North Carolina | 0.553
-  3 | Ohio St.       | 0.447
-  3 | Oklahoma       | 0.446
-  3 | South Fla.     | 0.398
-  3 | Princeton      | 0.394
-  3 | UALR           | 0.289
-  3 | FGCU           | 0.265
-  3 | Pittsburgh     | 0.108
-  3 | Rutgers        | 0.006
-  4 | UConn          | 0.986
-  4 | South Carolina | 0.909
-  4 | Notre Dame     | 0.902
-  4 | Baylor         | 0.846
-  4 | Tennessee      | 0.823
-  4 | Florida St.    | 0.529
-  4 | Louisville     | 0.451
-  4 | Maryland       | 0.421
-  4 | Duke           | 0.345
-  4 | Dayton         | 0.285
-  4 | Arizona St.    | 0.280
-  4 | South Fla.     | 0.264
-  4 | Princeton      | 0.234
-  4 | Iowa           | 0.154
-  4 | FGCU           | 0.129
-  4 | Gonzaga        | 0.112
-  4 | Pittsburgh     | 0.064
-  4 | UALR           | 0.062
-  4 | Stanford       | 0.059
-  4 | North Carolina | 0.055
-  4 | Oklahoma       | 0.039
-  4 | Ohio St.       | 0.036
-  4 | Texas          | 0.011
-  4 | Rutgers        | 0.003
-  5 | UConn          | 0.977
-  5 | South Carolina | 0.768
-  5 | Notre Dame     | 0.633
-  5 | Tennessee      | 0.467
-  5 | Baylor         | 0.326
-  5 | Maryland       | 0.250
-  5 | Duke           | 0.144
-  5 | Florida St.    | 0.134
-  5 | Princeton      | 0.117
-  5 | Arizona St.    | 0.043
-  5 | North Carolina | 0.022
+  4 | UConn          | 0.993
+  4 | Tennessee      | 0.921
+  4 | South Carolina | 0.901
+  4 | Notre Dame     | 0.894
+  4 | Baylor         | 0.843
+  4 | Louisville     | 0.750
+  4 | Maryland       | 0.700
+  4 | Florida St.    | 0.678
+  4 | Arizona St.    | 0.322
+  4 | Duke           | 0.300
+  4 | Dayton         | 0.250
+  4 | Iowa           | 0.157
+  4 | Stanford       | 0.106
+  4 | North Carolina | 0.099
+  4 | Gonzaga        | 0.079
+  4 | Texas          | 0.007
+  5 | UConn          | 0.982
+  5 | South Carolina | 0.743
+  5 | Notre Dame     | 0.631
+  5 | Tennessee      | 0.479
+  5 | Maryland       | 0.401
+  5 | Baylor         | 0.323
+  5 | Florida St.    | 0.173
+  5 | Duke           | 0.113
+  5 | Arizona St.    | 0.049
+  5 | North Carolina | 0.035
+  5 | Stanford       | 0.027
   5 | Iowa           | 0.019
-  5 | FGCU           | 0.016
-  5 | Stanford       | 0.014
-  5 | Ohio St.       | 0.013
-  5 | Gonzaga        | 0.012
-  5 | Louisville     | 0.010
-  5 | Pittsburgh     | 0.009
-  5 | Oklahoma       | 0.008
-  5 | Texas          | 0.005
-  5 | UALR           | 0.005
-  5 | South Fla.     | 0.004
-  5 | Dayton         | 0.003
-  5 | Rutgers        | 0.001
-  6 | UConn          | 0.957
-  6 | South Carolina | 0.463
-  6 | Notre Dame     | 0.346
-  6 | Baylor         | 0.130
-  6 | Florida St.    | 0.040
-  6 | Tennessee      | 0.018
-  6 | Maryland       | 0.010
-  6 | Arizona St.    | 0.008
-  6 | Louisville     | 0.004
-  6 | Princeton      | 0.004
-  6 | Duke           | 0.003
-  6 | North Carolina | 0.003
-  6 | FGCU           | 0.002
-  6 | Iowa           | 0.002
-  6 | Stanford       | 0.002
-  6 | Ohio St.       | 0.002
-  6 | South Fla.     | 0.001
-  6 | Dayton         | 0.001
-  6 | Oklahoma       | 0.001
+  5 | Louisville     | 0.013
+  5 | Gonzaga        | 0.007
+  5 | Texas          | 0.003
+  5 | Dayton         | 0.002
+  6 | UConn          | 0.960
+  6 | South Carolina | 0.450
+  6 | Notre Dame     | 0.348
+  6 | Baylor         | 0.129
+  6 | Florida St.    | 0.052
+  6 | Tennessee      | 0.016
+  6 | Maryland       | 0.015
+  6 | Arizona St.    | 0.009
+  6 | North Carolina | 0.006
+  6 | Louisville     | 0.005
+  6 | Stanford       | 0.004
+  6 | Iowa           | 0.003
+  6 | Duke           | 0.002
   6 | Texas          | 0.001
-  6 | Pittsburgh     | 0.000
   6 | Gonzaga        | 0.000
-  6 | UALR           | 0.000
-  6 | Rutgers        | 0.000
-  7 | UConn          | 0.910
-  7 | South Carolina | 0.041
-  7 | Notre Dame     | 0.028
-  7 | Baylor         | 0.007
-  7 | Tennessee      | 0.006
-  7 | Maryland       | 0.004
-  7 | Duke           | 0.001
+  6 | Dayton         | 0.000
+  7 | UConn          | 0.914
+  7 | South Carolina | 0.039
+  7 | Notre Dame     | 0.027
+  7 | Maryland       | 0.006
+  7 | Baylor         | 0.006
+  7 | Tennessee      | 0.005
+  7 | Florida St.    | 0.002
   7 | Louisville     | 0.001
-  7 | Florida St.    | 0.001
-  7 | Princeton      | 0.001
   7 | North Carolina | 0.000
   7 | Stanford       | 0.000
   7 | Iowa           | 0.000
-  7 | Rutgers        | 0.000
-  7 | South Fla.     | 0.000
-  7 | Oklahoma       | 0.000
-  7 | Pittsburgh     | 0.000
   7 | Texas          | 0.000
-  7 | FGCU           | 0.000
   7 | Arizona St.    | 0.000
-  7 | UALR           | 0.000
   7 | Dayton         | 0.000
   7 | Gonzaga        | 0.000
-  7 | Ohio St.       | 0.000
-(112 rows)
+  7 | Duke           | 0.000
+(64 rows)
 
-COPY 112
+COPY 64
 COMMIT
