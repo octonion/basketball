@@ -1,12 +1,18 @@
 BEGIN
 SET
-    date    | site |      home       | div | score |     away      | div | score 
-------------+------+-----------------+-----+-------+---------------+-----+-------
- 2015-03-23 | home | New Mexico      |   1 |  59.2 | Oral Roberts  |   1 |  52.7
- 2015-03-23 | home | Sacramento St.  |   1 |  85.8 | Eastern Wash. |   1 |  80.4
- 2015-03-23 | home | St. Mary's (CA) |   1 |  58.5 | Fresno St.    |   1 |  56.6
- 2015-03-23 | home | Toledo          |   1 |  60.9 | Michigan      |   1 |  69.3
-(4 rows)
+    date    |  site   |        home        | div | score |        away        | div | score 
+------------+---------+--------------------+-----+-------+--------------------+-----+-------
+ 2015-03-24 | neutral | California Baptist |   2 |  70.2 | New Haven          |   2 |  73.3
+ 2015-03-24 | neutral | California (PA)    |   2 |  65.2 | Nova Southeastern  |   2 |  62.9
+ 2015-03-24 | home    | Duquesne           |   1 |  67.5 | Richmond           |   1 |  58.3
+ 2015-03-24 | neutral | Emporia St.        |   2 |  71.4 | West Tex. A&M      |   2 |  59.2
+ 2015-03-24 | neutral | Lewis              |   2 |  72.5 | Limestone          |   2 |  67.3
+ 2015-03-24 | neutral | Limestone          |   2 |  67.3 | Lewis              |   2 |  72.5
+ 2015-03-24 | neutral | New Haven          |   2 |  73.3 | California Baptist |   2 |  70.2
+ 2015-03-24 | neutral | Nova Southeastern  |   2 |  62.9 | California (PA)    |   2 |  65.2
+ 2015-03-24 | neutral | West Tex. A&M      |   2 |  59.2 | Emporia St.        |   2 |  71.4
+ 2015-03-24 | home    | West Virginia      |   1 |  62.7 | Hampton            |   1 |  51.7
+(10 rows)
 
-COPY 4
+COPY 10
 COMMIT
