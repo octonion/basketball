@@ -1,8 +1,8 @@
 begin;
 
-drop table if exists ncaa_sr.results;
+drop table if exists ncaa_sr.beta_results;
 
-create table ncaa_sr.results (
+create table ncaa_sr.beta_results (
 	game_id		      integer,
 	year		      integer,
 	game_date	      date,
@@ -15,18 +15,16 @@ create table ncaa_sr.results (
 	field		      text,
 	team_score	      integer,
 	opponent_score	      integer,
-	game_length	      text,
-	shot_clock	      text
+	game_length	      text
 );
 
-insert into ncaa_sr.results
+insert into ncaa_sr.beta_results
 (game_id,year,
  game_date,type,
  team_name,team_id,
  opponent_name,opponent_id,
  location_id,field,
- team_score,opponent_score,
- game_length,shot_clock)
+ team_score,opponent_score,game_length)
 (
 select
 game_id,
@@ -43,15 +41,7 @@ location as location_id,
       else 'neutral' end) as field,
 team_score,
 opponent_score,
-ot as game_length,
-
-(case when year=2015 and type in ('NIT','CIT','CBI') then '30 seconds'
-      when year=2015 and type in ('NCAA','REG','CTOURN') then '35 seconds'
-      when year between 1994 and 2014 then '35 seconds'
-      when year between 1986 and 1993 then '45 seconds'
-      when year between 1980 and 1985 then 'none'
-end) as shot_clock
-      
+ot as game_length
 from ncaa_sr.games g
 where
     g.team_score is not NULL
@@ -60,16 +50,18 @@ and g.team_score >= 0
 and g.opponent_score >= 0
 and g.school_id is not NULL
 and g.opponent_id is not NULL
+
+and ((g.location is null) or
+     (g.location='N' and g.school_id < g.opponent_id))
 );
 
-insert into ncaa_sr.results
+insert into ncaa_sr.beta_results
 (game_id,year,
  game_date,type,
  team_name,team_id,
  opponent_name,opponent_id,
  location_id,field,
- team_score,opponent_score,
- game_length,shot_clock)
+ team_score,opponent_score,game_length)
 (
 select
 game_id,
@@ -86,15 +78,7 @@ location as location_id,
       else 'neutral' end) as field,
 opponent_score,
 team_score,
-ot as game_length,
-
-(case when year=2015 and type in ('NIT','CIT','CBI') then '30 seconds'
-      when year=2015 and type in ('NCAA','REG','CTOURN') then '35 seconds'
-      when year between 1994 and 2014 then '35 seconds'
-      when year between 1986 and 1993 then '45 seconds'
-      when year between 1980 and 1985 then 'none'
-end) as shot_clock
-
+ot as game_length
 from ncaa_sr.games g
 where
     g.team_score is not NULL
@@ -103,13 +87,16 @@ and g.team_score >= 0
 and g.opponent_score >= 0
 and g.school_id is not NULL
 and g.opponent_id is not NULL
+
+and ((g.location is null) or
+     (g.location='N' and g.school_id < g.opponent_id))
 );
 
-update ncaa_sr.results
+update ncaa_sr.beta_results
 set game_length='1OT'
 where game_length='OT';
 
-update ncaa_sr.results
+update ncaa_sr.beta_results
 set game_length='0OT'
 where game_length is null;
 

@@ -9,7 +9,7 @@ psql basketball -c "drop table ncaa_sr._schedule_factors;"
 
 psql basketball -c "vacuum full verbose analyze ncaa_sr.results;"
 
-R --vanilla -f sos/ncaa_sr_lmer.R
+R --vanilla -f sos/lmer.R
 
 psql basketball -c "vacuum full verbose analyze ncaa_sr._basic_factors;"
 psql basketball -c "vacuum full verbose analyze ncaa_sr._parameter_levels;"

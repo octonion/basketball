@@ -1,8 +1,8 @@
-sink("diagnostics/ncaa_sr_lmer.txt")
+sink("diagnostics/reg_lmer.txt")
 
-library("lme4")
-library("nortest")
-library("RPostgreSQL")
+library(lme4)
+library(nortest)
+library(RPostgreSQL)
 
 drv <- dbDriver("PostgreSQL")
 
@@ -23,14 +23,13 @@ as team_field,
 
 r.team_id as team,
 r.opponent_id as opponent,
---r.team_previous as team_previous,
---r.opponent_previous as opponent_previous,
 r.game_length as game_length,
 ln(r.team_score::float) as log_ps
-from ncaa_sr.results r
+from ncaa_sr.beta_results r
 where
 TRUE
 and r.year between 1980 and 2015
+and r.type in ('REG','CTOURN')
 and r.team_score>0
 and r.opponent_score>0
 and not(r.team_score,r.opponent_score)=(0,0)
@@ -94,7 +93,7 @@ for (n in rpn) {
 # Model parameters
 
 parameter_levels <- as.data.frame(do.call("rbind",pll))
-dbWriteTable(con,c("ncaa_sr","_parameter_levels"),parameter_levels,row.names=TRUE)
+dbWriteTable(con,c("ncaa_sr","beta_parameter_levels"),parameter_levels,row.names=TRUE)
 
 g <- cbind(fp,rp)
 
@@ -159,6 +158,6 @@ for (n in rn) {
 
 combined <- as.data.frame(do.call("rbind",results))
 
-dbWriteTable(con,c("ncaa_sr","_basic_factors"),as.data.frame(combined),row.names=TRUE)
+dbWriteTable(con,c("ncaa_sr","beta_basic_factors"),as.data.frame(combined),row.names=TRUE)
 
 quit("no")
