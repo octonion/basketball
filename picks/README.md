@@ -8,7 +8,7 @@ Generate game picks from brackets:
 
 ./brackets-games.rb
 
-Generate game counts from game outcomes:
+Generate game counts from game picks:
 
 ./brackets-counts.sh
 
