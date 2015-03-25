@@ -1,68 +1,68 @@
 BEGIN
  rd |             name              |   p   
 ----+-------------------------------+-------
-  5 | Kentucky Wildcats             | 0.897
-  5 | Gonzaga Bulldogs              | 0.835
-  5 | Arizona Wildcats              | 0.783
+  5 | Kentucky Wildcats             | 0.896
+  5 | Gonzaga Bulldogs              | 0.836
+  5 | Arizona Wildcats              | 0.782
   5 | Wisconsin Badgers             | 0.686
-  5 | Louisville Cardinals          | 0.670
-  5 | Duke Blue Devils              | 0.564
-  5 | Oklahoma Sooners              | 0.563
-  5 | Wichita State Shockers        | 0.508
-  5 | Notre Dame Fighting Irish     | 0.492
-  5 | Michigan State Spartans       | 0.437
-  5 | Utah Utes                     | 0.436
-  5 | North Carolina State Wolfpack | 0.330
+  5 | Louisville Cardinals          | 0.671
+  5 | Duke Blue Devils              | 0.566
+  5 | Oklahoma Sooners              | 0.562
+  5 | Wichita State Shockers        | 0.510
+  5 | Notre Dame Fighting Irish     | 0.490
+  5 | Michigan State Spartans       | 0.438
+  5 | Utah Utes                     | 0.434
+  5 | North Carolina State Wolfpack | 0.329
   5 | North Carolina Tarheels       | 0.314
-  5 | Xavier Musketeers             | 0.217
-  5 | UCLA Bruins                   | 0.165
-  5 | West Virginia Mountaineers    | 0.103
-  6 | Kentucky Wildcats             | 0.774
-  6 | Wisconsin Badgers             | 0.409
-  6 | Arizona Wildcats              | 0.409
-  6 | Gonzaga Bulldogs              | 0.376
-  6 | Duke Blue Devils              | 0.353
-  6 | Louisville Cardinals          | 0.335
-  6 | Oklahoma Sooners              | 0.328
-  6 | Utah Utes                     | 0.248
-  6 | Michigan State Spartans       | 0.228
-  6 | North Carolina Tarheels       | 0.130
+  5 | Xavier Musketeers             | 0.218
+  5 | UCLA Bruins                   | 0.164
+  5 | West Virginia Mountaineers    | 0.104
+  6 | Kentucky Wildcats             | 0.773
+  6 | Wisconsin Badgers             | 0.411
+  6 | Arizona Wildcats              | 0.406
+  6 | Gonzaga Bulldogs              | 0.377
+  6 | Duke Blue Devils              | 0.354
+  6 | Louisville Cardinals          | 0.336
+  6 | Oklahoma Sooners              | 0.326
+  6 | Utah Utes                     | 0.246
+  6 | Michigan State Spartans       | 0.229
+  6 | North Carolina Tarheels       | 0.131
   6 | North Carolina State Wolfpack | 0.109
-  6 | Wichita State Shockers        | 0.094
-  6 | Notre Dame Fighting Irish     | 0.088
+  6 | Wichita State Shockers        | 0.095
+  6 | Notre Dame Fighting Irish     | 0.089
   6 | Xavier Musketeers             | 0.052
   6 | West Virginia Mountaineers    | 0.044
   6 | UCLA Bruins                   | 0.023
-  7 | Kentucky Wildcats             | 0.557
-  7 | Duke Blue Devils              | 0.243
-  7 | Gonzaga Bulldogs              | 0.233
-  7 | Wisconsin Badgers             | 0.173
-  7 | Arizona Wildcats              | 0.160
-  7 | Utah Utes                     | 0.156
-  7 | Oklahoma Sooners              | 0.132
-  7 | Louisville Cardinals          | 0.126
+  7 | Kentucky Wildcats             | 0.556
+  7 | Duke Blue Devils              | 0.244
+  7 | Gonzaga Bulldogs              | 0.234
+  7 | Wisconsin Badgers             | 0.174
+  7 | Arizona Wildcats              | 0.159
+  7 | Utah Utes                     | 0.155
+  7 | Oklahoma Sooners              | 0.131
+  7 | Louisville Cardinals          | 0.127
   7 | Michigan State Spartans       | 0.079
   7 | North Carolina Tarheels       | 0.036
-  7 | Wichita State Shockers        | 0.028
+  7 | Wichita State Shockers        | 0.029
   7 | Notre Dame Fighting Irish     | 0.026
   7 | North Carolina State Wolfpack | 0.025
   7 | West Virginia Mountaineers    | 0.010
   7 | Xavier Musketeers             | 0.009
   7 | UCLA Bruins                   | 0.006
-  8 | Kentucky Wildcats             | 0.444
-  8 | Wisconsin Badgers             | 0.113
-  8 | Arizona Wildcats              | 0.099
+  8 | Kentucky Wildcats             | 0.442
+  8 | Wisconsin Badgers             | 0.114
+  8 | Arizona Wildcats              | 0.098
   8 | Duke Blue Devils              | 0.092
   8 | Gonzaga Bulldogs              | 0.073
-  8 | Utah Utes                     | 0.051
+  8 | Utah Utes                     | 0.050
   8 | Oklahoma Sooners              | 0.034
   8 | Louisville Cardinals          | 0.030
   8 | Michigan State Spartans       | 0.017
   8 | North Carolina Tarheels       | 0.017
   8 | Wichita State Shockers        | 0.011
   8 | Notre Dame Fighting Irish     | 0.010
+  8 | North Carolina State Wolfpack | 0.004
   8 | Xavier Musketeers             | 0.003
-  8 | North Carolina State Wolfpack | 0.003
   8 | West Virginia Mountaineers    | 0.003
   8 | UCLA Bruins                   | 0.001
 (64 rows)
