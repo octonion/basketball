@@ -8,15 +8,24 @@ g.type as type,
 'home' as site,
 hn.school_name as home,
 (h.strength*o.exp_factor)::numeric(4,2) as str,
-(exp(i.estimate)*y.exp_factor*h.offensive*o.exp_factor*v.defensive)::numeric(4,1) as score,
+(
+sc.exp_factor*
+exp(i.estimate)*y.exp_factor*h.offensive*o.exp_factor*v.defensive)::numeric(4,1) as score,
 vn.school_name as away,
 (v.strength*d.exp_factor)::numeric(4,2) as str,
-(exp(i.estimate)*y.exp_factor*v.offensive*h.defensive*d.exp_factor)::numeric(4,1) as score,
+(
+sc.exp_factor*
+exp(i.estimate)*y.exp_factor*v.offensive*h.defensive*d.exp_factor)::numeric(4,1) as score,
 (
 (h.strength*o.exp_factor)^10.25/
 ((h.strength*o.exp_factor)^10.25+(v.strength*d.exp_factor)^10.25)
 )::numeric(4,2) as pwin
 from ncaa_sr.games g
+join ncaa_sr._factors sc
+  on (sc.parameter,sc.level)=
+     ('shot_clock',
+      (case when g.year=2015 and g.type in ('NIT','CIT','CBI') then '30 seconds'
+            else '35 seconds' end))
 join ncaa_sr.schools hn
   on (hn.school_id)=(g.school_id)
 join ncaa_sr.schools vn
@@ -45,15 +54,24 @@ g.type as type,
 'neutral' as site,
 hn.school_name as home,
 (h.strength)::numeric(4,2) as str,
-(exp(i.estimate)*y.exp_factor*h.offensive*v.defensive)::numeric(4,1) as score,
+(
+sc.exp_factor*
+exp(i.estimate)*y.exp_factor*h.offensive*v.defensive)::numeric(4,1) as score,
 vn.school_name as away,
 (v.strength)::numeric(4,2) as str,
-(exp(i.estimate)*y.exp_factor*v.offensive*h.defensive)::numeric(4,1) as score,
+(
+sc.exp_factor*
+exp(i.estimate)*y.exp_factor*v.offensive*h.defensive)::numeric(4,1) as score,
 (
 (h.strength)^10.25/
 ((h.strength)^10.25+(v.strength)^10.25)
 )::numeric(4,2) as pwin
 from ncaa_sr.games g
+join ncaa_sr._factors sc
+  on (sc.parameter,sc.level)=
+     ('shot_clock',
+      (case when g.year=2015 and g.type in ('NIT','CIT','CBI') then '30 seconds'
+            else '35 seconds' end))
 join ncaa_sr.schools hn
   on (hn.school_id)=(g.school_id)
 join ncaa_sr.schools vn
@@ -81,15 +99,24 @@ g.type as type,
 'home' as site,
 hn.school_name as home,
 (h.strength*o.exp_factor)::numeric(4,2) as str,
-(exp(i.estimate)*y.exp_factor*h.offensive*o.exp_factor*v.defensive)::numeric(4,1) as score,
+(
+sc.exp_factor*
+exp(i.estimate)*y.exp_factor*h.offensive*o.exp_factor*v.defensive)::numeric(4,1) as score,
 vn.school_name as away,
 (v.strength*d.exp_factor)::numeric(4,2) as str,
-(exp(i.estimate)*y.exp_factor*v.offensive*h.defensive*d.exp_factor)::numeric(4,1) as score,
+(
+sc.exp_factor*
+exp(i.estimate)*y.exp_factor*v.offensive*h.defensive*d.exp_factor)::numeric(4,1) as score,
 (
 (h.strength*o.exp_factor)^10.25/
 ((h.strength*o.exp_factor)^10.25+(v.strength*d.exp_factor)^10.25)
 )::numeric(4,2) as pwin
 from ncaa_sr.games g
+join ncaa_sr._factors sc
+  on (sc.parameter,sc.level)=
+     ('shot_clock',
+      (case when g.year=2015 and g.type in ('NIT','CIT','CBI') then '30 seconds'
+            else '35 seconds' end))
 join ncaa_sr.schools hn
   on (hn.school_id)=(g.school_id)
 join ncaa_sr.schools vn
@@ -127,6 +154,11 @@ vn.school_name as away,
 ((h.strength)^10.25+(v.strength)^10.25)
 )::numeric(4,2) as pwin
 from ncaa_sr.games g
+join ncaa_sr._factors sc
+  on (sc.parameter,sc.level)=
+     ('shot_clock',
+      (case when g.year=2015 and g.type in ('NIT','CIT','CBI') then '30 seconds'
+            else '35 seconds' end))
 join ncaa_sr.schools hn
   on (hn.school_id)=(g.school_id)
 join ncaa_sr.schools vn
