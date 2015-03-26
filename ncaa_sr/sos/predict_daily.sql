@@ -145,10 +145,14 @@ g.type as type,
 'neutral' as site,
 hn.school_name as home,
 (h.strength)::numeric(4,2) as str,
-(exp(i.estimate)*y.exp_factor*h.offensive*v.defensive)::numeric(4,1) as score,
+(
+sc.exp_factor*
+exp(i.estimate)*y.exp_factor*h.offensive*v.defensive)::numeric(4,1) as score,
 vn.school_name as away,
 (v.strength)::numeric(4,2) as str,
-(exp(i.estimate)*y.exp_factor*v.offensive*h.defensive)::numeric(4,1) as score,
+(
+sc.exp_factor*
+exp(i.estimate)*y.exp_factor*v.offensive*h.defensive)::numeric(4,1) as score,
 (
 (h.strength)^10.25/
 ((h.strength)^10.25+(v.strength)^10.25)
