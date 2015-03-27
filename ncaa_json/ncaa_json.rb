@@ -7,7 +7,7 @@ require "json"
 agent = Mechanize.new{ |agent| agent.history.max_size=0 }
 agent.user_agent = "Mozilla/5.0"
 
-results = CSV.open("CSV/games_2014.csv","w")
+results = CSV.open("csv/games_2014.csv","w")
 
 #divisions = ["d1","d2","d3"]
 divisions = ["d1"]
@@ -15,7 +15,7 @@ divisions = ["d1"]
 #game_date = Date::strptime(testdate, "%d-%m-%Y")
 
 date_start = Date.new(2014,11,16)
-date_end = Date.new(2015,1,15)
+date_end = Date.new(2015,3,20)
 
 for div_date in divisions.product(Array(date_start..date_end)) do
 
@@ -62,7 +62,7 @@ for div_date in divisions.product(Array(date_start..date_end)) do
   #end
   #p ps.match(/,[\s]*,/)
   #ps = ps.gsub(/,[\s]*,/,",")
-  sb_json = JSON.parse(page) # rescue nil
+  sb_json = JSON.parse(page) rescue nil
 
   if sb_json==nil
     print " - nil\n"
@@ -96,7 +96,7 @@ for div_date in divisions.product(Array(date_start..date_end)) do
         next
       end
 
-      tabs = JSON.parse(page)
+      tabs = JSON.parse(page) rescue nil
 
       tabs.each do |tab|
         type = tab["type"]
@@ -118,7 +118,7 @@ for div_date in divisions.product(Array(date_start..date_end)) do
         page = page.gsub("\n","")
         page = page.gsub("\t","")
         page = page.gsub("\r","")
-        row[type] = JSON.parse(page)
+        row[type] = JSON.parse(page) rescue nil
 
       end
 
