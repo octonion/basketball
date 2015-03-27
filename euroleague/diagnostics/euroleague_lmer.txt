@@ -1,70 +1,70 @@
-[1] 12118     7
+[1] 12138     7
 [1] TRUE
-[1] 12118     5
-start par. =  1 1 fn =  -13869.16 
+[1] 12138     5
+start par. =  1 1 fn =  -13900.3 
 At return
-eval:  43 fn:     -14313.432 par: 0.462433 0.460857
-start par. =  1 1 1 fn =  -14685.84 
+eval:  42 fn:     -14344.929 par: 0.462441 0.460565
+start par. =  1 1 1 fn =  -14720.67 
 At return
-eval:  56 fn:     -15059.800 par: 0.733812 0.575760 0.577190
+eval:  48 fn:     -15094.232 par: 0.734388 0.575603 0.577408
 Linear mixed model fit by REML ['lmerMod']
 Formula: log_ps ~ year + field + (1 | offense) + (1 | defense) + (1 |  
     game_id)
    Data: g
-REML criterion at convergence: -15059.8
+REML criterion at convergence: -15094.23
 Random effects:
  Groups   Name        Std.Dev.
- game_id  (Intercept) 0.07449 
- defense  (Intercept) 0.05844 
- offense  (Intercept) 0.05859 
- Residual             0.10151 
-Number of obs: 12118, groups:  game_id, 6059; defense, 364; offense, 364
+ game_id  (Intercept) 0.07451 
+ defense  (Intercept) 0.05840 
+ offense  (Intercept) 0.05858 
+ Residual             0.10146 
+Number of obs: 12138, groups:  game_id, 6069; defense, 364; offense, 364
 Fixed Effects:
       (Intercept)           year2001           year2002           year2003  
-         4.361325          -0.007526          -0.030197          -0.034708  
+         4.361283          -0.007524          -0.030195          -0.034706  
          year2004           year2005           year2006           year2007  
-        -0.048215          -0.084189          -0.061347          -0.054777  
+        -0.048213          -0.084187          -0.061345          -0.054775  
          year2008           year2009           year2010           year2011  
-        -0.064692          -0.081270          -0.090935          -0.080094  
+        -0.064692          -0.081268          -0.090936          -0.080097  
          year2012           year2013           year2014  fieldoffense_home  
-        -0.076865          -0.073438          -0.037184           0.051979  
+        -0.076864          -0.073437          -0.036560           0.052056  
 Linear mixed model fit by REML ['lmerMod']
 Formula: log_ps ~ year + field + (1 | offense) + (1 | defense) + (1 |  
     game_id)
    Data: g
 
-REML criterion at convergence: -15059.8
+REML criterion at convergence: -15094.2
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--4.7160 -0.5320  0.0366  0.5644  3.1031 
+-4.7173 -0.5305  0.0369  0.5642  3.1043 
 
 Random effects:
  Groups   Name        Variance Std.Dev.
- game_id  (Intercept) 0.005548 0.07449 
- defense  (Intercept) 0.003416 0.05844 
- offense  (Intercept) 0.003433 0.05859 
- Residual             0.010304 0.10151 
-Number of obs: 12118, groups:  game_id, 6059; defense, 364; offense, 364
+ game_id  (Intercept) 0.005551 0.07451 
+ defense  (Intercept) 0.003410 0.05840 
+ offense  (Intercept) 0.003432 0.05858 
+ Residual             0.010293 0.10146 
+Number of obs: 12138, groups:  game_id, 6069; defense, 364; offense, 364
 
 Fixed effects:
                    Estimate Std. Error t value
-(Intercept)        4.361325   0.017981  242.55
-year2001          -0.007526   0.023604   -0.32
-year2002          -0.030197   0.025170   -1.20
-year2003          -0.034708   0.025171   -1.38
-year2004          -0.048215   0.025160   -1.92
-year2005          -0.084189   0.025157   -3.35
-year2006          -0.061347   0.025159   -2.44
-year2007          -0.054777   0.025158   -2.18
-year2008          -0.064692   0.025312   -2.56
-year2009          -0.081270   0.025312   -3.21
-year2010          -0.090935   0.028279   -3.22
-year2011          -0.080094   0.026196   -3.06
-year2012          -0.076865   0.025295   -3.04
-year2013          -0.073438   0.025232   -2.91
-year2014          -0.037184   0.025274   -1.47
-fieldoffense_home  0.051979   0.001846   28.15
+(Intercept)        4.361283   0.017974  242.65
+year2001          -0.007524   0.023594   -0.32
+year2002          -0.030195   0.025159   -1.20
+year2003          -0.034706   0.025160   -1.38
+year2004          -0.048213   0.025149   -1.92
+year2005          -0.084187   0.025146   -3.35
+year2006          -0.061345   0.025148   -2.44
+year2007          -0.054775   0.025147   -2.18
+year2008          -0.064692   0.025301   -2.56
+year2009          -0.081268   0.025301   -3.21
+year2010          -0.090936   0.028268   -3.22
+year2011          -0.080097   0.026185   -3.06
+year2012          -0.076864   0.025284   -3.04
+year2013          -0.073437   0.025221   -2.91
+year2014          -0.036560   0.025257   -1.45
+fieldoffense_home  0.052056   0.001844   28.23
 
 Correlation of Fixed Effects:
             (Intr) yr2001 yr2002 yr2003 yr2004 yr2005 yr2006 yr2007 yr2008
@@ -74,7 +74,7 @@ year2003    -0.712  0.543  0.509
 year2004    -0.713  0.543  0.509  0.509                                   
 year2005    -0.713  0.543  0.509  0.509  0.509                            
 year2006    -0.713  0.543  0.509  0.509  0.509  0.510                     
-year2007    -0.713  0.543  0.509  0.509  0.509  0.510  0.509              
+year2007    -0.713  0.543  0.509  0.509  0.509  0.510  0.510              
 year2008    -0.709  0.540  0.506  0.506  0.506  0.506  0.506  0.506       
 year2009    -0.709  0.540  0.506  0.506  0.506  0.506  0.506  0.506  0.503
 year2010    -0.634  0.483  0.453  0.453  0.453  0.453  0.453  0.453  0.451
@@ -97,35 +97,35 @@ year2010     0.451
 year2011     0.486  0.435                            
 year2012     0.504  0.451  0.487                     
 year2013     0.505  0.452  0.488  0.505              
-year2014     0.504  0.451  0.487  0.504  0.506       
+year2014     0.504  0.451  0.487  0.505  0.506       
 fildffns_hm  0.000  0.000  0.000  0.000  0.000  0.000
 Analysis of Variance Table
       Df Sum Sq Mean Sq  F value
-year  14 0.5877  0.0420   2.6476
-field  1 8.1698  8.1698 515.2557
+year  14 0.5891  0.0421   2.6553
+field  1 8.2085  8.2085 517.9499
 Analysis of Variance Table
-      Df Sum Sq Mean Sq F value
-year  14 0.3668  0.0262   2.543
-field  1 8.1653  8.1653 792.449
+      Df Sum Sq Mean Sq  F value
+year  14 0.3674  0.0262   2.5498
+field  1 8.2043  8.2043 797.0585
 Data: g
 Models:
 fit0: log_ps ~ year + field + (1 | offense) + (1 | defense)
 fit: log_ps ~ year + field + (1 | offense) + (1 | defense) + (1 | 
 fit:     game_id)
      Df    AIC    BIC logLik deviance  Chisq Chi Df Pr(>Chisq)    
-fit0 19 -14380 -14239 7208.8   -14418                             
-fit  20 -15124 -14976 7581.9   -15164 746.19      1  < 2.2e-16 ***
+fit0 19 -14411 -14270 7224.6   -14449                             
+fit  20 -15158 -15010 7599.2   -15198 749.12      1  < 2.2e-16 ***
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 [1] TRUE
-[1] 0.114132
-[1] 0.01437638
-[1] 0.2032116
+[1] 0.1034484
+[1] 0.01175384
+[1] 0.1895817
           0%           5%          10%          15%          20%          25% 
-8.350627e-09 4.853703e-06 3.333901e-05 1.238672e-04 3.730421e-04 6.493721e-04 
+9.921530e-10 3.187215e-06 1.960829e-05 6.532456e-05 1.830104e-04 5.350326e-04 
          30%          35%          40%          45%          50%          55% 
-1.235107e-03 2.721238e-03 5.521031e-03 8.835115e-03 1.437638e-02 2.215027e-02 
+1.107597e-03 2.325428e-03 4.152700e-03 6.987927e-03 1.175384e-02 2.054701e-02 
          60%          65%          70%          75%          80%          85% 
-3.911958e-02 6.061441e-02 8.451667e-02 1.310073e-01 1.749414e-01 2.501303e-01 
+3.120424e-02 4.810013e-02 7.237404e-02 1.108702e-01 1.567064e-01 2.426763e-01 
          90%          95%         100% 
-3.879741e-01 6.251365e-01 9.888536e-01 
+3.540424e-01 5.597857e-01 9.774469e-01 
