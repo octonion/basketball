@@ -1602,7 +1602,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,American,23,"%
                   Lehigh",352,03/14/2015,66,50,Home,"",-,"1,014"
 2015,American,23,"%
-                  Iowa",312,03/20/2015,67,75,Away,"",-,"4,429"
+                  Iowa",312,03/20/2015,67,75,Away,"",-,"4,791"
 2015,American Int'l,22,"%
                   Philadelphia U.",543,11/14/2014,67,76,Away,"",-,258
 2015,American Int'l,22,"%
@@ -1662,7 +1662,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,American Int'l,22,"%
                   Saint Michael's",613,02/27/2015,52,43,Home,"",-,246
 2015,American Int'l,22,"%
-                  Stonehill",682,03/01/2015,60,57,Away,"",1 OT,0
+                  Stonehill",682,03/01/2015,73,64,Away,"",1 OT,384
 2015,American Int'l,22,"%
                   New Haven",470,03/06/2015,76,73,Away,"",-,576
 2015,American Int'l,22,"%
@@ -7460,7 +7460,11 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,California (PA),106,"%
                   Bloomsburg",65,03/16/2015,72,69,Home,"",1 OT,786
 2015,California (PA),106,"%
-                  Nova Southeastern",24639,03/24/2015,0,0,Neutral,"Sioux Falls, SD",-,0
+                  Nova Southeastern",24639,03/24/2015,84,79,Neutral,"Sanford Pentagon Sioux Falls, SD",1 OT,0
+2015,California (PA),106,"%
+                  Emporia St.",1071,03/25/2015,51,46,Neutral,"Sanford Pentagon Sioux Falls, SD",-,0
+2015,California (PA),106,"%
+                  California Baptist",30135,03/27/2015,0,0,Neutral,"Sanford Pentagon Sioux Falls, SD",-,0
 2015,California Baptist,30135,"%
                   Central Wash.",1010,11/14/2014,68,64,Neutral,"Nampa, Idaho",1 OT,130
 2015,California Baptist,30135,"%
@@ -7529,6 +7533,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Cal Poly Pomona",91,03/16/2015,81,58,Neutral,"Alaska Airlines Center - Anchorage, AK",-,536
 2015,California Baptist,30135,"%
                   New Haven",470,03/24/2015,86,77,Neutral,"Sanford Pentagon Sioux Falls, SD",-,0
+2015,California Baptist,30135,"%
+                  Limestone",1174,03/25/2015,85,67,Neutral,"Sanford Pentagon Sioux Falls, SD",-,"1,023"
+2015,California Baptist,30135,"%
+                  California (PA)",106,03/27/2015,0,0,Neutral,"Sanford Pentagon Sioux Falls, SD",-,0
 2015,Caltech,89,"%
                   Willamette",785,11/21/2014,47,81,Away,"",-,120
 2015,Caltech,89,"%
@@ -13036,7 +13044,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Dayton,175,"%
                   George Washington",249,03/08/2015,62,75,Neutral,"Richmond, Va. (Richmond Coliseum)",-,"2,184"
 2015,Dayton,175,"%
-                  Iowa St.",311,03/20/2015,78,66,Neutral,"Lexington, KY (Memorial Coliseum)",-,0
+                  Iowa St.",311,03/20/2015,78,66,Neutral,"Lexington, KY (Memorial Coliseum)",-,"3,223"
 2015,Dayton,175,"%
                   Kentucky",334,03/22/2015,99,94,Away,"",-,"3,320"
 2015,Dayton,175,"%
@@ -14478,7 +14486,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Duquesne,194,"%
                   Richmond",575,03/24/2015,48,47,Home,"",-,570
 2015,Duquesne,194,"%
-                  West Virginia",768,03/26/2015,0,0,Away,"",-,0
+                  West Virginia",768,03/26/2015,39,60,Away,"",-,"1,471"
 2015,Earlham,195,"%
                   Heidelberg",278,11/15/2014,73,88,Home,"",-,225
 2015,Earlham,195,"%
@@ -14595,6 +14603,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Radford",563,03/18/2015,74,52,Home,"",-,877
 2015,East Carolina,196,"%
                   North Carolina St.",490,03/22/2015,65,69,Home,"",-,"2,160"
+2015,East Central,8965,"%
+                  Oral Roberts",527,11/08/2014,46,62,Away,"",-,738
 2015,East Central,8965,"%
                   Rogers St.",30180,11/15/2014,57,54,Away,"",-,241
 2015,East Central,8965,"%
@@ -15178,7 +15188,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Eastern Mich.,204,"%
                   Tulsa",719,03/22/2015,69,59,Away,"",-,324
 2015,Eastern Mich.,204,"%
-                  Southern Miss.",664,03/25/2015,0,0,Away,"",-,0
+                  Southern Miss.",664,03/25/2015,65,76,Away,"",-,"2,937"
 2015,Eastern N.M.,206,"%
                   Colorado Mines",155,11/14/2014,58,60,Away,"",-,287
 2015,Eastern N.M.,206,"%
@@ -16183,6 +16193,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Fort Hays St.",9011,03/16/2015,66,61,Away,"",-,"4,955"
 2015,Emporia St.,1071,"%
                   West Tex. A&M",767,03/24/2015,62,50,Neutral,"Sanford Pentagon Sioux Falls, SD",-,"1,100"
+2015,Emporia St.,1071,"%
+                  California (PA)",106,03/25/2015,46,51,Neutral,"Sanford Pentagon Sioux Falls, SD",-,0
 2015,Endicott,8981,"%
                   Middlebury",420,11/15/2014,46,67,Neutral,"Northampton, Mass.",-,200
 2015,Endicott,8981,"%
@@ -19786,6 +19798,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Grand Canyon,1104,"%
                   Northern Colo.",502,12/10/2014,47,66,Away,"",-,481
 2015,Grand Canyon,1104,"%
+                  Oral Roberts",527,12/11/2014,54,51,Away,"",-,644
+2015,Grand Canyon,1104,"%
                   Oral Roberts",527,12/12/2014,54,51,Away,"",-,644
 2015,Grand Canyon,1104,"%
                   Louisville",367,12/18/2014,51,65,Home,"",-,"2,049"
@@ -20578,7 +20592,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Hampton,270,"%
                   Drexel",191,03/19/2015,45,42,Away,"",-,415
 2015,Hampton,270,"%
-                  West Virginia",768,03/24/2015,39,57,Away,"",-,"1,815"
+                  West Virginia",768,03/24/2015,39,57,Away,"",-,"1,873"
 2015,Hanover,1115,"%
                   Mount Union",452,11/21/2014,73,83,Neutral,"Lexington,Ky.",-,110
 2015,Hanover,1115,"%
@@ -23364,7 +23378,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Iowa,312,"%
                   Ohio St.",518,03/07/2015,85,91,Neutral,"Sears Centre     Hoffman Estates, IL",1 OT,"5,642"
 2015,Iowa,312,"%
-                  American",23,03/20/2015,75,67,Home,"",-,"4,429"
+                  American",23,03/20/2015,75,67,Home,"",-,"4,791"
 2015,Iowa,312,"%
                   Miami (FL)",415,03/22/2015,88,70,Home,"",-,"7,220"
 2015,Iowa,312,"%
@@ -23430,7 +23444,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Iowa St.,311,"%
                   Oklahoma St.",521,03/07/2015,58,67,Neutral,"American Airlines Center - Dallas, Texas",-,"3,914"
 2015,Iowa St.,311,"%
-                  Dayton",175,03/20/2015,66,78,Neutral,"Lexington, KY (Memorial Coliseum)",-,0
+                  Dayton",175,03/20/2015,66,78,Neutral,"Lexington, KY (Memorial Coliseum)",-,"3,223"
 2015,Iowa Wesleyan,30173,"%
                   Simpson",641,11/20/2014,56,70,Home,"",-,200
 2015,Iowa Wesleyan,30173,"%
@@ -25450,7 +25464,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,La.-Lafayette,671,"%
                   McNeese St.",402,03/21/2015,63,58,Home,"",-,"1,169"
 2015,La.-Lafayette,671,"%
-                  Oral Roberts",527,03/26/2015,0,0,Home,"",-,0
+                  Oral Roberts",527,03/26/2015,65,64,Home,"",-,513
 2015,La.-Monroe,498,"%
                   William Carey",,11/15/2014,68,35,Home,"",-,829
 2015,La.-Monroe,498,"%
@@ -26786,7 +26800,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Lewis,354,"%
                   Ashland",35,03/16/2015,83,76,Neutral,"SDC Gym, Houghton, Mich",-,335
 2015,Lewis,354,"%
-                  Limestone",1174,03/24/2015,0,0,Neutral,"Sioux Falls, SD",-,0
+                  Limestone",1174,03/24/2015,58,61,Neutral,"Sanford Pentagon Sioux Falls, SD",-,734
 2015,Lewis & Clark,22235,"%
                   Schreiner",1355,11/15/2014,51,44,Home,"",-,87
 2015,Lewis & Clark,22235,"%
@@ -26972,7 +26986,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Limestone,1174,"%
                   Anderson (SC)",13028,03/16/2015,72,38,Neutral,"Gaffney, S.C. (Timken Center)",-,"1,200"
 2015,Limestone,1174,"%
-                  Lewis",354,03/24/2015,0,0,Neutral,"Sioux Falls, SD",-,0
+                  Lewis",354,03/24/2015,61,58,Neutral,"Sanford Pentagon Sioux Falls, SD",-,734
+2015,Limestone,1174,"%
+                  California Baptist",30135,03/25/2015,67,85,Neutral,"Sanford Pentagon Sioux Falls, SD",-,"1,023"
 2015,Lincoln (MO),356,"%
                   Ouachita Baptist",1289,11/15/2014,79,64,Neutral,"Bolivar, Mo. (Meyer Sports Center)",-,81
 2015,Lincoln (MO),356,"%
@@ -30540,7 +30556,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Mercer,406,"%
                   Marshall",388,03/22/2015,73,71,Home,"",-,"1,227"
 2015,Mercer,406,"%
-                  Siena",639,03/25/2015,0,0,Away,"",-,0
+                  Siena",639,03/25/2015,54,65,Away,"",-,"1,183"
 2015,Merchant Marine,724,"%
                   Purchase",30029,11/19/2014,55,57,Home,"",-,65
 2015,Merchant Marine,724,"%
@@ -31156,7 +31172,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Michigan,418,"%
                   Toledo",709,03/23/2015,74,58,Away,"",-,"3,004"
 2015,Michigan,418,"%
-                  Missouri",434,03/26/2015,0,0,Home,"",-,0
+                  Missouri",434,03/26/2015,65,55,Home,"",-,"1,383"
 2015,Michigan St.,416,"%
                   Eastern Mich.",204,11/16/2014,69,61,Home,"",-,"5,311"
 2015,Michigan St.,416,"%
@@ -31346,7 +31362,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Middle Tenn.,419,"%
                   Arkansas St.",30,03/22/2015,70,60,Home,"",-,"2,806"
 2015,Middle Tenn.,419,"%
-                  Ole Miss",433,03/26/2015,0,0,Home,"",-,0
+                  Ole Miss",433,03/26/2015,82,70,Home,"",-,"2,806"
 2015,Middlebury,420,"%
                   Endicott",8981,11/15/2014,67,46,Neutral,"Northampton, Mass.",-,200
 2015,Middlebury,420,"%
@@ -32434,7 +32450,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Missouri,434,"%
                   Kansas St.",327,03/22/2015,67,48,Away,"",-,"1,772"
 2015,Missouri,434,"%
-                  Michigan",418,03/26/2015,0,0,Away,"",-,0
+                  Michigan",418,03/26/2015,55,65,Away,"",-,"1,383"
 2015,Missouri S&T,435,"%
                   Henderson St.",1123,11/15/2014,85,68,Home,"",-,300
 2015,Missouri S&T,435,"%
@@ -35980,7 +35996,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,North Carolina St.,490,"%
                   East Carolina",196,03/22/2015,69,65,Away,"",-,"2,160"
 2015,North Carolina St.,490,"%
-                  Temple",690,03/26/2015,0,0,Away,"",-,0
+                  Temple",690,03/26/2015,79,80,Away,"",1 OT,438
 2015,North Central (IL),492,"%
                   St. Mary's (IN)",8688,11/21/2014,100,84,Home,"",-,150
 2015,North Central (IL),492,"%
@@ -36746,7 +36762,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Northern Colo.,502,"%
                   South Dakota",650,03/22/2015,59,58,Home,"",-,"1,233"
 2015,Northern Colo.,502,"%
-                  UCLA",110,03/26/2015,0,0,Away,"",-,0
+                  UCLA",110,03/26/2015,60,74,Away,"",-,760
 2015,Northern Ill.,503,"%
                   Illinois St.",299,11/14/2014,55,51,Home,"",-,458
 2015,Northern Ill.,503,"%
@@ -37808,7 +37824,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Nova Southeastern,24639,"%
                   Union (TN)",30153,03/16/2015,67,62,Away,"",-,"1,138"
 2015,Nova Southeastern,24639,"%
-                  California (PA)",106,03/24/2015,0,0,Neutral,"Sioux Falls, SD",-,0
+                  California (PA)",106,03/24/2015,79,84,Neutral,"Sanford Pentagon Sioux Falls, SD",1 OT,0
 2015,Nyack,1277,"%
                   Mercy",407,11/14/2014,57,68,Home,"",-,130
 2015,Nyack,1277,"%
@@ -39010,7 +39026,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Ole Miss,433,"%
                   Georgia Tech",255,03/22/2015,63,48,Home,"",-,"1,075"
 2015,Ole Miss,433,"%
-                  Middle Tenn.",419,03/26/2015,0,0,Away,"",-,0
+                  Middle Tenn.",419,03/26/2015,70,82,Away,"",-,"2,806"
 2015,Olivet,525,"%
                   North Park",496,11/15/2014,45,58,Away,"",-,122
 2015,Olivet,525,"%
@@ -39120,6 +39136,10 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Omaha,464,"%
                   Denver",183,02/28/2015,53,40,Home,"",-,282
 2015,Oral Roberts,527,"%
+                  Rockhurst",1328,11/01/2014,69,36,Home,"",-,754
+2015,Oral Roberts,527,"%
+                  East Central",8965,11/08/2014,62,46,Home,"",-,738
+2015,Oral Roberts,527,"%
                   Baylor",51,11/14/2014,60,101,Away,"",-,"5,807"
 2015,Oral Roberts,527,"%
                   Tennessee",694,11/17/2014,39,91,Away,"",-,"8,861"
@@ -39137,6 +39157,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Southwestern Christ.",,12/02/2014,88,49,Home,"",-,"2,745"
 2015,Oral Roberts,527,"%
                   Eastern Mich.",204,12/06/2014,63,62,Home,"",-,596
+2015,Oral Roberts,527,"%
+                  Grand Canyon",1104,12/11/2014,51,54,Home,"",-,644
 2015,Oral Roberts,527,"%
                   Grand Canyon",1104,12/12/2014,51,54,Home,"",-,644
 2015,Oral Roberts,527,"%
@@ -39186,7 +39208,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Oral Roberts,527,"%
                   New Mexico",473,03/23/2015,63,61,Away,"",-,"1,845"
 2015,Oral Roberts,527,"%
-                  La.-Lafayette",671,03/26/2015,0,0,Away,"",-,0
+                  La.-Lafayette",671,03/26/2015,64,65,Away,"",-,513
 2015,Oregon,529,"%
                   Utah St.",731,11/14/2014,100,77,Home,"",-,"1,569"
 2015,Oregon,529,"%
@@ -43178,6 +43200,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Rockford,582,"%
                   Benedictine (IL)",296,02/17/2015,52,67,Home,"",-,107
 2015,Rockhurst,1328,"%
+                  Oral Roberts",527,11/01/2014,36,69,Away,"",-,754
+2015,Rockhurst,1328,"%
                   Evangel",,11/14/2014,64,45,Neutral,"Joplin, MO - Leggett & Platt Ath Center",-,150
 2015,Rockhurst,1328,"%
                   Mo. Southern St.",9012,11/15/2014,40,69,Away,"",-,437
@@ -43229,8 +43253,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Drury",1057,02/21/2015,68,71,Away,"",-,"2,346"
 2015,Rockhurst,1328,"%
                   William Jewell",30120,02/26/2015,78,85,Away,"",1 OT,550
-2015,Rockhurst,1328,"%
-                  William Jewell",30120,02/27/2015,78,85,Away,"",1 OT,550
 2015,Roger Williams,583,"%
                   Bowdoin",69,11/15/2014,58,57,Neutral,"Castine, Maine",-,138
 2015,Roger Williams,583,"%
@@ -43900,7 +43922,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Sacramento St.,102,"%
                   Eastern Wash.",207,03/23/2015,84,49,Home,"",-,536
 2015,Sacramento St.,102,"%
-                  St. Mary's (CA)",610,03/26/2015,0,0,Home,"",-,0
+                  St. Mary's (CA)",610,03/26/2015,69,77,Home,"",-,626
 2015,Sacred Heart,590,"%
                   Iona",310,11/16/2014,82,80,Away,"",-,"1,021"
 2015,Sacred Heart,590,"%
@@ -46312,7 +46334,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Siena,639,"%
                   Xavier",812,03/22/2015,69,49,Away,"",-,581
 2015,Siena,639,"%
-                  Mercer",406,03/25/2015,0,0,Home,"",-,0
+                  Mercer",406,03/25/2015,65,54,Home,"",-,"1,183"
 2015,Simmons,640,"%
                   Kean",329,11/15/2014,49,90,Away,"",-,166
 2015,Simmons,640,"%
@@ -47892,7 +47914,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Southern Miss.,664,"%
                   TCU",698,03/22/2015,77,73,Home,"",1 OT,"1,726"
 2015,Southern Miss.,664,"%
-                  Eastern Mich.",204,03/25/2015,0,0,Home,"",-,0
+                  Eastern Mich.",204,03/25/2015,76,65,Home,"",-,"2,937"
 2015,Southern N.H.,468,"%
                   Felician",23157,11/14/2014,66,57,Home,"",-,223
 2015,Southern N.H.,468,"%
@@ -49170,7 +49192,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,St. John's (NY),603,"%
                   Fordham",236,03/22/2015,77,63,Home,"",-,327
 2015,St. John's (NY),603,"%
-                  Villanova",739,03/26/2015,0,0,Away,"",-,0
+                  Villanova",739,03/26/2015,55,63,Away,"",-,409
 2015,St. Joseph (CT),8687,"%
                   Johnson St.",324,11/15/2014,76,48,Home,"",-,200
 2015,St. Joseph (CT),8687,"%
@@ -49556,7 +49578,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,St. Mary's (CA),610,"%
                   Fresno St.",96,03/23/2015,83,64,Home,"",-,380
 2015,St. Mary's (CA),610,"%
-                  Sacramento St.",102,03/26/2015,0,0,Away,"",-,0
+                  Sacramento St.",102,03/26/2015,77,69,Away,"",-,626
 2015,St. Mary's (IN),8688,"%
                   Wheaton (IL)",778,11/15/2014,41,78,Home,"",-,59
 2015,St. Mary's (IN),8688,"%
@@ -50518,7 +50540,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Stonehill,682,"%
                   St. Anselm",593,02/24/2015,64,56,Away,"",-,537
 2015,Stonehill,682,"%
-                  American Int'l",22,03/01/2015,57,60,Home,"",1 OT,0
+                  American Int'l",22,03/01/2015,64,73,Home,"",1 OT,384
 2015,Stonehill,682,"%
                   Queens (NY)",560,03/13/2015,80,66,Neutral,"Garden City, N.Y. - Ctr for Rec & Sport",-,238
 2015,Stonehill,682,"%
@@ -51522,7 +51544,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Temple,690,"%
                   Penn",540,03/22/2015,61,56,Away,"",-,890
 2015,Temple,690,"%
-                  North Carolina St.",490,03/26/2015,0,0,Home,"",-,0
+                  North Carolina St.",490,03/26/2015,80,79,Home,"",1 OT,438
 2015,Tennessee,694,"%
                   Penn",540,11/14/2014,97,52,Home,"",-,"9,706"
 2015,Tennessee,694,"%
@@ -54410,7 +54432,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,UCLA,110,"%
                   San Diego",627,03/22/2015,63,58,Away,"",-,467
 2015,UCLA,110,"%
-                  Northern Colo.",502,03/26/2015,0,0,Home,"",-,0
+                  Northern Colo.",502,03/26/2015,74,60,Home,"",-,760
 2015,UConn,164,"%
                   UC Davis",108,11/14/2014,102,43,Away,"",-,"4,712"
 2015,UConn,164,"%
@@ -56642,7 +56664,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Villanova,739,"%
                   Old Dominion",523,03/22/2015,71,66,Home,"",-,349
 2015,Villanova,739,"%
-                  St. John's (NY)",603,03/26/2015,0,0,Home,"",-,0
+                  St. John's (NY)",603,03/26/2015,63,55,Home,"",-,409
 2015,Virginia,746,"%
                   Ohio St.",518,11/14/2014,87,82,Home,"",-,"3,358"
 2015,Virginia,746,"%
@@ -58578,9 +58600,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,West Virginia,768,"%
                   Buffalo",86,03/19/2015,84,61,Home,"",-,"1,755"
 2015,West Virginia,768,"%
-                  Hampton",270,03/24/2015,57,39,Home,"",-,"1,815"
+                  Hampton",270,03/24/2015,57,39,Home,"",-,"1,873"
 2015,West Virginia,768,"%
-                  Duquesne",194,03/26/2015,0,0,Home,"",-,0
+                  Duquesne",194,03/26/2015,60,39,Home,"",-,"1,471"
 2015,West Virginia St.,1439,"%
                   Seton Hill",30063,11/14/2014,65,68,Home,"",-,271
 2015,West Virginia St.,1439,"%
@@ -60089,8 +60111,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Missouri S&T",435,02/21/2015,72,59,Away,"",-,600
 2015,William Jewell,30120,"%
                   Rockhurst",1328,02/26/2015,85,78,Home,"",1 OT,550
-2015,William Jewell,30120,"%
-                  Rockhurst",1328,02/27/2015,85,78,Home,"",1 OT,550
 2015,William Jewell,30120,"%
                   Maryville (MO)",395,03/01/2015,75,79,Home,"",-,350
 2015,William Peace,17094,"%
