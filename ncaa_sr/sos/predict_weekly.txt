@@ -1,23 +1,20 @@
 BEGIN
 SET
-    date    | type |  site   |               home                | str  | score |             away              | str  | score | pwin 
-------------+------+---------+-----------------------------------+------+-------+-------------------------------+------+-------+------
- 2015-03-26 | NCAA | neutral | Arizona Wildcats                  | 1.39 |  72.0 | Xavier Musketeers             | 1.23 |  63.6 | 0.78
- 2015-03-27 | NCAA | neutral | Duke Blue Devils                  | 1.38 |  65.9 | Utah Utes                     | 1.34 |  64.2 | 0.57
- 2015-03-27 | NCAA | neutral | Gonzaga Bulldogs                  | 1.34 |  75.5 | UCLA Bruins                   | 1.14 |  64.3 | 0.84
- 2015-03-26 | NCAA | neutral | Kentucky Wildcats                 | 1.52 |  70.4 | West Virginia Mountaineers    | 1.23 |  57.1 | 0.90
- 2015-03-26 | CIT  | home    | Louisiana-Lafayette Ragin' Cajuns | 1.11 |  81.5 | Evansville Purple Aces        | 1.04 |  75.9 | 0.67
- 2015-04-01 | CBI  | home    | Louisiana-Monroe Warhawks         | 1.05 |  62.1 | Loyola (IL) Ramblers          | 1.04 |  61.4 | 0.53
- 2015-03-27 | NCAA | neutral | Louisville Cardinals              | 1.28 |  64.3 | North Carolina State Wolfpack | 1.20 |  60.0 | 0.67
- 2015-03-30 | CBI  | home    | Loyola (IL) Ramblers              | 1.10 |  65.1 | Louisiana-Monroe Warhawks     | 0.99 |  58.6 | 0.74
- 2015-03-31 | NIT  | neutral | Miami (FL) Hurricanes             | 1.17 |  68.4 | Temple Owls                   | 1.11 |  64.9 | 0.63
- 2015-03-27 | NCAA | neutral | Michigan State Spartans           | 1.27 |  63.5 | Oklahoma Sooners              | 1.30 |  65.0 | 0.44
- 2015-03-28 | CIT  | home    | NJIT Highlanders                  | 1.04 |  72.4 | Canisius Golden Griffins      | 1.02 |  71.4 | 0.54
- 2015-03-26 | NCAA | neutral | North Carolina Tar Heels          | 1.31 |  65.3 | Wisconsin Badgers             | 1.41 |  70.5 | 0.31
- 2015-03-27 | CIT  | home    | Northern Arizona Lumberjacks      | 1.04 |  68.4 | Kent State Golden Flashes     | 1.05 |  69.6 | 0.46
- 2015-03-26 | NCAA | neutral | Notre Dame Fighting Irish         | 1.27 |  65.7 | Wichita State Shockers        | 1.27 |  66.2 | 0.48
- 2015-03-31 | NIT  | neutral | Old Dominion Monarchs             | 1.13 |  64.1 | Stanford Cardinal             | 1.17 |  66.1 | 0.42
-(15 rows)
+    date    | type |  site   |             home             | str  | score |             away              | str  | score | pwin 
+------------+------+---------+------------------------------+------+-------+-------------------------------+------+-------+------
+ 2015-03-28 | NCAA | neutral | Arizona Wildcats             | 1.39 |  62.0 | Wisconsin Badgers             | 1.41 |  63.0 | 0.46
+ 2015-03-27 | NCAA | neutral | Duke Blue Devils             | 1.38 |  65.9 | Utah Utes                     | 1.34 |  64.2 | 0.57
+ 2015-03-27 | NCAA | neutral | Gonzaga Bulldogs             | 1.34 |  75.5 | UCLA Bruins                   | 1.14 |  64.3 | 0.84
+ 2015-03-28 | NCAA | neutral | Kentucky Wildcats            | 1.54 |  71.0 | Notre Dame Fighting Irish     | 1.27 |  58.7 | 0.87
+ 2015-04-01 | CBI  | home    | Louisiana-Monroe Warhawks    | 1.05 |  62.1 | Loyola (IL) Ramblers          | 1.04 |  61.4 | 0.53
+ 2015-03-27 | NCAA | neutral | Louisville Cardinals         | 1.28 |  64.3 | North Carolina State Wolfpack | 1.20 |  59.9 | 0.67
+ 2015-03-30 | CBI  | home    | Loyola (IL) Ramblers         | 1.10 |  65.1 | Louisiana-Monroe Warhawks     | 0.99 |  58.6 | 0.75
+ 2015-03-31 | NIT  | neutral | Miami (FL) Hurricanes        | 1.18 |  68.5 | Temple Owls                   | 1.11 |  64.9 | 0.63
+ 2015-03-27 | NCAA | neutral | Michigan State Spartans      | 1.27 |  63.5 | Oklahoma Sooners              | 1.29 |  64.9 | 0.44
+ 2015-03-28 | CIT  | home    | NJIT Highlanders             | 1.04 |  72.5 | Canisius Golden Griffins      | 1.02 |  71.5 | 0.54
+ 2015-03-27 | CIT  | home    | Northern Arizona Lumberjacks | 1.04 |  68.5 | Kent State Golden Flashes     | 1.05 |  69.7 | 0.46
+ 2015-03-31 | NIT  | neutral | Old Dominion Monarchs        | 1.13 |  64.2 | Stanford Cardinal             | 1.17 |  66.2 | 0.42
+(12 rows)
 
-COPY 15
+COPY 12
 COMMIT
