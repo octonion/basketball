@@ -1,23 +1,22 @@
 BEGIN
           school_name          |       p       
 -------------------------------+---------------
- Kentucky Wildcats             | 0.44200870487
- Wisconsin Badgers             | 0.11433669912
- Arizona Wildcats              | 0.09847869161
- Duke Blue Devils              | 0.09227287112
- Gonzaga Bulldogs              | 0.07330562450
- Utah Utes                     | 0.05009610879
- Oklahoma Sooners              | 0.03350820979
- Louisville Cardinals          | 0.03012061823
- Michigan State Spartans       | 0.01693311987
- North Carolina Tarheels       | 0.01688230339
- Wichita State Shockers        | 0.01146605091
- Notre Dame Fighting Irish     | 0.01023004042
- North Carolina State Wolfpack | 0.00350978410
- West Virginia Mountaineers    | 0.00336596441
- Xavier Musketeers             | 0.00297693517
- UCLA Bruins                   | 0.00050827371
-(16 rows)
+ Kentucky Wildcats             | 0.43927683219
+ Wisconsin Badgers             | 0.11512876380
+ Arizona Wildcats              | 0.09872024316
+ Duke Blue Devils              | 0.09224894738
+ Gonzaga Bulldogs              | 0.07564847631
+ Utah Utes                     | 0.05026658061
+ Oklahoma Sooners              | 0.03357180273
+ Louisville Cardinals          | 0.02980289815
+ Notre Dame Fighting Irish     | 0.02088752384
+ Michigan State Spartans       | 0.01711626016
+ North Carolina Tarheels       | 0.01689404439
+ West Virginia Mountaineers    | 0.00344380248
+ North Carolina State Wolfpack | 0.00341952236
+ Xavier Musketeers             | 0.00306872622
+ UCLA Bruins                   | 0.00050557622
+(15 rows)
 
-COPY 16
+COPY 15
 COMMIT
