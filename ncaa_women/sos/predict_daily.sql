@@ -77,6 +77,7 @@ where
 not(g.game_date='')
 and g.game_date::date = current_date
 and g.location='Neutral'
+and (g.school_id < g.opponent_id)
 order by date,home asc;
 
 copy
@@ -156,6 +157,7 @@ where
 not(g.game_date='')
 and g.game_date::date = current_date
 and g.location='Neutral'
+and (g.school_id < g.opponent_id)
 order by date,home asc
 )
 to '/tmp/predict_daily.csv' csv header;
