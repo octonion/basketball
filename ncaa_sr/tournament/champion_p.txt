@@ -1,14 +1,14 @@
 BEGIN
         school_name        |       p       
 ---------------------------+---------------
- Kentucky Wildcats         | 0.50356103276
- Duke Blue Devils          | 0.13227780654
- Wisconsin Badgers         | 0.12415389547
- Arizona Wildcats          | 0.08978993091
- Gonzaga Bulldogs          | 0.07243694703
- Louisville Cardinals      | 0.03786220455
- Michigan State Spartans   | 0.02703875804
- Notre Dame Fighting Irish | 0.01287942469
+ Kentucky Wildcats         | 0.50154633480
+ Duke Blue Devils          | 0.13500335055
+ Wisconsin Badgers         | 0.12403091438
+ Arizona Wildcats          | 0.08868175960
+ Gonzaga Bulldogs          | 0.07142321438
+ Louisville Cardinals      | 0.03862220121
+ Michigan State Spartans   | 0.02784511709
+ Notre Dame Fighting Irish | 0.01284710798
 (8 rows)
 
 COPY 8
