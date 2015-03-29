@@ -1,31 +1,23 @@
 BEGIN
- rd |           name            |   p   
-----+---------------------------+-------
-  6 | Kentucky Wildcats         | 0.874
-  6 | Duke Blue Devils          | 0.579
-  6 | Wisconsin Badgers         | 0.543
-  6 | Louisville Cardinals      | 0.534
-  6 | Michigan State Spartans   | 0.466
-  6 | Arizona Wildcats          | 0.457
-  6 | Gonzaga Bulldogs          | 0.421
-  6 | Notre Dame Fighting Irish | 0.126
-  7 | Kentucky Wildcats         | 0.625
-  7 | Duke Blue Devils          | 0.399
-  7 | Gonzaga Bulldogs          | 0.260
-  7 | Wisconsin Badgers         | 0.194
-  7 | Louisville Cardinals      | 0.189
-  7 | Michigan State Spartans   | 0.151
-  7 | Arizona Wildcats          | 0.148
-  7 | Notre Dame Fighting Irish | 0.034
-  8 | Kentucky Wildcats         | 0.502
-  8 | Duke Blue Devils          | 0.135
-  8 | Wisconsin Badgers         | 0.124
-  8 | Arizona Wildcats          | 0.089
-  8 | Gonzaga Bulldogs          | 0.071
-  8 | Louisville Cardinals      | 0.039
-  8 | Michigan State Spartans   | 0.028
-  8 | Notre Dame Fighting Irish | 0.013
-(24 rows)
+ rd |          name           |   p   
+----+-------------------------+-------
+  6 | Duke Blue Devils        | 0.579
+  6 | Louisville Cardinals    | 0.534
+  6 | Michigan State Spartans | 0.466
+  6 | Gonzaga Bulldogs        | 0.421
+  7 | Kentucky Wildcats       | 0.699
+  7 | Duke Blue Devils        | 0.399
+  7 | Wisconsin Badgers       | 0.301
+  7 | Gonzaga Bulldogs        | 0.260
+  7 | Louisville Cardinals    | 0.189
+  7 | Michigan State Spartans | 0.151
+  8 | Kentucky Wildcats       | 0.561
+  8 | Wisconsin Badgers       | 0.192
+  8 | Duke Blue Devils        | 0.123
+  8 | Gonzaga Bulldogs        | 0.064
+  8 | Louisville Cardinals    | 0.034
+  8 | Michigan State Spartans | 0.024
+(16 rows)
 
-COPY 24
+COPY 16
 COMMIT

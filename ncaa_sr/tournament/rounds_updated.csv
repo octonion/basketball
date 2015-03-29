@@ -1,8 +1,6 @@
 year,round_id,school_id,school_name,bracket,p
 2015,1,kentucky,Kentucky Wildcats,"{3,2,1,1,1,1,1,1}",1.0
-2015,1,notre-dame,Notre Dame Fighting Irish,"{12,11,6,3,2,1,1,1}",1.0
 2015,1,wisconsin,Wisconsin Badgers,"{18,17,9,5,3,2,1,1}",1.0
-2015,1,arizona,Arizona Wildcats,"{33,31,16,8,4,2,1,1}",1.0
 2015,1,louisville,Louisville Cardinals,"{41,39,20,10,5,3,2,1}",1.0
 2015,1,michigan-state,Michigan State Spartans,"{48,45,23,12,6,3,2,1}",1.0
 2015,1,duke,Duke Blue Devils,"{52,49,25,13,7,4,2,1}",1.0
