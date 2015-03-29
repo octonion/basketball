@@ -1,45 +1,25 @@
 rd,name,p
-4,UConn,0.992
-4,Tennessee,0.920
-4,Louisville,0.762
-4,Maryland,0.700
-4,Duke,0.300
-4,Dayton,0.238
-4,Gonzaga,0.080
-4,Texas,0.008
-5,UConn,0.981
+5,UConn,0.996
 5,South Carolina,0.784
 5,Notre Dame,0.664
-5,Tennessee,0.478
-5,Maryland,0.401
+5,Maryland,0.542
+5,Tennessee,0.458
 5,Baylor,0.336
 5,Florida St.,0.216
-5,Duke,0.113
-5,Louisville,0.014
-5,Gonzaga,0.007
-5,Texas,0.003
-5,Dayton,0.002
-6,UConn,0.958
+5,Dayton,0.004
+6,UConn,0.971
 6,South Carolina,0.460
 6,Notre Dame,0.352
 6,Baylor,0.126
 6,Florida St.,0.062
-6,Tennessee,0.017
 6,Maryland,0.016
-6,Louisville,0.006
-6,Duke,0.002
-6,Texas,0.001
-6,Gonzaga,0.000
-6,Dayton,0.000
-7,UConn,0.910
-7,South Carolina,0.040
-7,Notre Dame,0.028
+6,Tennessee,0.012
+6,Dayton,0.001
+7,UConn,0.922
+7,South Carolina,0.036
+7,Notre Dame,0.025
 7,Maryland,0.006
-7,Baylor,0.006
-7,Tennessee,0.005
+7,Baylor,0.005
+7,Tennessee,0.004
 7,Florida St.,0.002
-7,Louisville,0.001
 7,Dayton,0.000
-7,Duke,0.000
-7,Texas,0.000
-7,Gonzaga,0.000
