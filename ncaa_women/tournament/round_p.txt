@@ -1,28 +1,28 @@
 BEGIN
  rd |      name      |   p   
 ----+----------------+-------
-  5 | UConn          | 0.996
-  5 | South Carolina | 0.784
-  5 | Notre Dame     | 0.664
-  5 | Maryland       | 0.542
-  5 | Tennessee      | 0.458
-  5 | Baylor         | 0.336
-  5 | Florida St.    | 0.216
-  5 | Dayton         | 0.004
-  6 | UConn          | 0.971
-  6 | South Carolina | 0.460
-  6 | Notre Dame     | 0.352
-  6 | Baylor         | 0.126
+  5 | UConn          | 0.995
+  5 | South Carolina | 0.778
+  5 | Notre Dame     | 0.668
+  5 | Maryland       | 0.564
+  5 | Tennessee      | 0.436
+  5 | Baylor         | 0.332
+  5 | Florida St.    | 0.222
+  5 | Dayton         | 0.005
+  6 | UConn          | 0.972
+  6 | South Carolina | 0.442
+  6 | Notre Dame     | 0.368
+  6 | Baylor         | 0.129
   6 | Florida St.    | 0.062
-  6 | Maryland       | 0.016
-  6 | Tennessee      | 0.012
+  6 | Maryland       | 0.017
+  6 | Tennessee      | 0.010
   6 | Dayton         | 0.001
-  7 | UConn          | 0.922
-  7 | South Carolina | 0.036
+  7 | UConn          | 0.927
+  7 | South Carolina | 0.032
   7 | Notre Dame     | 0.025
   7 | Maryland       | 0.006
   7 | Baylor         | 0.005
-  7 | Tennessee      | 0.004
+  7 | Tennessee      | 0.003
   7 | Florida St.    | 0.002
   7 | Dayton         | 0.000
 (24 rows)
