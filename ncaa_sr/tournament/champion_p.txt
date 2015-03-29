@@ -1,12 +1,12 @@
 BEGIN
        school_name       |       p       
 -------------------------+---------------
- Kentucky Wildcats       | 0.56128932679
- Wisconsin Badgers       | 0.19240400339
- Duke Blue Devils        | 0.12342747478
- Gonzaga Bulldogs        | 0.06432239441
- Louisville Cardinals    | 0.03411220722
- Michigan State Spartans | 0.02444459340
+ Kentucky Wildcats       | 0.54524805393
+ Wisconsin Badgers       | 0.20220249872
+ Duke Blue Devils        | 0.12713043753
+ Gonzaga Bulldogs        | 0.06535621966
+ Louisville Cardinals    | 0.03493940883
+ Michigan State Spartans | 0.02512338132
 (6 rows)
 
 COPY 6
