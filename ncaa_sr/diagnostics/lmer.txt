@@ -1,22 +1,22 @@
-[1] 419636      9
+[1] 419644      9
 [1] TRUE
-[1] 419636      8
+[1] 419644      8
 Linear mixed model fit by maximum likelihood  ['lmerMod']
 Formula: log_ps ~ year + field + game_length + shot_clock + (1 | offense) +  
     (1 | defense) + (1 | game_id)
    Data: g
       AIC       BIC    logLik  deviance  df.resid 
--457218.4 -456835.3  228644.2 -457288.4    419601 
+-457224.5 -456841.3  228647.2 -457294.5    419609 
 Random effects:
  Groups   Name        Std.Dev.
  game_id  (Intercept) 0.08633 
  defense  (Intercept) 0.08789 
- offense  (Intercept) 0.09281 
+ offense  (Intercept) 0.09280 
  Residual             0.10797 
-Number of obs: 419636, groups:  game_id, 209818; defense, 7144; offense, 7144
+Number of obs: 419644, groups:  game_id, 209822; defense, 7144; offense, 7144
 Fixed Effects:
          (Intercept)              year1995              year1996  
-             4.37301              -0.01676              -0.04113  
+             4.37300              -0.01676              -0.04113  
             year1997              year1998              year1999  
             -0.06849              -0.05577              -0.07227  
             year2000              year2001              year2002  
@@ -26,74 +26,74 @@ Fixed Effects:
             year2006              year2007              year2008  
             -0.09532              -0.09128              -0.09111  
             year2009              year2010              year2011  
-            -0.10184              -0.09483              -0.09769  
+            -0.10185              -0.09483              -0.09769  
             year2012              year2013              year2014  
-            -0.11252              -0.12042              -0.07027  
+            -0.11253              -0.12043              -0.07027  
             year2015          fieldneutral     fieldoffense_home  
-            -0.12123               0.01092               0.05806  
+            -0.12125               0.01091               0.05806  
       game_length1OT        game_length2OT        game_length3OT  
-             0.10434               0.20979               0.30238  
+             0.10436               0.20979               0.30238  
       game_length4OT        game_length5OT        game_length6OT  
-             0.37859               0.46475               0.51577  
+             0.37859               0.46475               0.51578  
 shot_clock35 seconds  
-            -0.10114  
+            -0.10113  
 Linear mixed model fit by maximum likelihood  ['lmerMod']
 Formula: log_ps ~ year + field + game_length + shot_clock + (1 | offense) +  
     (1 | defense) + (1 | game_id)
    Data: g
 
       AIC       BIC    logLik  deviance  df.resid 
--457218.4 -456835.3  228644.2 -457288.4    419601 
+-457224.5 -456841.3  228647.2 -457294.5    419609 
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--6.1794 -0.5218  0.0376  0.5646  3.9121 
+-6.1793 -0.5218  0.0376  0.5647  3.9121 
 
 Random effects:
  Groups   Name        Variance Std.Dev.
  game_id  (Intercept) 0.007453 0.08633 
  defense  (Intercept) 0.007725 0.08789 
- offense  (Intercept) 0.008613 0.09281 
+ offense  (Intercept) 0.008612 0.09280 
  Residual             0.011657 0.10797 
-Number of obs: 419636, groups:  game_id, 209818; defense, 7144; offense, 7144
+Number of obs: 419644, groups:  game_id, 209822; defense, 7144; offense, 7144
 
 Fixed effects:
                        Estimate Std. Error t value
-(Intercept)           4.3730124  0.0127598   342.7
-year1995             -0.0167589  0.0105647    -1.6
-year1996             -0.0411300  0.0105387    -3.9
-year1997             -0.0684916  0.0105382    -6.5
-year1998             -0.0557686  0.0105298    -5.3
-year1999             -0.0722679  0.0104962    -6.9
-year2000             -0.0737699  0.0104279    -7.1
-year2001             -0.0622896  0.0104288    -6.0
-year2002             -0.0628168  0.0104044    -6.0
-year2003             -0.0775138  0.0103737    -7.5
-year2004             -0.0888813  0.0103663    -8.6
-year2005             -0.0930539  0.0103664    -9.0
-year2006             -0.0953210  0.0103670    -9.2
-year2007             -0.0912835  0.0103714    -8.8
-year2008             -0.0911110  0.0103485    -8.8
-year2009             -0.1018448  0.0103333    -9.9
-year2010             -0.0948332  0.0103038    -9.2
-year2011             -0.0976892  0.0102231    -9.6
-year2012             -0.1125243  0.0102298   -11.0
-year2013             -0.1204250  0.0102087   -11.8
-year2014             -0.0702735  0.0101822    -6.9
-year2015             -0.1212251  0.0101829   -11.9
-fieldneutral          0.0109211  0.0008603    12.7
-fieldoffense_home     0.0580635  0.0003704   156.8
-game_length1OT        0.1043410  0.0013555    77.0
-game_length2OT        0.2097944  0.0032408    64.7
-game_length3OT        0.3023778  0.0077532    39.0
-game_length4OT        0.3785869  0.0175700    21.5
-game_length5OT        0.4647512  0.0835855     5.6
-game_length6OT        0.5157721  0.0837194     6.2
-shot_clock35 seconds -0.1011444  0.0103386    -9.8
+(Intercept)           4.3730007  0.0127598   342.7
+year1995             -0.0167590  0.0105645    -1.6
+year1996             -0.0411301  0.0105385    -3.9
+year1997             -0.0684916  0.0105380    -6.5
+year1998             -0.0557686  0.0105296    -5.3
+year1999             -0.0722679  0.0104959    -6.9
+year2000             -0.0737706  0.0104277    -7.1
+year2001             -0.0622905  0.0104286    -6.0
+year2002             -0.0628174  0.0104042    -6.0
+year2003             -0.0775145  0.0103735    -7.5
+year2004             -0.0888821  0.0103660    -8.6
+year2005             -0.0930547  0.0103662    -9.0
+year2006             -0.0953217  0.0103668    -9.2
+year2007             -0.0912842  0.0103712    -8.8
+year2008             -0.0911118  0.0103483    -8.8
+year2009             -0.1018456  0.0103330    -9.9
+year2010             -0.0948338  0.0103036    -9.2
+year2011             -0.0976899  0.0102229    -9.6
+year2012             -0.1125250  0.0102296   -11.0
+year2013             -0.1204256  0.0102085   -11.8
+year2014             -0.0702742  0.0101820    -6.9
+year2015             -0.1212462  0.0101827   -11.9
+fieldneutral          0.0109116  0.0008603    12.7
+fieldoffense_home     0.0580633  0.0003704   156.8
+game_length1OT        0.1043574  0.0013554    77.0
+game_length2OT        0.2097906  0.0032408    64.7
+game_length3OT        0.3023793  0.0077533    39.0
+game_length4OT        0.3785877  0.0175701    21.5
+game_length5OT        0.4647483  0.0835861     5.6
+game_length6OT        0.5157807  0.0837200     6.2
+shot_clock35 seconds -0.1011317  0.0103387    -9.8
 Analysis of Variance Table
             Df  Sum Sq Mean Sq   F value
-year        21   3.683   0.175    15.044
-field        2 291.179 145.589 12489.329
-game_length  6 138.209  23.035  1976.037
-shot_clock   1   1.116   1.116    95.711
+year        21   3.683   0.175    15.046
+field        2 291.179 145.589 12489.281
+game_length  6 138.240  23.040  1976.470
+shot_clock   1   1.115   1.115    95.685
 [1] TRUE
