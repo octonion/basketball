@@ -1,15 +1,13 @@
 BEGIN
   school_name   |         p          
 ----------------+--------------------
- UConn          | 0.9266560941721180
- South Carolina | 0.0316461063169128
- Notre Dame     | 0.0253402259785144
- Maryland       | 0.0062024178142311
- Baylor         | 0.0051540374677232
- Tennessee      | 0.0032544066283484
- Florida St.    | 0.0016730224926264
- Dayton         | 0.0000736891295261
-(8 rows)
+ UConn          | 0.9211122517446170
+ South Carolina | 0.0367518443970803
+ Notre Dame     | 0.0337028744712962
+ Maryland       | 0.0055195995993276
+ Tennessee      | 0.0028540447601629
+ Dayton         | 0.0000593850275155
+(6 rows)
 
-COPY 8
+COPY 6
 COMMIT
