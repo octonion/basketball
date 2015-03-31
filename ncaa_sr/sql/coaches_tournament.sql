@@ -99,7 +99,7 @@ join ncaa_sr.beta_schedule_factors v
 join ncaa_sr.beta_schedule_factors h
   on (h.year,h.team_id)=(g.year,g.school_id)
 where
-    g.year between 1985 and 2014
+    g.year between 1985 and 2015
 and g.type in ('NCAA')
 and g.opponent_id is not null
 and g.location='N'
