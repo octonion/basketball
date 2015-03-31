@@ -1,15 +1,10 @@
 BEGIN
 SET
-    date    |  site   |      home      | div | score |      away       | div | score 
-------------+---------+----------------+-----+-------+-----------------+-----+-------
- 2015-03-29 | neutral | Baylor         |   1 |  68.2 | Notre Dame      |   1 |  73.0
- 2015-03-29 | neutral | Florida St.    |   1 |  60.7 | South Carolina  |   1 |  68.6
- 2015-03-29 | home    | La.-Lafayette  |   1 |  56.4 | Siena           |   1 |  53.1
- 2015-03-29 | home    | Middle Tenn.   |   1 |  70.8 | Temple          |   1 |  60.9
- 2015-03-29 | home    | Southern Miss. |   1 |  60.8 | Michigan        |   1 |  68.6
- 2015-03-29 | home    | UCLA           |   1 |  67.5 | St. Mary's (CA) |   1 |  57.9
- 2015-03-29 | home    | West Virginia  |   1 |  56.3 | Villanova       |   1 |  51.3
-(7 rows)
+    date    |  site   |   home   | div | score |   away    | div | score 
+------------+---------+----------+-----+-------+-----------+-----+-------
+ 2015-03-30 | neutral | Maryland |   1 |  67.7 | Tennessee |   1 |  65.9
+ 2015-03-30 | neutral | UConn    |   1 |  90.5 | Dayton    |   1 |  53.6
+(2 rows)
 
-COPY 7
+COPY 2
 COMMIT
