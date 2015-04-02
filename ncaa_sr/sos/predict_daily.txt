@@ -1,9 +1,10 @@
 BEGIN
 SET
-    date    | type | site |         home         | str  | score |           away            | str  | score | pwin 
-------------+------+------+----------------------+------+-------+---------------------------+------+-------+------
- 2015-03-30 | CBI  | home | Loyola (IL) Ramblers | 1.10 |  65.1 | Louisiana-Monroe Warhawks | 0.99 |  58.6 | 0.75
-(1 row)
+    date    | type |  site   |          home          | str  | score |             away             | str  | score | pwin 
+------------+------+---------+------------------------+------+-------+------------------------------+------+-------+------
+ 2015-04-02 | CIT  | home    | Evansville Purple Aces | 1.11 |  77.0 | Northern Arizona Lumberjacks | 0.98 |  68.2 | 0.78
+ 2015-04-02 | NIT  | neutral | Miami (FL) Hurricanes  | 1.18 |  70.5 | Stanford Cardinal            | 1.17 |  70.3 | 0.51
+(2 rows)
 
-COPY 1
+COPY 2
 COMMIT
