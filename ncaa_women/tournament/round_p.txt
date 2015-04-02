@@ -1,14 +1,14 @@
 BEGIN
  rd |      name      |   p   
 ----+----------------+-------
-  6 | UConn          | 0.974
-  6 | South Carolina | 0.504
-  6 | Notre Dame     | 0.496
-  6 | Maryland       | 0.026
-  7 | UConn          | 0.924
-  7 | South Carolina | 0.034
-  7 | Notre Dame     | 0.033
-  7 | Maryland       | 0.008
+  6 | UConn          | 0.971
+  6 | South Carolina | 0.503
+  6 | Notre Dame     | 0.497
+  6 | Maryland       | 0.029
+  7 | UConn          | 0.917
+  7 | South Carolina | 0.037
+  7 | Notre Dame     | 0.036
+  7 | Maryland       | 0.010
 (8 rows)
 
 COPY 8

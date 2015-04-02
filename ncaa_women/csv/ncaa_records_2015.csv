@@ -230,7 +230,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,172,Dartmouth,14,14,0,28
 2015,173,Davidson,5,25,0,30
 2015,174,Davis & Elkins,13,14,0,27
-2015,175,Dayton,28,6,1,35
+2015,175,Dayton,28,7,0,35
 2015,1050,Defiance,9,16,0,25
 2015,180,Delaware,15,17,0,32
 2015,178,Delaware St.,5,25,0,30
@@ -524,7 +524,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,389,Mary Baldwin,0,25,0,25
 2015,1203,Mary Hardin-Baylor,13,13,0,26
 2015,390,Mary Washington,20,7,0,27
-2015,392,Maryland,33,2,1,36
+2015,392,Maryland,34,2,1,37
 2015,394,Marymount (VA),18,9,0,27
 2015,395,Maryville (MO),15,14,0,29
 2015,396,Maryville (TN),26,4,0,30
@@ -551,7 +551,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,413,Metro St.,13,13,0,26
 2015,415,Miami (FL),20,13,0,33
 2015,414,Miami (OH),7,23,0,30
-2015,418,Michigan,20,14,1,35
+2015,418,Michigan,20,15,0,35
 2015,416,Michigan St.,16,15,0,31
 2015,417,Michigan Tech,28,3,0,31
 2015,419,Middle Tenn.,24,10,0,34
@@ -912,8 +912,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,1395,Tarleton St.,17,10,0,27
 2015,712,TCNJ,16,11,0,27
 2015,698,TCU,18,14,0,32
-2015,690,Temple,20,16,1,37
-2015,694,Tennessee,30,5,1,36
+2015,690,Temple,20,17,0,37
+2015,694,Tennessee,30,6,0,36
 2015,691,Tennessee St.,18,13,0,31
 2015,692,Tennessee Tech,6,23,0,29
 2015,30090,Tex. A&M Int'l,13,13,0,26
@@ -961,8 +961,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,113,UC Santa Cruz,17,8,0,25
 2015,9754,UC-Colo. Springs,26,7,0,33
 2015,128,UCF,9,21,0,30
-2015,110,UCLA,17,18,1,36
-2015,164,UConn,35,1,1,37
+2015,110,UCLA,18,18,1,37
+2015,164,UConn,36,1,1,38
 2015,401,UMass Boston,19,9,0,28
 2015,656,UMass Dartmouth,19,8,0,27
 2015,368,UMass Lowell,14,15,0,29
@@ -970,8 +970,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,393,UMES,14,17,0,31
 2015,2707,UMKC,6,24,0,30
 2015,456,UNC Asheville,9,22,0,31
-2015,459,UNC Greensboro,6,24,0,30
 2015,537,UNC Pembroke,10,16,0,26
+2015,459,UNCG,6,24,0,30
 2015,460,UNCW,14,16,0,30
 2015,504,UNI,17,15,0,32
 2015,727,Union (NY),17,9,0,26
@@ -1033,7 +1033,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,1438,West Liberty,24,9,0,33
 2015,767,West Tex. A&M,30,3,0,33
 2015,9630,West Va. Wesleyan,4,23,0,27
-2015,768,West Virginia,22,14,1,37
+2015,768,West Virginia,23,14,1,38
 2015,1439,West Virginia St.,8,20,0,28
 2015,769,Western Caro.,11,19,0,30
 2015,770,Western Conn. St.,16,10,0,26

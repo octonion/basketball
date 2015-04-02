@@ -551,7 +551,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Albright,16,Marymount (VA),394,11/15/2014,60,65,Away,,-,0
 2015,Albright,16,Lehman,279,11/16/2014,93,87,Neutral,"Arlilngton, Va.",-,81
 2015,Albright,16,Keystone,30047,11/22/2014,82,72,Home,,-,237
-2015,Albright,16,Cabrini,88,11/25/2014,51,56,Away,,-,0
+2015,Albright,16,Cabrini,88,11/25/2014,51,56,Away,,-,138
 2015,Albright,16,Ursinus,730,11/29/2014,81,69,Home,,-,121
 2015,Albright,16,Widener,783,12/03/2014,76,69,Away,,-,105
 2015,Albright,16,Lebanon Valley,351,12/06/2014,75,73,Home,,-,394
@@ -1449,7 +1449,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Augsburg,38,St. Catherine,597,02/07/2015,83,77,Home,,1 OT,101
 2015,Augsburg,38,St. Olaf,615,02/11/2015,50,46,Away,,-,142
 2015,Augsburg,38,Bethel (MN),60,02/14/2015,58,72,Away,,-,215
-2015,Augsburg,38,Saint Benedict,595,02/18/2015,47,37,Away,,-,0
+2015,Augsburg,38,Saint Benedict,595,02/18/2015,47,37,Away,,-,197
 2015,Augsburg,38,Concordia-M'head,161,02/21/2015,53,69,Away,,-,0
 2015,Augsburg,38,Concordia-M'head,161,02/24/2015,56,50,Away,,-,227
 2015,Augsburg,38,St. Thomas (MN),620,02/26/2015,39,63,Away,,-,100
@@ -1553,7 +1553,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Austin,953,Texas Lutheran,1400,01/23/2015,70,67,Home,,-,159
 2015,Austin,953,Southwestern (TX),8746,01/24/2015,75,79,Home,,-,184
 2015,Austin,953,Texas Lutheran,1400,01/30/2015,77,89,Away,,-,309
-2015,Austin,953,Southwestern (TX),8746,01/31/2015,51,65,Away,,-,0
+2015,Austin,953,Southwestern (TX),8746,01/31/2015,51,65,Away,,-,233
 2015,Austin,953,Colorado Col.,154,02/06/2015,67,48,Home,,-,143
 2015,Austin,953,Centenary (LA),125,02/07/2015,67,40,Home,,-,134
 2015,Austin,953,Trinity (TX),715,02/13/2015,68,74,Away,,-,101
@@ -1786,7 +1786,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Baptist Bible (PA),958,Cedar Crest,14795,02/04/2015,48,57,Away,,-,35
 2015,Baptist Bible (PA),958,Marywood,397,02/05/2015,27,64,Home,,-,100
 2015,Baptist Bible (PA),958,Rosemont,15882,02/07/2015,32,82,Home,,-,200
-2015,Baptist Bible (PA),958,Cairn,1305,02/11/2015,66,58,Away,,-,0
+2015,Baptist Bible (PA),958,Cairn,1305,02/11/2015,66,58,Away,,-,48
 2015,Baptist Bible (PA),958,Notre Dame (MD),8600,02/14/2015,27,51,Away,,-,85
 2015,Baptist Bible (PA),958,Keystone,30047,02/16/2015,33,59,Home,,-,250
 2015,Bard,962,Morrisville St.,30067,11/19/2014,50,57,Away,,-,115
@@ -2245,7 +2245,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Berry,973,Piedmont,21830,11/30/2014,73,83,Neutral,"LaGrange, GA Mariotti Gym",-,127
 2015,Berry,973,Oglethorpe,2713,12/04/2014,70,69,Away,,-,204
 2015,Berry,973,Covenant,30111,12/13/2014,68,46,Away,,-,52
-2015,Berry,973,Piedmont,21830,12/16/2014,95,69,Away,,-,0
+2015,Berry,973,Piedmont,21830,12/16/2014,95,69,Away,,-,89
 2015,Berry,973,Rowan,259,12/19/2014,71,78,Neutral,"St. Petersburg, Fla.",-,50
 2015,Berry,973,Messiah,411,12/20/2014,59,53,Neutral,"St. Petersburg, Fla.",-,0
 2015,Berry,973,Agnes Scott,11324,01/06/2015,68,41,Home,,-,115
@@ -2334,7 +2334,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Bethel (MN),60,St. Olaf,615,01/24/2015,63,49,Away,,-,209
 2015,Bethel (MN),60,St. Catherine,597,01/28/2015,90,77,Home,,-,154
 2015,Bethel (MN),60,Saint Mary's (MN),612,01/31/2015,78,54,Home,,-,211
-2015,Bethel (MN),60,Hamline,268,02/04/2015,67,55,Home,,-,0
+2015,Bethel (MN),60,Hamline,268,02/04/2015,67,55,Home,,-,164
 2015,Bethel (MN),60,Saint Benedict,595,02/07/2015,73,59,Home,,-,214
 2015,Bethel (MN),60,Macalester,376,02/11/2015,65,41,Away,,-,102
 2015,Bethel (MN),60,Augsburg,38,02/14/2015,72,58,Home,,-,215
@@ -3187,7 +3187,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Buffalo St.,85,SUNY Cortland,168,12/05/2014,67,87,Away,,-,200
 2015,Buffalo St.,85,Oswego St.,530,12/06/2014,86,84,Away,,-,137
 2015,Buffalo St.,85,Hamilton,267,12/12/2014,67,69,Away,,-,137
-2015,Buffalo St.,85,Rochester Inst.,580,12/13/2014,74,66,Home,,-,0
+2015,Buffalo St.,85,Rochester Inst.,580,12/13/2014,74,66,Home,,-,115
 2015,Buffalo St.,85,Pitt.-Bradford,1315,12/15/2014,68,77,Away,,-,80
 2015,Buffalo St.,85,Brockport,78,01/06/2015,78,61,Home,,-,400
 2015,Buffalo St.,85,SUNY Potsdam,552,01/09/2015,95,55,Home,,-,131
@@ -3298,7 +3298,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Cabrini,88,Eastern,8968,11/17/2014,61,72,Home,,-,354
 2015,Cabrini,88,Widener,783,11/19/2014,58,69,Away,,-,115
 2015,Cabrini,88,Delaware Valley,179,11/22/2014,54,49,Away,,-,100
-2015,Cabrini,88,Albright,16,11/25/2014,56,51,Home,,-,0
+2015,Cabrini,88,Albright,16,11/25/2014,56,51,Home,,-,138
 2015,Cabrini,88,Gwynedd Mercy,12399,12/03/2014,57,54,Away,,-,200
 2015,Cabrini,88,Cedar Crest,14795,12/05/2014,74,28,Home,,-,132
 2015,Cabrini,88,Stockton,681,12/17/2014,62,61,Neutral,"Long Center, Scranton, Pa.",1 OT,125
@@ -3341,7 +3341,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Cairn,1305,Cabrini,88,02/03/2015,32,102,Home,,-,30
 2015,Cairn,1305,Immaculata,303,02/04/2015,33,81,Home,,-,40
 2015,Cairn,1305,Cedar Crest,14795,02/06/2015,40,58,Away,,-,38
-2015,Cairn,1305,Baptist Bible (PA),958,02/11/2015,58,66,Home,,-,0
+2015,Cairn,1305,Baptist Bible (PA),958,02/11/2015,58,66,Home,,-,48
 2015,Cairn,1305,Keystone,30047,02/14/2015,31,71,Away,,-,325
 2015,Cairn,1305,Rosemont,15882,02/16/2015,29,93,Home,,-,45
 2015,Cairn,1305,Gwynedd Mercy,12399,02/18/2015,33,87,Away,,-,150
@@ -5007,7 +5007,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Chris. Newport,139,York (PA),815,01/31/2015,42,54,Away,,-,640
 2015,Chris. Newport,139,Salisbury,622,02/04/2015,72,89,Home,,-,596
 2015,Chris. Newport,139,Wesley,763,02/07/2015,68,41,Home,,-,562
-2015,Chris. Newport,139,Mary Washington,390,02/11/2015,56,49,Away,,-,0
+2015,Chris. Newport,139,Mary Washington,390,02/11/2015,56,49,Away,,-,"1,050"
 2015,Chris. Newport,139,Marymount (VA),394,02/14/2015,72,61,Home,,1 OT,395
 2015,Chris. Newport,139,St. Mary's (MD),611,02/18/2015,74,55,Away,,-,52
 2015,Chris. Newport,139,Penn St. Harrisburg,30081,02/21/2015,80,52,Away,,-,124
@@ -5209,7 +5209,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Clarkson,146,Rochester (NY),581,11/21/2014,57,74,Away,,-,232
 2015,Clarkson,146,King's (PA),336,11/22/2014,76,77,Neutral,"Louis Alexander Palestra - Rochester, NY",-,81
 2015,Clarkson,146,SUNY Potsdam,552,12/02/2014,63,42,Away,,-,173
-2015,Clarkson,146,Elmira,213,12/06/2014,84,69,Home,,-,0
+2015,Clarkson,146,Elmira,213,12/06/2014,84,69,Home,,-,65
 2015,Clarkson,146,SUNY Canton,30165,12/13/2014,90,66,Home,,-,117
 2015,Clarkson,146,Oswego St.,530,01/02/2015,79,58,Home,,-,94
 2015,Clarkson,146,Hamilton,267,01/03/2015,70,66,Away,,-,97
@@ -5991,7 +5991,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Concordia-M'head,161,Hamline,268,01/24/2015,72,64,Home,,-,423
 2015,Concordia-M'head,161,Saint Benedict,595,01/28/2015,61,63,Home,,-,487
 2015,Concordia-M'head,161,Macalester,376,01/31/2015,62,44,Home,,-,336
-2015,Concordia-M'head,161,St. Catherine,597,02/04/2015,84,59,Away,,-,0
+2015,Concordia-M'head,161,St. Catherine,597,02/04/2015,84,59,Away,,-,125
 2015,Concordia-M'head,161,Saint Mary's (MN),612,02/07/2015,73,79,Away,,1 OT,381
 2015,Concordia-M'head,161,Gust. Adolphus,266,02/11/2015,72,59,Home,,-,342
 2015,Concordia-M'head,161,St. Thomas (MN),620,02/14/2015,50,62,Home,,-,437
@@ -6310,7 +6310,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,D'Youville,1059,SUNY Canton,30165,11/30/2014,62,58,Home,,-,75
 2015,D'Youville,1059,Penn St.-Behrend,538,12/03/2014,75,63,Away,,-,106
 2015,D'Youville,1059,Pitt.-Greensburg,11839,12/06/2014,62,59,Home,,1 OT,75
-2015,D'Youville,1059,La Roche,1163,12/13/2014,62,73,Home,,-,0
+2015,D'Youville,1059,La Roche,1163,12/13/2014,62,73,Home,,-,90
 2015,D'Youville,1059,Hilbert,8398,12/15/2014,67,41,Home,,-,150
 2015,D'Youville,1059,Cazenovia,23624,01/04/2015,64,71,Away,,-,60
 2015,D'Youville,1059,Medaille,23725,01/07/2015,49,53,Away,,-,54
@@ -6527,7 +6527,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Dayton,175,Iowa St.,311,03/20/2015,78,66,Neutral,"Lexington, KY (Memorial Coliseum)",-,"3,223"
 2015,Dayton,175,Kentucky,334,03/22/2015,99,94,Away,,-,"3,320"
 2015,Dayton,175,Louisville,367,03/28/2015,82,66,Neutral,"Albany, N.Y. - Times Union Center",-,"8,259"
-2015,Dayton,175,UConn,164,03/30/2015,0,0,Neutral,"Albany, NY",-,0
+2015,Dayton,175,UConn,164,03/30/2015,70,91,Neutral,"Albany, N.Y. - Times Union Center",-,"7,686"
 2015,Defiance,1050,Alma,21,11/15/2014,65,67,Home,,1 OT,0
 2015,Defiance,1050,Albion,15,11/18/2014,53,65,Home,,-,371
 2015,Defiance,1050,Otterbein,531,11/21/2014,72,62,Neutral,"Hope College, DeVos Fieldhouse",-,407
@@ -6780,7 +6780,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,DePauw,177,Kenyon,335,01/10/2015,72,39,Home,,-,225
 2015,DePauw,177,Wittenberg,806,01/14/2015,63,54,Away,,-,407
 2015,DePauw,177,Ohio Wesleyan,520,01/17/2015,68,53,Away,,-,400
-2015,DePauw,177,Wooster,807,01/24/2015,72,38,Away,,-,0
+2015,DePauw,177,Wooster,807,01/24/2015,72,38,Away,,-,54
 2015,DePauw,177,Denison,182,01/28/2015,77,39,Home,,-,250
 2015,DePauw,177,Oberlin,515,01/31/2015,73,52,Home,,-,275
 2015,DePauw,177,Allegheny,19,02/06/2015,85,46,Away,,-,250
@@ -7851,7 +7851,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Elmira,213,Dallas,1044,11/21/2014,51,71,Away,,-,185
 2015,Elmira,213,Centenary (LA),125,11/22/2014,73,64,Neutral,Maher Athletic Center,-,125
 2015,Elmira,213,Hilbert,8398,11/25/2014,63,58,Away,,-,75
-2015,Elmira,213,Clarkson,146,12/06/2014,69,84,Away,,-,0
+2015,Elmira,213,Clarkson,146,12/06/2014,69,84,Away,,-,65
 2015,Elmira,213,SUNY Potsdam,552,12/13/2014,62,47,Home,,-,87
 2015,Elmira,213,Rutgers-Camden,588,12/30/2014,52,54,Home,,-,74
 2015,Elmira,213,Ithaca,313,01/02/2015,68,76,Away,,-,120
@@ -10261,7 +10261,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Hamline,268,Concordia-M'head,161,01/24/2015,64,72,Away,,-,423
 2015,Hamline,268,Saint Mary's (MN),612,01/28/2015,65,68,Away,,-,211
 2015,Hamline,268,Gust. Adolphus,266,01/31/2015,82,79,Home,,-,375
-2015,Hamline,268,Bethel (MN),60,02/04/2015,55,67,Away,,-,0
+2015,Hamline,268,Bethel (MN),60,02/04/2015,55,67,Away,,-,164
 2015,Hamline,268,Macalester,376,02/07/2015,75,73,Away,,-,136
 2015,Hamline,268,Carleton,118,02/11/2015,92,67,Home,,-,176
 2015,Hamline,268,St. Olaf,615,02/14/2015,47,72,Home,,-,160
@@ -12441,7 +12441,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Keuka,1159,SUNY Poly,9500,12/07/2014,49,62,Home,,-,300
 2015,Keuka,1159,Cazenovia,23624,01/10/2015,47,53,Away,,-,100
 2015,Keuka,1159,Morrisville St.,30067,01/14/2015,57,63,Away,,-,185
-2015,Keuka,1159,Penn St.-Abington,30114,01/17/2015,43,71,Away,,-,0
+2015,Keuka,1159,Penn St.-Abington,30114,01/17/2015,43,71,Away,,-,75
 2015,Keuka,1159,Bryn Athyn,30188,01/18/2015,48,44,Away,,-,0
 2015,Keuka,1159,Lancaster Bible,30085,01/23/2015,47,54,Home,,-,125
 2015,Keuka,1159,Penn St.-Berks,30044,01/24/2015,57,40,Home,,-,130
@@ -12624,7 +12624,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,La Roche,1163,Penn St.-Altoona,25719,12/03/2014,72,54,Home,,-,314
 2015,La Roche,1163,Penn St.-Behrend,538,12/06/2014,65,44,Home,,-,448
 2015,La Roche,1163,Mount Aloysius,30036,12/10/2014,61,58,Away,,-,106
-2015,La Roche,1163,D'Youville,1059,12/13/2014,73,62,Away,,-,0
+2015,La Roche,1163,D'Youville,1059,12/13/2014,73,62,Away,,-,90
 2015,La Roche,1163,Westminster (PA),1451,12/17/2014,72,47,Home,,-,214
 2015,La Roche,1163,Mount Union,452,12/20/2014,76,63,Away,,-,0
 2015,La Roche,1163,Waynesburg,1434,12/23/2014,66,77,Away,,-,60
@@ -12807,7 +12807,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,LaGrange,1162,Methodist,412,01/03/2015,67,55,Home,,-,151
 2015,LaGrange,1162,Greensboro,263,01/04/2015,58,53,Home,,-,123
 2015,LaGrange,1162,Meredith,409,01/10/2015,56,67,Away,,-,127
-2015,LaGrange,1162,Mary Baldwin,389,01/11/2015,78,33,Away,,-,0
+2015,LaGrange,1162,Mary Baldwin,389,01/11/2015,78,33,Away,,-,60
 2015,LaGrange,1162,Wesleyan (GA),14718,01/14/2015,72,57,Away,,-,111
 2015,LaGrange,1162,Averett,44,01/17/2015,62,47,Home,,-,182
 2015,LaGrange,1162,Ferrum,225,01/18/2015,60,53,Home,,-,171
@@ -12970,7 +12970,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Lancaster Bible,30085,Keuka,1159,01/23/2015,54,47,Away,,-,125
 2015,Lancaster Bible,30085,Wells,761,01/24/2015,57,47,Away,,-,133
 2015,Lancaster Bible,30085,St. Elizabeth,9684,01/28/2015,67,52,Away,,-,51
-2015,Lancaster Bible,30085,Wilson,12973,01/30/2015,68,31,Away,,-,0
+2015,Lancaster Bible,30085,Wilson,12973,01/30/2015,68,31,Away,,-,70
 2015,Lancaster Bible,30085,Gallaudet,245,01/31/2015,51,35,Away,,-,162
 2015,Lancaster Bible,30085,Penn St.-Abington,30114,02/04/2015,56,43,Home,,-,188
 2015,Lancaster Bible,30085,Valley Forge,30166,02/05/2015,74,34,Home,,-,296
@@ -14491,7 +14491,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Maranatha Baptist,1194,Grace Bible (MI),,12/19/2014,70,86,Away,,-,100
 2015,Maranatha Baptist,1194,Shawnee St.,,01/08/2015,47,86,Neutral,"Circleville, Ohio",-,0
 2015,Maranatha Baptist,1194,Ohio Christian,,01/09/2015,44,84,Away,,-,0
-2015,Maranatha Baptist,1194,Moody Bible,,01/17/2015,50,66,Home,,-,0
+2015,Maranatha Baptist,1194,Moody Bible,,01/17/2015,50,66,Home,,-,46
 2015,Maranatha Baptist,1194,Mount Mary,30033,01/20/2015,47,55,Away,,-,20
 2015,Maranatha Baptist,1194,Finlandia,30032,01/24/2015,48,58,Home,,-,117
 2015,Maranatha Baptist,1194,Silver Lake,,01/29/2015,69,81,Home,,-,45
@@ -14742,7 +14742,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Mary Baldwin,389,Bridgewater (VA),75,12/02/2014,37,78,Away,,-,401
 2015,Mary Baldwin,389,Randolph,566,01/04/2015,25,81,Home,,-,36
 2015,Mary Baldwin,389,Huntingdon,1130,01/10/2015,53,73,Home,,-,70
-2015,Mary Baldwin,389,LaGrange,1162,01/11/2015,33,78,Home,,-,0
+2015,Mary Baldwin,389,LaGrange,1162,01/11/2015,33,78,Home,,-,60
 2015,Mary Baldwin,389,Greensboro,263,01/14/2015,35,93,Away,,-,120
 2015,Mary Baldwin,389,Averett,44,01/21/2015,37,87,Home,,-,48
 2015,Mary Baldwin,389,Covenant,30111,01/23/2015,44,85,Away,,-,73
@@ -14786,19 +14786,19 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Mary Hardin-Baylor,1203,Hardin-Simmons,271,02/21/2015,85,78,Away,,-,471
 2015,Mary Hardin-Baylor,1203,Louisiana Col.,1182,02/26/2015,90,91,Neutral,"Tyler, Texas (Herrington Patriot Center)",1 OT,304
 2015,Mary Washington,390,York (NY),2730,11/15/2014,88,40,Home,,-,450
-2015,Mary Washington,390,Widener,783,11/16/2014,61,42,Home,,-,0
+2015,Mary Washington,390,Widener,783,11/16/2014,61,42,Home,,-,350
 2015,Mary Washington,390,Navy,726,11/20/2014,59,79,Away,,-,358
-2015,Mary Washington,390,Wash. & Lee,752,11/22/2014,62,64,Home,,1 OT,0
+2015,Mary Washington,390,Wash. & Lee,752,11/22/2014,62,64,Home,,1 OT,375
 2015,Mary Washington,390,Frostburg St.,243,12/03/2014,66,30,Home,,-,250
 2015,Mary Washington,390,York (PA),815,12/06/2014,64,47,Away,,-,309
 2015,Mary Washington,390,St. Mary's (MD),611,12/13/2014,79,40,Away,,-,135
 2015,Mary Washington,390,Misericordia,16142,12/29/2014,59,58,Neutral,"Washington, D.C. - DuFour Athletic Ctr.",-,65
 2015,Mary Washington,390,Catholic,124,12/30/2014,48,53,Away,,-,97
-2015,Mary Washington,390,Marymount (VA),394,01/03/2015,47,37,Home,,-,0
+2015,Mary Washington,390,Marymount (VA),394,01/03/2015,47,37,Home,,-,700
 2015,Mary Washington,390,Shenandoah,637,01/05/2015,83,44,Away,,-,178
 2015,Mary Washington,390,Salisbury,622,01/07/2015,63,69,Home,,-,600
-2015,Mary Washington,390,Wesley,763,01/10/2015,86,68,Home,,-,0
-2015,Mary Washington,390,Southern Va.,30164,01/14/2015,80,66,Away,,-,0
+2015,Mary Washington,390,Wesley,763,01/10/2015,86,68,Home,,-,350
+2015,Mary Washington,390,Southern Va.,30164,01/14/2015,80,66,Away,,-,100
 2015,Mary Washington,390,Penn St. Harrisburg,30081,01/17/2015,76,41,Away,,-,250
 2015,Mary Washington,390,Chris. Newport,139,01/21/2015,71,66,Away,,-,347
 2015,Mary Washington,390,York (PA),815,01/24/2015,66,48,Home,,-,650
@@ -14806,11 +14806,11 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Mary Washington,390,Marymount (VA),394,01/31/2015,75,48,Away,,-,0
 2015,Mary Washington,390,St. Mary's (MD),611,02/04/2015,58,40,Home,,-,700
 2015,Mary Washington,390,Salisbury,622,02/07/2015,54,65,Away,,-,400
-2015,Mary Washington,390,Chris. Newport,139,02/11/2015,49,56,Home,,-,0
-2015,Mary Washington,390,Penn St. Harrisburg,30081,02/14/2015,82,52,Home,,-,0
-2015,Mary Washington,390,Southern Va.,30164,02/18/2015,97,59,Home,,-,0
+2015,Mary Washington,390,Chris. Newport,139,02/11/2015,49,56,Home,,-,"1,050"
+2015,Mary Washington,390,Penn St. Harrisburg,30081,02/14/2015,82,52,Home,,-,575
+2015,Mary Washington,390,Southern Va.,30164,02/18/2015,97,59,Home,,-,500
 2015,Mary Washington,390,Wesley,763,02/21/2015,66,60,Away,,-,0
-2015,Mary Washington,390,Marymount (VA),394,02/26/2015,60,46,Home,,-,0
+2015,Mary Washington,390,Marymount (VA),394,02/26/2015,60,46,Home,,-,760
 2015,Mary Washington,390,Salisbury,622,02/28/2015,68,74,Away,,2 OT,440
 2015,Maryland,392,Mt. St. Mary's,450,11/14/2014,109,45,Home,,-,"4,177"
 2015,Maryland,392,Wagner,748,11/16/2014,97,24,Home,,-,"3,353"
@@ -14847,7 +14847,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Maryland,392,New Mexico St.,472,03/21/2015,75,57,Home,,-,"7,948"
 2015,Maryland,392,Princeton,554,03/23/2015,85,70,Home,,-,"7,794"
 2015,Maryland,392,Duke,193,03/28/2015,65,55,Neutral,"Spokane, Wash. (Spokane Arena)",-,0
-2015,Maryland,392,Tennessee,694,03/30/2015,0,0,Neutral,"Spokane, WA",-,0
+2015,Maryland,392,Tennessee,694,03/30/2015,58,48,Neutral,"Spokane, Wash. (Spokane Arena)",-,"5,032"
+2015,Maryland,392,UConn,164,04/05/2015,0,0,Neutral,"Tampa, FL",-,0
 2015,Marymount (VA),394,Albright,16,11/15/2014,65,60,Home,,-,0
 2015,Marymount (VA),394,Delaware Valley,179,11/16/2014,57,49,Home,,-,235
 2015,Marymount (VA),394,Randolph-Macon,565,11/19/2014,58,68,Home,,-,211
@@ -14858,7 +14859,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Marymount (VA),394,Montclair St.,442,12/16/2014,55,63,Away,,-,119
 2015,Marymount (VA),394,Roanoke,578,12/19/2014,56,32,Neutral,"Daytona Beach, Fla. (Ocean Center)",-,0
 2015,Marymount (VA),394,Springfield,673,12/20/2014,59,61,Neutral,"Daytona Beach, Fla. (Ocean Center)",-,0
-2015,Marymount (VA),394,Mary Washington,390,01/03/2015,37,47,Away,,-,0
+2015,Marymount (VA),394,Mary Washington,390,01/03/2015,37,47,Away,,-,700
 2015,Marymount (VA),394,York (PA),815,01/07/2015,65,57,Away,,-,307
 2015,Marymount (VA),394,Frostburg St.,243,01/10/2015,63,46,Home,,-,0
 2015,Marymount (VA),394,Salisbury,622,01/14/2015,57,70,Away,,-,170
@@ -14874,7 +14875,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Marymount (VA),394,Salisbury,622,02/18/2015,70,63,Home,,-,0
 2015,Marymount (VA),394,Frostburg St.,243,02/22/2015,64,49,Away,,-,275
 2015,Marymount (VA),394,St. Mary's (MD),611,02/24/2015,66,48,Home,,-,0
-2015,Marymount (VA),394,Mary Washington,390,02/26/2015,46,60,Away,,-,0
+2015,Marymount (VA),394,Mary Washington,390,02/26/2015,46,60,Away,,-,760
 2015,Maryville (MO),395,Culver-Stockton,,11/16/2014,97,73,Home,,-,255
 2015,Maryville (MO),395,Minn. St. Mankato,383,11/21/2014,68,69,Neutral,"St. Louis, Mo. (Mark Twain Building)",-,240
 2015,Maryville (MO),395,Lincoln (MO),356,11/22/2014,51,58,Neutral,"St. Louis, Mo. (Mark Twain Building)",-,0
@@ -15592,7 +15593,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Michigan,418,Toledo,709,03/23/2015,74,58,Away,,-,"3,004"
 2015,Michigan,418,Missouri,434,03/26/2015,65,55,Home,,-,"1,383"
 2015,Michigan,418,Southern Miss.,664,03/29/2015,69,60,Away,,-,"5,480"
-2015,Michigan,418,UCLA,110,04/01/2015,0,0,Home,,-,0
+2015,Michigan,418,UCLA,110,04/01/2015,65,69,Home,,-,"2,209"
 2015,Michigan St.,416,Eastern Mich.,204,11/16/2014,69,61,Home,,-,"5,311"
 2015,Michigan St.,416,Notre Dame,513,11/19/2014,63,71,Home,,-,"8,644"
 2015,Michigan St.,416,IUPUI,2699,11/23/2014,64,45,Home,,-,"5,200"
@@ -17676,11 +17677,11 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,New Rochelle,476,Merchant Marine,724,02/06/2015,35,68,Away,,-,55
 2015,New Rochelle,476,Yeshiva,814,02/10/2015,68,67,Home,,-,147
 2015,New Rochelle,476,John Jay,321,02/12/2015,44,71,Away,,-,0
-2015,New Rochelle,476,Berkeley (NY),,02/15/2015,57,48,Home,,-,0
+2015,New Rochelle,476,Berkeley (NY),,02/15/2015,57,48,Home,,-,57
 2015,New Rochelle,476,St. Joseph's (Brkln),30072,02/17/2015,50,66,Away,,-,209
 2015,New Rochelle,476,St. Joseph's (Brkln),30072,02/21/2015,65,69,Neutral,"Albany, N.Y. - Albert M. White Gymnasium",-,125
 2015,New Rochelle,476,Mercy,407,03/02/2015,49,80,Home,,-,65
-2015,New Rochelle,476,Staten Island,675,03/04/2015,39,105,Away,,-,0
+2015,New Rochelle,476,Staten Island,675,03/04/2015,39,105,Away,,-,203
 2015,Newberry,1257,Belmont Abbey,2683,11/14/2014,79,57,Neutral,"Hartsville, SC",-,80
 2015,Newberry,1257,Limestone,1174,11/15/2014,76,67,Neutral,"Hartsville, S.C., SC",-,0
 2015,Newberry,1257,Coker,1023,11/19/2014,67,58,Away,,-,200
@@ -17827,8 +17828,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Nicholls St.,483,Southeastern La.,655,03/07/2015,77,74,Away,,-,478
 2015,Nicholls St.,483,Northwestern St.,508,03/13/2015,67,84,Neutral,"Merrell Center -- Katy, Texas",-,860
 2015,Nichols,484,Anna Maria,26,11/15/2014,54,53,Home,,-,157
-2015,Nichols,484,Johnson St.,324,11/22/2014,74,61,Away,,-,120
 2015,Nichols,484,Johnson St.,324,11/22/2014,74,61,Neutral,Johnson State College,-,120
+2015,Nichols,484,Johnson St.,324,11/22/2014,74,61,Away,,-,120
 2015,Nichols,484,WPI,808,11/25/2014,48,69,Home,,-,111
 2015,Nichols,484,Roger Williams,583,12/03/2014,59,73,Away,,-,100
 2015,Nichols,484,Salve Regina,623,12/06/2014,46,53,Home,,-,83
@@ -20068,7 +20069,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Penn St. Harrisburg,30081,Frostburg St.,243,02/04/2015,66,79,Home,,-,65
 2015,Penn St. Harrisburg,30081,Southern Va.,30164,02/07/2015,61,88,Away,,-,100
 2015,Penn St. Harrisburg,30081,Marymount (VA),394,02/11/2015,40,63,Away,,-,227
-2015,Penn St. Harrisburg,30081,Mary Washington,390,02/14/2015,52,82,Away,,-,0
+2015,Penn St. Harrisburg,30081,Mary Washington,390,02/14/2015,52,82,Away,,-,575
 2015,Penn St. Harrisburg,30081,Wesley,763,02/18/2015,53,62,Home,,-,0
 2015,Penn St. Harrisburg,30081,Chris. Newport,139,02/21/2015,52,80,Home,,-,124
 2015,Penn St.-Abington,30114,Penn St.-Mont Alto,,11/15/2014,93,30,Home,,-,55
@@ -20080,19 +20081,19 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Penn St.-Abington,30114,Wilson,12973,01/08/2015,83,30,Away,,-,20
 2015,Penn St.-Abington,30114,Lancaster Bible,30085,01/10/2015,64,62,Home,,-,95
 2015,Penn St.-Abington,30114,Penn College,30190,01/13/2015,69,42,Away,,-,218
-2015,Penn St.-Abington,30114,Keuka,1159,01/17/2015,71,43,Home,,-,0
+2015,Penn St.-Abington,30114,Keuka,1159,01/17/2015,71,43,Home,,-,75
 2015,Penn St.-Abington,30114,Wells,761,01/18/2015,55,50,Home,,-,55
 2015,Penn St.-Abington,30114,Bryn Athyn,30188,01/25/2015,76,49,Home,,-,55
 2015,Penn St.-Abington,30114,Gallaudet,245,01/28/2015,39,60,Away,,-,120
 2015,Penn St.-Abington,30114,Bryn Athyn,30188,01/31/2015,78,66,Away,,-,0
-2015,Penn St.-Abington,30114,St. Elizabeth,9684,02/01/2015,77,56,Home,,-,0
+2015,Penn St.-Abington,30114,St. Elizabeth,9684,02/01/2015,77,56,Home,,-,70
 2015,Penn St.-Abington,30114,Lancaster Bible,30085,02/04/2015,43,56,Away,,-,188
 2015,Penn St.-Abington,30114,SUNY Poly,9500,02/07/2015,43,51,Home,,-,78
 2015,Penn St.-Abington,30114,Cobleskill St.,30083,02/08/2015,67,39,Home,,-,60
 2015,Penn St.-Abington,30114,Penn St.-Berks,30044,02/11/2015,82,40,Away,,-,188
 2015,Penn St.-Abington,30114,Cazenovia,23624,02/14/2015,60,31,Away,,-,80
 2015,Penn St.-Abington,30114,Morrisville St.,30067,02/15/2015,68,55,Away,,-,50
-2015,Penn St.-Abington,30114,Wilson,12973,02/18/2015,70,15,Home,,-,0
+2015,Penn St.-Abington,30114,Wilson,12973,02/18/2015,70,15,Home,,-,65
 2015,Penn St.-Abington,30114,Penn College,30190,02/20/2015,70,71,Home,,-,98
 2015,Penn St.-Abington,30114,St. Elizabeth,9684,02/21/2015,66,53,Away,,-,63
 2015,Penn St.-Abington,30114,Gallaudet,245,02/24/2015,61,33,Home,,-,137
@@ -20268,7 +20269,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Piedmont,21830,Oglethorpe,2713,11/29/2014,107,76,Neutral,"LaGrange, GA Mariotti Gym",-,106
 2015,Piedmont,21830,Berry,973,11/30/2014,83,73,Neutral,"LaGrange, GA Mariotti Gym",-,127
 2015,Piedmont,21830,Salem,30041,12/07/2014,88,62,Away,,-,123
-2015,Piedmont,21830,Berry,973,12/16/2014,69,95,Home,,-,0
+2015,Piedmont,21830,Berry,973,12/16/2014,69,95,Home,,-,89
 2015,Piedmont,21830,Birmingham-So.,28593,12/29/2014,76,60,Home,,-,273
 2015,Piedmont,21830,Emory,217,12/30/2014,81,69,Home,,-,419
 2015,Piedmont,21830,Meredith,409,01/02/2015,82,63,Away,,-,153
@@ -20489,7 +20490,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Plymouth St.,548,Lyndon St.,30065,11/22/2014,62,56,Away,,-,0
 2015,Plymouth St.,548,Castleton,123,11/25/2014,52,67,Away,,-,120
 2015,Plymouth St.,548,Colby-Sawyer,152,12/02/2014,38,53,Home,,-,75
-2015,Plymouth St.,548,UMass Dartmouth,656,12/06/2014,46,83,Home,,-,0
+2015,Plymouth St.,548,UMass Dartmouth,656,12/06/2014,46,83,Home,,-,150
 2015,Plymouth St.,548,Salem St.,621,12/11/2014,70,50,Away,,-,107
 2015,Plymouth St.,548,Eastern Conn. St.,200,01/03/2015,32,61,Away,,-,300
 2015,Plymouth St.,548,Johnson St.,324,01/06/2015,60,51,Away,,-,85
@@ -21564,7 +21565,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Rochester Inst.,580,Nazareth,461,12/04/2014,71,63,Neutral,"Alexander Palestra - Rochester, N.Y.",-,125
 2015,Rochester Inst.,580,Brockport,78,12/06/2014,67,61,Neutral,Kidera Gymnasium - Nazareth College,-,57
 2015,Rochester Inst.,580,Houghton,30160,12/11/2014,83,47,Home,,-,110
-2015,Rochester Inst.,580,Buffalo St.,85,12/13/2014,66,74,Away,,-,0
+2015,Rochester Inst.,580,Buffalo St.,85,12/13/2014,66,74,Away,,-,115
 2015,Rochester Inst.,580,Skidmore,642,01/02/2015,54,67,Away,,-,165
 2015,Rochester Inst.,580,Rensselaer,570,01/03/2015,59,73,Away,,-,98
 2015,Rochester Inst.,580,St. Lawrence,607,01/09/2015,68,84,Home,,-,103
@@ -22083,7 +22084,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Saint Benedict,595,Concordia-M'head,161,12/03/2014,60,71,Home,,-,208
 2015,Saint Benedict,595,St. Thomas (MN),620,12/06/2014,58,75,Away,,-,230
 2015,Saint Benedict,595,Martin Luther,8597,12/09/2014,47,42,Home,,-,75
-2015,Saint Benedict,595,St. Catherine,597,12/13/2014,73,70,Away,,-,0
+2015,Saint Benedict,595,St. Catherine,597,12/13/2014,73,70,Away,,-,150
 2015,Saint Benedict,595,Wartburg,750,12/29/2014,55,63,Away,,-,400
 2015,Saint Benedict,595,Iowa Wesleyan,30173,12/30/2014,59,61,Neutral,"Waverly, Iowa (Levick Arena)",-,100
 2015,Saint Benedict,595,Bethel (MN),60,01/03/2015,69,55,Home,,-,151
@@ -22092,14 +22093,14 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Saint Benedict,595,Saint Mary's (MN),612,01/14/2015,59,63,Away,,-,218
 2015,Saint Benedict,595,Gust. Adolphus,266,01/17/2015,52,55,Home,,-,208
 2015,Saint Benedict,595,Macalester,376,01/21/2015,73,65,Away,,-,151
-2015,Saint Benedict,595,St. Thomas (MN),620,01/24/2015,57,80,Home,,-,0
+2015,Saint Benedict,595,St. Thomas (MN),620,01/24/2015,57,80,Home,,-,227
 2015,Saint Benedict,595,Concordia-M'head,161,01/28/2015,63,61,Away,,-,487
 2015,Saint Benedict,595,St. Catherine,597,01/31/2015,73,62,Home,,-,363
 2015,Saint Benedict,595,St. Olaf,615,02/04/2015,53,58,Home,,1 OT,221
 2015,Saint Benedict,595,Bethel (MN),60,02/07/2015,59,73,Away,,-,214
 2015,Saint Benedict,595,Saint Mary's (MN),612,02/11/2015,73,54,Home,,-,205
 2015,Saint Benedict,595,Carleton,118,02/14/2015,55,56,Away,,-,251
-2015,Saint Benedict,595,Augsburg,38,02/18/2015,37,47,Home,,-,0
+2015,Saint Benedict,595,Augsburg,38,02/18/2015,37,47,Home,,-,197
 2015,Saint Benedict,595,Gust. Adolphus,266,02/21/2015,69,60,Away,,-,168
 2015,Saint Francis (PA),600,Ohio St.,518,11/16/2014,97,113,Away,,-,"3,968"
 2015,Saint Francis (PA),600,Buffalo,86,11/18/2014,80,88,Home,,-,503
@@ -24092,7 +24093,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Southern Va.,30164,Salisbury,622,01/03/2015,61,83,Home,,-,50
 2015,Southern Va.,30164,Penn St. Harrisburg,30081,01/07/2015,65,63,Away,,-,94
 2015,Southern Va.,30164,St. Mary's (MD),611,01/10/2015,59,67,Away,,-,305
-2015,Southern Va.,30164,Mary Washington,390,01/14/2015,66,80,Home,,-,0
+2015,Southern Va.,30164,Mary Washington,390,01/14/2015,66,80,Home,,-,100
 2015,Southern Va.,30164,York (PA),815,01/17/2015,69,99,Away,,-,343
 2015,Southern Va.,30164,Frostburg St.,243,01/21/2015,70,65,Home,,-,75
 2015,Southern Va.,30164,Wesley,763,01/24/2015,65,83,Away,,-,0
@@ -24103,7 +24104,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Southern Va.,30164,Mid-Atlantic Christ.,,02/09/2015,90,47,Home,,-,75
 2015,Southern Va.,30164,Frostburg St.,243,02/10/2015,63,65,Away,,-,432
 2015,Southern Va.,30164,York (PA),815,02/14/2015,66,64,Home,,-,75
-2015,Southern Va.,30164,Mary Washington,390,02/18/2015,59,97,Away,,-,0
+2015,Southern Va.,30164,Mary Washington,390,02/18/2015,59,97,Away,,-,500
 2015,Southern Va.,30164,St. Mary's (MD),611,02/21/2015,74,68,Home,,-,125
 2015,Southern Vt.,1379,Curry,170,11/15/2014,56,78,Away,,-,145
 2015,Southern Vt.,1379,MIT,398,11/16/2014,70,86,Neutral,"Milton, Mass.",-,40
@@ -24223,7 +24224,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Southwestern (TX),8746,Howard Payne,2741,11/29/2014,74,76,Home,,-,189
 2015,Southwestern (TX),8746,Louisiana Col.,1182,11/30/2014,73,75,Home,,-,200
 2015,Southwestern (TX),8746,St. Edward's,1334,12/03/2014,59,68,Away,,-,408
-2015,Southwestern (TX),8746,Whitworth,1454,12/06/2014,57,73,Home,,-,0
+2015,Southwestern (TX),8746,Whitworth,1454,12/06/2014,57,73,Home,,-,76
 2015,Southwestern (TX),8746,Hardin-Simmons,271,12/13/2014,75,68,Away,,-,227
 2015,Southwestern (TX),8746,Rust,586,12/17/2014,78,82,Away,,-,225
 2015,Southwestern (TX),8746,Rhodes,573,12/18/2014,60,70,Away,,-,274
@@ -24236,8 +24237,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Southwestern (TX),8746,Dallas,1044,01/23/2015,60,63,Away,,-,385
 2015,Southwestern (TX),8746,Austin,953,01/24/2015,79,75,Away,,-,184
 2015,Southwestern (TX),8746,Dallas,1044,01/30/2015,57,54,Home,,-,213
-2015,Southwestern (TX),8746,Austin,953,01/31/2015,65,51,Home,,-,0
-2015,Southwestern (TX),8746,Trinity (TX),715,02/06/2015,61,52,Home,,-,0
+2015,Southwestern (TX),8746,Austin,953,01/31/2015,65,51,Home,,-,233
+2015,Southwestern (TX),8746,Trinity (TX),715,02/06/2015,61,52,Home,,-,410
 2015,Southwestern (TX),8746,Schreiner,1355,02/07/2015,72,55,Home,,-,265
 2015,Southwestern (TX),8746,Colorado Col.,154,02/13/2015,70,44,Away,,-,106
 2015,Southwestern (TX),8746,Centenary (LA),125,02/15/2015,80,65,Away,,-,125
@@ -24412,7 +24413,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,St. Catherine,597,Bethel (MN),60,12/03/2014,66,62,Home,,-,170
 2015,St. Catherine,597,Gust. Adolphus,266,12/06/2014,50,61,Away,,-,213
 2015,St. Catherine,597,Northwestern-St.Paul,30031,12/10/2014,68,60,Home,,-,110
-2015,St. Catherine,597,Saint Benedict,595,12/13/2014,70,73,Home,,-,0
+2015,St. Catherine,597,Saint Benedict,595,12/13/2014,70,73,Home,,-,150
 2015,St. Catherine,597,Concordia Chicago,160,12/30/2014,78,87,Home,,1 OT,55
 2015,St. Catherine,597,Augsburg,38,01/03/2015,54,74,Home,,-,100
 2015,St. Catherine,597,Carleton,118,01/07/2015,56,64,Away,,-,274
@@ -24423,7 +24424,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,St. Catherine,597,Gust. Adolphus,266,01/24/2015,78,85,Home,,1 OT,185
 2015,St. Catherine,597,Bethel (MN),60,01/28/2015,77,90,Away,,-,154
 2015,St. Catherine,597,Saint Benedict,595,01/31/2015,62,73,Away,,-,363
-2015,St. Catherine,597,Concordia-M'head,161,02/04/2015,59,84,Home,,-,0
+2015,St. Catherine,597,Concordia-M'head,161,02/04/2015,59,84,Home,,-,125
 2015,St. Catherine,597,Augsburg,38,02/07/2015,77,83,Away,,1 OT,101
 2015,St. Catherine,597,St. Thomas (MN),620,02/11/2015,56,73,Away,,-,155
 2015,St. Catherine,597,Macalester,376,02/14/2015,89,80,Away,,-,229
@@ -24500,8 +24501,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,St. Elizabeth,9684,SUNY Poly,9500,01/24/2015,47,75,Away,,-,76
 2015,St. Elizabeth,9684,Cobleskill St.,30083,01/25/2015,64,58,Away,,-,106
 2015,St. Elizabeth,9684,Lancaster Bible,30085,01/28/2015,52,67,Home,,-,51
-2015,St. Elizabeth,9684,Penn College,30190,01/31/2015,67,58,Home,,-,0
-2015,St. Elizabeth,9684,Penn St.-Abington,30114,02/01/2015,56,77,Away,,-,0
+2015,St. Elizabeth,9684,Penn College,30190,01/31/2015,67,58,Home,,-,53
+2015,St. Elizabeth,9684,Penn St.-Abington,30114,02/01/2015,56,77,Away,,-,70
 2015,St. Elizabeth,9684,Cazenovia,23624,02/07/2015,81,77,Home,,1 OT,79
 2015,St. Elizabeth,9684,Morrisville St.,30067,02/08/2015,66,59,Home,,-,51
 2015,St. Elizabeth,9684,Keuka,1159,02/14/2015,50,62,Away,,-,225
@@ -24970,7 +24971,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,St. Thomas (MN),620,St. Catherine,597,01/14/2015,62,49,Away,,-,150
 2015,St. Thomas (MN),620,Hamline,268,01/17/2015,73,47,Away,,-,350
 2015,St. Thomas (MN),620,St. Olaf,615,01/21/2015,75,37,Home,,-,135
-2015,St. Thomas (MN),620,Saint Benedict,595,01/24/2015,80,57,Away,,-,0
+2015,St. Thomas (MN),620,Saint Benedict,595,01/24/2015,80,57,Away,,-,227
 2015,St. Thomas (MN),620,Gust. Adolphus,266,01/28/2015,62,49,Away,,-,212
 2015,St. Thomas (MN),620,Augsburg,38,01/31/2015,60,37,Home,,-,265
 2015,St. Thomas (MN),620,Saint Mary's (MN),612,02/04/2015,74,51,Home,,-,240
@@ -25079,7 +25080,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Staten Island,675,Lehman,279,02/17/2015,58,52,Home,,-,603
 2015,Staten Island,675,John Jay,321,02/21/2015,65,55,Home,,-,147
 2015,Staten Island,675,Brooklyn,79,02/24/2015,57,69,Neutral,"New York, NY @ Nat Holman Gymnasium",-,527
-2015,Staten Island,675,New Rochelle,476,03/04/2015,105,39,Home,,-,0
+2015,Staten Island,675,New Rochelle,476,03/04/2015,105,39,Home,,-,203
 2015,Staten Island,675,Rutgers-Newark,589,03/07/2015,75,81,Neutral,"Brooklyn, NY - West Qyad Center",1 OT,213
 2015,Stephen F. Austin,676,Louisiana Tech,366,11/15/2014,69,76,Home,,-,"1,833"
 2015,Stephen F. Austin,676,Prairie View,553,11/18/2014,83,73,Home,,-,381
@@ -25784,7 +25785,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Temple,690,Penn,540,03/22/2015,61,56,Away,,-,890
 2015,Temple,690,North Carolina St.,490,03/26/2015,80,79,Home,,1 OT,438
 2015,Temple,690,Middle Tenn.,419,03/29/2015,69,57,Away,,-,"2,587"
-2015,Temple,690,West Virginia,768,04/01/2015,0,0,Away,,-,0
+2015,Temple,690,West Virginia,768,04/01/2015,58,66,Away,,1 OT,"3,025"
 2015,Tennessee,694,Penn,540,11/14/2014,97,52,Home,,-,"9,706"
 2015,Tennessee,694,Oral Roberts,527,11/17/2014,91,39,Home,,-,"8,861"
 2015,Tennessee,694,Winthrop,792,11/21/2014,81,48,Home,,-,"9,267"
@@ -25820,7 +25821,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Tennessee,694,Boise St.,66,03/21/2015,72,61,Home,,-,"6,439"
 2015,Tennessee,694,Pittsburgh,545,03/23/2015,77,67,Home,,-,"5,712"
 2015,Tennessee,694,Gonzaga,260,03/28/2015,73,69,Neutral,"Spokane, Wash. (Spokane Arena)",1 OT,"8,686"
-2015,Tennessee,694,Maryland,392,03/30/2015,0,0,Neutral,"Spokane, WA",-,0
+2015,Tennessee,694,Maryland,392,03/30/2015,48,58,Neutral,"Spokane, Wash. (Spokane Arena)",-,"5,032"
 2015,Tennessee St.,691,North Carolina St.,490,11/14/2014,55,84,Away,,-,"1,337"
 2015,Tennessee St.,691,Kennesaw St.,1157,11/17/2014,56,65,Home,,-,512
 2015,Tennessee St.,691,Lipscomb,28600,11/22/2014,73,55,Away,,-,327
@@ -26631,7 +26632,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Trinity (TX),715,Colorado Col.,154,01/24/2015,76,43,Home,,-,151
 2015,Trinity (TX),715,Centenary (LA),125,01/30/2015,100,33,Away,,-,134
 2015,Trinity (TX),715,Colorado Col.,154,01/31/2015,60,35,Away,,-,118
-2015,Trinity (TX),715,Southwestern (TX),8746,02/06/2015,52,61,Away,,-,0
+2015,Trinity (TX),715,Southwestern (TX),8746,02/06/2015,52,61,Away,,-,410
 2015,Trinity (TX),715,Texas Lutheran,1400,02/07/2015,55,61,Away,,-,360
 2015,Trinity (TX),715,Austin,953,02/13/2015,74,68,Home,,-,101
 2015,Trinity (TX),715,Dallas,1044,02/14/2015,66,39,Home,,-,0
@@ -27231,7 +27232,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,UCLA,110,San Diego,627,03/22/2015,63,58,Away,,-,467
 2015,UCLA,110,Northern Colo.,502,03/26/2015,74,60,Home,,-,760
 2015,UCLA,110,St. Mary's (CA),610,03/29/2015,82,66,Home,,-,746
-2015,UCLA,110,Michigan,418,04/01/2015,0,0,Away,,-,0
+2015,UCLA,110,Michigan,418,04/01/2015,69,65,Away,,-,"2,209"
+2015,UCLA,110,West Virginia,768,04/04/2015,0,0,Away,"Charleston, WV",-,0
 2015,UConn,164,UC Davis,108,11/14/2014,102,43,Away,,-,"4,712"
 2015,UConn,164,Stanford,674,11/17/2014,86,88,Away,,1 OT,"5,367"
 2015,UConn,164,Creighton,169,11/23/2014,96,60,Home,,-,"7,123"
@@ -27268,7 +27270,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,UConn,164,St. Francis Brooklyn,599,03/21/2015,89,33,Home,,-,"3,666"
 2015,UConn,164,Rutgers,587,03/23/2015,91,55,Home,,-,"3,486"
 2015,UConn,164,Texas,703,03/28/2015,105,54,Neutral,"Albany, N.Y. - Times Union Center",-,"8,259"
-2015,UConn,164,Dayton,175,03/30/2015,0,0,Neutral,"Albany, NY",-,0
+2015,UConn,164,Dayton,175,03/30/2015,91,70,Neutral,"Albany, N.Y. - Times Union Center",-,"7,686"
+2015,UConn,164,Maryland,392,04/05/2015,0,0,Neutral,"Tampa, FL",-,0
 2015,UMass Boston,401,Colby,151,11/15/2014,74,79,Away,,-,275
 2015,UMass Boston,401,Lasell,8486,11/21/2014,82,53,Neutral,"Salem, Mass.",-,0
 2015,UMass Boston,401,Salem St.,621,11/22/2014,63,41,Away,,-,100
@@ -27304,7 +27307,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,UMass Dartmouth,656,Salve Regina,623,11/25/2014,73,50,Away,,-,105
 2015,UMass Dartmouth,656,Bridgewater St.,76,12/02/2014,56,57,Home,,-,250
 2015,UMass Dartmouth,656,Worcester St.,809,12/04/2014,70,50,Home,,-,120
-2015,UMass Dartmouth,656,Plymouth St.,548,12/06/2014,83,46,Away,,-,0
+2015,UMass Dartmouth,656,Plymouth St.,548,12/06/2014,83,46,Away,,-,150
 2015,UMass Dartmouth,656,Johnson & Wales (RI),22626,12/09/2014,58,61,Away,,-,0
 2015,UMass Dartmouth,656,Williams,789,01/05/2015,59,78,Away,,-,0
 2015,UMass Dartmouth,656,Western Conn. St.,770,01/08/2015,61,46,Home,,-,125
@@ -27476,36 +27479,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,UNC Asheville,456,Coastal Caro.,149,02/28/2015,87,53,Away,,-,377
 2015,UNC Asheville,456,Coastal Caro.,149,03/03/2015,68,54,Away,,-,"1,094"
 2015,UNC Asheville,456,Liberty,355,03/05/2015,51,59,Neutral,"The HTC Center - Conway, S.C.",-,"1,335"
-2015,UNC Greensboro,459,Clemson,147,11/14/2014,51,80,Away,,-,"1,051"
-2015,UNC Greensboro,459,Col. of Charleston,1014,11/16/2014,70,68,Away,,-,534
-2015,UNC Greensboro,459,USC Upstate,10411,11/20/2014,60,69,Home,,-,305
-2015,UNC Greensboro,459,Longwood,363,11/24/2014,70,64,Away,,-,327
-2015,UNC Greensboro,459,Navy,726,11/28/2014,64,71,Away,,-,509
-2015,UNC Greensboro,459,Northern Ky.,505,11/29/2014,58,66,Neutral,"Annapolis, Md. (Alumni Hall)",-,868
-2015,UNC Greensboro,459,Gardner-Webb,1092,12/05/2014,76,60,Home,,-,340
-2015,UNC Greensboro,459,High Point,19651,12/08/2014,67,78,Away,,-,357
-2015,UNC Greensboro,459,South Carolina St.,647,12/11/2014,70,50,Home,,-,165
-2015,UNC Greensboro,459,VCU,740,12/14/2014,73,80,Away,,-,491
-2015,UNC Greensboro,459,St. Bonaventure,596,12/17/2014,60,78,Away,,-,473
-2015,UNC Greensboro,459,Livingstone,359,12/20/2014,81,77,Home,,1 OT,110
-2015,UNC Greensboro,459,LSU,365,12/28/2014,61,82,Neutral,"Coral Gables, Fla. (BankUnited Center)",-,"1,123"
-2015,UNC Greensboro,459,Florida A&M,228,12/29/2014,64,70,Neutral,"BankUnited Center | Coral Gables, Fla.",-,"1,157"
-2015,UNC Greensboro,459,Hawaii,277,01/02/2015,54,74,Away,,-,"1,633"
-2015,UNC Greensboro,459,Samford,625,01/10/2015,56,62,Home,,-,475
-2015,UNC Greensboro,459,Mercer,406,01/12/2015,73,74,Home,,-,245
-2015,UNC Greensboro,459,East Tenn. St.,198,01/17/2015,65,87,Away,,-,495
-2015,UNC Greensboro,459,Chattanooga,693,01/19/2015,46,81,Home,,-,125
-2015,UNC Greensboro,459,Western Caro.,769,01/24/2015,49,70,Away,,-,352
-2015,UNC Greensboro,459,Wofford,2915,01/31/2015,64,77,Away,,-,414
-2015,UNC Greensboro,459,Furman,244,02/02/2015,70,78,Home,,-,251
-2015,UNC Greensboro,459,Mercer,406,02/07/2015,62,80,Away,,-,874
-2015,UNC Greensboro,459,Samford,625,02/09/2015,66,88,Away,,-,589
-2015,UNC Greensboro,459,Chattanooga,693,02/14/2015,52,76,Away,,-,"2,470"
-2015,UNC Greensboro,459,East Tenn. St.,198,02/16/2015,66,84,Home,,-,116
-2015,UNC Greensboro,459,Furman,244,02/21/2015,68,77,Away,,-,462
-2015,UNC Greensboro,459,Wofford,2915,02/23/2015,65,59,Home,,-,216
-2015,UNC Greensboro,459,Western Caro.,769,02/27/2015,80,86,Home,,-,889
-2015,UNC Greensboro,459,Chattanooga,693,03/05/2015,44,78,Neutral,"Asheville, N.C. (Kimmel Arena)",-,"1,139"
 2015,UNC Pembroke,537,Fayetteville St.,223,11/19/2014,43,54,Away,,-,718
 2015,UNC Pembroke,537,Mount Olive,1245,11/22/2014,51,37,Away,,-,0
 2015,UNC Pembroke,537,Livingstone,359,11/25/2014,60,62,Home,,-,136
@@ -27532,6 +27505,36 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,UNC Pembroke,537,Flagler,30092,02/18/2015,69,49,Away,,-,93
 2015,UNC Pembroke,537,Armstrong,33,02/21/2015,60,72,Away,,-,389
 2015,UNC Pembroke,537,Francis Marion,1085,02/25/2015,63,38,Home,,-,"1,026"
+2015,UNCG,459,Clemson,147,11/14/2014,51,80,Away,,-,"1,051"
+2015,UNCG,459,Col. of Charleston,1014,11/16/2014,70,68,Away,,-,534
+2015,UNCG,459,USC Upstate,10411,11/20/2014,60,69,Home,,-,305
+2015,UNCG,459,Longwood,363,11/24/2014,70,64,Away,,-,327
+2015,UNCG,459,Navy,726,11/28/2014,64,71,Away,,-,509
+2015,UNCG,459,Northern Ky.,505,11/29/2014,58,66,Neutral,"Annapolis, Md. (Alumni Hall)",-,868
+2015,UNCG,459,Gardner-Webb,1092,12/05/2014,76,60,Home,,-,340
+2015,UNCG,459,High Point,19651,12/08/2014,67,78,Away,,-,357
+2015,UNCG,459,South Carolina St.,647,12/11/2014,70,50,Home,,-,165
+2015,UNCG,459,VCU,740,12/14/2014,73,80,Away,,-,491
+2015,UNCG,459,St. Bonaventure,596,12/17/2014,60,78,Away,,-,473
+2015,UNCG,459,Livingstone,359,12/20/2014,81,77,Home,,1 OT,110
+2015,UNCG,459,LSU,365,12/28/2014,61,82,Neutral,"Coral Gables, Fla. (BankUnited Center)",-,"1,123"
+2015,UNCG,459,Florida A&M,228,12/29/2014,64,70,Neutral,"BankUnited Center | Coral Gables, Fla.",-,"1,157"
+2015,UNCG,459,Hawaii,277,01/02/2015,54,74,Away,,-,"1,633"
+2015,UNCG,459,Samford,625,01/10/2015,56,62,Home,,-,475
+2015,UNCG,459,Mercer,406,01/12/2015,73,74,Home,,-,245
+2015,UNCG,459,East Tenn. St.,198,01/17/2015,65,87,Away,,-,495
+2015,UNCG,459,Chattanooga,693,01/19/2015,46,81,Home,,-,125
+2015,UNCG,459,Western Caro.,769,01/24/2015,49,70,Away,,-,352
+2015,UNCG,459,Wofford,2915,01/31/2015,64,77,Away,,-,414
+2015,UNCG,459,Furman,244,02/02/2015,70,78,Home,,-,251
+2015,UNCG,459,Mercer,406,02/07/2015,62,80,Away,,-,874
+2015,UNCG,459,Samford,625,02/09/2015,66,88,Away,,-,589
+2015,UNCG,459,Chattanooga,693,02/14/2015,52,76,Away,,-,"2,470"
+2015,UNCG,459,East Tenn. St.,198,02/16/2015,66,84,Home,,-,116
+2015,UNCG,459,Furman,244,02/21/2015,68,77,Away,,-,462
+2015,UNCG,459,Wofford,2915,02/23/2015,65,59,Home,,-,216
+2015,UNCG,459,Western Caro.,769,02/27/2015,80,86,Home,,-,889
+2015,UNCG,459,Chattanooga,693,03/05/2015,44,78,Neutral,"Asheville, N.C. (Kimmel Arena)",-,"1,139"
 2015,UNCW,460,UNC Pembroke,537,11/16/2014,75,38,Home,,-,731
 2015,UNCW,460,Campbell,115,11/19/2014,89,80,Home,,-,537
 2015,UNCW,460,Appalachian St.,27,11/22/2014,72,82,Away,,-,347
@@ -28621,7 +28624,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Wash. & Lee,752,Mary Baldwin,389,11/15/2014,76,29,Home,,-,207
 2015,Wash. & Lee,752,Methodist,412,11/16/2014,71,48,Home,,-,114
 2015,Wash. & Lee,752,Southern Va.,30164,11/19/2014,82,59,Away,,-,101
-2015,Wash. & Lee,752,Mary Washington,390,11/22/2014,64,62,Away,,1 OT,0
+2015,Wash. & Lee,752,Mary Washington,390,11/22/2014,64,62,Away,,1 OT,375
 2015,Wash. & Lee,752,Va. Wesleyan,745,11/25/2014,63,73,Away,,-,377
 2015,Wash. & Lee,752,Bridgewater (VA),75,12/06/2014,71,45,Home,,-,146
 2015,Wash. & Lee,752,Hollins,284,12/09/2014,63,61,Away,,1 OT,154
@@ -29019,7 +29022,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Wesley,763,Chris. Newport,139,12/14/2014,53,79,Home,,-,250
 2015,Wesley,763,Arcadia,966,12/16/2014,71,64,Away,,-,172
 2015,Wesley,763,Frostburg St.,243,01/03/2015,73,60,Home,,-,250
-2015,Wesley,763,Mary Washington,390,01/10/2015,68,86,Away,,-,0
+2015,Wesley,763,Mary Washington,390,01/10/2015,68,86,Away,,-,350
 2015,Wesley,763,Penn St. Harrisburg,30081,01/14/2015,61,65,Home,,-,0
 2015,Wesley,763,St. Mary's (MD),611,01/17/2015,51,62,Home,,-,400
 2015,Wesley,763,Salisbury,622,01/21/2015,49,66,Away,,-,150
@@ -29320,7 +29323,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,West Virginia,768,Hampton,270,03/24/2015,57,39,Home,,-,"1,873"
 2015,West Virginia,768,Duquesne,194,03/26/2015,60,39,Home,,-,"1,471"
 2015,West Virginia,768,Villanova,739,03/29/2015,75,70,Home,,1 OT,"2,509"
-2015,West Virginia,768,Temple,690,04/01/2015,0,0,Home,,-,0
+2015,West Virginia,768,Temple,690,04/01/2015,66,58,Home,,1 OT,"3,025"
+2015,West Virginia,768,UCLA,110,04/04/2015,0,0,Home,"Charleston, WV",-,0
 2015,West Virginia St.,1439,Seton Hill,30063,11/14/2014,65,68,Home,,-,271
 2015,West Virginia St.,1439,Clarion,143,11/15/2014,68,58,Home,,-,71
 2015,West Virginia St.,1439,Rio Grande,,11/18/2014,61,53,Home,,-,61
@@ -29889,7 +29893,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Whitworth,1454,Eastern Ore.,,11/28/2014,63,62,Neutral,"Caldwell, Idaho",-,150
 2015,Whitworth,1454,Col. of Idaho,,11/29/2014,57,54,Away,,-,260
 2015,Whitworth,1454,Texas Lutheran,1400,12/05/2014,78,64,Away,,-,298
-2015,Whitworth,1454,Southwestern (TX),8746,12/06/2014,73,57,Away,,-,0
+2015,Whitworth,1454,Southwestern (TX),8746,12/06/2014,73,57,Away,,-,76
 2015,Whitworth,1454,Corban,,12/13/2014,82,65,Neutral,"Walla Walla, Wash. (Sherwood Center)",-,100
 2015,Whitworth,1454,Walla Walla,,12/14/2014,92,40,Neutral,"Walla Walla, Wash. (Sherwood Center)",-,75
 2015,Whitworth,1454,Northwest (WA),,12/30/2014,77,61,Home,,-,210
@@ -29945,7 +29949,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Wichita St.,782,Missouri St.,669,03/15/2015,85,71,Neutral,"St. Charles, Mo. - Family Arena",-,"1,382"
 2015,Wichita St.,782,California,107,03/20/2015,66,78,Away,,-,"2,079"
 2015,Widener,783,Va. Wesleyan,745,11/15/2014,64,62,Neutral,"Fredericksburg, Va./Anderson Center",-,125
-2015,Widener,783,Mary Washington,390,11/16/2014,42,61,Away,,-,0
+2015,Widener,783,Mary Washington,390,11/16/2014,42,61,Away,,-,350
 2015,Widener,783,Cabrini,88,11/19/2014,69,58,Home,,-,115
 2015,Widener,783,Neumann,1254,11/22/2014,67,57,Home,,-,128
 2015,Widener,783,Wesley,763,11/25/2014,67,79,Away,,-,0
@@ -30222,11 +30226,11 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Wilson,12973,Morrisville St.,30067,01/24/2015,48,76,Away,,-,52
 2015,Wilson,12973,Cazenovia,23624,01/25/2015,47,98,Away,,-,100
 2015,Wilson,12973,Bryn Athyn,30188,01/27/2015,46,78,Home,,-,40
-2015,Wilson,12973,Lancaster Bible,30085,01/30/2015,31,68,Home,,-,0
+2015,Wilson,12973,Lancaster Bible,30085,01/30/2015,31,68,Home,,-,70
 2015,Wilson,12973,Penn St.-Berks,30044,01/31/2015,57,75,Home,,-,50
 2015,Wilson,12973,Keuka,1159,02/08/2015,33,81,Home,,-,40
 2015,Wilson,12973,Gallaudet,245,02/16/2015,41,83,Home,,-,30
-2015,Wilson,12973,Penn St.-Abington,30114,02/18/2015,15,70,Away,,-,0
+2015,Wilson,12973,Penn St.-Abington,30114,02/18/2015,15,70,Away,,-,65
 2015,Wilson,12973,Penn St.-Berks,30044,02/20/2015,56,59,Away,,-,203
 2015,Wilson,12973,Lancaster Bible,30085,02/21/2015,34,67,Away,,-,181
 2015,Wingate,1462,Clayton St.,20576,11/14/2014,71,77,Away,,-,0
@@ -30263,7 +30267,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Wingate,1462,Limestone,1174,03/14/2015,66,77,Neutral,"Gaffney, S.C. (Timken Center)",-,611
 2015,Winona St.,790,Crown (MN),30035,11/14/2014,99,35,Home,,-,421
 2015,Winona St.,790,Trinity (IL),,11/15/2014,86,41,Home,,-,750
-2015,Winona St.,790,Wis.-Eau Claire,793,11/22/2014,62,57,Away,,-,0
+2015,Winona St.,790,Wis.-Eau Claire,793,11/22/2014,62,57,Away,,-,352
 2015,Winona St.,790,Viterbo,,11/25/2014,78,53,Home,,-,657
 2015,Winona St.,790,Upper Iowa,728,11/29/2014,85,69,Home,,-,949
 2015,Winona St.,790,Southwest Minn. St.,8736,12/05/2014,79,55,Away,,-,467
@@ -30379,7 +30383,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Wis.-Eau Claire,793,Coe,150,11/15/2014,61,54,Home,,-,426
 2015,Wis.-Eau Claire,793,Hamline,268,11/16/2014,78,50,Home,,-,307
 2015,Wis.-Eau Claire,793,Saint Mary's (MN),612,11/18/2014,62,71,Home,,-,482
-2015,Wis.-Eau Claire,793,Winona St.,790,11/22/2014,57,62,Home,,-,0
+2015,Wis.-Eau Claire,793,Winona St.,790,11/22/2014,57,62,Home,,-,352
 2015,Wis.-Eau Claire,793,St. Norbert,614,11/25/2014,66,53,Home,,-,312
 2015,Wis.-Eau Claire,793,North Central (IL),492,11/29/2014,89,101,Away,,-,150
 2015,Wis.-Eau Claire,793,Wis.-Stevens Point,802,12/03/2014,53,59,Home,,-,312
@@ -30776,7 +30780,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Wooster,807,Oberlin,515,01/14/2015,67,89,Away,,-,59
 2015,Wooster,807,Kenyon,335,01/17/2015,52,65,Home,,-,211
 2015,Wooster,807,Allegheny,19,01/21/2015,70,79,Home,,-,78
-2015,Wooster,807,DePauw,177,01/24/2015,38,72,Home,,-,0
+2015,Wooster,807,DePauw,177,01/24/2015,38,72,Home,,-,54
 2015,Wooster,807,Hiram,281,01/28/2015,66,81,Away,,-,89
 2015,Wooster,807,Ohio Wesleyan,520,02/04/2015,67,71,Away,,-,150
 2015,Wooster,807,Denison,182,02/07/2015,61,66,Home,,-,108

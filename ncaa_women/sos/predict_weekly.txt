@@ -1,12 +1,11 @@
 BEGIN
 SET
-    date    |  site   |  home   | div | score |    away    | div | score 
-------------+---------+---------+-----+-------+------------+-----+-------
- 2015-03-28 | neutral | Dayton  |   1 |  63.6 | Louisville |   1 |  71.2
- 2015-03-28 | neutral | Duke    |   1 |  62.2 | Maryland   |   1 |  67.5
- 2015-03-28 | neutral | Gonzaga |   1 |  55.5 | Tennessee  |   1 |  70.5
- 2015-03-28 | neutral | UConn   |   1 |  78.1 | Texas      |   1 |  48.5
-(4 rows)
+    date    |  site   |     home      | div | score |      away      | div | score 
+------------+---------+---------------+-----+-------+----------------+-----+-------
+ 2015-04-04 | home    | West Virginia |   1 |  63.9 | UCLA           |   1 |  58.1
+ 2015-04-05 | neutral | Notre Dame    |   1 |  66.4 | South Carolina |   1 |  66.5
+ 2015-04-05 | neutral | UConn         |   1 |  80.3 | Maryland       |   1 |  57.0
+(3 rows)
 
-COPY 4
+COPY 3
 COMMIT

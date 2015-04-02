@@ -1,10 +1,10 @@
 BEGIN
   school_name   |         p          
 ----------------+--------------------
- UConn          | 0.9238157857771940
- South Carolina | 0.0343862550782700
- Notre Dame     | 0.0333504477267337
- Maryland       | 0.0084475114178024
+ UConn          | 0.9174045026203740
+ South Carolina | 0.0368116854519585
+ Notre Dame     | 0.0360035190106010
+ Maryland       | 0.0097802929170663
 (4 rows)
 
 COPY 4

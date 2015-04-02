@@ -1,10 +1,8 @@
 BEGIN
 SET
-    date    |  site   |   home   | div | score |   away    | div | score 
-------------+---------+----------+-----+-------+-----------+-----+-------
- 2015-03-30 | neutral | Maryland |   1 |  67.7 | Tennessee |   1 |  65.9
- 2015-03-30 | neutral | UConn    |   1 |  90.5 | Dayton    |   1 |  53.6
-(2 rows)
+ date | site | home | div | score | away | div | score 
+------+------+------+-----+-------+------+-----+-------
+(0 rows)
 
-COPY 2
+COPY 0
 COMMIT
