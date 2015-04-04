@@ -1,5 +1,7 @@
 begin;
 
+drop table if exists ncaa_sr.coaches;
+
 create table if not exists ncaa_sr.coaches (
 	year				integer,
 	coach				text,

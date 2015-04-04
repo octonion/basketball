@@ -1,5 +1,7 @@
 begin;
 
+drop table if exists ncaa_sr.games;
+
 create table ncaa_sr.games (
 	year				integer,
 	school_id			text,

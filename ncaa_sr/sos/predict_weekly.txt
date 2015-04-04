@@ -1,12 +1,10 @@
 BEGIN
 SET
-    date    | type |  site   |          home          | str  | score |             away             | str  | score | pwin 
-------------+------+---------+------------------------+------+-------+------------------------------+------+-------+------
- 2015-04-04 | NCAA | neutral | Duke Blue Devils       | 1.39 |  71.5 | Michigan State Spartans      | 1.27 |  65.5 | 0.71
- 2015-04-02 | CIT  | home    | Evansville Purple Aces | 1.11 |  77.0 | Northern Arizona Lumberjacks | 0.98 |  68.2 | 0.78
- 2015-04-04 | NCAA | neutral | Kentucky Wildcats      | 1.53 |  60.8 | Wisconsin Badgers            | 1.42 |  56.4 | 0.68
- 2015-04-02 | NIT  | neutral | Miami (FL) Hurricanes  | 1.18 |  70.5 | Stanford Cardinal            | 1.17 |  70.3 | 0.51
-(4 rows)
+    date    | type |  site   |       home        | str  | score |          away           | str  | score | pwin 
+------------+------+---------+-------------------+------+-------+-------------------------+------+-------+------
+ 2015-04-04 | NCAA | neutral | Duke Blue Devils  | 1.39 |  71.5 | Michigan State Spartans | 1.27 |  65.5 | 0.71
+ 2015-04-04 | NCAA | neutral | Kentucky Wildcats | 1.53 |  60.8 | Wisconsin Badgers       | 1.42 |  56.3 | 0.69
+(2 rows)
 
-COPY 4
+COPY 2
 COMMIT

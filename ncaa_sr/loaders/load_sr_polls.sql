@@ -1,5 +1,7 @@
 begin;
 
+drop table if exists ncaa_sr.polls;
+
 create table if not exists ncaa_sr.polls (
 	year				integer,
 	school_id			text,
