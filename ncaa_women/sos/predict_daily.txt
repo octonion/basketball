@@ -1,9 +1,10 @@
 BEGIN
 SET
-    date    | site |     home      | div | score | away | div | score 
-------------+------+---------------+-----+-------+------+-----+-------
- 2015-04-04 | home | West Virginia |   1 |  63.9 | UCLA |   1 |  58.1
-(1 row)
+    date    |  site   |    home    | div | score |      away      | div | score 
+------------+---------+------------+-----+-------+----------------+-----+-------
+ 2015-04-05 | neutral | Notre Dame |   1 |  66.4 | South Carolina |   1 |  66.5
+ 2015-04-05 | neutral | UConn      |   1 |  80.3 | Maryland       |   1 |  57.0
+(2 rows)
 
-COPY 1
+COPY 2
 COMMIT
