@@ -1,15 +1,9 @@
 BEGIN
- rd |          name           |   p   
-----+-------------------------+-------
-  7 | Duke Blue Devils        | 0.712
-  7 | Kentucky Wildcats       | 0.685
-  7 | Wisconsin Badgers       | 0.315
-  7 | Michigan State Spartans | 0.288
-  8 | Kentucky Wildcats       | 0.526
-  8 | Duke Blue Devils        | 0.234
-  8 | Wisconsin Badgers       | 0.191
-  8 | Michigan State Spartans | 0.049
-(8 rows)
+ rd |       name        |   p   
+----+-------------------+-------
+  8 | Wisconsin Badgers | 0.548
+  8 | Duke Blue Devils  | 0.452
+(2 rows)
 
-COPY 8
+COPY 2
 COMMIT

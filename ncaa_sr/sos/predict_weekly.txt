@@ -1,10 +1,9 @@
 BEGIN
 SET
-    date    | type |  site   |       home        | str  | score |          away           | str  | score | pwin 
-------------+------+---------+-------------------+------+-------+-------------------------+------+-------+------
- 2015-04-04 | NCAA | neutral | Duke Blue Devils  | 1.39 |  71.5 | Michigan State Spartans | 1.27 |  65.5 | 0.71
- 2015-04-04 | NCAA | neutral | Kentucky Wildcats | 1.53 |  60.8 | Wisconsin Badgers       | 1.42 |  56.3 | 0.69
-(2 rows)
+    date    | type |  site   |       home       | str  | score |       away        | str  | score | pwin 
+------------+------+---------+------------------+------+-------+-------------------+------+-------+------
+ 2015-04-06 | NCAA | neutral | Duke Blue Devils | 1.40 |  66.2 | Wisconsin Badgers | 1.43 |  67.4 | 0.45
+(1 row)
 
-COPY 2
+COPY 1
 COMMIT
