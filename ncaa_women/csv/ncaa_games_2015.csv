@@ -6638,7 +6638,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Delaware Valley,179,DeSales,20,02/07/2015,64,71,Home,,-,400
 2015,Delaware Valley,179,Misericordia,16142,02/11/2015,75,57,Away,,-,100
 2015,Delaware Valley,179,Wilkes,784,02/14/2015,60,49,Away,,-,315
-2015,Delaware Valley,179,King's (PA),336,02/17/2015,63,56,Home,,-,0
+2015,Delaware Valley,179,King's (PA),336,02/17/2015,63,56,Home,,-,500
 2015,Delaware Valley,179,FDU-Florham,221,02/21/2015,52,89,Away,,-,299
 2015,Delaware Valley,179,FDU-Florham,221,02/25/2015,49,79,Away,,-,0
 2015,Delaware Valley,179,Lebanon Valley,351,03/04/2015,52,71,Away,,-,150
@@ -12535,7 +12535,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,King's (PA),336,Manhattanville,382,02/07/2015,68,65,Away,,-,201
 2015,King's (PA),336,Eastern,8968,02/11/2015,50,70,Home,,-,158
 2015,King's (PA),336,Misericordia,16142,02/14/2015,71,66,Home,,-,167
-2015,King's (PA),336,Delaware Valley,179,02/17/2015,56,63,Away,,-,0
+2015,King's (PA),336,Delaware Valley,179,02/17/2015,56,63,Away,,-,500
 2015,King's (PA),336,Wilkes,784,02/21/2015,60,57,Home,,-,427
 2015,Knox,337,Eureka,218,11/15/2014,92,94,Home,,-,625
 2015,Knox,337,Carroll (WI),120,11/19/2014,108,100,Home,,-,375
@@ -14848,7 +14848,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Maryland,392,Princeton,554,03/23/2015,85,70,Home,,-,"7,794"
 2015,Maryland,392,Duke,193,03/28/2015,65,55,Neutral,"Spokane, Wash. (Spokane Arena)",-,0
 2015,Maryland,392,Tennessee,694,03/30/2015,58,48,Neutral,"Spokane, Wash. (Spokane Arena)",-,"5,032"
-2015,Maryland,392,UConn,164,04/05/2015,0,0,Neutral,"Tampa, FL",-,0
+2015,Maryland,392,UConn,164,04/05/2015,58,81,Neutral,Amalie Arena,-,"19,730"
 2015,Marymount (VA),394,Albright,16,11/15/2014,65,60,Home,,-,0
 2015,Marymount (VA),394,Delaware Valley,179,11/16/2014,57,49,Home,,-,235
 2015,Marymount (VA),394,Randolph-Macon,565,11/19/2014,58,68,Home,,-,211
@@ -18807,7 +18807,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,Notre Dame,513,DePaul,176,03/22/2015,79,67,Home,,-,"5,658"
 2015,Notre Dame,513,Stanford,674,03/27/2015,81,60,Neutral,"Oklahoma City, Okla. (Chesapeake Arena)",-,"3,878"
 2015,Notre Dame,513,Baylor,51,03/29/2015,77,68,Neutral,"Oklahoma City, Okla. (Chesapeake Arena)",-,"3,329"
-2015,Notre Dame,513,South Carolina,648,04/05/2015,0,0,Neutral,"Tampa, FL",-,0
+2015,Notre Dame,513,South Carolina,648,04/05/2015,66,65,Neutral,"Tampa, Fla. (Amalie Arena)",-,"19,730"
+2015,Notre Dame,513,UConn,164,04/07/2015,0,0,Neutral,"Tampa, FL",-,0
 2015,Notre Dame (MD),8600,Bryn Mawr,82,11/15/2014,63,16,Home,,-,45
 2015,Notre Dame (MD),8600,New Rochelle,476,11/16/2014,63,73,Home,,-,115
 2015,Notre Dame (MD),8600,Goucher,1467,11/20/2014,36,87,Home,,-,45
@@ -23513,7 +23514,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,South Carolina,648,Syracuse,688,03/22/2015,97,68,Home,,-,"10,485"
 2015,South Carolina,648,North Carolina,457,03/27/2015,67,65,Neutral,"Greensboro Coliseum (Greensboro, N.C.)",-,"6,286"
 2015,South Carolina,648,Florida St.,234,03/29/2015,80,74,Neutral,"Greensboro Coliseum, Greensboro, N.C.",-,"6,364"
-2015,South Carolina,648,Notre Dame,513,04/05/2015,0,0,Neutral,"Tampa, FL",-,0
+2015,South Carolina,648,Notre Dame,513,04/05/2015,65,66,Neutral,"Tampa, Fla. (Amalie Arena)",-,"19,730"
 2015,South Carolina St.,647,Allen,,11/14/2014,103,55,Home,,-,289
 2015,South Carolina St.,647,Columbia (SC),,11/21/2014,97,55,Home,,-,149
 2015,South Carolina St.,647,USC Upstate,10411,11/25/2014,60,50,Home,,-,128
@@ -27233,7 +27234,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,UCLA,110,Northern Colo.,502,03/26/2015,74,60,Home,,-,760
 2015,UCLA,110,St. Mary's (CA),610,03/29/2015,82,66,Home,,-,746
 2015,UCLA,110,Michigan,418,04/01/2015,69,65,Away,,-,"2,209"
-2015,UCLA,110,West Virginia,768,04/04/2015,0,0,Away,"Charleston, WV",-,0
+2015,UCLA,110,West Virginia,768,04/04/2015,62,60,Away,,-,"8,403"
 2015,UConn,164,UC Davis,108,11/14/2014,102,43,Away,,-,"4,712"
 2015,UConn,164,Stanford,674,11/17/2014,86,88,Away,,1 OT,"5,367"
 2015,UConn,164,Creighton,169,11/23/2014,96,60,Home,,-,"7,123"
@@ -27271,7 +27272,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,UConn,164,Rutgers,587,03/23/2015,91,55,Home,,-,"3,486"
 2015,UConn,164,Texas,703,03/28/2015,105,54,Neutral,"Albany, N.Y. - Times Union Center",-,"8,259"
 2015,UConn,164,Dayton,175,03/30/2015,91,70,Neutral,"Albany, N.Y. - Times Union Center",-,"7,686"
-2015,UConn,164,Maryland,392,04/05/2015,0,0,Neutral,"Tampa, FL",-,0
+2015,UConn,164,Maryland,392,04/05/2015,81,58,Neutral,Amalie Arena,-,"19,730"
+2015,UConn,164,Notre Dame,513,04/07/2015,0,0,Neutral,"Tampa, FL",-,0
 2015,UMass Boston,401,Colby,151,11/15/2014,74,79,Away,,-,275
 2015,UMass Boston,401,Lasell,8486,11/21/2014,82,53,Neutral,"Salem, Mass.",-,0
 2015,UMass Boston,401,Salem St.,621,11/22/2014,63,41,Away,,-,100
@@ -29324,7 +29326,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2015,West Virginia,768,Duquesne,194,03/26/2015,60,39,Home,,-,"1,471"
 2015,West Virginia,768,Villanova,739,03/29/2015,75,70,Home,,1 OT,"2,509"
 2015,West Virginia,768,Temple,690,04/01/2015,66,58,Home,,1 OT,"3,025"
-2015,West Virginia,768,UCLA,110,04/04/2015,0,0,Home,"Charleston, WV",-,0
+2015,West Virginia,768,UCLA,110,04/04/2015,60,62,Home,,-,"8,403"
 2015,West Virginia St.,1439,Seton Hill,30063,11/14/2014,65,68,Home,,-,271
 2015,West Virginia St.,1439,Clarion,143,11/15/2014,68,58,Home,,-,71
 2015,West Virginia St.,1439,Rio Grande,,11/18/2014,61,53,Home,,-,61

@@ -524,7 +524,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,389,Mary Baldwin,0,25,0,25
 2015,1203,Mary Hardin-Baylor,13,13,0,26
 2015,390,Mary Washington,20,7,0,27
-2015,392,Maryland,34,2,1,37
+2015,392,Maryland,34,3,0,37
 2015,394,Marymount (VA),18,9,0,27
 2015,395,Maryville (MO),15,14,0,29
 2015,396,Maryville (TN),26,4,0,30
@@ -663,7 +663,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,30031,Northwestern-St. Paul,18,12,0,30
 2015,510,Northwood (MI),18,11,0,29
 2015,511,Norwich,22,6,0,28
-2015,513,Notre Dame,35,2,1,38
+2015,513,Notre Dame,36,2,1,39
 2015,8600,Notre Dame (MD),7,17,0,24
 2015,30126,Notre Dame (OH),20,12,0,32
 2015,30056,Notre Dame de Namur,4,22,0,26
@@ -832,7 +832,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,663,SMU,7,23,0,30
 2015,645,Sonoma St.,6,21,0,27
 2015,646,South Ala.,5,24,0,29
-2015,648,South Carolina,34,2,1,37
+2015,648,South Carolina,34,3,0,37
 2015,647,South Carolina St.,16,12,0,28
 2015,650,South Dakota,26,8,0,34
 2015,30139,South Dakota Mines,13,12,0,25
@@ -961,8 +961,8 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,113,UC Santa Cruz,17,8,0,25
 2015,9754,UC-Colo. Springs,26,7,0,33
 2015,128,UCF,9,21,0,30
-2015,110,UCLA,18,18,1,37
-2015,164,UConn,36,1,1,38
+2015,110,UCLA,19,18,0,37
+2015,164,UConn,37,1,1,39
 2015,401,UMass Boston,19,9,0,28
 2015,656,UMass Dartmouth,19,8,0,27
 2015,368,UMass Lowell,14,15,0,29
@@ -1033,7 +1033,7 @@ year,team_id,team_name,wins,losses,ties,total_games
 2015,1438,West Liberty,24,9,0,33
 2015,767,West Tex. A&M,30,3,0,33
 2015,9630,West Va. Wesleyan,4,23,0,27
-2015,768,West Virginia,23,14,1,38
+2015,768,West Virginia,23,15,0,38
 2015,1439,West Virginia St.,8,20,0,28
 2015,769,Western Caro.,11,19,0,30
 2015,770,Western Conn. St.,16,10,0,26
