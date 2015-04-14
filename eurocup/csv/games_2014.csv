@@ -54,8 +54,8 @@
 2014,BAN,18,L,away,Virtus Rome,at Virtus Rome,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=287&seasoncode=U2014,287,66,56,
 2014,BAN,19,L,away,Paris Levallois,at Paris Levallois,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=295&seasoncode=U2014,295,67,65,
 2014,BAN,20,W,home,Paris Levallois,vs Paris Levallois,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=299&seasoncode=U2014,299,75,71,
-2014,BAN,21,"",home,Khimki Moscow Region,vs Khimki Moscow Region,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=302&seasoncode=U2014,302,,,April
-2014,BAN,22,"",away,Khimki Moscow Region,at Khimki Moscow Region,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=304&seasoncode=U2014,304,,,April
+2014,BAN,21,W,home,Khimki Moscow Region,vs Khimki Moscow Region,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=302&seasoncode=U2014,302,83,82,
+2014,BAN,22,L,away,Khimki Moscow Region,at Khimki Moscow Region,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=304&seasoncode=U2014,304,93,89,
 2014,BES,1,L,home,Union Olimpija Ljubljana,vs Union Olimpija Ljubljana,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=10&seasoncode=U2014,10,68,70,
 2014,BES,2,W,away,Zenit St Petersburg,at Zenit St Petersburg,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=28&seasoncode=U2014,28,86,90,
 2014,BES,3,W,home,Khimki Moscow Region,vs Khimki Moscow Region,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=46&seasoncode=U2014,46,66,64,
@@ -244,8 +244,10 @@
 2014,CAN,18,W,home,Cedevita Zagreb,vs Cedevita Zagreb,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=286&seasoncode=U2014,286,75,72,
 2014,CAN,19,W,home,Pinar Karsiyaka Izmir,vs Pinar Karsiyaka Izmir,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=294&seasoncode=U2014,294,76,66,
 2014,CAN,20,W,away,Pinar Karsiyaka Izmir,at Pinar Karsiyaka Izmir,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=298&seasoncode=U2014,298,74,75,
-2014,CAN,21,"",away,Unics Kazan,at Unics Kazan,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=301&seasoncode=U2014,301,,,March
-2014,CAN,22,"",home,Unics Kazan,vs Unics Kazan,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=303&seasoncode=U2014,303,,,April
+2014,CAN,21,W,away,Unics Kazan,at Unics Kazan,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=301&seasoncode=U2014,301,70,83,
+2014,CAN,22,W,home,Unics Kazan,vs Unics Kazan,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=303&seasoncode=U2014,303,78,76,
+2014,CAN,23,"",home,Khimki Moscow Region,vs Khimki Moscow Region,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=305&seasoncode=U2014,305,,,April 24
+2014,CAN,24,"",away,Khimki Moscow Region,at Khimki Moscow Region,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=306&seasoncode=U2014,306,,,April 29
 2014,DIJ,1,W,home,Telenet Ostend,vs Telenet Ostend,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=4&seasoncode=U2014,4,72,63,
 2014,DIJ,2,W,away,ASVEL Lyon Villeurbanne,at ASVEL Lyon Villeurbanne,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=22&seasoncode=U2014,22,77,78,
 2014,DIJ,3,L,home,Herbalife Gran Canaria Las Palmas,vs Herbalife Gran Canaria Las Palmas,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=40&seasoncode=U2014,40,69,71,
@@ -282,8 +284,10 @@
 2014,KHI,18,W,home,Zenit St Petersburg,vs Zenit St Petersburg,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=288&seasoncode=U2014,288,89,70,
 2014,KHI,19,W,away,Valencia Basket,at Valencia Basket,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=296&seasoncode=U2014,296,75,76,
 2014,KHI,20,W,home,Valencia Basket,vs Valencia Basket,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=300&seasoncode=U2014,300,76,61,
-2014,KHI,21,"",away,Banvit Bandirma,at Banvit Bandirma,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=302&seasoncode=U2014,302,,,April
-2014,KHI,22,"",home,Banvit Bandirma,vs Banvit Bandirma,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=304&seasoncode=U2014,304,,,April
+2014,KHI,21,L,away,Banvit Bandirma,at Banvit Bandirma,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=302&seasoncode=U2014,302,83,82,
+2014,KHI,22,W,home,Banvit Bandirma,vs Banvit Bandirma,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=304&seasoncode=U2014,304,93,89,
+2014,KHI,23,"",away,Herbalife Gran Canaria Las Palmas,at Herbalife Gran Canaria Las Palmas,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=305&seasoncode=U2014,305,,,April 24
+2014,KHI,24,"",home,Herbalife Gran Canaria Las Palmas,vs Herbalife Gran Canaria Las Palmas,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=306&seasoncode=U2014,306,,,April 29
 2014,OKT,1,L,home,CSU Asesoft Ploiesti,vs CSU Asesoft Ploiesti,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=13&seasoncode=U2014,13,75,81,
 2014,OKT,2,W,away,Hapoel Bank Yahav Jerusalem,at Hapoel Bank Yahav Jerusalem,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=31&seasoncode=U2014,31,78,79,
 2014,OKT,3,L,home,Lietuvos Rytas Vilnius,vs Lietuvos Rytas Vilnius,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=49&seasoncode=U2014,49,63,77,
@@ -522,8 +526,8 @@
 2014,UNK,18,W,home,FoxTown Cantu,vs FoxTown Cantu,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=285&seasoncode=U2014,285,75,72,
 2014,UNK,19,L,home,Lokomotiv Kuban Krasnodar,vs Lokomotiv Kuban Krasnodar,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=293&seasoncode=U2014,293,78,87,
 2014,UNK,20,W,away,Lokomotiv Kuban Krasnodar,at Lokomotiv Kuban Krasnodar,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=297&seasoncode=U2014,297,58,79,
-2014,UNK,21,"",home,Herbalife Gran Canaria Las Palmas,vs Herbalife Gran Canaria Las Palmas,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=301&seasoncode=U2014,301,,,March
-2014,UNK,22,"",away,Herbalife Gran Canaria Las Palmas,at Herbalife Gran Canaria Las Palmas,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=303&seasoncode=U2014,303,,,April
+2014,UNK,21,L,home,Herbalife Gran Canaria Las Palmas,vs Herbalife Gran Canaria Las Palmas,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=301&seasoncode=U2014,301,70,83,
+2014,UNK,22,L,away,Herbalife Gran Canaria Las Palmas,at Herbalife Gran Canaria Las Palmas,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=303&seasoncode=U2014,303,78,76,
 2014,LJU,1,W,away,Besiktas Integral Forex Istanbul,at Besiktas Integral Forex Istanbul,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=10&seasoncode=U2014,10,68,70,
 2014,LJU,2,L,home,Khimki Moscow Region,vs Khimki Moscow Region,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=30&seasoncode=U2014,30,85,88,
 2014,LJU,3,W,away,Szolnoki Olaj,at Szolnoki Olaj,http://www.eurocupbasketball.com/eurocup/games/results/showgame?gamecode=47&seasoncode=U2014,47,80,86,
