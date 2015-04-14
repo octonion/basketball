@@ -4,7 +4,7 @@ drop table if exists euroleague.results;
 
 create table euroleague.results (
 	game_id		      integer,
---	game_date	      date,
+	game_date	      text,
 	year		      integer,
 	team_id	      	      text,
 	opponent_id	      text,
@@ -16,14 +16,14 @@ create table euroleague.results (
 );
 
 insert into euroleague.results
-(game_id, year,
+(game_id, game_date, year,
  team_id, opponent_id,
  location_id, field,
  team_score, opponent_score)
 (
 select
 g.game_id,
---g.game_date,
+g.game_date,
 g.year,
 g.team_id as team_id,
 t.team_id as opponent_id,
@@ -52,7 +52,7 @@ union
 
 select
 g.game_id,
---g.game_date,
+g.game_date,
 g.year,
 t.team_id as team_id,
 g.team_id as opponent_id,

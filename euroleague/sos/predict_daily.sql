@@ -1,6 +1,6 @@
 begin;
 
-set timezone to 'America/Los_Angeles';
+set timezone to 'America/New_York';
 
 select
 
@@ -31,7 +31,8 @@ join euroleague.teams tv
   on (tv.year, tv.team_id)=(g.year, g.opponent_id)
 
 where
-    g.game_date is not null
+    g.game_date='April 14'
+and g.year=2014
 --and g.game_date between current_date and current_date
 and g.field='offense_home'
 

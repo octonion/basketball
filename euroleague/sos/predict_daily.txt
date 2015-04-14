@@ -1,3 +1,9 @@
 BEGIN
 SET
-ROLLBACK
+           home            |           away           | p_home | p_away 
+---------------------------+--------------------------+--------+--------
+ CSKA Moscow               | Panathinaikos Athens     |   83.3 |   72.9
+ Fenerbahce Ulker Istanbul | Maccabi Electra Tel Aviv |   82.5 |   73.5
+(2 rows)
+
+COMMIT
