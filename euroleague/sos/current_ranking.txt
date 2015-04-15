@@ -4,29 +4,29 @@ INSERT 0 24
  rk |               team                |  str  |  ofs  |  dfs  |  sos  
 ----+-----------------------------------+-------+-------+-------+-------
   1 | Real Madrid                       | 1.156 | 1.127 | 0.975 | 1.004
-  2 | CSKA Moscow                       | 1.131 | 1.118 | 0.989 | 1.000
-  3 | FC Barcelona                      | 1.117 | 1.076 | 0.964 | 1.007
-  4 | Fenerbahce Ulker Istanbul         | 1.087 | 1.042 | 0.959 | 1.004
-  5 | Olympiacos Piraeus                | 1.059 | 0.967 | 0.913 | 1.009
+  2 | CSKA Moscow                       | 1.140 | 1.123 | 0.985 | 1.000
+  3 | FC Barcelona                      | 1.121 | 1.073 | 0.957 | 1.006
+  4 | Fenerbahce Ulker Istanbul         | 1.086 | 1.042 | 0.959 | 1.004
+  5 | Olympiacos Piraeus                | 1.054 | 0.960 | 0.910 | 1.009
   6 | Unics Kazan                       | 1.048 | 0.977 | 0.933 | 1.004
-  7 | Panathinaikos Athens              | 1.043 | 0.976 | 0.936 | 1.016
-  8 | Anadolu Efes Istanbul             | 1.023 | 0.982 | 0.959 | 1.019
-  9 | Crvena Zvezda Telekom Belgrade    | 1.021 | 0.974 | 0.954 | 1.005
- 10 | Maccabi Electra Tel Aviv          | 1.020 | 1.014 | 0.993 | 1.011
- 11 | Laboral Kutxa Vitoria             | 1.005 | 1.046 | 1.041 | 1.004
+  7 | Panathinaikos Athens              | 1.035 | 0.973 | 0.940 | 1.016
+  8 | Anadolu Efes Istanbul             | 1.023 | 0.982 | 0.960 | 1.019
+  9 | Maccabi Electra Tel Aviv          | 1.022 | 1.014 | 0.992 | 1.011
+ 10 | Crvena Zvezda Telekom Belgrade    | 1.020 | 0.974 | 0.955 | 1.005
+ 11 | Laboral Kutxa Vitoria             | 1.004 | 1.046 | 1.042 | 1.004
  12 | Zalgiris Kaunas                   | 0.996 | 0.938 | 0.942 | 1.013
- 13 | Valencia Basket                   | 0.996 | 0.985 | 0.989 | 0.994
- 14 | Unicaja Malaga                    | 0.985 | 0.988 | 1.003 | 1.006
+ 13 | Valencia Basket                   | 0.994 | 0.985 | 0.990 | 0.993
+ 14 | Unicaja Malaga                    | 0.987 | 0.989 | 1.003 | 1.007
  15 | ALBA Berlin                       | 0.980 | 0.948 | 0.967 | 1.008
- 16 | Nizhny Novgorod                   | 0.970 | 1.016 | 1.048 | 1.013
- 17 | EA7 Emporio Armani Milan          | 0.959 | 0.993 | 1.036 | 1.012
- 18 | FC Bayern Munich                  | 0.954 | 1.026 | 1.076 | 1.007
- 19 | Galatasaray Liv Hospital Istanbul | 0.945 | 0.994 | 1.052 | 1.011
- 20 | Cedevita Zagreb                   | 0.941 | 0.957 | 1.016 | 1.000
- 21 | Dinamo Banco di Sardegna Sassari  | 0.920 | 0.990 | 1.075 | 1.016
- 22 | Neptunas Klaipeda                 | 0.905 | 0.984 | 1.088 | 1.002
- 23 | Limoges CSP                       | 0.900 | 0.921 | 1.024 | 1.004
- 24 | PGE Turow Zgorzelec               | 0.898 | 0.990 | 1.102 | 1.013
+ 16 | Nizhny Novgorod                   | 0.970 | 1.017 | 1.049 | 1.013
+ 17 | EA7 Emporio Armani Milan          | 0.959 | 0.994 | 1.037 | 1.012
+ 18 | FC Bayern Munich                  | 0.953 | 1.027 | 1.077 | 1.007
+ 19 | Galatasaray Liv Hospital Istanbul | 0.944 | 0.995 | 1.053 | 1.010
+ 20 | Cedevita Zagreb                   | 0.943 | 0.958 | 1.015 | 1.001
+ 21 | Dinamo Banco di Sardegna Sassari  | 0.920 | 0.990 | 1.076 | 1.016
+ 22 | Neptunas Klaipeda                 | 0.904 | 0.984 | 1.089 | 1.001
+ 23 | Limoges CSP                       | 0.902 | 0.923 | 1.023 | 1.005
+ 24 | PGE Turow Zgorzelec               | 0.897 | 0.990 | 1.104 | 1.012
 (24 rows)
 
 COMMIT
