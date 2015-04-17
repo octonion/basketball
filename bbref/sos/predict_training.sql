@@ -18,7 +18,7 @@ join bbref._factors o
   on (o.parameter,o.level)=('field','offense_home')
 join bbref._factors d
   on (d.parameter,d.level)=('field','defense_home')
-where p.year=2013
+where p.year=2015
 and p.home_score is not null
 and p.visitor_score is not null
 group by p.home_id
@@ -50,7 +50,7 @@ join bbref._factors o
   on (o.parameter,o.level)=('field','offense_home')
 join bbref._factors d
   on (d.parameter,d.level)=('field','defense_home')
-where p.year=2013
+where p.year=2015
 and p.home_score is not null
 and p.visitor_score is not null;
 
@@ -76,9 +76,8 @@ join bbref._factors o
   on (o.parameter,o.level)=('field','offense_home')
 join bbref._factors d
   on (d.parameter,d.level)=('field','defense_home')
-where p.year=2012
+where p.year=2014
 and p.home_score is not null
 and p.visitor_score is not null
 group by "w/p"
 order by "w/p" desc;
-

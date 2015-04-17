@@ -1,12 +1,12 @@
-sink("bbref_lmer.txt")
+sink("diagnostics/lmer.txt")
 
-library("lme4")
-library("nortest")
-library("RPostgreSQL")
+library(lme4)
+library(nortest)
+library(RPostgreSQL)
 
 drv <- dbDriver("PostgreSQL")
 
-con <- dbConnect(drv,host="localhost",port="5432",dbname="basketball")
+con <- dbConnect(drv, dbname="basketball")
 
 query <- dbSendQuery(con, "
 select
@@ -15,14 +15,14 @@ r.year,
 r.field as field,
 r.team_id as team,
 r.opponent_id as opponent,
-r.team_previous as team_previous,
-r.opponent_previous as opponent_previous,
+--r.team_previous as team_previous,
+--r.opponent_previous as opponent_previous,
 r.game_length as game_length,
 ln(r.team_score::float) as log_ps
 from bbref.results r
 where
 TRUE
-and r.year between 2002 and 2013
+and r.year between 2002 and 2015
 and r.team_score>0
 and r.opponent_score>0
 and not(r.team_score,r.opponent_score)=(0,0)
@@ -33,8 +33,6 @@ dim(games)
 
 attach(games)
 
-model <- log_ps ~ year+field+game_length+team_previous+opponent_previous+(1|offense)+(1|defense)+(1|game_id)
-
 pll <- list()
 
 # Fixed parameters
@@ -44,10 +42,10 @@ contrasts(year)<-'contr.sum'
 
 field <- as.factor(field)
 
-team_previous <- as.factor(team_previous)
-opponent_previous <- as.factor(opponent_previous)
+#team_previous <- as.factor(team_previous)
+#opponent_previous <- as.factor(opponent_previous)
 
-fp <- data.frame(year,field,game_length,team_previous,opponent_previous)
+fp <- data.frame(year,field,game_length) #,team_previous,opponent_previous)
 fpn <- names(fp)
 
 # Random parameters
@@ -91,7 +89,11 @@ g$log_ps <- log_ps
 
 dim(g)
 
-fit <- lmer(model,data=g)
+#model <- log_ps ~ year+field+game_length+team_previous+opponent_previous+(1|offense)+(1|defense)+(1|game_id)
+
+model <- log_ps ~ year+field+game_length+(1|offense)+(1|defense)+(1|game_id)
+
+fit <- lmer(model, data=g, verbose=TRUE)
 fit
 summary(fit)
 

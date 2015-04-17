@@ -1,5 +1,7 @@
 begin;
 
+drop table if exists bbref.basic_statistics;
+
 create table bbref.basic_statistics (
 	year				integer,
 	rank		      		integer,
@@ -31,7 +33,7 @@ create table bbref.basic_statistics (
 	points		      		integer
 );
 
-copy bbref.basic_statistics from '/tmp/bbref_basic.csv' with delimiter as ',' csv header quote as '"';
+copy bbref.basic_statistics from '/tmp/basic.csv' with delimiter as ',' csv quote as '"';
 
 alter table bbref.basic_statistics
 add column player_id text;

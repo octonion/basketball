@@ -1,6 +1,8 @@
 begin;
 
-create table bbref.playoffs (
+drop table if exists bbref.games;
+
+create table bbref.games (
 	year				integer,
 	game_date			text,
 	date_url			text,
@@ -16,20 +18,28 @@ create table bbref.playoffs (
 	notes				text
 );
 
-copy bbref.playoffs from '/tmp/bbref_playoffs.csv' with delimiter as ',' csv header quote as '"';
+copy bbref.games from '/tmp/games.csv' with delimiter as ',' csv quote as '"';
 
-alter table bbref.playoffs
+alter table bbref.games
 add column visitor_id text;
 
-alter table bbref.playoffs
+alter table bbref.games
 add column home_id text;
 
-update bbref.playoffs
+update bbref.games
 set visitor_id=split_part(visitor_url,'/',3);
 
-update bbref.playoffs
+update bbref.games
 set home_id=split_part(home_url,'/',3);
 
-alter table bbref.playoffs add column game_id serial primary key;
+update bbref.games
+set status=''
+where status is null;
+
+update bbref.games
+set status='1OT'
+where status='OT';
+
+alter table bbref.games add column game_id serial primary key;
 
 commit;

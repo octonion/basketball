@@ -1,5 +1,7 @@
 begin;
 
+drop table if exists bbref.schools;
+
 create table bbref.schools (
        school_id	  text,
        school_name	  text,

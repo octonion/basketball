@@ -1,0 +1,55 @@
+BEGIN
+ rd |          name          |   p   
+----+------------------------+-------
+  2 | Golden State Warriors  | 0.967
+  2 | Atlanta Hawks          | 0.962
+  2 | Cleveland Cavaliers    | 0.836
+  2 | Chicago Bulls          | 0.734
+  2 | Toronto Raptors        | 0.712
+  2 | Portland Trail Blazers | 0.603
+  2 | Houston Rockets        | 0.588
+  2 | Los Angeles Clippers   | 0.577
+  2 | San Antonio Spurs      | 0.423
+  2 | Dallas Mavericks       | 0.412
+  2 | Memphis Grizzlies      | 0.397
+  2 | Washington Wizards     | 0.288
+  2 | Milwaukee Bucks        | 0.266
+  2 | Boston Celtics         | 0.164
+  2 | Brooklyn Nets          | 0.038
+  2 | New Orleans Pelicans   | 0.033
+  3 | Golden State Warriors  | 0.859
+  3 | Atlanta Hawks          | 0.741
+  3 | Cleveland Cavaliers    | 0.570
+  3 | Los Angeles Clippers   | 0.423
+  3 | Chicago Bulls          | 0.316
+  3 | San Antonio Spurs      | 0.297
+  3 | Toronto Raptors        | 0.206
+  3 | Houston Rockets        | 0.191
+  3 | Dallas Mavericks       | 0.089
+  3 | Portland Trail Blazers | 0.088
+  3 | Milwaukee Bucks        | 0.069
+  3 | Washington Wizards     | 0.048
+  3 | Memphis Grizzlies      | 0.046
+  3 | Boston Celtics         | 0.045
+  3 | New Orleans Pelicans   | 0.007
+  3 | Brooklyn Nets          | 0.005
+  4 | Golden State Warriors  | 0.695
+  4 | Atlanta Hawks          | 0.510
+  4 | Cleveland Cavaliers    | 0.256
+  4 | Los Angeles Clippers   | 0.131
+  4 | Chicago Bulls          | 0.115
+  4 | Toronto Raptors        | 0.087
+  4 | San Antonio Spurs      | 0.081
+  4 | Portland Trail Blazers | 0.034
+  4 | Houston Rockets        | 0.030
+  4 | Memphis Grizzlies      | 0.016
+  4 | Milwaukee Bucks        | 0.013
+  4 | Washington Wizards     | 0.013
+  4 | Dallas Mavericks       | 0.011
+  4 | Boston Celtics         | 0.007
+  4 | New Orleans Pelicans   | 0.001
+  4 | Brooklyn Nets          | 0.000
+(48 rows)
+
+COPY 48
+COMMIT
