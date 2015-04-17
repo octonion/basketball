@@ -14,7 +14,7 @@ sum(
 r1.p*r2.p*
 (
 case
-when r1.seed < r2.seed then
+when mh.home then
 (
   mp1.home_p^4
 + 4*mp1.home_p^3*mp1.visitor_p^1*
@@ -24,7 +24,7 @@ when r1.seed < r2.seed then
 + 4*mp1.home_p^1*mp1.visitor_p^3*
     (mp2.visitor_p^3)
 )
-when r1.seed > r2.seed then
+when not(mh.home) then
 1.0-
 (
   mp2.home_p^4
@@ -46,6 +46,8 @@ join bbref.matrix_p mp1
   on (mp1.year,mp1.home_id,mp1.visitor_id)=(r1.year,r1.team_id,r2.team_id)
 left join bbref.matrix_p mp2
   on (mp2.year,mp2.home_id,mp2.visitor_id)=(r2.year,r2.team_id,r1.team_id)
+join bbref.matrix_home mh
+  on (mh.year,mh.team_id,mh.opponent_id)=(r1.year,r1.team_id,r2.team_id)
 where
     r1.year=2015
 and r1.round_id=1

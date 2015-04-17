@@ -1,14 +1,14 @@
 select
 p.year,
 --p.visitor_name,p.home_name,
---v.strength::numeric(4,2) as v_str,
---h.strength::numeric(4,2) as h_str,
---(v.strength*d.exp_factor)::numeric(4,2) as v_str,
---(h.strength*o.exp_factor)::numeric(4,2) as h_str,
+--v.strength::numeric(6,4) as v_str,
+--h.strength::numeric(6,4) as h_str,
+--(v.strength*d.exp_factor)::numeric(6,4) as v_str,
+--(h.strength*o.exp_factor)::numeric(6,4) as h_str,
 sum(
 (h.strength*o.exp_factor)^16/
 ((h.strength*o.exp_factor)^16+(v.strength*d.exp_factor)^16)
-)::numeric(4,2) as e_home_wins,
+)::numeric(6,4) as e_home_wins,
 sum(case when (p.visitor_score<p.home_score) then 1
     else 0 end) as home_wins
 from bbref.playoffs p
@@ -32,11 +32,11 @@ case when ((h.strength*o.exp_factor)>(v.strength*d.exp_factor)
      when ((h.strength*o.exp_factor)<(v.strength*d.exp_factor)
             and p.home_score<p.visitor_score) then 1
 else 0 end)::float/
-count(*))::numeric(4,2) as model,
+count(*))::numeric(6,4) as model,
 (sum(
 case when p.home_score>p.visitor_score then 1
 else 0 end)::float/
-count(*))::numeric(4,2) as naive,
+count(*))::numeric(6,4) as naive,
 
 (sum(
 case when ((h.strength*o.exp_factor)>(v.strength*d.exp_factor)
@@ -48,7 +48,7 @@ count(*)-
 sum(
 case when p.home_score>p.visitor_score then 1
 else 0 end)::float/
-count(*))::numeric(4,2) as diff,
+count(*))::numeric(6,4) as diff,
 count(*)
 from bbref.playoffs p
 join bbref._schedule_factors v
@@ -69,11 +69,11 @@ case when ((h.strength*o.exp_factor)>(v.strength*d.exp_factor)
      when ((h.strength*o.exp_factor)<(v.strength*d.exp_factor)
             and p.home_score<p.visitor_score) then 1
 else 0 end)::float/
-count(*))::numeric(4,2) as model,
+count(*))::numeric(6,4) as model,
 (sum(
 case when p.home_score>p.visitor_score then 1
 else 0 end)::float/
-count(*))::numeric(4,2) as naive,
+count(*))::numeric(6,4) as naive,
 
 (sum(
 case when ((h.strength*o.exp_factor)>(v.strength*d.exp_factor)
@@ -85,7 +85,7 @@ count(*)-
 sum(
 case when p.home_score>p.visitor_score then 1
 else 0 end)::float/
-count(*))::numeric(4,2) as diff,
+count(*))::numeric(6,4) as diff,
 count(*)
 from bbref.playoffs p
 join bbref._schedule_factors v

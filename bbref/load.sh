@@ -28,7 +28,13 @@ cat csv/games*.csv >> /tmp/games.csv
 psql basketball -f loaders/load_games.sql
 rm /tmp/games.csv
 
+cat csv/standings*.csv >> /tmp/standings.csv
+psql basketball -f loaders/load_standings.sql
+rm /tmp/standings.csv
+
 psql basketball -f schema/create_teams.sql
+
+psql basketball -f schema/create_conferences.sql
 
 cat csv/playoffs*.csv >> /tmp/playoffs.csv
 psql basketball -f loaders/load_playoffs.sql

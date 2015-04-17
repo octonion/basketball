@@ -1,110 +1,87 @@
-[1] 33712     7
+[1] 16738     8
 [1] TRUE
-[1] 33712     6
-start par. =  1 1 1 fn =  -55386.9 
+[1] 16738     7
+start par. =  1 1 1 fn =  -14494.53 
 At return
-eval:  48 fn:     -56443.260 par: 0.707059 0.497994 0.492718
+eval: 116 fn:     -26397.663 par: 0.207256 0.143477 0.136599
 Linear mixed model fit by REML ['lmerMod']
 Formula: log_ps ~ year + field + game_length + (1 | offense) + (1 | defense) +  
     (1 | game_id)
    Data: g
-REML criterion at convergence: -56443.26
+Weights: week
+REML criterion at convergence: -26397.66
 Random effects:
  Groups   Name        Std.Dev.
- game_id  (Intercept) 0.06015 
- defense  (Intercept) 0.04237 
- offense  (Intercept) 0.04192 
- Residual             0.08507 
-Number of obs: 33712, groups:  game_id, 16856; defense, 417; offense, 417
+ game_id  (Intercept) 0.06095 
+ defense  (Intercept) 0.04220 
+ offense  (Intercept) 0.04017 
+ Residual             0.29410 
+Number of obs: 16738, groups:  game_id, 8369; defense, 210; offense, 210
 Fixed Effects:
       (Intercept)              year1              year2              year3  
-         4.554401          -0.025044          -0.031080          -0.048306  
-            year4              year5              year6              year7  
-        -0.008153          -0.010986           0.006223           0.019905  
-            year8              year9             year10             year11  
-         0.020021           0.026027           0.015947          -0.017972  
-           year12             year13  fieldoffense_home     game_length1OT  
-         0.001959           0.030685           0.032393           0.090154  
-   game_length2OT     game_length3OT     game_length4OT  
-         0.178337           0.259567           0.362662  
+        4.5725542          0.0076147          0.0122691         -0.0001716  
+            year4              year5              year6  fieldoffense_home  
+       -0.0305778         -0.0116504          0.0179220          0.0293032  
+   game_length1OT     game_length2OT     game_length3OT     game_length4OT  
+        0.0844811          0.1689455          0.2557797          0.3537346  
 Linear mixed model fit by REML ['lmerMod']
 Formula: log_ps ~ year + field + game_length + (1 | offense) + (1 | defense) +  
     (1 | game_id)
    Data: g
+Weights: week
 
-REML criterion at convergence: -56443.3
+REML criterion at convergence: -26397.7
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--4.1132 -0.5354  0.0424  0.5842  3.4880 
+-4.2980 -0.5289  0.0192  0.5289  3.8329 
 
 Random effects:
  Groups   Name        Variance Std.Dev.
- game_id  (Intercept) 0.003618 0.06015 
- defense  (Intercept) 0.001795 0.04237 
- offense  (Intercept) 0.001757 0.04192 
- Residual             0.007237 0.08507 
-Number of obs: 33712, groups:  game_id, 16856; defense, 417; offense, 417
+ game_id  (Intercept) 0.003715 0.06095 
+ defense  (Intercept) 0.001781 0.04220 
+ offense  (Intercept) 0.001614 0.04017 
+ Residual             0.086492 0.29410 
+Number of obs: 16738, groups:  game_id, 8369; defense, 210; offense, 210
 
 Fixed effects:
                     Estimate Std. Error t value
-(Intercept)        4.5544006  0.0030322  1502.0
-year1             -0.0250440  0.0109156    -2.3
-year2             -0.0310802  0.0109157    -2.8
-year3             -0.0483059  0.0109156    -4.4
-year4             -0.0081525  0.0107460    -0.8
-year5             -0.0109856  0.0107460    -1.0
-year6              0.0062226  0.0107460     0.6
-year7              0.0199046  0.0107461     1.9
-year8              0.0200210  0.0107460     1.9
-year9              0.0260272  0.0107460     2.4
-year10             0.0159472  0.0107460     1.5
-year11            -0.0179720  0.0108030    -1.7
-year12             0.0019595  0.0107462     0.2
-year13             0.0306850  0.0107460     2.9
-fieldoffense_home  0.0323930  0.0009267    35.0
-game_length1OT     0.0901543  0.0029507    30.6
-game_length2OT     0.1783375  0.0074100    24.1
-game_length3OT     0.2595674  0.0172580    15.0
-game_length4OT     0.3626625  0.0862671     4.2
+(Intercept)        4.5725542  0.0041870  1092.1
+year1              0.0076147  0.0101104     0.8
+year2              0.0122691  0.0101098     1.2
+year3             -0.0001716  0.0101104     0.0
+year4             -0.0305778  0.0102001    -3.0
+year5             -0.0116504  0.0101107    -1.2
+year6              0.0179220  0.0101111     1.8
+fieldoffense_home  0.0293032  0.0012476    23.5
+game_length1OT     0.0844811  0.0043410    19.5
+game_length2OT     0.1689455  0.0112000    15.1
+game_length3OT     0.2557797  0.0214956    11.9
+game_length4OT     0.3537346  0.0826700     4.3
 
 Correlation of Fixed Effects:
-            (Intr) year1  year2  year3  year4  year5  year6  year7  year8 
-year1        0.007                                                        
-year2        0.007 -0.079                                                 
-year3        0.007 -0.079 -0.079                                          
-year4       -0.002 -0.078 -0.078 -0.078                                   
-year5       -0.002 -0.078 -0.078 -0.078 -0.076                            
-year6       -0.002 -0.078 -0.078 -0.078 -0.076 -0.076                     
-year7       -0.002 -0.078 -0.078 -0.078 -0.076 -0.076 -0.076              
-year8       -0.002 -0.078 -0.078 -0.078 -0.076 -0.076 -0.076 -0.076       
-year9       -0.002 -0.078 -0.078 -0.078 -0.076 -0.076 -0.076 -0.076 -0.076
-year10      -0.002 -0.078 -0.078 -0.078 -0.076 -0.076 -0.076 -0.076 -0.076
-year11       0.001 -0.078 -0.078 -0.078 -0.077 -0.077 -0.077 -0.077 -0.077
-year12      -0.002 -0.078 -0.078 -0.078 -0.076 -0.076 -0.076 -0.076 -0.076
-year13      -0.002 -0.078 -0.078 -0.078 -0.076 -0.076 -0.076 -0.076 -0.076
-fildffns_hm -0.153  0.000  0.000  0.000  0.000  0.000  0.000  0.000  0.000
-gm_lngth1OT -0.052  0.001 -0.003  0.000  0.000 -0.001 -0.001  0.003  0.002
-gm_lngth2OT -0.021  0.000  0.001  0.001 -0.001 -0.001 -0.002  0.000 -0.001
-gm_lngth3OT -0.009  0.002  0.002  0.001  0.001 -0.002 -0.002  0.002  0.000
-gm_lngth4OT -0.002  0.001  0.001  0.001  0.001  0.001  0.001  0.001  0.001
-            year9  year10 year11 year12 year13 fldff_ gm_1OT gm_2OT gm_3OT
-year1                                                                     
-year2                                                                     
-year3                                                                     
-year4                                                                     
-year5                                                                     
-year6                                                                     
-year7                                                                     
-year8                                                                     
-year9                                                                     
-year10      -0.076                                                        
-year11      -0.077 -0.077                                                 
-year12      -0.076 -0.076 -0.077                                          
-year13      -0.076 -0.076 -0.077 -0.076                                   
-fildffns_hm  0.000  0.000  0.000  0.000  0.000                            
-gm_lngth1OT  0.001 -0.001 -0.001  0.001  0.000  0.000                     
-gm_lngth2OT  0.001  0.002  0.001 -0.001 -0.001  0.000  0.022              
-gm_lngth3OT  0.001 -0.002 -0.001  0.000 -0.002  0.000  0.011  0.005       
-gm_lngth4OT  0.001  0.001 -0.007  0.001  0.001  0.000  0.003  0.001  0.005
+            (Intr) year1  year2  year3  year4  year5  year6  fldff_ gm_1OT
+year1       -0.001                                                        
+year2       -0.001 -0.166                                                 
+year3       -0.001 -0.166 -0.166                                          
+year4        0.007 -0.168 -0.168 -0.168                                   
+year5       -0.001 -0.166 -0.166 -0.166 -0.168                            
+year6       -0.001 -0.166 -0.166 -0.166 -0.168 -0.166                     
+fildffns_hm -0.149  0.000  0.000  0.000  0.000  0.000  0.000              
+gm_lngth1OT -0.055  0.003  0.000 -0.004 -0.003  0.002  0.000  0.000       
+gm_lngth2OT -0.021 -0.001  0.001  0.004  0.001  0.000 -0.002  0.000  0.019
+gm_lngth3OT -0.011  0.000  0.002 -0.002  0.000  0.002 -0.001  0.000  0.014
+gm_lngth4OT -0.004  0.002  0.002  0.001 -0.009  0.002  0.002  0.000  0.005
+            gm_2OT gm_3OT
+year1                    
+year2                    
+year3                    
+year4                    
+year5                    
+year6                    
+fildffns_hm              
+gm_lngth1OT              
+gm_lngth2OT              
+gm_lngth3OT  0.004       
+gm_lngth4OT  0.001  0.006
 [1] TRUE

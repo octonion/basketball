@@ -18,11 +18,22 @@ r.opponent_id as opponent,
 --r.team_previous as team_previous,
 --r.opponent_previous as opponent_previous,
 r.game_length as game_length,
-ln(r.team_score::float) as log_ps
+ln(r.team_score::float) as log_ps,
+(
+
+ceiling((1+r.game_date-f.base_date)/7.0)
+
+::integer) as week
 from bbref.results r
+join
+(
+select year,min(game_date::date-7) as base_date
+from bbref.games
+group by year) f
+  on (f.year)=(r.year)
 where
 TRUE
-and r.year between 2002 and 2015
+and r.year between 2009 and 2015
 and r.team_score>0
 and r.opponent_score>0
 and not(r.team_score,r.opponent_score)=(0,0)
@@ -83,7 +94,7 @@ for (n in rpn) {
 parameter_levels <- as.data.frame(do.call("rbind",pll))
 dbWriteTable(con,c("bbref","_parameter_levels"),parameter_levels,row.names=TRUE)
 
-g <- cbind(fp,rp)
+g <- cbind(fp,rp,week)
 
 g$log_ps <- log_ps
 
@@ -93,7 +104,7 @@ dim(g)
 
 model <- log_ps ~ year+field+game_length+(1|offense)+(1|defense)+(1|game_id)
 
-fit <- lmer(model, data=g, verbose=TRUE)
+fit <- lmer(model, data=g, verbose=TRUE, weights=week)
 fit
 summary(fit)
 

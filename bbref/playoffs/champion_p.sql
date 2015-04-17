@@ -2,10 +2,10 @@ begin;
 
 select
 team_name,p::numeric(4,3)
-from bbref.rounds 4
+from bbref.rounds r
 join bbref.teams t
   on (t.team_id)=(r.team_id)
-where round_id=8
+where round_id=5
 order by p desc;
 
 copy
@@ -15,7 +15,7 @@ team_name,p::numeric(4,3)
 from bbref.rounds r
 join bbref.teams t
   on (t.team_id)=(r.team_id)
-where round_id=4
+where round_id=5
 order by p desc
 ) to '/tmp/champion_p.csv' csv header;
 
