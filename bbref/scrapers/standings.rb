@@ -38,9 +38,10 @@ last_year = 2015
   end
 
   found = 0
+  division = nil
   page.parser.xpath(east_xpath).each do |r|
 
-    row = [year, "east"]
+    row = [year, "east", division]
     r.xpath("td").each_with_index do |e,i|
 
       et = e.text
@@ -67,9 +68,11 @@ last_year = 2015
 
     end
 
-    if not(row[3]==nil)
+    if not(row[4]==nil)
       found += 1
       stats << row
+    else
+      division = row[3]
     end
 
   end
@@ -79,7 +82,7 @@ last_year = 2015
   found = 0
   page.parser.xpath(west_xpath).each do |r|
 
-    row = [year, "west"]
+    row = [year, "west", division]
     r.xpath("td").each_with_index do |e,i|
 
       et = e.text
@@ -106,9 +109,11 @@ last_year = 2015
 
     end
 
-    if not(row[3]==nil)
+    if not(row[4]==nil)
       found += 1
       stats << row
+    else
+      division = row[3]
     end
 
   end

@@ -9,6 +9,7 @@ create table bbref.rounds (
 	round_id			integer,
 	team_id				text,
 	conference_id			text,
+	division_id			text,
 	seed				integer,
 	bracket				int[],
 	p				float,
@@ -63,6 +64,16 @@ where
 
 -- 1) winning percentage
 -- 2) head to head record
+-- 3) division record (if the teams are in the same division)
+-- 4) conference record
+-- 5) record vs playoff teams, own conference
+-- 6) record vs playoff teams, other conference
+-- 7) net points, all games
+
+-- Finals
+
+-- 1) winning percentage
+-- 2) head to head record
 -- 3) record vs opposite conference
 
 drop table if exists bbref.matrix_home;
@@ -70,11 +81,19 @@ drop table if exists bbref.matrix_home;
 create table bbref.matrix_home (
 	year				integer,
 	team_id				text,
+	team_division_id		text,
+	team_conference_id		text,
 	opponent_id			text,
+	opponent_division_id		text,
+	opponent_conference_id		text,
 	team_wp				float,
 	opponent_wp			float,
 	vs_won				integer,
 	vs_lost				integer,
+	team_dwp			float,
+	opponent_dwp			float,
+	team_cwp			float,
+	opponent_cwp			float,
 	team_ocwp			float,
 	opponent_ocwp			float,
 	home				boolean,
@@ -82,11 +101,17 @@ create table bbref.matrix_home (
 );
 
 insert into bbref.matrix_home
-(year,team_id,opponent_id)
+(year,
+ team_id,team_division_id,team_conference_id,
+ opponent_id,opponent_division_id,opponent_conference_id)
 (select
 r1.year,
 r1.team_id,
-r2.team_id
+r1.division_id,
+r1.conference_id,
+r2.team_id,
+r2.division_id,
+r2.conference_id
 from bbref.rounds r1
 join bbref.rounds r2
   on ((r2.year)=(r1.year) and not((r2.team_id)=(r1.team_id)))
@@ -164,8 +189,10 @@ and r.team_id=matrix_home.opponent_id;
 create temporary table vs (
        year				integer,
        team_id				text,
+       team_division_id			text,
        team_conference_id		text,
        opponent_id			text,
+       opponent_division_id		text,
        opponent_conference_id		text,
        won				integer,
        lost				integer,
@@ -173,13 +200,18 @@ create temporary table vs (
 );
 
 insert into vs
-(year,team_id,team_conference_id,opponent_id,opponent_conference_id,won,lost)
+(year,
+ team_id,team_division_id,team_conference_id,
+ opponent_id,opponent_division_id,opponent_conference_id,
+ won,lost)
 (
 select
 year,
 team_id,
+team_division_id,
 team_conference_id,
 opponent_id,
+opponent_division_id,
 opponent_conference_id,
 sum(won),
 sum(lost)
@@ -189,8 +221,10 @@ from
 select
 g.year,
 g.home_id as team_id,
+h.division_id as team_division_id,
 h.conference_id as team_conference_id,
 g.visitor_id as opponent_id,
+v.division_id as opponent_division_id,
 v.conference_id as opponent_conference_id,
 (case when g.home_score > g.visitor_score then 1
       when g.home_score < g.visitor_score then 0
@@ -211,8 +245,10 @@ select
 
 g.year,
 g.visitor_id as team_id,
+v.division_id as team_division_id,
 v.conference_id as team_conference_id,
 g.home_id as opponent_id,
+h.division_id as opponent_division_id,
 h.conference_id as opponent_conference_id,
 (case when g.home_score > g.visitor_score then 0
       when g.home_score < g.visitor_score then 1
@@ -229,7 +265,8 @@ join bbref.conferences v
 where g.year=2015
 
 ) results
-group by year,team_id,team_conference_id,opponent_id,opponent_conference_id
+group by year,team_id,team_division_id,team_conference_id,
+opponent_id,opponent_division_id,opponent_conference_id
 );
 
 update bbref.matrix_home
@@ -240,6 +277,68 @@ where
     vs.year=matrix_home.year
 and vs.team_id=matrix_home.team_id
 and vs.opponent_id=matrix_home.opponent_id;
+
+-- division record
+
+update bbref.matrix_home
+set team_dwp=dwp
+from
+(
+select
+year as year,
+team_id as team_id,
+sum(won::float)/sum(won+lost) as dwp
+from vs
+where (vs.team_division_id=vs.opponent_division_id)
+group by year,team_id
+) r
+where (r.year,r.team_id)=(matrix_home.year,matrix_home.team_id);
+
+update bbref.matrix_home
+set opponent_dwp=dwp
+from
+(
+select
+year as year,
+team_id as team_id,
+sum(won::float)/sum(won+lost) as dwp
+from vs
+where (vs.team_division_id=vs.opponent_division_id)
+group by year,team_id
+) r
+where (r.year,r.team_id)=(matrix_home.year,matrix_home.opponent_id);
+
+-- conference record
+
+update bbref.matrix_home
+set team_cwp=cwp
+from
+(
+select
+year as year,
+team_id as team_id,
+sum(won::float)/sum(won+lost) as cwp
+from vs
+where (vs.team_conference_id=vs.opponent_conference_id)
+group by year,team_id
+) r
+where (r.year,r.team_id)=(matrix_home.year,matrix_home.team_id);
+
+update bbref.matrix_home
+set opponent_cwp=cwp
+from
+(
+select
+year as year,
+team_id as team_id,
+sum(won::float)/sum(won+lost) as cwp
+from vs
+where (vs.team_conference_id=vs.opponent_conference_id)
+group by year,team_id
+) r
+where (r.year,r.team_id)=(matrix_home.year,matrix_home.opponent_id);
+
+-- record vs opposite conference
 
 update bbref.matrix_home
 set team_ocwp=ocwp
@@ -271,14 +370,53 @@ where (r.year,r.team_id)=(matrix_home.year,matrix_home.opponent_id);
 
 update bbref.matrix_home
 set home=
-(case when team_wp > opponent_wp then true
-      when team_wp = opponent_wp and vs_won > vs_lost then true
-      when team_wp = opponent_wp and vs_won = vs_lost
-           and team_ocwp > opponent_ocwp then true
-      when team_wp < opponent_wp then false
-      when team_wp = opponent_wp and vs_won < vs_lost then false
-      when team_wp = opponent_wp and vs_won = vs_lost
-           and team_ocwp < opponent_ocwp then false
+(case
+ when team_division_id = opponent_division_id then
+
+   (case
+    when team_wp > opponent_wp then true
+    when team_wp = opponent_wp and vs_won > vs_lost then true
+    when team_wp = opponent_wp and vs_won = vs_lost
+         and team_dwp > opponent_dwp then true
+    when team_wp = opponent_wp and vs_won = vs_lost
+         and team_dwp = opponent_dwp
+         and team_cwp > opponent_cwp then true
+    when team_wp < opponent_wp then false
+    when team_wp = opponent_wp and vs_won < vs_lost then false
+    when team_wp = opponent_wp and vs_won = vs_lost
+         and team_dwp < opponent_dwp then false
+    when team_wp = opponent_wp and vs_won = vs_lost
+         and team_dwp = opponent_dwp
+         and team_cwp < opponent_cwp then false
+   end)
+
+ when not(team_division_id = opponent_division_id) and
+      (team_conference_id = opponent_conference_id) then
+
+   (case
+    when team_wp > opponent_wp then true
+    when team_wp = opponent_wp and vs_won > vs_lost then true
+    when team_wp = opponent_wp and vs_won = vs_lost
+         and team_cwp > opponent_cwp then true
+    when team_wp < opponent_wp then false
+    when team_wp = opponent_wp and vs_won < vs_lost then false
+    when team_wp = opponent_wp and vs_won = vs_lost
+         and team_cwp < opponent_cwp then false
+   end)
+
+ when not(team_conference_id = opponent_conference_id) then
+
+   (case
+    when team_wp > opponent_wp then true
+    when team_wp = opponent_wp and vs_won > vs_lost then true
+    when team_wp = opponent_wp and vs_won = vs_lost
+         and team_ocwp > opponent_ocwp then true
+    when team_wp < opponent_wp then false
+    when team_wp = opponent_wp and vs_won < vs_lost then false
+    when team_wp = opponent_wp and vs_won = vs_lost
+         and team_ocwp < opponent_ocwp then false
+   end)
+
 end);
 
 commit;

@@ -5,6 +5,7 @@ drop table if exists bbref.standings;
 create table bbref.standings (
 	year				integer,
 	conference_id			text,
+	division_name			text,
 	team_name			text,
 	team_id				text,
 	team_url			text,

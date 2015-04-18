@@ -21,9 +21,9 @@ BEGIN
   3 | Atlanta Hawks          | 0.735
   3 | Cleveland Cavaliers    | 0.568
   3 | San Antonio Spurs      | 0.394
-  3 | Los Angeles Clippers   | 0.371
+  3 | Los Angeles Clippers   | 0.389
   3 | Chicago Bulls          | 0.287
-  3 | Houston Rockets        | 0.191
+  3 | Houston Rockets        | 0.173
   3 | Toronto Raptors        | 0.172
   3 | Portland Trail Blazers | 0.089
   3 | Memphis Grizzlies      | 0.081
@@ -33,29 +33,29 @@ BEGIN
   3 | Dallas Mavericks       | 0.044
   3 | New Orleans Pelicans   | 0.018
   3 | Brooklyn Nets          | 0.016
-  4 | Golden State Warriors  | 0.571
+  4 | Golden State Warriors  | 0.569
   4 | Atlanta Hawks          | 0.441
   4 | Cleveland Cavaliers    | 0.322
-  4 | San Antonio Spurs      | 0.176
-  4 | Los Angeles Clippers   | 0.153
+  4 | San Antonio Spurs      | 0.175
+  4 | Los Angeles Clippers   | 0.161
   4 | Chicago Bulls          | 0.124
   4 | Toronto Raptors        | 0.054
-  4 | Houston Rockets        | 0.043
-  4 | Portland Trail Blazers | 0.026
+  4 | Houston Rockets        | 0.039
+  4 | Portland Trail Blazers | 0.025
   4 | Boston Celtics         | 0.024
-  4 | Memphis Grizzlies      | 0.021
+  4 | Memphis Grizzlies      | 0.023
   4 | Washington Wizards     | 0.018
   4 | Milwaukee Bucks        | 0.016
   4 | Dallas Mavericks       | 0.006
   4 | New Orleans Pelicans   | 0.003
   4 | Brooklyn Nets          | 0.002
-  5 | Golden State Warriors  | 0.478
-  5 | San Antonio Spurs      | 0.131
+  5 | Golden State Warriors  | 0.476
+  5 | San Antonio Spurs      | 0.129
   5 | Atlanta Hawks          | 0.122
-  5 | Los Angeles Clippers   | 0.109
+  5 | Los Angeles Clippers   | 0.114
   5 | Cleveland Cavaliers    | 0.085
-  5 | Houston Rockets        | 0.021
   5 | Chicago Bulls          | 0.020
+  5 | Houston Rockets        | 0.019
   5 | Portland Trail Blazers | 0.012
   5 | Memphis Grizzlies      | 0.010
   5 | Toronto Raptors        | 0.006
