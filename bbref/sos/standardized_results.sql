@@ -14,9 +14,9 @@ create table bbref.results (
 	field		      text,
 	team_score	      integer,
 	opponent_score	      integer,
-	game_length	      text,
-	team_previous	      boolean default false,
-	opponent_previous     boolean default false
+	game_length	      text
+--	team_previous	      boolean default false,
+--	opponent_previous     boolean default false
 );
 
 insert into bbref.results
@@ -37,14 +37,8 @@ trim(both from visitor_name),
 visitor_id,
 home_id as location_id,
 'offense_home' as field,
-(case when status in ('OT','SO') then
-      least(g.home_score,g.visitor_score)
-else g.home_score
-end) as team_score,
-(case when status in ('OT','SO') then
-      least(g.home_score,g.visitor_score)
-else g.visitor_score
-end) as opponent_score,
+g.home_score as team_score,
+g.visitor_score as opponent_score,
 status as game_length
 from bbref.games g
 where
@@ -74,14 +68,8 @@ trim(both from home_name),
 home_id,
 home_id as location_id,
 'defense_home' as field,
-(case when status in ('OT','SO') then
-      least(g.home_score,g.visitor_score)
-else g.visitor_score
-end) as team_score,
-(case when status in ('OT','SO') then
-      least(g.home_score,g.visitor_score)
-else g.home_score
-end) as opponent_score,
+g.visitor_score as team_score,
+g.home_score as opponent_score,
 status as game_length
 from bbref.games g
 where
@@ -93,14 +81,18 @@ and g.home_id is not NULL
 and g.visitor_id is not NULL
 );
 
-update bbref.results
-set team_previous=true
-where (team_id,game_date) in
-(select team_id,game_date+1 from bbref.results);
+--update bbref.results
+--set team_previous=true
+--where (team_id,game_date) in
+--(select team_id,game_date+1 from bbref.results);
+
+--update bbref.results
+--set opponent_previous=true
+--where (opponent_id,game_date) in
+--(select team_id,game_date+1 from bbref.results);
 
 update bbref.results
-set opponent_previous=true
-where (opponent_id,game_date) in
-(select team_id,game_date+1 from bbref.results);
+set game_length='0OT'
+where game_length='';
 
 commit;

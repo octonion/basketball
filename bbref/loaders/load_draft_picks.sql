@@ -1,5 +1,7 @@
 begin;
 
+drop table if exists bbref.draft_picks;
+
 create table bbref.draft_picks (
 	year				integer,
 	pick		      		integer,
@@ -25,7 +27,7 @@ create table bbref.draft_picks (
 	win_shares_48			float
 );
 
-copy bbref.draft_picks from '/tmp/bbref_draft_picks.csv' with delimiter as ',' csv header quote as '"';
+copy bbref.draft_picks from '/tmp/draft_picks.csv' with delimiter as ',' csv quote as '"';
 
 alter table bbref.draft_picks
 add column player_id text;

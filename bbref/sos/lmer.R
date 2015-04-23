@@ -1,12 +1,12 @@
-sink("bbref_lmer.txt")
+sink("diagnostics/lmer.txt")
 
-library("lme4")
-library("nortest")
-library("RPostgreSQL")
+library(lme4)
+library(nortest)
+library(RPostgreSQL)
 
 drv <- dbDriver("PostgreSQL")
 
-con <- dbConnect(drv,host="localhost",port="5432",dbname="basketball")
+con <- dbConnect(drv, dbname="basketball")
 
 query <- dbSendQuery(con, "
 select
@@ -15,14 +15,25 @@ r.year,
 r.field as field,
 r.team_id as team,
 r.opponent_id as opponent,
-r.team_previous as team_previous,
-r.opponent_previous as opponent_previous,
+--r.team_previous as team_previous,
+--r.opponent_previous as opponent_previous,
 r.game_length as game_length,
-ln(r.team_score::float) as log_ps
+ln(r.team_score::float) as log_ps,
+(
+
+ceiling((1+r.game_date-f.base_date)/7.0)
+
+::integer) as week
 from bbref.results r
+join
+(
+select year,min(game_date::date-7) as base_date
+from bbref.games
+group by year) f
+  on (f.year)=(r.year)
 where
 TRUE
-and r.year between 2002 and 2013
+and r.year between 2009 and 2015
 and r.team_score>0
 and r.opponent_score>0
 and not(r.team_score,r.opponent_score)=(0,0)
@@ -33,8 +44,6 @@ dim(games)
 
 attach(games)
 
-model <- log_ps ~ year+field+game_length+team_previous+opponent_previous+(1|offense)+(1|defense)+(1|game_id)
-
 pll <- list()
 
 # Fixed parameters
@@ -44,10 +53,10 @@ contrasts(year)<-'contr.sum'
 
 field <- as.factor(field)
 
-team_previous <- as.factor(team_previous)
-opponent_previous <- as.factor(opponent_previous)
+#team_previous <- as.factor(team_previous)
+#opponent_previous <- as.factor(opponent_previous)
 
-fp <- data.frame(year,field,game_length,team_previous,opponent_previous)
+fp <- data.frame(year,field,game_length) #,team_previous,opponent_previous)
 fpn <- names(fp)
 
 # Random parameters
@@ -85,13 +94,17 @@ for (n in rpn) {
 parameter_levels <- as.data.frame(do.call("rbind",pll))
 dbWriteTable(con,c("bbref","_parameter_levels"),parameter_levels,row.names=TRUE)
 
-g <- cbind(fp,rp)
+g <- cbind(fp,rp,week)
 
 g$log_ps <- log_ps
 
 dim(g)
 
-fit <- lmer(model,data=g)
+#model <- log_ps ~ year+field+game_length+team_previous+opponent_previous+(1|offense)+(1|defense)+(1|game_id)
+
+model <- log_ps ~ year+field+game_length+(1|offense)+(1|defense)+(1|game_id)
+
+fit <- lmer(model, data=g, verbose=TRUE, weights=week)
 fit
 summary(fit)
 

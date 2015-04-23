@@ -1,5 +1,7 @@
 begin;
 
+drop table if exists bbref.players;
+
 create table bbref.players (
        player_id	  text,
        player_name	  text,
