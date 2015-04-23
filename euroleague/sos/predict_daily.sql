@@ -31,7 +31,7 @@ join euroleague.teams tv
   on (tv.year, tv.team_id)=(g.year, g.opponent_id)
 
 where
-    g.game_date='April 14'
+    g.game_date in ('April 14','April 15')
 and g.year=2014
 --and g.game_date between current_date and current_date
 and g.field='offense_home'
