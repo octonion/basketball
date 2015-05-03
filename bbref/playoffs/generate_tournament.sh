@@ -1,6 +1,7 @@
 #!/bin/bash
 
-cp rounds_2015.csv /tmp/rounds.csv
+#cp rounds_2015.csv /tmp/rounds.csv
+cp rounds_updated.csv /tmp/rounds.csv
 psql basketball -f load_rounds.sql
 rm /tmp/rounds.csv
 
