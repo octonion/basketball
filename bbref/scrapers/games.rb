@@ -13,7 +13,7 @@ base = "http://www.basketball-reference.com/leagues"
 
 table_xpath = '//*[@id="games"]/tbody/tr'
 
-first_year = 2013
+first_year = 2015
 last_year = 2015
 
 #if (first_year==last_year)
