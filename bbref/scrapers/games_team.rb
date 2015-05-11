@@ -12,9 +12,14 @@ agent.user_agent = 'Mozilla/5.0'
 #"http://www.basketball-reference.com/leagues"
 base = "http://www.basketball-reference.com/teams" #/GSW/2015_games.html
 table_xpath = '//*[@id="teams_games"]/tbody/tr'
+
+# Playoffs
+
+#//*[@id="teams_games_playoffs"]/tbody/tr[1]
+
 #//*[@id="teams_games"]/tbody/tr[1]
 
-first_year = 2015
+first_year = 2001
 last_year = 2015
 
 #if (first_year==last_year)
@@ -44,7 +49,7 @@ last_year = 2015
     end
 
     page.parser.xpath(table_xpath).each do |r|
-      row = [year]
+      row = [year,team_id]
       r.xpath("td").each_with_index do |e,i|
 
         et = e.text
@@ -68,7 +73,7 @@ last_year = 2015
 
       end
 
-      if (row.size>1)
+      if (row.size>3)
         found += 1
         stats << row
       end
