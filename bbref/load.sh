@@ -24,7 +24,8 @@ rm /tmp/basic.csv
 psql basketball -f schema/create_players.sql
 psql basketball -f schema/create_schools.sql
 
-cat csv/games*.csv >> /tmp/games.csv
+cat csv/games.csv > /tmp/games.csv
+cat csv/games_2*.csv >> /tmp/games.csv
 psql basketball -f loaders/load_games.sql
 rm /tmp/games.csv
 
