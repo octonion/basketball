@@ -13,8 +13,9 @@ url = "http://www.sports-reference.com/cbb/schools/"
 
 table_xpath = '//*[@id="schools"]/tbody/tr'
 
-schools = CSV.open("csv/schools.csv", "w",
-                   {:col_sep => ","})
+schools = CSV.open("csv/schools.csv", "w", {:col_sep => ","})
+
+schools << ["rk","school","school_url","school_id","from","to","yrs","g","w","l","wl_pct","srs","sos","ap","creg","ctrn","ncaa","ff","nc"]
 
 begin
   page = agent.get(url)

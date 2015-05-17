@@ -1,477 +1,478 @@
-1,Abilene Christian Wildcats,/cbb/schools/abilene-christian/,abilene-christian,1971,2015,5,130,58,72,.446,-17.63,-4.96,0,0,0,0,0,0
-2,Air Force Falcons,/cbb/schools/air-force/,air-force,1958,2015,57,1537,675,862,.439,-1.93,2.18,0,1,0,4,0,0
-3,Akron Zips,/cbb/schools/akron/,akron,1902,2015,64,1416,830,586,.586,-0.60,-1.58,0,8,4,4,0,0
-4,Alabama A&M Bulldogs,/cbb/schools/alabama-am/,alabama-am,2000,2015,16,452,201,251,.445,-15.83,-11.76,0,1,1,1,0,0
-5,Alabama Crimson Tide,/cbb/schools/alabama/,alabama,1913,2015,102,2579,1598,980,.620,11.52,7.00,15,10,7,20,0,0
-6,Alabama State Hornets,/cbb/schools/alabama-state/,alabama-state,1983,2015,33,964,485,479,.503,-12.39,-10.18,0,4,4,4,0,0
-7,Alabama-Birmingham Blazers,/cbb/schools/alabama-birmingham/,alabama-birmingham,1980,2015,36,1144,711,433,.622,7.04,3.23,2,6,4,14,0,0
-8,Albany (NY) Great Danes,/cbb/schools/albany-ny/,albany-ny,2000,2015,16,486,227,259,.467,-7.79,-6.10,0,1,3,4,0,0
-9,Alcorn State Braves,/cbb/schools/alcorn-state/,alcorn-state,1978,2015,38,1111,482,629,.434,-13.96,-8.83,0,10,6,6,0,0
+rk,school,school_url,school_id,from,to,yrs,g,w,l,wl_pct,srs,sos,ap,creg,ctrn,ncaa,ff,nc
+1,Abilene Christian Wildcats,/cbb/schools/abilene-christian/,abilene-christian,1971,2015,5,137,59,78,.431,-18.40,-5.23,0,0,0,0,0,0
+2,Air Force Falcons,/cbb/schools/air-force/,air-force,1958,2015,57,1543,677,866,.439,-1.95,2.18,0,1,0,4,0,0
+3,Akron Zips,/cbb/schools/akron/,akron,1902,2015,64,1426,834,592,.585,-0.63,-1.59,0,8,4,4,0,0
+4,Alabama A&M Bulldogs,/cbb/schools/alabama-am/,alabama-am,2000,2015,16,459,203,256,.442,-15.89,-11.90,0,1,1,1,0,0
+5,Alabama Crimson Tide,/cbb/schools/alabama/,alabama,1913,2015,102,2588,1602,985,.619,11.53,7.02,15,10,7,20,0,0
+6,Alabama State Hornets,/cbb/schools/alabama-state/,alabama-state,1983,2015,33,972,490,482,.504,-12.40,-10.23,0,4,4,4,0,0
+7,Alabama-Birmingham Blazers,/cbb/schools/alabama-birmingham/,alabama-birmingham,1980,2015,36,1154,718,436,.622,7.07,3.23,2,6,5,15,0,0
+8,Albany (NY) Great Danes,/cbb/schools/albany-ny/,albany-ny,2000,2015,16,494,233,261,.472,-7.77,-6.08,0,2,4,5,0,0
+9,Alcorn State Braves,/cbb/schools/alcorn-state/,alcorn-state,1978,2015,38,1120,483,637,.431,-13.98,-8.89,0,10,6,6,0,0
 10,Allegheny Gators,/cbb/schools/allegheny/,allegheny,1896,1916,21,234,191,41,.823,,,0,0,0,,,
 11,Alliant International Gulls,/cbb/schools/alliant-international/,alliant-international,1982,1991,10,279,69,210,.247,-18.06,-5.34,0,0,0,0,0,0
-12,American Eagles,/cbb/schools/american/,american,1967,2015,49,1375,695,680,.505,-4.70,-3.39,0,7,3,3,0,0
+12,American Eagles,/cbb/schools/american/,american,1967,2015,49,1382,698,684,.505,-4.70,-3.40,0,7,3,3,0,0
 13,Amherst Lord Jeffs,/cbb/schools/amherst/,amherst,1901,1902,2,12,12,0,1.000,,,0,0,0,,,
-14,Appalachian State Mountaineers,/cbb/schools/appalachian-state/,appalachian-state,1974,2015,42,1220,610,610,.500,-5.64,-3.61,0,10,2,2,0,0
-15,Arizona State Sun Devils,/cbb/schools/arizona-state/,arizona-state,1912,2015,100,2398,1269,1129,.529,7.99,6.68,7,8,0,14,0,0
-16,Arizona Wildcats,/cbb/schools/arizona/,arizona,1905,2015,108,2570,1673,896,.651,16.13,8.23,23,21,4,31,4,1
-17,Arkansas Razorbacks,/cbb/schools/arkansas/,arkansas,1924,2015,92,2495,1598,897,.640,12.64,5.70,15,26,7,29,6,1
-18,Arkansas State Red Wolves,/cbb/schools/arkansas-state/,arkansas-state,1971,2015,45,1287,670,617,.521,-2.18,-2.15,0,7,1,1,0,0
-19,Arkansas-Little Rock Trojans,/cbb/schools/arkansas-little-rock/,arkansas-little-rock,1979,2015,37,1094,611,483,.559,-2.97,-3.54,0,11,4,4,0,0
-20,Arkansas-Pine Bluff Golden Lions,/cbb/schools/arkansas-pine-bluff/,arkansas-pine-bluff,1999,2015,17,499,149,350,.299,-19.79,-8.56,0,0,1,1,0,0
+14,Appalachian State Mountaineers,/cbb/schools/appalachian-state/,appalachian-state,1974,2015,42,1226,613,613,.500,-5.62,-3.58,0,10,2,2,0,0
+15,Arizona State Sun Devils,/cbb/schools/arizona-state/,arizona-state,1912,2015,100,2408,1275,1133,.529,7.94,6.69,7,8,0,14,0,0
+16,Arizona Wildcats,/cbb/schools/arizona/,arizona,1905,2015,108,2584,1686,897,.653,16.18,8.26,24,22,5,32,4,1
+17,Arkansas Razorbacks,/cbb/schools/arkansas/,arkansas,1924,2015,92,2506,1605,901,.640,12.61,5.75,16,26,7,30,6,1
+18,Arkansas State Red Wolves,/cbb/schools/arkansas-state/,arkansas-state,1971,2015,45,1293,672,621,.520,-2.19,-2.15,0,7,1,1,0,0
+19,Arkansas-Little Rock Trojans,/cbb/schools/arkansas-little-rock/,arkansas-little-rock,1979,2015,37,1100,614,486,.558,-2.95,-3.54,0,11,4,4,0,0
+20,Arkansas-Pine Bluff Golden Lions,/cbb/schools/arkansas-pine-bluff/,arkansas-pine-bluff,1999,2015,17,505,153,352,.303,-19.82,-8.70,0,0,1,1,0,0
 21,Armstrong Pirates,/cbb/schools/armstrong/,armstrong,1987,1987,1,28,6,22,.214,-21.60,-4.78,0,0,0,0,0,0
-22,Army Black Knights,/cbb/schools/army/,army,1903,2015,113,2353,1176,1177,.500,-13.38,-5.87,0,0,0,0,0,0
-23,Auburn Tigers,/cbb/schools/auburn/,auburn,1906,2015,109,2421,1276,1144,.527,7.60,6.55,5,3,1,8,0,0
+22,Army Black Knights,/cbb/schools/army/,army,1903,2015,113,2359,1177,1182,.499,-13.41,-5.87,0,0,0,0,0,0
+23,Auburn Tigers,/cbb/schools/auburn/,auburn,1906,2015,109,2431,1279,1151,.526,7.58,6.60,5,3,1,8,0,0
 24,Augusta State Jaguars,/cbb/schools/augusta-state/,augusta-state,1985,1991,7,197,64,133,.325,-17.30,-8.00,0,0,0,0,0,0
 25,Augustana (IL) Vikings,/cbb/schools/augustana-il/,augustana-il,1902,1917,12,116,81,35,.698,,,0,0,0,,,
-26,Austin Peay Governors,/cbb/schools/austin-peay/,austin-peay,1964,2015,52,1470,732,738,.498,-5.14,-3.29,1,8,4,6,0,0
+26,Austin Peay Governors,/cbb/schools/austin-peay/,austin-peay,1964,2015,52,1474,733,741,.497,-5.17,-3.29,1,8,4,6,0,0
 27,Baker University Wildcats,/cbb/schools/baker-university/,baker-university,1903,1908,6,90,62,28,.689,,,0,0,0,,,
 28,Baldwin-Wallace Yellow Jackets,/cbb/schools/baldwin-wallace/,baldwin-wallace,1948,1953,6,139,82,57,.590,,,0,0,0,0,0,0
-29,Ball State Cardinals,/cbb/schools/ball-state/,ball-state,1972,2015,44,1271,673,598,.530,0.18,-0.30,1,9,7,7,0,0
+29,Ball State Cardinals,/cbb/schools/ball-state/,ball-state,1972,2015,44,1278,673,605,.527,0.13,-0.31,1,9,7,7,0,0
 30,Baltimore Super Bees,/cbb/schools/baltimore/,baltimore,1979,1983,5,133,46,87,.346,-11.98,-6.71,0,0,0,0,0,0
-31,Baylor Bears,/cbb/schools/baylor/,baylor,1907,2015,109,2578,1257,1321,.488,3.90,4.36,3,5,0,8,2,0
-32,Belmont Bruins,/cbb/schools/belmont/,belmont,2000,2015,16,500,315,185,.630,-0.06,-3.60,0,8,6,6,0,0
+31,Baylor Bears,/cbb/schools/baylor/,baylor,1907,2015,109,2587,1263,1324,.488,3.87,4.36,4,5,0,9,2,0
+32,Belmont Bruins,/cbb/schools/belmont/,belmont,2000,2015,16,507,321,186,.633,0.06,-3.57,0,8,7,7,0,0
 33,Beloit Buccaneers,/cbb/schools/beloit/,beloit,1911,1924,8,95,66,28,.702,,,0,0,0,,,
-34,Bethune-Cookman Wildcats,/cbb/schools/bethune-cookman/,bethune-cookman,1981,2015,35,1021,358,663,.351,-17.06,-9.87,0,1,0,0,0,0
-35,Binghamton Bearcats,/cbb/schools/binghamton/,binghamton,2002,2015,14,415,152,263,.366,-10.62,-5.46,0,1,1,1,0,0
+34,Bethune-Cookman Wildcats,/cbb/schools/bethune-cookman/,bethune-cookman,1981,2015,35,1028,361,667,.351,-17.09,-9.93,0,1,0,0,0,0
+35,Binghamton Bearcats,/cbb/schools/binghamton/,binghamton,2002,2015,14,419,154,265,.368,-10.55,-5.48,0,1,1,1,0,0
 36,Birmingham-Southern Panthers,/cbb/schools/birmingham-southern/,birmingham-southern,1920,2006,5,105,65,40,.619,-5.44,-8.71,0,1,0,0,0,0
 37,Bloomsburg Huskies,/cbb/schools/bloomsburg/,bloomsburg,1896,1911,15,143,88,55,.615,,,0,0,0,,,
-38,Boise State Broncos,/cbb/schools/boise-state/,boise-state,1972,2015,44,1275,700,575,.549,0.85,-0.39,0,5,5,6,0,0
-39,Boston College Eagles,/cbb/schools/boston-college/,boston-college,1946,2015,70,1943,1090,853,.561,8.30,6.48,8,8,2,18,0,0
-40,Boston University Terriers,/cbb/schools/boston-university/,boston-university,1916,2015,89,1996,1023,973,.513,-3.24,-4.55,0,8,6,7,0,0
-41,Bowling Green State Falcons,/cbb/schools/bowling-green-state/,bowling-green-state,1916,2015,100,2430,1316,1114,.542,-0.26,-0.15,2,9,0,4,0,0
-42,Bradley Braves,/cbb/schools/bradley/,bradley,1903,2015,111,2731,1610,1121,.590,3.44,2.48,12,8,2,8,2,0
+38,Boise State Broncos,/cbb/schools/boise-state/,boise-state,1972,2015,44,1284,707,577,.551,0.86,-0.41,0,6,5,7,0,0
+39,Boston College Eagles,/cbb/schools/boston-college/,boston-college,1946,2015,70,1952,1094,858,.560,8.32,6.49,8,8,2,18,0,0
+40,Boston University Terriers,/cbb/schools/boston-university/,boston-university,1916,2015,89,2001,1025,976,.512,-3.28,-4.57,0,8,6,7,0,0
+41,Bowling Green State Falcons,/cbb/schools/bowling-green-state/,bowling-green-state,1916,2015,100,2440,1320,1120,.541,-0.35,-0.15,2,9,0,4,0,0
+42,Bradley Braves,/cbb/schools/bradley/,bradley,1903,2015,111,2738,1611,1127,.588,3.42,2.49,12,8,2,8,2,0
 43,Brigham Young College ,/cbb/schools/brigham-young-college/,brigham-young-college,1908,1908,1,11,10,1,.909,,,0,0,0,,,
-44,Brigham Young Cougars,/cbb/schools/brigham-young/,brigham-young,1903,2015,113,2779,1733,1046,.624,9.32,4.32,10,25,3,28,0,0
+44,Brigham Young Cougars,/cbb/schools/brigham-young/,brigham-young,1903,2015,113,2786,1738,1048,.624,9.29,4.33,10,25,3,29,0,0
 45,Brooklyn Bulldogs,/cbb/schools/brooklyn/,brooklyn,1934,1992,25,567,233,334,.411,-19.22,-9.63,0,0,0,0,0,0
-46,Brown Bears,/cbb/schools/brown/,brown,1901,2015,109,2451,991,1460,.404,-10.24,-5.12,0,1,0,2,0,0
-47,Bryant Bulldogs,/cbb/schools/bryant/,bryant,2011,2015,5,148,60,88,.405,-8.59,-4.17,0,0,0,0,0,0
-48,Bucknell Bison,/cbb/schools/bucknell/,bucknell,1896,2015,120,2536,1355,1181,.534,-4.63,-6.23,0,12,6,6,0,0
-49,Buffalo Bulls,/cbb/schools/buffalo/,buffalo,1907,2015,46,1057,509,548,.482,-5.13,-2.45,0,2,0,0,0,0
-50,Butler Bulldogs,/cbb/schools/butler/,butler,1897,2015,117,2598,1508,1090,.580,3.83,1.39,5,13,7,12,2,0
-51,Cal Poly Mustangs,/cbb/schools/cal-poly/,cal-poly,1995,2015,21,608,259,349,.426,-5.95,-1.72,0,1,1,1,0,0
-52,Cal State Bakersfield Roadrunners,/cbb/schools/cal-state-bakersfield/,cal-state-bakersfield,2011,2015,5,147,62,85,.422,-7.23,-3.47,0,0,0,0,0,0
-53,Cal State Fullerton Titans,/cbb/schools/cal-state-fullerton/,cal-state-fullerton,1975,2015,41,1179,561,618,.476,-1.89,-0.05,0,2,2,2,0,0
+46,Brown Bears,/cbb/schools/brown/,brown,1901,2015,109,2457,993,1464,.404,-10.27,-5.13,0,1,0,2,0,0
+47,Bryant Bulldogs,/cbb/schools/bryant/,bryant,2011,2015,5,154,64,90,.416,-8.70,-4.39,0,0,0,0,0,0
+48,Bucknell Bison,/cbb/schools/bucknell/,bucknell,1896,2015,120,2544,1360,1184,.535,-4.64,-6.25,0,13,6,6,0,0
+49,Buffalo Bulls,/cbb/schools/buffalo/,buffalo,1907,2015,46,1066,517,549,.485,-5.09,-2.43,0,3,1,1,0,0
+50,Butler Bulldogs,/cbb/schools/butler/,butler,1897,2015,117,2607,1513,1094,.580,3.80,1.42,6,13,7,13,2,0
+51,Cal Poly Mustangs,/cbb/schools/cal-poly/,cal-poly,1995,2015,21,614,260,354,.423,-6.00,-1.74,0,1,1,1,0,0
+52,Cal State Bakersfield Roadrunners,/cbb/schools/cal-state-bakersfield/,cal-state-bakersfield,2011,2015,5,154,66,88,.429,-7.26,-3.62,0,0,0,0,0,0
+53,Cal State Fullerton Titans,/cbb/schools/cal-state-fullerton/,cal-state-fullerton,1975,2015,41,1185,561,624,.473,-1.93,-0.04,0,2,2,2,0,0
 54,Cal State Los Angeles Golden Eagles,/cbb/schools/cal-state-los-angeles/,cal-state-los-angeles,1971,1975,5,130,70,60,.538,,,0,0,0,1,0,0
-55,Cal State Northridge Matadors,/cbb/schools/cal-state-northridge/,cal-state-northridge,1991,2015,25,735,326,409,.444,-4.75,-1.70,0,3,2,2,0,0
-56,California Golden Bears,/cbb/schools/california/,california,1908,2015,106,2664,1559,1105,.585,8.78,6.83,4,14,0,18,3,1
-57,California-Davis Aggies,/cbb/schools/california-davis/,california-davis,2008,2015,8,241,93,148,.386,-7.48,-2.77,0,0,0,0,0,0
-58,California-Irvine Anteaters,/cbb/schools/california-irvine/,california-irvine,1978,2015,38,1113,521,592,.468,-1.63,0.48,0,3,0,0,0,0
-59,California-Riverside Highlanders,/cbb/schools/california-riverside/,california-riverside,2002,2015,14,403,138,265,.342,-8.63,-1.66,0,0,0,0,0,0
-60,California-Santa Barbara Gauchos,/cbb/schools/california-santa-barbara/,california-santa-barbara,1964,2015,52,1454,764,690,.525,0.76,0.61,0,4,3,5,0,0
-61,Campbell Fighting Camels,/cbb/schools/campbell/,campbell,1978,2015,38,1074,433,641,.403,-13.18,-7.19,0,1,1,1,0,0
-62,Canisius Golden Griffins,/cbb/schools/canisius/,canisius,1904,2015,111,2432,1233,1199,.507,-5.01,-3.41,1,7,1,4,0,0
+55,Cal State Northridge Matadors,/cbb/schools/cal-state-northridge/,cal-state-northridge,1991,2015,25,741,329,412,.444,-4.72,-1.71,0,3,2,2,0,0
+56,California Golden Bears,/cbb/schools/california/,california,1908,2015,106,2672,1561,1111,.584,8.77,6.88,4,14,0,18,3,1
+57,California-Davis Aggies,/cbb/schools/california-davis/,california-davis,2008,2015,8,250,99,151,.396,-7.44,-2.57,0,1,0,0,0,0
+58,California-Irvine Anteaters,/cbb/schools/california-irvine/,california-irvine,1978,2015,38,1123,528,595,.470,-1.62,0.47,0,3,1,1,0,0
+59,California-Riverside Highlanders,/cbb/schools/california-riverside/,california-riverside,2002,2015,14,409,140,269,.342,-8.62,-1.67,0,0,0,0,0,0
+60,California-Santa Barbara Gauchos,/cbb/schools/california-santa-barbara/,california-santa-barbara,1964,2015,52,1463,770,693,.526,0.74,0.58,0,4,3,5,0,0
+61,Campbell Fighting Camels,/cbb/schools/campbell/,campbell,1978,2015,38,1079,434,645,.402,-13.22,-7.20,0,1,1,1,0,0
+62,Canisius Golden Griffins,/cbb/schools/canisius/,canisius,1904,2015,111,2441,1239,1202,.508,-5.01,-3.43,1,7,1,4,0,0
 63,Carleton College Knights,/cbb/schools/carleton-college/,carleton-college,1910,1934,25,360,280,80,.778,,,0,0,0,,,
 64,Carnegie Mellon Tartans,/cbb/schools/carnegie-mellon/,carnegie-mellon,1933,1939,7,87,40,47,.460,,,0,2,0,0,0,0
 65,Case Western Reserve Spartans,/cbb/schools/case-western-reserve/,case-western-reserve,1898,1955,13,245,95,150,.388,,,0,0,0,0,0,0
 66,Catholic Cardinals,/cbb/schools/catholic/,catholic,1913,1981,13,248,122,126,.492,-20.94,-6.16,0,0,0,1,0,0
 67,Centenary (LA) Gents,/cbb/schools/centenary-la/,centenary-la,1960,2011,52,1435,637,798,.444,-10.54,-4.46,1,2,1,0,0,0
-68,Central Arkansas Bears,/cbb/schools/central-arkansas/,central-arkansas,2011,2015,5,139,35,104,.252,-17.43,-5.51,0,0,0,0,0,0
-69,Central Connecticut State Blue Devils,/cbb/schools/central-connecticut-state/,central-connecticut-state,1987,2015,29,836,354,482,.423,-11.97,-7.71,0,3,3,3,0,0
-70,Central Florida Knights,/cbb/schools/central-florida/,central-florida,1985,2015,31,911,446,465,.490,-5.70,-3.66,0,1,4,4,0,0
-71,Central Michigan Chippewas,/cbb/schools/central-michigan/,central-michigan,1974,2015,42,1179,505,674,.428,-4.90,-0.29,0,6,2,4,0,0
+68,Central Arkansas Bears,/cbb/schools/central-arkansas/,central-arkansas,2011,2015,5,146,36,110,.247,-17.27,-5.57,0,0,0,0,0,0
+69,Central Connecticut State Blue Devils,/cbb/schools/central-connecticut-state/,central-connecticut-state,1987,2015,29,840,356,484,.424,-11.95,-7.73,0,3,3,3,0,0
+70,Central Florida Knights,/cbb/schools/central-florida/,central-florida,1985,2015,31,918,448,470,.488,-5.73,-3.68,0,1,4,4,0,0
+71,Central Michigan Chippewas,/cbb/schools/central-michigan/,central-michigan,1974,2015,42,1189,511,678,.430,-4.95,-0.27,0,7,2,4,0,0
 72,Central Missouri Mules,/cbb/schools/central-missouri/,central-missouri,1913,1937,10,178,140,38,.787,,,0,0,0,,,
 73,Central Normal College ,/cbb/schools/central-normal-college/,central-normal-college,1931,1931,1,19,19,0,1.000,,,0,0,0,,,
 74,Central Pennsylvania College Knights,/cbb/schools/central-pennsylvania-college/,central-pennsylvania-college,1896,1900,4,6,2,4,.333,,,0,0,0,,,
 75,Centre (KY) Colonels,/cbb/schools/centre-ky/,centre-ky,1910,1919,3,45,41,4,.911,,,0,0,0,,,
-76,Charleston Southern Buccaneers,/cbb/schools/charleston-southern/,charleston-southern,1975,2015,41,1159,479,680,.413,-11.73,-7.53,0,3,4,1,0,0
-77,Charlotte 49ers,/cbb/schools/charlotte/,charlotte,1973,2015,43,1271,723,548,.569,4.30,3.49,2,6,5,11,1,0
-78,Chattanooga Mocs,/cbb/schools/chattanooga/,chattanooga,1978,2015,38,1156,701,455,.606,-2.14,-3.66,1,18,10,10,0,0
+76,Charleston Southern Buccaneers,/cbb/schools/charleston-southern/,charleston-southern,1975,2015,41,1165,482,683,.414,-11.71,-7.54,0,4,4,1,0,0
+77,Charlotte 49ers,/cbb/schools/charlotte/,charlotte,1973,2015,43,1278,726,552,.568,4.28,3.46,2,6,5,11,1,0
+78,Chattanooga Mocs,/cbb/schools/chattanooga/,chattanooga,1978,2015,38,1161,705,456,.607,-2.14,-3.68,1,18,10,10,0,0
 79,Cheyenne Business College ,/cbb/schools/cheyenne-business-college/,cheyenne-business-college,1903,1903,1,1,1,0,1.000,,,0,0,0,,,
 80,Chicago Maroons,/cbb/schools/chicago/,chicago,1896,1946,46,862,419,443,.486,,,0,6,0,0,0,0
-81,Chicago State Cougars,/cbb/schools/chicago-state/,chicago-state,1985,2015,31,889,251,638,.282,-14.43,-2.48,0,1,1,0,0,0
-82,Cincinnati Bearcats,/cbb/schools/cincinnati/,cincinnati,1902,2015,114,2668,1689,979,.633,11.58,6.22,22,23,10,28,6,2
-83,Citadel Bulldogs,/cbb/schools/citadel/,citadel,1913,2015,103,2229,950,1279,.426,-10.87,-4.25,0,0,0,0,0,0
+81,Chicago State Cougars,/cbb/schools/chicago-state/,chicago-state,1985,2015,31,895,253,642,.283,-14.40,-2.52,0,1,1,0,0,0
+82,Cincinnati Bearcats,/cbb/schools/cincinnati/,cincinnati,1902,2015,114,2677,1695,982,.633,11.60,6.25,22,23,10,29,6,2
+83,Citadel Bulldogs,/cbb/schools/citadel/,citadel,1913,2015,103,2235,952,1283,.426,-10.91,-4.27,0,0,0,0,0,0
 84,City College of New York Beavers,/cbb/schools/city-college-of-new-york/,city-college-of-new-york,1906,1953,48,725,517,208,.713,,,0,1,0,2,2,1
-85,Clemson Tigers,/cbb/schools/clemson/,clemson,1912,2015,104,2497,1251,1244,.501,10.52,6.93,5,1,1,11,0,0
-86,Cleveland State Vikings,/cbb/schools/cleveland-state/,cleveland-state,1973,2015,43,1241,637,604,.513,-1.34,-1.26,0,4,2,2,0,0
-87,Coastal Carolina Chanticleers,/cbb/schools/coastal-carolina/,coastal-carolina,1987,2015,29,845,426,419,.504,-9.18,-6.97,0,7,4,3,0,0
-88,Colgate Raiders,/cbb/schools/colgate/,colgate,1901,2015,115,2546,1210,1336,.475,-11.29,-6.01,0,3,2,2,0,0
-89,College of Charleston Cougars,/cbb/schools/college-of-charleston/,college-of-charleston,1992,2015,24,737,515,222,.699,0.93,-4.69,2,12,3,4,0,0
+85,Clemson Tigers,/cbb/schools/clemson/,clemson,1912,2015,104,2503,1252,1249,.501,10.49,6.96,5,1,1,11,0,0
+86,Cleveland State Vikings,/cbb/schools/cleveland-state/,cleveland-state,1973,2015,43,1249,641,608,.513,-1.34,-1.28,0,4,2,2,0,0
+87,Coastal Carolina Chanticleers,/cbb/schools/coastal-carolina/,coastal-carolina,1987,2015,29,853,432,421,.506,-9.16,-6.96,0,7,5,4,0,0
+88,Colgate Raiders,/cbb/schools/colgate/,colgate,1901,2015,115,2553,1215,1338,.476,-11.29,-6.05,0,3,2,2,0,0
+89,College of Charleston Cougars,/cbb/schools/college-of-charleston/,college-of-charleston,1992,2015,24,744,517,227,.695,0.88,-4.72,2,12,3,4,0,0
 90,College of New Jersey Lions,/cbb/schools/college-of-new-jersey/,college-of-new-jersey,1900,1900,1,5,3,2,.600,,,0,0,0,,,
-91,Colorado Buffaloes,/cbb/schools/colorado/,colorado,1902,2015,112,2382,1231,1151,.517,5.72,7.05,5,19,1,13,2,0
+91,Colorado Buffaloes,/cbb/schools/colorado/,colorado,1902,2015,112,2393,1236,1157,.517,5.66,7.03,5,19,1,13,2,0
 92,Colorado College Tigers,/cbb/schools/colorado-college/,colorado-college,1915,1937,23,376,233,143,.620,,,0,7,0,,,
 93,Colorado School of Mines Orediggers,/cbb/schools/colorado-school-of-mines/,colorado-school-of-mines,1908,1937,28,282,80,202,.284,,,0,2,0,,,
-94,Colorado State Rams,/cbb/schools/colorado-state/,colorado-state,1902,2015,111,2396,1195,1201,.499,3.39,3.40,0,6,1,10,0,0
-95,Columbia Lions,/cbb/schools/columbia/,columbia,1901,2015,115,2495,1246,1249,.499,-10.04,-5.63,2,13,0,3,0,0
+94,Colorado State Rams,/cbb/schools/colorado-state/,colorado-state,1902,2015,111,2404,1201,1203,.500,3.34,3.36,0,6,1,10,0,0
+95,Columbia Lions,/cbb/schools/columbia/,columbia,1901,2015,115,2501,1248,1253,.499,-10.08,-5.65,2,13,0,3,0,0
 96,Concordia Seminary Preachers,/cbb/schools/concordia-seminary/,concordia-seminary,1907,1923,2,16,14,2,.875,,,0,0,0,,,
-97,Connecticut Huskies,/cbb/schools/connecticut/,connecticut,1901,2015,109,2468,1579,889,.640,13.60,6.45,16,27,7,31,5,4
-98,Coppin State Eagles,/cbb/schools/coppin-state/,coppin-state,1986,2015,30,898,444,454,.494,-9.58,-8.33,0,10,4,4,0,0
-99,Cornell Big Red,/cbb/schools/cornell/,cornell,1899,2015,117,2581,1216,1365,.471,-8.41,-5.01,0,8,0,5,0,0
+97,Connecticut Huskies,/cbb/schools/connecticut/,connecticut,1901,2015,109,2479,1585,894,.639,13.59,6.46,16,27,7,31,5,4
+98,Coppin State Eagles,/cbb/schools/coppin-state/,coppin-state,1986,2015,30,904,447,457,.494,-9.60,-8.38,0,10,4,4,0,0
+99,Cornell Big Red,/cbb/schools/cornell/,cornell,1899,2015,117,2587,1217,1370,.470,-8.45,-5.02,0,8,0,5,0,0
 100,Cotner University ,/cbb/schools/cotner-university/,cotner-university,1910,1911,2,27,24,3,.889,,,0,0,0,,,
-101,Creighton Bluejays,/cbb/schools/creighton/,creighton,1912,2015,95,2437,1474,963,.605,5.32,3.25,4,15,12,19,0,0
+101,Creighton Bluejays,/cbb/schools/creighton/,creighton,1912,2015,95,2444,1476,968,.604,5.36,3.27,4,15,12,19,0,0
 102,Cumberland University Bulldogs,/cbb/schools/cumberland-university/,cumberland-university,1904,1904,1,4,4,0,1.000,,,0,0,0,,,
 103,Dakota Wesleyan Tigers,/cbb/schools/dakota-wesleyan/,dakota-wesleyan,1932,1932,1,20,19,1,.950,,,0,0,0,,,
-104,Dartmouth Big Green,/cbb/schools/dartmouth/,dartmouth,1900,2015,115,2713,1267,1444,.467,-11.67,-6.47,0,12,0,7,2,0
-105,Davidson Wildcats,/cbb/schools/davidson/,davidson,1909,2015,106,2538,1372,1166,.541,-1.28,-2.75,6,23,12,12,0,0
-106,Dayton Flyers,/cbb/schools/dayton/,dayton,1904,2015,110,2622,1553,1069,.592,5.16,3.17,7,4,2,15,1,0
-107,Delaware Fightin' Blue Hens,/cbb/schools/delaware/,delaware,1906,2015,74,1755,877,877,.500,-5.27,-4.48,0,4,5,5,0,0
-108,Delaware State Hornets,/cbb/schools/delaware-state/,delaware-state,1974,2015,42,1190,497,693,.418,-15.08,-9.90,0,3,1,1,0,0
+104,Dartmouth Big Green,/cbb/schools/dartmouth/,dartmouth,1900,2015,115,2720,1272,1446,.468,-11.66,-6.47,0,12,0,7,2,0
+105,Davidson Wildcats,/cbb/schools/davidson/,davidson,1909,2015,106,2547,1379,1168,.541,-1.30,-2.72,6,24,12,13,0,0
+106,Dayton Flyers,/cbb/schools/dayton/,dayton,1904,2015,110,2634,1561,1073,.593,5.14,3.20,7,4,2,16,1,0
+107,Delaware Fightin' Blue Hens,/cbb/schools/delaware/,delaware,1906,2015,74,1760,880,879,.500,-5.24,-4.50,0,4,5,5,0,0
+108,Delaware State Hornets,/cbb/schools/delaware-state/,delaware-state,1974,2015,42,1201,503,698,.419,-15.09,-9.94,0,3,1,1,0,0
 109,Denison Big Red,/cbb/schools/denison/,denison,1905,1944,24,362,269,93,.743,,,0,0,0,0,0,0
-110,Denver Pioneers,/cbb/schools/denver/,denver,1904,2015,92,1948,884,1064,.454,-3.44,-2.22,0,5,0,0,0,0
-111,DePaul Blue Demons,/cbb/schools/depaul/,depaul,1924,2015,92,2355,1419,936,.603,7.81,6.14,12,9,0,22,2,0
+110,Denver Pioneers,/cbb/schools/denver/,denver,1904,2015,92,1953,886,1067,.454,-3.45,-2.24,0,5,0,0,0,0
+111,DePaul Blue Demons,/cbb/schools/depaul/,depaul,1924,2015,92,2361,1419,942,.601,7.76,6.16,12,9,0,22,2,0
 112,DePauw Tigers,/cbb/schools/depauw/,depauw,1916,1932,17,276,182,94,.659,,,0,0,0,,,
-113,Detroit Mercy Titans,/cbb/schools/detroit-mercy/,detroit-mercy,1910,2015,106,2518,1370,1148,.544,-0.07,0.70,2,2,3,6,0,0
+113,Detroit Mercy Titans,/cbb/schools/detroit-mercy/,detroit-mercy,1910,2015,106,2524,1373,1151,.544,-0.09,0.69,2,2,3,6,0,0
 114,Dickinson College Red Devils,/cbb/schools/dickinson-college/,dickinson-college,1926,1947,2,34,30,4,.882,,,0,0,0,0,0,0
-115,Drake Bulldogs,/cbb/schools/drake/,drake,1907,2015,109,2588,1187,1401,.459,-0.26,2.53,5,8,1,4,1,0
-116,Drexel Dragons,/cbb/schools/drexel/,drexel,1895,2015,45,1220,702,518,.575,-2.15,-4.11,0,7,4,4,0,0
-117,Duke Blue Devils,/cbb/schools/duke/,duke,1906,2015,110,2901,2049,852,.706,20.82,9.05,43,22,24,38,15,4
-118,Duquesne Dukes,/cbb/schools/duquesne/,duquesne,1914,2015,99,2388,1336,1052,.559,-0.87,2.25,7,3,1,5,1,0
-119,East Carolina Pirates,/cbb/schools/east-carolina/,east-carolina,1967,2015,49,1379,614,765,.445,-4.03,-0.50,0,0,2,2,0,0
+115,Drake Bulldogs,/cbb/schools/drake/,drake,1907,2015,109,2593,1188,1405,.458,-0.24,2.50,5,8,1,4,1,0
+116,Drexel Dragons,/cbb/schools/drexel/,drexel,1895,2015,45,1226,703,523,.573,-2.19,-4.13,0,7,4,4,0,0
+117,Duke Blue Devils,/cbb/schools/duke/,duke,1906,2015,110,2915,2062,853,.707,20.86,9.10,44,22,24,39,16,5
+118,Duquesne Dukes,/cbb/schools/duquesne/,duquesne,1914,2015,99,2396,1340,1056,.559,-0.86,2.25,7,3,1,5,1,0
+119,East Carolina Pirates,/cbb/schools/east-carolina/,east-carolina,1967,2015,49,1387,617,770,.445,-4.04,-0.50,0,0,2,2,0,0
 120,East Central Tigers,/cbb/schools/east-central/,east-central,1929,1931,3,74,66,8,.892,,,0,0,0,,,
-121,East Tennessee State Buccaneers,/cbb/schools/east-tennessee-state/,east-tennessee-state,1959,2015,57,1598,846,752,.529,-3.78,-3.35,1,9,8,9,0,0
-122,Eastern Illinois Panthers,/cbb/schools/eastern-illinois/,eastern-illinois,1982,2015,34,986,456,530,.462,-7.28,-4.26,0,0,3,2,0,0
-123,Eastern Kentucky Colonels,/cbb/schools/eastern-kentucky/,eastern-kentucky,1948,2015,65,1721,850,871,.494,-6.63,-4.04,0,7,5,8,0,0
-124,Eastern Michigan Eagles,/cbb/schools/eastern-michigan/,eastern-michigan,1933,2015,43,1245,583,662,.468,-2.36,-0.35,0,5,4,4,0,0
-125,Eastern Washington Eagles,/cbb/schools/eastern-washington/,eastern-washington,1984,2015,32,905,366,539,.404,-6.74,-1.98,0,2,1,1,0,0
-126,Elon Phoenix,/cbb/schools/elon/,elon,2000,2015,16,483,202,281,.418,-9.46,-4.31,0,2,0,0,0,0
+121,East Tennessee State Buccaneers,/cbb/schools/east-tennessee-state/,east-tennessee-state,1959,2015,57,1603,847,756,.528,-3.80,-3.37,1,9,8,9,0,0
+122,Eastern Illinois Panthers,/cbb/schools/eastern-illinois/,eastern-illinois,1982,2015,34,993,459,534,.462,-7.28,-4.25,0,0,3,2,0,0
+123,Eastern Kentucky Colonels,/cbb/schools/eastern-kentucky/,eastern-kentucky,1948,2015,65,1729,855,874,.495,-6.66,-4.05,0,7,5,8,0,0
+124,Eastern Michigan Eagles,/cbb/schools/eastern-michigan/,eastern-michigan,1933,2015,43,1255,588,667,.469,-2.39,-0.34,0,5,4,4,0,0
+125,Eastern Washington Eagles,/cbb/schools/eastern-washington/,eastern-washington,1984,2015,32,915,373,542,.408,-6.76,-2.00,0,3,2,2,0,0
+126,Elon Phoenix,/cbb/schools/elon/,elon,2000,2015,16,489,206,283,.421,-9.41,-4.35,0,2,0,0,0,0
 127,Emporia State Hornets,/cbb/schools/emporia-state/,emporia-state,1934,1934,1,18,17,1,.944,,,0,0,0,,,
-128,Evansville Purple Aces,/cbb/schools/evansville/,evansville,1925,2015,42,1164,632,532,.543,1.86,1.00,0,6,4,5,0,0
-129,Fairfield Stags,/cbb/schools/fairfield/,fairfield,1965,2015,51,1439,705,734,.490,-4.77,-2.59,0,3,3,3,0,0
-130,Fairleigh Dickinson Knights,/cbb/schools/fairleigh-dickinson/,fairleigh-dickinson,1968,2015,48,1331,642,689,.482,-9.28,-7.02,0,5,4,4,0,0
-131,Florida A&M Rattlers,/cbb/schools/florida-am/,florida-am,1980,2015,36,1056,417,639,.395,-15.61,-9.02,0,0,4,3,0,0
-132,Florida Atlantic Owls,/cbb/schools/florida-atlantic/,florida-atlantic,1994,2015,22,639,232,407,.363,-9.92,-3.78,0,1,1,1,0,0
-133,Florida Gators,/cbb/schools/florida/,florida,1921,2015,94,2398,1339,1058,.559,13.32,7.81,13,9,4,19,5,2
-134,Florida Gulf Coast Eagles,/cbb/schools/florida-gulf-coast/,florida-gulf-coast,2011,2015,5,160,92,68,.575,-2.24,-3.23,0,1,1,1,0,0
-135,Florida International Panthers,/cbb/schools/florida-international/,florida-international,1988,2015,28,815,321,494,.394,-8.70,-3.41,0,1,1,1,0,0
-136,Florida State Seminoles,/cbb/schools/florida-state/,florida-state,1957,2015,59,1713,1001,712,.584,9.64,7.37,8,2,2,14,1,0
-137,Fordham Rams,/cbb/schools/fordham/,fordham,1903,2015,111,2769,1463,1306,.528,-3.61,0.20,1,4,4,4,0,0
+128,Evansville Purple Aces,/cbb/schools/evansville/,evansville,1925,2015,42,1174,638,536,.543,1.86,1.03,0,6,4,5,0,0
+129,Fairfield Stags,/cbb/schools/fairfield/,fairfield,1965,2015,51,1445,706,739,.489,-4.78,-2.61,0,3,3,3,0,0
+130,Fairleigh Dickinson Knights,/cbb/schools/fairleigh-dickinson/,fairleigh-dickinson,1968,2015,48,1335,643,692,.482,-9.30,-7.05,0,5,4,4,0,0
+131,Florida A&M Rattlers,/cbb/schools/florida-am/,florida-am,1980,2015,36,1061,418,643,.394,-15.60,-9.06,0,0,4,3,0,0
+132,Florida Atlantic Owls,/cbb/schools/florida-atlantic/,florida-atlantic,1994,2015,22,645,233,412,.361,-9.97,-3.79,0,1,1,1,0,0
+133,Florida Gators,/cbb/schools/florida/,florida,1921,2015,94,2406,1343,1062,.558,13.29,7.83,13,9,4,19,5,2
+134,Florida Gulf Coast Eagles,/cbb/schools/florida-gulf-coast/,florida-gulf-coast,2011,2015,5,167,95,72,.569,-2.74,-3.57,0,1,1,1,0,0
+135,Florida International Panthers,/cbb/schools/florida-international/,florida-international,1988,2015,28,823,325,498,.395,-8.72,-3.42,0,1,1,1,0,0
+136,Florida State Seminoles,/cbb/schools/florida-state/,florida-state,1957,2015,59,1720,1004,716,.584,9.65,7.41,8,2,2,14,1,0
+137,Fordham Rams,/cbb/schools/fordham/,fordham,1903,2015,111,2778,1467,1311,.528,-3.58,0.20,1,4,4,4,0,0
 138,Franklin Grizzlies,/cbb/schools/franklin/,franklin,1907,1925,18,221,144,77,.652,,,0,0,0,,,
-139,Fresno State Bulldogs,/cbb/schools/fresno-state/,fresno-state,1956,2015,48,1430,794,636,.555,4.23,2.58,1,6,4,5,0,0
-140,Furman Paladins,/cbb/schools/furman/,furman,1920,2015,94,2346,1148,1198,.489,-7.17,-3.77,0,5,6,6,0,0
-141,Gardner-Webb Runnin' Bulldogs,/cbb/schools/gardner-webb/,gardner-webb,2003,2015,13,396,173,223,.437,-9.02,-4.65,0,1,0,0,0,0
+139,Fresno State Bulldogs,/cbb/schools/fresno-state/,fresno-state,1956,2015,48,1437,797,640,.555,4.24,2.60,1,6,4,5,0,0
+140,Furman Paladins,/cbb/schools/furman/,furman,1920,2015,94,2354,1152,1202,.489,-7.15,-3.79,0,5,6,6,0,0
+141,Gardner-Webb Runnin' Bulldogs,/cbb/schools/gardner-webb/,gardner-webb,2003,2015,13,404,177,227,.438,-9.05,-4.69,0,1,0,0,0,0
 142,Geneva Golden Tornadoes,/cbb/schools/geneva/,geneva,1893,1943,10,125,80,45,.640,,,0,0,0,0,0,0
-143,George Mason Patriots,/cbb/schools/george-mason/,george-mason,1979,2015,37,1098,598,500,.545,-1.04,-1.68,0,4,4,6,1,0
-144,George Washington Colonials,/cbb/schools/george-washington/,george-washington,1913,2015,98,2351,1272,1079,.541,3.20,2.25,3,7,5,11,0,0
-145,Georgetown Hoyas,/cbb/schools/georgetown/,georgetown,1907,2015,107,2588,1603,985,.619,14.38,7.35,19,11,7,29,5,1
-146,Georgia Bulldogs,/cbb/schools/georgia/,georgia,1906,2015,110,2594,1350,1244,.520,10.44,7.74,5,3,3,11,1,0
-147,Georgia Southern Eagles,/cbb/schools/georgia-southern/,georgia-southern,1972,2015,44,1261,636,625,.504,-7.10,-5.27,0,7,3,3,0,0
-148,Georgia State Panthers,/cbb/schools/georgia-state/,georgia-state,1974,2015,42,1205,501,704,.416,-7.38,-4.21,0,5,2,2,0,0
-149,Georgia Tech Yellow Jackets,/cbb/schools/georgia-tech/,georgia-tech,1920,2015,96,2452,1296,1156,.529,10.58,8.82,8,3,4,16,2,0
+143,George Mason Patriots,/cbb/schools/george-mason/,george-mason,1979,2015,37,1105,599,506,.542,-1.06,-1.70,0,4,4,6,1,0
+144,George Washington Colonials,/cbb/schools/george-washington/,george-washington,1913,2015,98,2361,1277,1084,.541,3.20,2.27,3,7,5,11,0,0
+145,Georgetown Hoyas,/cbb/schools/georgetown/,georgetown,1907,2015,107,2597,1609,988,.620,14.37,7.36,20,11,7,30,5,1
+146,Georgia Bulldogs,/cbb/schools/georgia/,georgia,1906,2015,110,2603,1355,1248,.521,10.43,7.76,5,3,3,12,1,0
+147,Georgia Southern Eagles,/cbb/schools/georgia-southern/,georgia-southern,1972,2015,44,1269,640,629,.504,-7.12,-5.25,0,7,3,3,0,0
+148,Georgia State Panthers,/cbb/schools/georgia-state/,georgia-state,1974,2015,42,1215,509,706,.419,-7.33,-4.19,0,6,3,3,0,0
+149,Georgia Tech Yellow Jackets,/cbb/schools/georgia-tech/,georgia-tech,1920,2015,96,2458,1297,1161,.528,10.55,8.85,8,3,4,16,2,0
 150,Gettysburg Bullets,/cbb/schools/gettysburg/,gettysburg,1901,1973,41,724,385,339,.532,,,0,0,0,0,0,0
-151,Gonzaga Bulldogs,/cbb/schools/gonzaga/,gonzaga,1944,2015,64,1845,1166,679,.632,7.84,1.24,8,19,13,17,0,0
-152,Grambling Tigers,/cbb/schools/grambling/,grambling,1978,2015,38,1060,387,673,.365,-18.03,-9.33,0,2,0,0,0,0
-153,Grand Canyon Antelopes,/cbb/schools/grand-canyon/,grand-canyon,2014,2015,2,56,30,26,.536,-5.97,-4.07,0,0,0,0,0,0
-154,Green Bay Phoenix,/cbb/schools/green-bay/,green-bay,1982,2015,34,1013,560,453,.553,-0.04,-1.00,0,4,3,4,0,0
+151,Gonzaga Bulldogs,/cbb/schools/gonzaga/,gonzaga,1944,2015,64,1856,1175,681,.633,7.79,1.27,9,20,14,18,0,0
+152,Grambling Tigers,/cbb/schools/grambling/,grambling,1978,2015,38,1067,387,680,.363,-18.10,-9.42,0,2,0,0,0,0
+153,Grand Canyon Antelopes,/cbb/schools/grand-canyon/,grand-canyon,2014,2015,2,62,32,30,.516,-6.51,-4.48,0,0,0,0,0,0
+154,Green Bay Phoenix,/cbb/schools/green-bay/,green-bay,1982,2015,34,1020,564,456,.553,-0.06,-1.00,0,4,3,4,0,0
 155,Grinnell Pioneers,/cbb/schools/grinnell/,grinnell,1901,1939,38,550,280,270,.509,,,0,0,0,0,0,0
 156,Grove City Wolverines,/cbb/schools/grove-city/,grove-city,1899,1925,27,383,257,126,.671,,,0,0,0,,,
 157,Hamline Pipers,/cbb/schools/hamline/,hamline,1945,1948,4,102,82,20,.804,,,0,0,0,0,0,0
-158,Hampton Pirates,/cbb/schools/hampton/,hampton,1996,2015,20,599,313,286,.523,-8.98,-9.11,0,2,4,4,0,0
+158,Hampton Pirates,/cbb/schools/hampton/,hampton,1996,2015,20,610,320,290,.525,-8.83,-9.09,0,2,5,5,0,0
 159,Hardin-Simmons Cowboys,/cbb/schools/hardin-simmons/,hardin-simmons,1923,1990,45,1149,481,668,.419,-11.53,-4.81,0,1,0,2,0,0
-160,Hartford Hawks,/cbb/schools/hartford/,hartford,1985,2015,31,902,378,524,.419,-8.92,-5.36,0,0,0,0,0,0
-161,Harvard Crimson,/cbb/schools/harvard/,harvard,1901,2015,104,2354,1079,1275,.458,-7.78,-5.75,0,4,0,4,0,0
+160,Hartford Hawks,/cbb/schools/hartford/,hartford,1985,2015,31,907,380,527,.419,-8.95,-5.39,0,0,0,0,0,0
+161,Harvard Crimson,/cbb/schools/harvard/,harvard,1901,2015,104,2362,1084,1278,.459,-7.79,-5.75,0,5,0,5,0,0
 162,Haskell Indian Nations Institute Fighting Indians,/cbb/schools/haskell-indian-nations-institute/,haskell-indian-nations-institute,1903,1908,2,39,27,12,.692,,,0,0,0,,,
-163,Hawaii Warriors,/cbb/schools/hawaii/,hawaii,1971,2015,45,1306,677,629,.518,2.54,2.57,1,2,3,4,0,0
-164,High Point Panthers,/cbb/schools/high-point/,high-point,2000,2015,16,476,225,251,.473,-9.78,-6.47,0,2,0,0,0,0
+163,Hawaii Warriors,/cbb/schools/hawaii/,hawaii,1971,2015,45,1314,681,633,.518,2.53,2.58,1,2,3,4,0,0
+164,High Point Panthers,/cbb/schools/high-point/,high-point,2000,2015,16,483,229,254,.474,-9.78,-6.51,0,3,0,0,0,0
 165,Hiram Terriers,/cbb/schools/hiram/,hiram,1894,1904,8,59,45,14,.763,,,0,0,0,,,
-166,Hofstra Pride,/cbb/schools/hofstra/,hofstra,1943,2015,50,1423,712,711,.500,-5.33,-4.49,0,6,5,4,0,0
-167,Holy Cross Crusaders,/cbb/schools/holy-cross/,holy-cross,1901,2015,95,2269,1351,918,.595,-4.39,-5.04,6,7,6,12,2,1
+166,Hofstra Pride,/cbb/schools/hofstra/,hofstra,1943,2015,50,1431,716,715,.500,-5.32,-4.48,0,6,5,4,0,0
+167,Holy Cross Crusaders,/cbb/schools/holy-cross/,holy-cross,1901,2015,95,2275,1354,921,.595,-4.41,-5.07,6,7,6,12,2,1
 168,Hope Flying Dutchmen,/cbb/schools/hope/,hope,1908,1913,5,65,44,21,.677,,,0,0,0,,,
-169,Houston Baptist Huskies,/cbb/schools/houston-baptist/,houston-baptist,1974,2015,21,588,250,338,.425,-9.23,-6.25,0,2,1,1,0,0
-170,Houston Cougars,/cbb/schools/houston/,houston,1951,2015,65,1894,1117,777,.590,4.38,3.15,7,5,6,19,5,0
-171,Howard Bison,/cbb/schools/howard/,howard,1974,2015,42,1177,464,713,.394,-15.10,-9.51,0,4,3,2,0,0
-172,Idaho State Bengals,/cbb/schools/idaho-state/,idaho-state,1959,2015,57,1560,698,862,.447,-7.15,-1.99,0,4,2,5,0,0
-173,Idaho Vandals,/cbb/schools/idaho/,idaho,1906,2015,110,2710,1275,1433,.471,-2.29,-0.78,1,7,4,4,0,0
-174,Illinois Fighting Illini,/cbb/schools/illinois/,illinois,1906,2015,110,2660,1725,935,.648,15.87,8.71,26,17,2,30,5,0
-175,Illinois State Redbirds,/cbb/schools/illinois-state/,illinois-state,1899,2015,56,1400,841,559,.601,4.04,2.19,0,5,4,6,0,0
+169,Houston Baptist Huskies,/cbb/schools/houston-baptist/,houston-baptist,1974,2015,21,594,251,343,.423,-9.30,-6.27,0,2,1,1,0,0
+170,Houston Cougars,/cbb/schools/houston/,houston,1951,2015,65,1903,1121,782,.589,4.40,3.15,7,5,6,19,5,0
+171,Howard Bison,/cbb/schools/howard/,howard,1974,2015,42,1184,467,717,.394,-15.12,-9.53,0,4,3,2,0,0
+172,Idaho State Bengals,/cbb/schools/idaho-state/,idaho-state,1959,2015,57,1565,699,866,.447,-7.16,-1.99,0,4,2,5,0,0
+173,Idaho Vandals,/cbb/schools/idaho/,idaho,1906,2015,110,2717,1277,1438,.470,-2.32,-0.80,1,7,4,4,0,0
+174,Illinois Fighting Illini,/cbb/schools/illinois/,illinois,1906,2015,110,2668,1727,941,.647,15.82,8.76,26,17,2,30,5,0
+175,Illinois State Redbirds,/cbb/schools/illinois-state/,illinois-state,1899,2015,56,1409,848,561,.602,4.06,2.20,0,5,4,6,0,0
 176,Illinois Wesleyan Titans,/cbb/schools/illinois-wesleyan/,illinois-wesleyan,1928,1928,1,14,13,1,.929,,,0,0,0,,,
-177,Illinois-Chicago Flames,/cbb/schools/illinois-chicago/,illinois-chicago,1982,2015,34,1013,493,520,.487,-2.35,-0.88,0,2,2,3,0,0
-178,Incarnate Word Cardinals,/cbb/schools/incarnate-word/,incarnate-word,2014,2015,2,48,36,12,.750,-6.37,-8.71,0,0,0,0,0,0
-179,Indiana Hoosiers,/cbb/schools/indiana/,indiana,1901,2015,115,2742,1750,992,.638,15.91,9.42,27,21,0,37,8,5
-180,Indiana State Sycamores,/cbb/schools/indiana-state/,indiana-state,1900,2015,93,2039,1060,979,.520,-0.79,2.43,1,2,3,4,1,0
-181,Iona Gaels,/cbb/schools/iona/,iona,1954,2015,62,1676,936,740,.558,-0.52,-2.47,1,9,7,10,0,0
-182,Iowa Hawkeyes,/cbb/schools/iowa/,iowa,1893,2015,118,2682,1568,1113,.585,13.37,8.13,17,8,2,23,3,0
-183,Iowa State Cyclones,/cbb/schools/iowa-state/,iowa-state,1908,2015,108,2551,1284,1267,.503,9.38,7.18,6,6,3,16,1,0
-184,IPFW Mastodons,/cbb/schools/ipfw/,ipfw,2003,2015,13,389,166,223,.427,-7.41,-2.12,0,0,0,0,0,0
-185,IUPUI Jaguars,/cbb/schools/iupui/,iupui,1999,2015,17,522,256,266,.490,-4.28,-2.55,0,1,1,1,0,0
-186,Jackson State Tigers,/cbb/schools/jackson-state/,jackson-state,1978,2015,38,1125,532,593,.473,-11.16,-8.52,0,7,4,3,0,0
-187,Jacksonville Dolphins,/cbb/schools/jacksonville/,jacksonville,1967,2015,49,1395,688,707,.493,-5.02,-1.92,2,3,2,5,1,0
-188,Jacksonville State Gamecocks,/cbb/schools/jacksonville-state/,jacksonville-state,1996,2015,20,574,232,342,.404,-10.67,-6.79,0,0,0,0,0,0
-189,James Madison Dukes,/cbb/schools/james-madison/,james-madison,1977,2015,39,1151,598,553,.520,-1.93,-1.83,0,6,3,5,0,0
+177,Illinois-Chicago Flames,/cbb/schools/illinois-chicago/,illinois-chicago,1982,2015,34,1021,496,525,.486,-2.35,-0.90,0,2,2,3,0,0
+178,Incarnate Word Cardinals,/cbb/schools/incarnate-word/,incarnate-word,2014,2015,2,56,39,17,.696,-7.31,-8.60,0,0,0,0,0,0
+179,Indiana Hoosiers,/cbb/schools/indiana/,indiana,1901,2015,115,2751,1753,998,.637,15.91,9.44,27,21,0,38,8,5
+180,Indiana State Sycamores,/cbb/schools/indiana-state/,indiana-state,1900,2015,93,2044,1062,982,.520,-0.81,2.42,1,2,3,4,1,0
+181,Iona Gaels,/cbb/schools/iona/,iona,1954,2015,62,1685,942,743,.559,-0.59,-2.48,1,10,7,10,0,0
+182,Iowa Hawkeyes,/cbb/schools/iowa/,iowa,1893,2015,118,2692,1575,1116,.585,13.40,8.13,17,8,2,24,3,0
+183,Iowa State Cyclones,/cbb/schools/iowa-state/,iowa-state,1908,2015,108,2561,1291,1270,.504,9.36,7.22,7,6,4,17,1,0
+184,IPFW Mastodons,/cbb/schools/ipfw/,ipfw,2003,2015,13,395,168,227,.425,-7.41,-2.16,0,0,0,0,0,0
+185,IUPUI Jaguars,/cbb/schools/iupui/,iupui,1999,2015,17,527,257,270,.488,-4.32,-2.60,0,1,1,1,0,0
+186,Jackson State Tigers,/cbb/schools/jackson-state/,jackson-state,1978,2015,38,1132,535,597,.473,-11.13,-8.57,0,7,4,3,0,0
+187,Jacksonville Dolphins,/cbb/schools/jacksonville/,jacksonville,1967,2015,49,1400,690,710,.493,-4.99,-1.93,2,3,2,5,1,0
+188,Jacksonville State Gamecocks,/cbb/schools/jacksonville-state/,jacksonville-state,1996,2015,20,577,233,344,.404,-10.70,-6.80,0,0,0,0,0,0
+189,James Madison Dukes,/cbb/schools/james-madison/,james-madison,1977,2015,39,1157,601,556,.519,-1.95,-1.84,0,7,3,5,0,0
 190,John Carroll Blue Streaks,/cbb/schools/john-carroll/,john-carroll,1948,1955,8,191,80,111,.419,,,0,0,0,0,0,0
 191,Kalamazoo Hornets,/cbb/schools/kalamazoo/,kalamazoo,1908,1923,16,193,134,59,.694,,,0,0,0,,,
-192,Kansas Jayhawks,/cbb/schools/kansas/,kansas,1899,2015,117,2973,2147,826,.722,19.31,8.58,39,57,13,43,14,3
-193,Kansas State Wildcats,/cbb/schools/kansas-state/,kansas-state,1906,2015,110,2666,1567,1099,.588,9.78,7.40,15,18,2,28,4,0
-194,Kennesaw State Owls,/cbb/schools/kennesaw-state/,kennesaw-state,2010,2015,6,183,42,141,.230,-14.43,-3.42,0,0,0,0,0,0
-195,Kent State Golden Flashes,/cbb/schools/kent-state/,kent-state,1914,2015,96,2258,1098,1160,.486,1.35,0.01,0,8,5,5,0,0
+192,Kansas Jayhawks,/cbb/schools/kansas/,kansas,1899,2015,117,2984,2153,831,.722,19.27,8.58,40,58,13,44,14,3
+193,Kansas State Wildcats,/cbb/schools/kansas-state/,kansas-state,1906,2015,110,2672,1569,1103,.587,9.75,7.42,15,18,2,28,4,0
+194,Kennesaw State Owls,/cbb/schools/kennesaw-state/,kennesaw-state,2010,2015,6,188,43,145,.229,-14.67,-3.56,0,0,0,0,0,0
+195,Kent State Golden Flashes,/cbb/schools/kent-state/,kent-state,1914,2015,96,2268,1104,1164,.487,1.33,0.00,0,9,5,5,0,0
 196,Kentucky Wesleyan Panthers,/cbb/schools/kentucky-wesleyan/,kentucky-wesleyan,1957,1958,2,52,30,22,.577,,,0,0,0,0,0,0
-197,Kentucky Wildcats,/cbb/schools/kentucky/,kentucky,1903,2015,112,2841,2167,673,.763,19.04,9.07,47,52,29,54,16,8
-198,La Salle Explorers,/cbb/schools/la-salle/,la-salle,1932,2015,84,2233,1323,910,.592,1.99,1.20,6,9,8,12,2,1
-199,Lafayette Leopards,/cbb/schools/lafayette/,lafayette,1901,2015,105,2474,1292,1182,.522,-8.58,-5.91,0,17,2,3,0,0
+197,Kentucky Wildcats,/cbb/schools/kentucky/,kentucky,1903,2015,112,2855,2180,674,.764,19.00,9.08,48,53,30,55,17,8
+198,La Salle Explorers,/cbb/schools/la-salle/,la-salle,1932,2015,84,2241,1326,915,.592,1.96,1.18,6,9,8,12,2,1
+199,Lafayette Leopards,/cbb/schools/lafayette/,lafayette,1901,2015,105,2482,1298,1184,.523,-8.57,-5.91,0,17,3,4,0,0
 200,Lake Forest Foresters,/cbb/schools/lake-forest/,lake-forest,1905,1916,12,144,89,55,.618,,,0,0,0,,,
-201,Lamar Cardinals,/cbb/schools/lamar/,lamar,1970,2015,46,1318,673,645,.511,-3.43,-3.06,0,9,4,6,0,0
+201,Lamar Cardinals,/cbb/schools/lamar/,lamar,1970,2015,46,1324,676,648,.511,-3.42,-3.06,0,9,4,6,0,0
 202,Latter Day Saints University ,/cbb/schools/latter-day-saints-university/,latter-day-saints-university,1903,1903,1,16,15,1,.938,,,0,0,0,,,
 203,Lawrence Vikings,/cbb/schools/lawrence/,lawrence,1948,1948,1,28,22,6,.786,,,0,0,0,0,0,0
-204,Lehigh Mountain Hawks,/cbb/schools/lehigh/,lehigh,1902,2015,114,2391,1032,1359,.432,-9.73,-6.71,0,4,5,5,0,0
+204,Lehigh Mountain Hawks,/cbb/schools/lehigh/,lehigh,1902,2015,114,2396,1034,1362,.432,-9.75,-6.73,0,4,5,5,0,0
 205,Lewis University Flyers,/cbb/schools/lewis-university/,lewis-university,1905,1905,1,25,20,5,.800,,,0,0,0,,,
-206,Liberty Flames,/cbb/schools/liberty/,liberty,1989,2015,27,810,367,443,.453,-11.26,-7.22,0,2,3,3,0,0
-207,Lipscomb Bisons,/cbb/schools/lipscomb/,lipscomb,2004,2015,12,357,179,178,.501,-6.66,-4.69,0,2,0,0,0,0
-208,Long Beach State 49ers,/cbb/schools/long-beach-state/,long-beach-state,1970,2015,46,1353,747,606,.552,-0.32,1.47,5,14,5,9,0,0
-209,Long Island University Blackbirds,/cbb/schools/long-island-university/,long-island-university,1929,2015,70,1852,1042,808,.563,-10.99,-7.40,1,9,5,6,0,0
-210,Longwood Lancers,/cbb/schools/longwood/,longwood,2008,2015,8,247,83,164,.336,-16.90,-5.03,0,0,0,0,0,0
-211,Louisiana State Fighting Tigers,/cbb/schools/louisiana-state/,louisiana-state,1909,2015,107,2608,1483,1125,.569,10.16,6.87,12,11,1,20,4,0
-212,Louisiana Tech Bulldogs,/cbb/schools/louisiana-tech/,louisiana-tech,1974,2015,42,1238,705,533,.569,0.87,-0.75,1,9,6,5,0,0
-213,Louisiana-Lafayette Ragin' Cajuns,/cbb/schools/louisiana-lafayette/,louisiana-lafayette,1972,2015,44,1248,717,531,.575,0.48,-0.78,2,9,7,10,0,0
-214,Louisiana-Monroe Warhawks,/cbb/schools/louisiana-monroe/,louisiana-monroe,1974,2015,42,1211,643,568,.531,-5.51,-4.26,0,10,8,7,0,0
-215,Louisville Cardinals,/cbb/schools/louisville/,louisville,1912,2015,101,2628,1748,880,.665,15.47,7.82,31,23,17,40,10,3
-216,Loyola (IL) Ramblers,/cbb/schools/loyola-il/,loyola-il,1921,2015,94,2338,1229,1109,.526,-1.92,0.34,5,6,1,5,1,1
+206,Liberty Flames,/cbb/schools/liberty/,liberty,1989,2015,27,815,368,447,.452,-11.23,-7.23,0,2,3,3,0,0
+207,Lipscomb Bisons,/cbb/schools/lipscomb/,lipscomb,2004,2015,12,363,182,181,.501,-6.73,-4.79,0,2,0,0,0,0
+208,Long Beach State 49ers,/cbb/schools/long-beach-state/,long-beach-state,1970,2015,46,1359,750,609,.552,-0.36,1.41,5,14,5,9,0,0
+209,Long Island University Blackbirds,/cbb/schools/long-island-university/,long-island-university,1929,2015,70,1857,1042,813,.562,-11.04,-7.41,1,9,5,6,0,0
+210,Longwood Lancers,/cbb/schools/longwood/,longwood,2008,2015,8,254,87,167,.343,-16.87,-5.12,0,0,0,0,0,0
+211,Louisiana State Fighting Tigers,/cbb/schools/louisiana-state/,louisiana-state,1909,2015,107,2616,1487,1129,.568,10.16,6.89,12,11,1,21,4,0
+212,Louisiana Tech Bulldogs,/cbb/schools/louisiana-tech/,louisiana-tech,1974,2015,42,1248,712,536,.571,0.86,-0.71,1,10,6,5,0,0
+213,Louisiana-Lafayette Ragin' Cajuns,/cbb/schools/louisiana-lafayette/,louisiana-lafayette,1972,2015,44,1258,725,533,.576,0.55,-0.76,2,9,7,10,0,0
+214,Louisiana-Monroe Warhawks,/cbb/schools/louisiana-monroe/,louisiana-monroe,1974,2015,42,1223,649,574,.531,-5.51,-4.26,0,10,8,7,0,0
+215,Louisville Cardinals,/cbb/schools/louisville/,louisville,1912,2015,101,2639,1755,884,.665,15.41,7.85,32,23,17,41,10,3
+216,Loyola (IL) Ramblers,/cbb/schools/loyola-il/,loyola-il,1921,2015,94,2350,1238,1112,.527,-1.91,0.33,5,6,1,5,1,1
 217,Loyola (LA) Wolfpack,/cbb/schools/loyola-la/,loyola-la,1952,1972,20,499,237,262,.475,,,0,0,0,2,0,0
-218,Loyola (MD) Greyhounds,/cbb/schools/loyola-md/,loyola-md,1908,2015,71,1606,747,859,.465,-8.94,-4.67,0,0,2,2,0,0
-219,Loyola Marymount Lions,/cbb/schools/loyola-marymount/,loyola-marymount,1943,2015,68,1858,805,1053,.433,-3.32,1.18,2,3,2,5,0,0
+218,Loyola (MD) Greyhounds,/cbb/schools/loyola-md/,loyola-md,1908,2015,71,1611,748,863,.464,-8.96,-4.69,0,0,2,2,0,0
+219,Loyola Marymount Lions,/cbb/schools/loyola-marymount/,loyola-marymount,1943,2015,68,1862,805,1057,.432,-3.40,1.15,2,3,2,5,0,0
 220,Macalester Scots,/cbb/schools/macalester/,macalester,1896,1899,4,21,8,13,.381,,,0,0,0,,,
-221,Maine Black Bears,/cbb/schools/maine/,maine,1904,2015,71,1669,773,896,.463,-8.76,-5.69,0,0,0,0,0,0
+221,Maine Black Bears,/cbb/schools/maine/,maine,1904,2015,71,1674,773,901,.462,-8.77,-5.73,0,0,0,0,0,0
 222,Manchester Spartans,/cbb/schools/manchester/,manchester,1926,1926,1,16,15,1,.938,,,0,0,0,,,
-223,Manhattan Jaspers,/cbb/schools/manhattan/,manhattan,1905,2015,109,2479,1310,1169,.528,-4.58,-3.37,0,13,4,7,0,0
+223,Manhattan Jaspers,/cbb/schools/manhattan/,manhattan,1905,2015,109,2488,1317,1171,.529,-4.56,-3.39,0,13,5,8,0,0
 224,Marietta Pioneers,/cbb/schools/marietta/,marietta,1908,1920,13,175,109,66,.623,,,0,0,0,,,
-225,Marist Red Foxes,/cbb/schools/marist/,marist,1982,2015,34,994,460,534,.463,-6.86,-5.66,0,5,2,2,0,0
-226,Marquette Golden Eagles,/cbb/schools/marquette/,marquette,1917,2015,98,2499,1547,952,.619,10.41,5.27,22,5,1,31,3,1
-227,Marshall Thundering Herd,/cbb/schools/marshall/,marshall,1919,2015,91,2313,1320,991,.571,-0.48,-1.03,1,6,3,5,0,0
-228,Maryland Terrapins,/cbb/schools/maryland/,maryland,1924,2015,92,2454,1463,991,.596,13.97,8.19,21,6,4,24,2,1
-229,Maryland-Baltimore County Retrievers,/cbb/schools/maryland-baltimore-county/,maryland-baltimore-county,1987,2015,29,834,313,521,.375,-12.04,-6.76,0,2,1,1,0,0
-230,Maryland-Eastern Shore Hawks,/cbb/schools/maryland-eastern-shore/,maryland-eastern-shore,1974,2015,36,1019,292,727,.287,-20.26,-9.71,0,1,1,0,0,0
+225,Marist Red Foxes,/cbb/schools/marist/,marist,1982,2015,34,1001,462,539,.462,-6.84,-5.65,0,5,2,2,0,0
+226,Marquette Golden Eagles,/cbb/schools/marquette/,marquette,1917,2015,98,2506,1549,957,.618,10.38,5.29,22,5,1,31,3,1
+227,Marshall Thundering Herd,/cbb/schools/marshall/,marshall,1919,2015,91,2320,1322,996,.570,-0.52,-1.05,1,6,3,5,0,0
+228,Maryland Terrapins,/cbb/schools/maryland/,maryland,1924,2015,92,2463,1470,993,.597,13.97,8.21,22,6,4,25,2,1
+229,Maryland-Baltimore County Retrievers,/cbb/schools/maryland-baltimore-county/,maryland-baltimore-county,1987,2015,29,839,314,525,.374,-12.06,-6.79,0,2,1,1,0,0
+230,Maryland-Eastern Shore Hawks,/cbb/schools/maryland-eastern-shore/,maryland-eastern-shore,1974,2015,36,1025,296,729,.289,-20.26,-9.74,0,1,1,0,0,0
 231,Massachusetts Institute of Technology Engineers,/cbb/schools/massachusetts-institute-of-technology/,massachusetts-institute-of-technology,1909,1909,1,16,10,6,.625,,,0,0,0,,,
-232,Massachusetts Minutemen,/cbb/schools/massachusetts/,massachusetts,1926,2015,56,1595,891,704,.559,3.08,3.14,5,15,5,9,1,0
-233,Massachusetts-Lowell River Hawks,/cbb/schools/massachusetts-lowell/,massachusetts-lowell,1906,2015,3,71,37,34,.521,-12.17,-4.12,0,0,0,0,0,0
-234,McNeese State Cowboys,/cbb/schools/mcneese-state/,mcneese-state,1974,2015,42,1200,589,611,.491,-6.96,-4.09,0,6,2,2,0,0
-235,Memphis Tigers,/cbb/schools/memphis/,memphis,1956,2015,60,1802,1214,588,.674,12.03,5.25,16,19,11,25,3,0
-236,Mercer Bears,/cbb/schools/mercer/,mercer,1974,2015,42,1215,578,637,.476,-8.79,-5.35,0,3,3,3,0,0
+232,Massachusetts Minutemen,/cbb/schools/massachusetts/,massachusetts,1926,2015,56,1602,892,710,.557,3.03,3.15,5,15,5,9,1,0
+233,Massachusetts-Lowell River Hawks,/cbb/schools/massachusetts-lowell/,massachusetts-lowell,1906,2015,3,74,38,36,.514,-12.46,-4.42,0,0,0,0,0,0
+234,McNeese State Cowboys,/cbb/schools/mcneese-state/,mcneese-state,1974,2015,42,1208,595,613,.493,-6.98,-4.20,0,6,2,2,0,0
+235,Memphis Tigers,/cbb/schools/memphis/,memphis,1956,2015,60,1809,1217,592,.673,12.00,5.27,16,19,11,25,3,0
+236,Mercer Bears,/cbb/schools/mercer/,mercer,1974,2015,42,1223,582,641,.476,-8.81,-5.36,0,3,3,3,0,0
 237,Merchant Marine Academy Mariners,/cbb/schools/merchant-marine-academy/,merchant-marine-academy,1946,1947,2,39,13,26,.333,,,0,0,0,0,0,0
-238,Miami (FL) Hurricanes,/cbb/schools/miami-fl/,miami-fl,1949,2015,52,1466,830,636,.566,6.64,5.33,5,2,1,7,0,0
-239,Miami (OH) RedHawks,/cbb/schools/miami-oh/,miami-oh,1906,2015,110,2445,1319,1126,.539,2.62,1.30,1,18,4,17,0,0
-240,Michigan State Spartans,/cbb/schools/michigan-state/,michigan-state,1899,2015,116,2651,1596,1055,.602,14.72,8.83,20,13,4,28,8,2
-241,Michigan Wolverines,/cbb/schools/michigan/,michigan,1918,2015,98,2496,1501,995,.601,12.99,9.08,19,14,1,25,7,1
-242,Middle Tennessee Blue Raiders,/cbb/schools/middle-tennessee/,middle-tennessee,1959,2015,57,1592,870,722,.546,-2.35,-2.98,0,9,5,7,0,0
+238,Miami (FL) Hurricanes,/cbb/schools/miami-fl/,miami-fl,1949,2015,52,1480,840,640,.568,6.65,5.34,5,2,1,7,0,0
+239,Miami (OH) RedHawks,/cbb/schools/miami-oh/,miami-oh,1906,2015,110,2452,1323,1129,.540,2.64,1.30,1,18,4,17,0,0
+240,Michigan State Spartans,/cbb/schools/michigan-state/,michigan-state,1899,2015,116,2665,1606,1059,.603,14.73,8.93,21,13,4,29,9,2
+241,Michigan Wolverines,/cbb/schools/michigan/,michigan,1918,2015,98,2503,1504,999,.601,13.01,9.11,19,14,1,25,7,1
+242,Middle Tennessee Blue Raiders,/cbb/schools/middle-tennessee/,middle-tennessee,1959,2015,57,1602,876,726,.547,-2.31,-2.98,0,9,5,7,0,0
 243,Millikin Big Blue,/cbb/schools/millikin/,millikin,1910,1921,12,210,150,60,.714,,,0,0,0,,,
 244,Millsaps Majors,/cbb/schools/millsaps/,millsaps,1911,1921,11,116,59,57,.509,,,0,0,0,,,
-245,Milwaukee Panthers,/cbb/schools/milwaukee/,milwaukee,1974,2015,32,927,462,465,.498,-2.19,-0.73,0,5,4,4,0,0
+245,Milwaukee Panthers,/cbb/schools/milwaukee/,milwaukee,1974,2015,32,932,466,466,.500,-2.15,-0.77,0,5,4,4,0,0
 246,Minnesota A&M Aggies,/cbb/schools/minnesota-am/,minnesota-am,1896,1903,4,30,27,3,.900,,,0,0,0,,,
-247,Minnesota Golden Gophers,/cbb/schools/minnesota/,minnesota,1896,2015,120,2731,1581,1148,.579,11.32,8.22,10,9,0,12,1,0
-248,Mississippi Rebels,/cbb/schools/mississippi/,mississippi,1909,2015,105,2488,1235,1251,.497,7.51,6.62,2,5,2,7,0,0
-249,Mississippi State Bulldogs,/cbb/schools/mississippi-state/,mississippi-state,1909,2015,103,2481,1345,1136,.542,7.78,6.66,11,12,5,10,1,0
-250,Mississippi Valley State Delta Devils,/cbb/schools/mississippi-valley-state/,mississippi-valley-state,1980,2015,36,1040,448,592,.431,-13.08,-9.10,0,7,5,5,0,0
-251,Missouri State Bears,/cbb/schools/missouri-state/,missouri-state,1983,2015,33,1028,622,406,.605,4.80,1.31,0,5,3,6,0,0
-252,Missouri Tigers,/cbb/schools/missouri/,missouri,1907,2015,109,2671,1585,1086,.593,12.63,7.42,14,15,8,26,0,0
-253,Missouri-Kansas City Kangaroos,/cbb/schools/missouri-kansas-city/,missouri-kansas-city,1990,2015,26,754,321,433,.426,-6.91,-3.44,0,0,0,0,0,0
-254,Monmouth Hawks,/cbb/schools/monmouth/,monmouth,1984,2015,32,936,428,508,.457,-8.81,-6.63,0,2,4,4,0,0
-255,Montana Grizzlies,/cbb/schools/montana/,montana,1912,2015,100,2493,1342,1151,.538,0.25,-2.38,0,10,9,10,0,0
-256,Montana State Bobcats,/cbb/schools/montana-state/,montana-state,1902,2015,104,2486,1368,1118,.550,-3.69,-2.69,0,10,2,2,0,0
-257,Morehead State Eagles,/cbb/schools/morehead-state/,morehead-state,1956,2015,60,1637,820,817,.501,-7.54,-4.00,0,9,4,7,0,0
-258,Morgan State Bears,/cbb/schools/morgan-state/,morgan-state,1985,2015,31,906,332,574,.366,-15.69,-8.84,0,3,2,2,0,0
+247,Minnesota Golden Gophers,/cbb/schools/minnesota/,minnesota,1896,2015,120,2739,1583,1154,.578,11.27,8.27,10,9,0,12,1,0
+248,Mississippi Rebels,/cbb/schools/mississippi/,mississippi,1909,2015,105,2497,1239,1256,.497,7.47,6.65,2,5,2,8,0,0
+249,Mississippi State Bulldogs,/cbb/schools/mississippi-state/,mississippi-state,1909,2015,103,2489,1347,1142,.541,7.78,6.70,11,12,5,10,1,0
+250,Mississippi Valley State Delta Devils,/cbb/schools/mississippi-valley-state/,mississippi-valley-state,1980,2015,36,1048,450,598,.429,-13.07,-9.17,0,7,5,5,0,0
+251,Missouri State Bears,/cbb/schools/missouri-state/,missouri-state,1983,2015,33,1034,624,410,.603,4.75,1.30,0,5,3,6,0,0
+252,Missouri Tigers,/cbb/schools/missouri/,missouri,1907,2015,109,2678,1587,1091,.593,12.61,7.40,14,15,8,26,0,0
+253,Missouri-Kansas City Kangaroos,/cbb/schools/missouri-kansas-city/,missouri-kansas-city,1990,2015,26,761,324,437,.426,-6.93,-3.50,0,0,0,0,0,0
+254,Monmouth Hawks,/cbb/schools/monmouth/,monmouth,1984,2015,32,943,432,511,.458,-8.83,-6.64,0,2,4,4,0,0
+255,Montana Grizzlies,/cbb/schools/montana/,montana,1912,2015,100,2502,1348,1154,.539,0.24,-2.38,0,11,9,10,0,0
+256,Montana State Bobcats,/cbb/schools/montana-state/,montana-state,1902,2015,104,2491,1369,1122,.550,-3.70,-2.70,0,10,2,2,0,0
+257,Morehead State Eagles,/cbb/schools/morehead-state/,morehead-state,1956,2015,60,1643,825,818,.502,-7.50,-4.02,0,9,4,7,0,0
+258,Morgan State Bears,/cbb/schools/morgan-state/,morgan-state,1985,2015,31,912,332,580,.364,-15.76,-8.86,0,3,2,2,0,0
 259,Morris Brown Wolverines,/cbb/schools/morris-brown/,morris-brown,2002,2003,2,57,13,44,.228,-25.82,-6.03,0,0,0,0,0,0
-260,Mount St. Mary's Mountaineers,/cbb/schools/mount-st-marys/,mount-st-marys,1989,2015,27,787,339,448,.431,-9.25,-6.38,0,1,4,4,0,0
+260,Mount St. Mary's Mountaineers,/cbb/schools/mount-st-marys/,mount-st-marys,1989,2015,27,792,342,450,.432,-9.24,-6.42,0,1,4,4,0,0
 261,Mount Union Purple Raiders,/cbb/schools/mount-union/,mount-union,1896,1932,37,493,314,179,.637,,,0,0,0,,,
 262,Muhlenburg Mules,/cbb/schools/muhlenburg/,muhlenburg,1901,1963,56,1064,579,484,.545,,,0,3,0,0,0,0
-263,Murray State Breds,/cbb/schools/murray-state/,murray-state,1954,2015,62,1750,1104,646,.631,0.93,-3.85,2,24,14,15,0,0
+263,Murray State Racers,/cbb/schools/murray-state/,murray-state,1954,2015,62,1758,1110,648,.631,0.95,-3.83,2,25,14,15,0,0
 264,Muskingum Fighting Muskies,/cbb/schools/muskingum/,muskingum,1905,1927,3,48,44,4,.917,,,0,0,0,,,
-265,Navy Midshipmen,/cbb/schools/navy/,navy,1908,2015,108,2326,1325,1001,.570,-6.70,-5.40,1,8,6,11,0,0
-266,Nebraska Cornhuskers,/cbb/schools/nebraska/,nebraska,1897,2015,119,2739,1446,1293,.528,7.97,6.71,2,7,1,7,0,0
+265,Navy Midshipmen,/cbb/schools/navy/,navy,1908,2015,108,2332,1328,1004,.569,-6.70,-5.42,1,8,6,11,0,0
+266,Nebraska Cornhuskers,/cbb/schools/nebraska/,nebraska,1897,2015,119,2746,1446,1300,.527,7.93,6.75,2,7,1,7,0,0
 267,Nebraska Wesleyan Prairie Wolves,/cbb/schools/nebraska-wesleyan/,nebraska-wesleyan,1906,1917,12,188,134,54,.713,,,0,0,0,,,
-268,Nebraska-Omaha Mavericks,/cbb/schools/nebraska-omaha/,nebraska-omaha,2013,2015,3,88,37,51,.420,-7.97,-3.78,0,0,0,0,0,0
-269,Nevada Wolf Pack,/cbb/schools/nevada/,nevada,1913,2015,60,1545,843,702,.546,1.43,1.21,2,9,4,6,0,0
-270,Nevada-Las Vegas Rebels,/cbb/schools/nevada-las-vegas/,nevada-las-vegas,1970,2015,46,1440,1030,410,.715,11.01,4.20,16,14,11,20,4,1
-271,New Hampshire Wildcats,/cbb/schools/new-hampshire/,new-hampshire,1927,2015,63,1589,531,1058,.334,-12.37,-5.50,0,1,0,0,0,0
-272,New Mexico Lobos,/cbb/schools/new-mexico/,new-mexico,1900,2015,109,2449,1429,1020,.584,7.83,3.44,11,12,6,15,0,0
-273,New Mexico State Aggies,/cbb/schools/new-mexico-state/,new-mexico-state,1905,2015,105,2470,1424,1044,.577,4.03,1.45,5,15,8,21,1,0
-274,New Orleans Privateers,/cbb/schools/new-orleans/,new-orleans,1976,2015,38,1098,609,489,.555,-1.42,-1.48,2,8,3,4,0,0
+268,Nebraska-Omaha Mavericks,/cbb/schools/nebraska-omaha/,nebraska-omaha,2013,2015,3,92,40,52,.435,-7.85,-3.94,0,0,0,0,0,0
+269,Nevada Wolf Pack,/cbb/schools/nevada/,nevada,1913,2015,60,1552,844,708,.544,1.37,1.21,2,9,4,6,0,0
+270,Nevada-Las Vegas Rebels,/cbb/schools/nevada-las-vegas/,nevada-las-vegas,1970,2015,46,1448,1034,414,.714,11.00,4.18,16,14,11,20,4,1
+271,New Hampshire Wildcats,/cbb/schools/new-hampshire/,new-hampshire,1927,2015,63,1595,534,1061,.335,-12.40,-5.51,0,1,0,0,0,0
+272,New Mexico Lobos,/cbb/schools/new-mexico/,new-mexico,1900,2015,109,2455,1430,1025,.582,7.78,3.45,11,12,6,15,0,0
+273,New Mexico State Aggies,/cbb/schools/new-mexico-state/,new-mexico-state,1905,2015,105,2477,1430,1045,.578,4.00,1.42,5,16,9,22,1,0
+274,New Orleans Privateers,/cbb/schools/new-orleans/,new-orleans,1976,2015,38,1107,613,494,.554,-1.38,-1.55,2,8,3,4,0,0
 275,New York University Violets,/cbb/schools/new-york-university/,new-york-university,1907,1971,65,1184,725,459,.612,,,2,6,0,6,2,0
 276,Newberry Wolves,/cbb/schools/newberry/,newberry,1921,1921,1,4,2,2,.500,,,0,0,0,,,
-277,Niagara Purple Eagles,/cbb/schools/niagara/,niagara,1906,2015,109,2580,1418,1161,.550,-4.97,-3.16,2,10,2,3,0,0
-278,Nicholls State Colonels,/cbb/schools/nicholls-state/,nicholls-state,1981,2015,35,972,384,588,.395,-12.30,-5.91,0,2,2,2,0,0
-279,NJIT Highlanders,/cbb/schools/njit/,njit,2010,2015,6,177,84,93,.475,-11.61,-7.82,0,1,0,0,0,0
-280,Norfolk State Spartans,/cbb/schools/norfolk-state/,norfolk-state,1998,2015,18,540,252,288,.467,-11.74,-8.63,0,1,1,1,0,0
-281,North Carolina A&T Aggies,/cbb/schools/north-carolina-at/,north-carolina-at,1974,2015,42,1216,601,615,.494,-12.11,-9.42,0,11,14,10,0,0
-282,North Carolina Central Eagles,/cbb/schools/north-carolina-central/,north-carolina-central,2011,2015,5,152,101,51,.664,-3.46,-7.40,0,2,1,1,0,0
-283,North Carolina State Wolfpack,/cbb/schools/north-carolina-state/,north-carolina-state,1913,2015,103,2661,1654,1007,.622,12.03,8.07,17,13,17,25,3,2
-284,North Carolina Tar Heels,/cbb/schools/north-carolina/,north-carolina,1911,2015,105,2894,2132,762,.737,19.96,9.87,46,36,25,45,18,5
-285,North Carolina-Asheville Bulldogs,/cbb/schools/north-carolina-asheville/,north-carolina-asheville,1987,2015,29,850,401,449,.472,-10.35,-5.74,0,5,4,3,0,0
-286,North Carolina-Greensboro Spartans,/cbb/schools/north-carolina-greensboro/,north-carolina-greensboro,1992,2015,24,709,302,407,.426,-8.09,-4.63,0,4,2,2,0,0
-287,North Carolina-Wilmington Seahawks,/cbb/schools/north-carolina-wilmington/,north-carolina-wilmington,1977,2015,39,1138,584,554,.513,-2.93,-2.21,0,5,4,4,0,0
+277,Niagara Purple Eagles,/cbb/schools/niagara/,niagara,1906,2015,109,2586,1422,1163,.550,-4.96,-3.19,2,10,2,3,0,0
+278,Nicholls State Colonels,/cbb/schools/nicholls-state/,nicholls-state,1981,2015,35,979,387,592,.395,-12.28,-5.96,0,2,2,2,0,0
+279,NJIT Highlanders,/cbb/schools/njit/,njit,2010,2015,6,184,90,94,.489,-11.49,-7.79,0,1,0,0,0,0
+280,Norfolk State Spartans,/cbb/schools/norfolk-state/,norfolk-state,1998,2015,18,547,256,291,.468,-11.76,-8.71,0,1,1,1,0,0
+281,North Carolina A&T Aggies,/cbb/schools/north-carolina-at/,north-carolina-at,1974,2015,42,1222,604,618,.494,-12.11,-9.48,0,11,14,10,0,0
+282,North Carolina Central Eagles,/cbb/schools/north-carolina-central/,north-carolina-central,2011,2015,5,160,107,53,.669,-3.35,-7.75,0,3,1,1,0,0
+283,North Carolina State Wolfpack,/cbb/schools/north-carolina-state/,north-carolina-state,1913,2015,103,2671,1661,1010,.622,12.03,8.10,17,13,17,26,3,2
+284,North Carolina Tar Heels,/cbb/schools/north-carolina/,north-carolina,1911,2015,105,2907,2140,767,.736,19.95,9.91,47,36,25,46,18,5
+285,North Carolina-Asheville Bulldogs,/cbb/schools/north-carolina-asheville/,north-carolina-asheville,1987,2015,29,856,403,453,.471,-10.39,-5.76,0,5,4,3,0,0
+286,North Carolina-Greensboro Spartans,/cbb/schools/north-carolina-greensboro/,north-carolina-greensboro,1992,2015,24,715,305,410,.427,-8.04,-4.64,0,4,2,2,0,0
+287,North Carolina-Wilmington Seahawks,/cbb/schools/north-carolina-wilmington/,north-carolina-wilmington,1977,2015,39,1145,587,558,.513,-2.96,-2.24,0,6,4,4,0,0
 288,North Central Cardinals,/cbb/schools/north-central/,north-central,1911,1922,8,115,78,37,.678,,,0,0,0,,,
-289,North Dakota State Bison,/cbb/schools/north-dakota-state/,north-dakota-state,1898,2015,36,600,431,169,.718,0.76,-3.31,0,2,2,2,0,0
-290,North Dakota UND,/cbb/schools/north-dakota/,north-dakota,1905,2015,22,351,227,124,.647,-9.53,-5.35,0,0,2,0,0,0
-291,North Florida Ospreys,/cbb/schools/north-florida/,north-florida,2010,2015,6,188,89,99,.473,-5.98,-2.19,0,0,0,0,0,0
-292,North Texas Mean Green,/cbb/schools/north-texas/,north-texas,1922,2015,60,1622,717,905,.442,-5.70,-1.99,0,3,3,3,0,0
-293,Northeastern Huskies,/cbb/schools/northeastern/,northeastern,1938,2015,52,1399,722,677,.516,-3.95,-3.91,0,11,7,7,0,0
+289,North Dakota State Bison,/cbb/schools/north-dakota-state/,north-dakota-state,1898,2015,36,607,436,171,.718,0.85,-3.16,0,3,3,3,0,0
+290,North Dakota UND,/cbb/schools/north-dakota/,north-dakota,1905,2015,22,357,227,130,.636,-9.62,-5.57,0,0,2,0,0,0
+291,North Florida Ospreys,/cbb/schools/north-florida/,north-florida,2010,2015,6,196,96,100,.490,-5.82,-2.39,0,1,1,1,0,0
+292,North Texas Mean Green,/cbb/schools/north-texas/,north-texas,1922,2015,60,1629,720,909,.442,-5.70,-2.00,0,3,3,3,0,0
+293,Northeastern Huskies,/cbb/schools/northeastern/,northeastern,1938,2015,52,1407,728,679,.517,-3.94,-3.92,0,12,8,8,0,0
 294,Northeastern Illinois Golden Eagles,/cbb/schools/northeastern-illinois/,northeastern-illinois,1991,1998,8,216,78,138,.361,-14.90,-6.67,0,0,0,0,0,0
-295,Northern Arizona Lumberjacks,/cbb/schools/northern-arizona/,northern-arizona,1919,2015,76,1768,824,944,.466,-5.74,-2.36,0,6,2,2,0,0
-296,Northern Colorado Bears,/cbb/schools/northern-colorado/,northern-colorado,1911,2015,36,598,320,278,.535,-4.01,-4.25,0,3,1,1,0,0
-297,Northern Illinois Huskies,/cbb/schools/northern-illinois/,northern-illinois,1927,2015,49,1347,599,748,.445,-4.24,-1.46,0,3,2,3,0,0
-298,Northern Iowa Panthers,/cbb/schools/northern-iowa/,northern-iowa,1981,2015,35,1042,544,498,.522,0.71,1.32,0,2,4,6,0,0
-299,Northern Kentucky Norse,/cbb/schools/northern-kentucky/,northern-kentucky,2013,2015,3,82,31,51,.378,-8.19,-4.37,0,0,0,0,0,0
+295,Northern Arizona Lumberjacks,/cbb/schools/northern-arizona/,northern-arizona,1919,2015,76,1781,834,947,.468,-5.71,-2.37,0,6,2,2,0,0
+296,Northern Colorado Bears,/cbb/schools/northern-colorado/,northern-colorado,1911,2015,36,604,323,281,.535,-4.15,-4.32,0,3,1,1,0,0
+297,Northern Illinois Huskies,/cbb/schools/northern-illinois/,northern-illinois,1927,2015,49,1354,603,751,.445,-4.22,-1.45,0,3,2,3,0,0
+298,Northern Iowa Panthers,/cbb/schools/northern-iowa/,northern-iowa,1981,2015,35,1052,552,500,.525,0.72,1.35,1,2,5,7,0,0
+299,Northern Kentucky Norse,/cbb/schools/northern-kentucky/,northern-kentucky,2013,2015,3,87,33,54,.379,-8.40,-4.96,0,0,0,0,0,0
 300,Northest Missouri State Bearcats,/cbb/schools/northest-missouri-state/,northest-missouri-state,1930,1932,3,97,89,8,.918,,,0,0,0,,,
-301,Northwestern State Demons,/cbb/schools/northwestern-state/,northwestern-state,1977,2015,39,1117,507,610,.454,-9.14,-5.48,0,3,3,3,0,0
-302,Northwestern Wildcats,/cbb/schools/northwestern/,northwestern,1905,2015,110,2468,1011,1456,.410,2.90,8.14,0,2,0,0,0,0
-303,Notre Dame Fighting Irish,/cbb/schools/notre-dame/,notre-dame,1897,2015,111,2759,1787,971,.648,10.86,6.25,23,5,0,33,1,0
-304,Oakland Golden Grizzlies,/cbb/schools/oakland/,oakland,2000,2015,16,505,267,238,.529,-1.46,-0.82,0,3,3,3,0,0
+301,Northwestern State Demons,/cbb/schools/northwestern-state/,northwestern-state,1977,2015,39,1126,513,613,.456,-9.16,-5.53,0,3,3,3,0,0
+302,Northwestern Wildcats,/cbb/schools/northwestern/,northwestern,1905,2015,110,2476,1016,1459,.411,2.92,8.18,0,2,0,0,0,0
+303,Notre Dame Fighting Irish,/cbb/schools/notre-dame/,notre-dame,1897,2015,111,2771,1797,973,.649,10.88,6.33,24,5,1,34,1,0
+304,Oakland Golden Grizzlies,/cbb/schools/oakland/,oakland,2000,2015,16,512,271,241,.529,-1.48,-0.93,0,3,3,3,0,0
 305,Oberlin Yeomen,/cbb/schools/oberlin/,oberlin,1905,1921,7,82,61,21,.744,,,0,0,0,,,
-306,Ohio Bobcats,/cbb/schools/ohio/,ohio,1908,2015,108,2549,1457,1092,.572,1.43,0.13,0,10,6,13,0,0
-307,Ohio State Buckeyes,/cbb/schools/ohio-state/,ohio-state,1899,2015,116,2741,1680,1061,.613,13.87,8.34,21,22,5,30,11,1
+306,Ohio Bobcats,/cbb/schools/ohio/,ohio,1908,2015,108,2556,1458,1098,.570,1.40,0.12,0,10,6,13,0,0
+307,Ohio State Buckeyes,/cbb/schools/ohio-state/,ohio-state,1899,2015,116,2750,1685,1065,.613,13.80,8.40,21,22,5,31,11,1
 308,Ohio Wesleyan Battling Bishops,/cbb/schools/ohio-wesleyan/,ohio-wesleyan,1929,1935,2,40,35,5,.875,,,0,0,0,,,
 309,Oklahoma City Chiefs,/cbb/schools/oklahoma-city/,oklahoma-city,1951,1985,35,948,530,418,.559,-5.71,0.20,3,0,1,11,0,0
-310,Oklahoma Sooners,/cbb/schools/oklahoma/,oklahoma,1908,2015,108,2624,1600,1024,.610,14.66,7.27,17,14,7,28,4,0
-311,Oklahoma State Cowboys,/cbb/schools/oklahoma-state/,oklahoma-state,1908,2015,106,2697,1594,1103,.591,12.05,7.12,18,19,4,26,6,2
-312,Old Dominion Monarchs,/cbb/schools/old-dominion/,old-dominion,1977,2015,39,1202,724,478,.602,3.24,0.45,0,8,6,11,0,0
-313,Oral Roberts Golden Eagles,/cbb/schools/oral-roberts/,oral-roberts,1972,2015,40,1181,687,494,.582,-0.34,-1.35,2,10,5,5,0,0
-314,Oregon Ducks,/cbb/schools/oregon/,oregon,1903,2015,110,2870,1547,1323,.539,7.45,7.13,3,4,3,12,1,1
-315,Oregon State Beavers,/cbb/schools/oregon-state/,oregon-state,1902,2015,114,2967,1701,1266,.573,6.30,6.49,8,12,0,16,2,0
-316,Pacific Tigers,/cbb/schools/pacific/,pacific,1938,2015,65,1819,935,884,.514,0.18,0.67,1,10,5,9,0,0
-317,Penn State Nittany Lions,/cbb/schools/penn-state/,penn-state,1897,2015,119,2520,1402,1117,.557,4.24,4.88,2,2,1,9,1,0
-318,Pennsylvania Quakers,/cbb/schools/pennsylvania/,pennsylvania,1897,2015,114,2768,1716,1051,.620,-1.20,-3.03,6,37,0,23,1,0
-319,Pepperdine Waves,/cbb/schools/pepperdine/,pepperdine,1944,2015,61,1731,876,855,.506,1.38,1.33,1,12,3,13,0,0
+310,Oklahoma Sooners,/cbb/schools/oklahoma/,oklahoma,1908,2015,108,2634,1607,1027,.610,14.60,7.28,18,14,7,29,4,0
+311,Oklahoma State Cowboys,/cbb/schools/oklahoma-state/,oklahoma-state,1908,2015,106,2704,1595,1109,.590,11.99,7.12,18,19,4,27,6,2
+312,Old Dominion Monarchs,/cbb/schools/old-dominion/,old-dominion,1977,2015,39,1213,733,480,.604,3.26,0.45,0,8,6,11,0,0
+313,Oral Roberts Golden Eagles,/cbb/schools/oral-roberts/,oral-roberts,1972,2015,40,1189,692,497,.582,-0.34,-1.36,2,10,5,5,0,0
+314,Oregon Ducks,/cbb/schools/oregon/,oregon,1903,2015,110,2880,1555,1325,.540,7.49,7.19,3,4,3,13,1,1
+315,Oregon State Beavers,/cbb/schools/oregon-state/,oregon-state,1902,2015,114,2973,1702,1271,.572,6.26,6.52,8,12,0,16,2,0
+316,Pacific Tigers,/cbb/schools/pacific/,pacific,1938,2015,65,1824,937,887,.514,0.19,0.66,1,10,5,9,0,0
+317,Penn State Nittany Lions,/cbb/schools/penn-state/,penn-state,1897,2015,119,2528,1405,1122,.556,4.24,4.92,2,2,1,9,1,0
+318,Pennsylvania Quakers,/cbb/schools/pennsylvania/,pennsylvania,1897,2015,114,2775,1718,1056,.619,-1.20,-3.03,6,37,0,23,1,0
+319,Pepperdine Waves,/cbb/schools/pepperdine/,pepperdine,1944,2015,61,1737,879,858,.506,1.35,1.31,1,12,3,13,0,0
 320,Phillips Haymakers,/cbb/schools/phillips/,phillips,1920,1920,1,3,2,1,.667,,,0,0,0,,,
 321,Pittsburg State Gorillas,/cbb/schools/pittsburg-state/,pittsburg-state,1927,1931,5,103,86,17,.835,,,0,0,0,,,
-322,Pittsburgh Panthers,/cbb/schools/pittsburgh/,pittsburgh,1906,2015,108,2647,1554,1093,.587,11.68,6.84,13,11,4,25,1,0
-323,Portland Pilots,/cbb/schools/portland/,portland,1954,2015,62,1729,745,984,.431,-3.15,0.87,0,0,1,2,0,0
-324,Portland State Vikings,/cbb/schools/portland-state/,portland-state,1973,2015,26,734,357,377,.486,-5.95,-2.97,0,2,2,2,0,0
-325,Prairie View Panthers,/cbb/schools/prairie-view/,prairie-view,1981,2015,35,992,264,728,.266,-22.12,-8.10,0,1,1,1,0,0
+322,Pittsburgh Panthers,/cbb/schools/pittsburgh/,pittsburgh,1906,2015,108,2655,1556,1099,.586,11.65,6.86,13,11,4,25,1,0
+323,Portland Pilots,/cbb/schools/portland/,portland,1954,2015,62,1736,746,990,.430,-3.20,0.88,0,0,1,2,0,0
+324,Portland State Vikings,/cbb/schools/portland-state/,portland-state,1973,2015,26,740,360,380,.486,-5.93,-3.02,0,2,2,2,0,0
+325,Prairie View Panthers,/cbb/schools/prairie-view/,prairie-view,1981,2015,35,1001,271,730,.271,-22.09,-8.20,0,1,1,1,0,0
 326,Pratt Institute Cannoneers,/cbb/schools/pratt-institute/,pratt-institute,1934,1934,1,14,8,6,.571,,,0,0,0,,,
-327,Presbyterian Blue Hose,/cbb/schools/presbyterian/,presbyterian,2011,2015,5,151,50,101,.331,-13.83,-4.86,0,0,0,0,0,0
-328,Princeton Tigers,/cbb/schools/princeton/,princeton,1901,2015,115,2714,1668,1046,.615,-0.08,-3.98,4,29,0,24,1,0
-329,Providence Friars,/cbb/schools/providence/,providence,1929,2015,66,1876,1148,728,.612,8.53,6.73,6,3,2,16,2,0
-330,Purdue Boilermakers,/cbb/schools/purdue/,purdue,1897,2015,117,2689,1707,982,.635,13.78,8.75,18,22,1,26,2,0
-331,Quinnipiac Bobcats,/cbb/schools/quinnipiac/,quinnipiac,1999,2015,17,499,251,248,.503,-8.00,-7.10,0,1,0,0,0,0
-332,Radford Highlanders,/cbb/schools/radford/,radford,1985,2015,31,912,467,445,.512,-9.73,-7.53,0,4,2,2,0,0
+327,Presbyterian Blue Hose,/cbb/schools/presbyterian/,presbyterian,2011,2015,5,156,51,105,.327,-13.78,-4.85,0,0,0,0,0,0
+328,Princeton Tigers,/cbb/schools/princeton/,princeton,1901,2015,115,2722,1673,1048,.615,-0.07,-3.99,4,29,0,24,1,0
+329,Providence Friars,/cbb/schools/providence/,providence,1929,2015,66,1884,1152,732,.611,8.54,6.75,6,3,2,17,2,0
+330,Purdue Boilermakers,/cbb/schools/purdue/,purdue,1897,2015,117,2698,1712,986,.635,13.76,8.78,18,22,1,27,2,0
+331,Quinnipiac Bobcats,/cbb/schools/quinnipiac/,quinnipiac,1999,2015,17,505,252,253,.499,-8.09,-7.11,0,1,0,0,0,0
+332,Radford Highlanders,/cbb/schools/radford/,radford,1985,2015,31,919,470,449,.511,-9.73,-7.53,0,4,2,2,0,0
 333,Regis (CO) Rangers,/cbb/schools/regis-co/,regis-co,1962,1964,3,66,37,29,.561,,,0,0,0,0,0,0
 334,Rensselaer Engineers,/cbb/schools/rensselaer/,rensselaer,1901,1924,4,39,28,11,.718,,,0,0,0,,,
-335,Rhode Island Rams,/cbb/schools/rhode-island/,rhode-island,1904,2015,109,2506,1422,1084,.567,2.23,2.42,0,15,1,8,0,0
-336,Rice Owls,/cbb/schools/rice/,rice,1915,2015,101,2416,1055,1361,.437,-1.09,2.34,0,10,0,4,0,0
-337,Richmond Spiders,/cbb/schools/richmond/,richmond,1913,2015,103,2442,1302,1140,.533,2.62,0.67,1,6,6,9,0,0
-338,Rider Broncs,/cbb/schools/rider/,rider,1929,2015,52,1453,764,689,.526,-6.15,-5.26,0,11,3,3,0,0
+335,Rhode Island Rams,/cbb/schools/rhode-island/,rhode-island,1904,2015,109,2516,1428,1088,.568,2.24,2.45,0,15,1,8,0,0
+336,Rice Owls,/cbb/schools/rice/,rice,1915,2015,101,2424,1058,1366,.436,-1.06,2.33,0,10,0,4,0,0
+337,Richmond Spiders,/cbb/schools/richmond/,richmond,1913,2015,103,2452,1310,1142,.534,2.64,0.67,1,6,6,9,0,0
+338,Rider Broncs,/cbb/schools/rider/,rider,1929,2015,52,1460,768,692,.526,-6.17,-5.28,0,11,3,3,0,0
 339,Ripon Red Hawks,/cbb/schools/ripon/,ripon,1902,1922,5,59,46,13,.780,,,0,0,0,,,
 340,Roanoke Maroons,/cbb/schools/roanoke/,roanoke,1912,1919,8,92,67,25,.728,,,0,0,0,,,
-341,Robert Morris Colonials,/cbb/schools/robert-morris/,robert-morris,1977,2015,39,1142,564,578,.494,-8.02,-6.75,0,11,7,7,0,0
+341,Robert Morris Colonials,/cbb/schools/robert-morris/,robert-morris,1977,2015,39,1151,571,580,.496,-7.98,-6.75,0,11,8,8,0,0
 342,Rochester (NY) Yellowjackets,/cbb/schools/rochester-ny/,rochester-ny,1910,1944,7,111,74,37,.667,,,0,0,0,0,0,0
 343,Rose-Hulman Fightin' Engineers,/cbb/schools/rose-hulman/,rose-hulman,1898,1898,1,4,2,2,.500,,,0,0,0,,,
-344,Rutgers Scarlet Knights,/cbb/schools/rutgers/,rutgers,1914,2015,101,2316,1189,1127,.513,3.18,4.60,2,10,2,6,1,0
-345,Sacramento State Hornets,/cbb/schools/sacramento-state/,sacramento-state,1992,2015,24,666,189,477,.284,-13.27,-2.81,0,0,0,0,0,0
-346,Sacred Heart Pioneers,/cbb/schools/sacred-heart/,sacred-heart,2000,2015,16,467,171,296,.366,-11.33,-6.67,0,0,0,0,0,0
-347,Saint Francis (PA) Red Flash,/cbb/schools/saint-francis-pa/,saint-francis-pa,1956,2015,60,1608,710,898,.442,-11.63,-6.87,0,1,1,1,0,0
-348,Saint Joseph's Hawks,/cbb/schools/saint-josephs/,saint-josephs,1910,2015,106,2634,1575,1059,.598,5.13,3.11,6,20,5,20,1,0
-349,Saint Louis Billikens,/cbb/schools/saint-louis/,saint-louis,1916,2015,99,2513,1367,1146,.544,4.22,3.34,10,7,2,9,0,0
-350,Saint Mary's (CA) Gaels,/cbb/schools/saint-marys-ca/,saint-marys-ca,1910,2015,106,2435,1229,1206,.505,1.61,0.89,2,6,3,8,0,0
-351,Saint Peter's Peacocks,/cbb/schools/saint-peters/,saint-peters,1966,2015,50,1407,698,709,.496,-4.76,-3.95,0,6,3,3,0,0
-352,Sam Houston State Bearkats,/cbb/schools/sam-houston-state/,sam-houston-state,1987,2015,29,836,426,410,.510,-7.25,-5.25,0,5,2,2,0,0
-353,Samford Bulldogs,/cbb/schools/samford/,samford,1973,2015,43,1221,531,690,.435,-8.46,-5.93,0,3,2,2,0,0
-354,San Diego State Aztecs,/cbb/schools/san-diego-state/,san-diego-state,1971,2015,45,1329,700,629,.527,3.02,3.60,3,6,6,10,0,0
-355,San Diego Toreros,/cbb/schools/san-diego/,san-diego,1980,2015,36,1046,527,519,.504,-0.09,0.34,0,2,2,4,0,0
-356,San Francisco Dons,/cbb/schools/san-francisco/,san-francisco,1924,2015,88,2258,1304,954,.578,0.06,1.17,9,15,1,16,3,2
-357,San Jose State Spartans,/cbb/schools/san-jose-state/,san-jose-state,1938,2015,65,1761,723,1038,.411,-3.26,2.17,0,1,2,2,0,0
-358,Santa Clara Broncos,/cbb/schools/santa-clara/,santa-clara,1909,2015,106,2469,1431,1038,.580,1.65,1.49,2,11,2,11,1,0
+344,Rutgers Scarlet Knights,/cbb/schools/rutgers/,rutgers,1914,2015,101,2322,1189,1133,.512,3.14,4.61,2,10,2,6,1,0
+345,Sacramento State Hornets,/cbb/schools/sacramento-state/,sacramento-state,1992,2015,24,675,194,481,.287,-13.25,-2.82,0,0,0,0,0,0
+346,Sacred Heart Pioneers,/cbb/schools/sacred-heart/,sacred-heart,2000,2015,16,472,174,298,.369,-11.37,-6.75,0,0,0,0,0,0
+347,Saint Francis (PA) Red Flash,/cbb/schools/saint-francis-pa/,saint-francis-pa,1956,2015,60,1615,712,903,.441,-11.65,-6.88,0,1,1,1,0,0
+348,Saint Joseph's Hawks,/cbb/schools/saint-josephs/,saint-josephs,1910,2015,106,2642,1577,1065,.597,5.13,3.12,6,20,5,20,1,0
+349,Saint Louis Billikens,/cbb/schools/saint-louis/,saint-louis,1916,2015,99,2520,1368,1152,.543,4.17,3.34,10,7,2,9,0,0
+350,Saint Mary's (CA) Gaels,/cbb/schools/saint-marys-ca/,saint-marys-ca,1910,2015,106,2441,1231,1210,.504,1.59,0.89,2,6,3,8,0,0
+351,Saint Peter's Peacocks,/cbb/schools/saint-peters/,saint-peters,1966,2015,50,1415,701,714,.495,-4.78,-3.97,0,6,3,3,0,0
+352,Sam Houston State Bearkats,/cbb/schools/sam-houston-state/,sam-houston-state,1987,2015,29,846,432,414,.511,-7.29,-5.27,0,5,2,2,0,0
+353,Samford Bulldogs,/cbb/schools/samford/,samford,1973,2015,43,1225,532,693,.434,-8.47,-5.95,0,3,2,2,0,0
+354,San Diego State Aztecs,/cbb/schools/san-diego-state/,san-diego-state,1971,2015,45,1339,707,632,.528,2.99,3.59,3,7,6,11,0,0
+355,San Diego Toreros,/cbb/schools/san-diego/,san-diego,1980,2015,36,1050,528,522,.503,-0.11,0.35,0,2,2,4,0,0
+356,San Francisco Dons,/cbb/schools/san-francisco/,san-francisco,1924,2015,88,2264,1308,956,.578,0.04,1.15,9,15,1,16,3,2
+357,San Jose State Spartans,/cbb/schools/san-jose-state/,san-jose-state,1938,2015,65,1767,723,1044,.409,-3.23,2.18,0,1,2,2,0,0
+358,Santa Clara Broncos,/cbb/schools/santa-clara/,santa-clara,1909,2015,106,2475,1434,1041,.579,1.67,1.46,2,11,2,11,1,0
 359,Savage School of Physical Education ,/cbb/schools/savage-school-of-physical-education/,savage-school-of-physical-education,1896,1898,2,8,6,2,.750,,,0,0,0,,,
-360,Savannah State Tigers,/cbb/schools/savannah-state/,savannah-state,2003,2015,13,381,130,251,.341,-16.77,-4.38,0,1,0,0,0,0
+360,Savannah State Tigers,/cbb/schools/savannah-state/,savannah-state,2003,2015,13,388,133,255,.343,-16.71,-4.62,0,1,0,0,0,0
 361,Scranton Royals,/cbb/schools/scranton/,scranton,1948,1948,1,27,7,20,.259,,,0,0,0,0,0,0
-362,Seattle Redhawks,/cbb/schools/seattle/,seattle,1953,2015,33,897,539,358,.601,-5.51,-2.52,5,3,0,11,1,0
-363,Seton Hall Pirates,/cbb/schools/seton-hall/,seton-hall,1909,2015,102,2458,1425,1032,.580,7.65,6.65,6,4,2,9,1,0
+362,Seattle Redhawks,/cbb/schools/seattle/,seattle,1953,2015,33,907,546,361,.602,-5.14,-2.54,5,3,0,11,1,0
+363,Seton Hall Pirates,/cbb/schools/seton-hall/,seton-hall,1909,2015,102,2464,1426,1037,.579,7.58,6.67,6,4,2,9,1,0
 364,Sewanee Tigers,/cbb/schools/sewanee/,sewanee,1923,1941,19,248,48,200,.194,,,0,0,0,0,0,0
-365,Siena Saints,/cbb/schools/siena/,siena,1939,2015,57,1543,854,689,.553,-2.16,-3.73,1,9,6,6,0,0
-366,South Alabama Jaguars,/cbb/schools/south-alabama/,south-alabama,1972,2015,44,1268,725,543,.572,0.22,-1.04,0,12,5,8,0,0
-367,South Carolina Gamecocks,/cbb/schools/south-carolina/,south-carolina,1909,2015,107,2537,1337,1199,.527,6.60,5.88,8,7,2,8,0,0
-368,South Carolina State Bulldogs,/cbb/schools/south-carolina-state/,south-carolina-state,1972,2015,44,1282,638,644,.498,-12.48,-9.92,0,8,5,5,0,0
-369,South Carolina Upstate Spartans,/cbb/schools/south-carolina-upstate/,south-carolina-upstate,2011,2015,5,157,79,78,.503,-3.94,-3.88,0,0,0,0,0,0
-370,South Dakota Coyotes,/cbb/schools/south-dakota/,south-dakota,2011,2015,5,148,63,85,.426,-7.91,-4.16,0,0,0,0,0,0
-371,South Dakota State Jackrabbits,/cbb/schools/south-dakota-state/,south-dakota-state,2009,2015,7,223,136,87,.610,0.58,-2.94,0,1,2,2,0,0
-372,South Florida Bulls,/cbb/schools/south-florida/,south-florida,1974,2015,42,1224,572,652,.467,2.60,3.68,0,1,1,3,0,0
-373,Southeast Missouri State Redhawks,/cbb/schools/southeast-missouri-state/,southeast-missouri-state,1992,2015,24,700,302,398,.431,-8.31,-4.77,0,1,1,1,0,0
-374,Southeastern Louisiana Lions,/cbb/schools/southeastern-louisiana/,southeastern-louisiana,1981,2015,34,959,414,545,.432,-10.95,-6.18,0,4,1,1,0,0
-375,Southern California Trojans,/cbb/schools/southern-california/,southern-california,1907,2015,109,2686,1530,1156,.570,7.22,6.99,9,7,1,16,2,0
-376,Southern Illinois Salukis,/cbb/schools/southern-illinois/,southern-illinois,1968,2015,48,1413,784,629,.555,2.99,2.58,1,9,5,10,0,0
-377,Southern Illinois-Edwardsville Cougars,/cbb/schools/southern-illinois-edwardsville/,southern-illinois-edwardsville,2011,2015,5,138,48,90,.348,-12.92,-4.65,0,0,0,0,0,0
-378,Southern Jaguars,/cbb/schools/southern/,southern,1978,2015,38,1104,583,521,.528,-10.02,-10.16,0,8,8,8,0,0
-379,Southern Methodist Mustangs,/cbb/schools/southern-methodist/,southern-methodist,1917,2015,99,2433,1253,1180,.515,2.44,2.74,2,13,1,10,1,0
-380,Southern Mississippi Golden Eagles,/cbb/schools/southern-mississippi/,southern-mississippi,1967,2015,44,1280,685,595,.535,3.72,3.16,1,2,0,3,0,0
-381,Southern Utah Thunderbirds,/cbb/schools/southern-utah/,southern-utah,1989,2015,27,770,336,434,.436,-7.04,-3.63,0,3,3,1,0,0
+365,Siena Saints,/cbb/schools/siena/,siena,1939,2015,57,1549,855,694,.552,-2.16,-3.73,1,9,6,6,0,0
+366,South Alabama Jaguars,/cbb/schools/south-alabama/,south-alabama,1972,2015,44,1275,728,547,.571,0.20,-1.04,0,12,5,8,0,0
+367,South Carolina Gamecocks,/cbb/schools/south-carolina/,south-carolina,1909,2015,107,2546,1342,1203,.527,6.57,5.87,8,7,2,8,0,0
+368,South Carolina State Bulldogs,/cbb/schools/south-carolina-state/,south-carolina-state,1972,2015,44,1288,639,649,.496,-12.50,-9.95,0,8,5,5,0,0
+369,South Carolina Upstate Spartans,/cbb/schools/south-carolina-upstate/,south-carolina-upstate,2011,2015,5,166,84,82,.506,-4.10,-3.89,0,0,0,0,0,0
+370,South Dakota Coyotes,/cbb/schools/south-dakota/,south-dakota,2011,2015,5,154,67,87,.435,-7.75,-4.11,0,0,0,0,0,0
+371,South Dakota State Jackrabbits,/cbb/schools/south-dakota-state/,south-dakota-state,2009,2015,7,231,141,90,.610,0.58,-2.97,0,2,2,2,0,0
+372,South Florida Bulls,/cbb/schools/south-florida/,south-florida,1974,2015,42,1230,574,656,.467,2.58,3.64,0,1,1,3,0,0
+373,Southeast Missouri State Redhawks,/cbb/schools/southeast-missouri-state/,southeast-missouri-state,1992,2015,24,704,303,401,.430,-8.33,-4.82,0,1,1,1,0,0
+374,Southeastern Louisiana Lions,/cbb/schools/southeastern-louisiana/,southeastern-louisiana,1981,2015,34,967,415,552,.429,-11.04,-6.28,0,4,1,1,0,0
+375,Southern California Trojans,/cbb/schools/southern-california/,southern-california,1907,2015,109,2693,1532,1161,.569,7.19,7.00,9,7,1,16,2,0
+376,Southern Illinois Salukis,/cbb/schools/southern-illinois/,southern-illinois,1968,2015,48,1419,786,633,.554,2.98,2.61,1,9,5,10,0,0
+377,Southern Illinois-Edwardsville Cougars,/cbb/schools/southern-illinois-edwardsville/,southern-illinois-edwardsville,2011,2015,5,142,50,92,.352,-12.95,-4.74,0,0,0,0,0,0
+378,Southern Jaguars,/cbb/schools/southern/,southern,1978,2015,38,1113,589,524,.529,-10.04,-10.23,0,8,8,8,0,0
+379,Southern Methodist Mustangs,/cbb/schools/southern-methodist/,southern-methodist,1917,2015,99,2441,1259,1182,.516,2.42,2.76,3,14,2,11,1,0
+380,Southern Mississippi Golden Eagles,/cbb/schools/southern-mississippi/,southern-mississippi,1967,2015,44,1285,687,598,.535,3.73,3.18,1,2,0,3,0,0
+381,Southern Utah Thunderbirds,/cbb/schools/southern-utah/,southern-utah,1989,2015,27,776,339,437,.437,-7.00,-3.64,0,3,3,1,0,0
 382,Southwestern (KS) Moundbuilders,/cbb/schools/southwestern-ks/,southwestern-ks,1905,1923,19,289,212,77,.734,,,0,0,0,,,
 383,Southwestern (TX) Pirates,/cbb/schools/southwestern-tx/,southwestern-tx,1915,1916,2,10,1,9,.100,,,0,0,0,,,
 384,Springfield Pride,/cbb/schools/springfield/,springfield,1897,1935,30,406,268,138,.660,,,0,0,0,,,
-385,St. Bonaventure Bonnies,/cbb/schools/st-bonaventure/,st-bonaventure,1920,2015,95,2261,1271,990,.562,-0.87,1.70,6,7,1,6,1,0
-386,St. Francis (NY) Terriers,/cbb/schools/st-francis-ny/,st-francis-ny,1902,2015,96,2374,1173,1201,.494,-11.62,-8.21,0,5,0,0,0,0
-387,St. John's (NY) Red Storm,/cbb/schools/st-johns-ny/,st-johns-ny,1908,2015,108,2790,1837,953,.658,10.07,7.19,15,14,3,28,2,0
+385,St. Bonaventure Bonnies,/cbb/schools/st-bonaventure/,st-bonaventure,1920,2015,95,2269,1276,993,.562,-0.86,1.70,6,7,1,6,1,0
+386,St. Francis (NY) Terriers,/cbb/schools/st-francis-ny/,st-francis-ny,1902,2015,96,2382,1178,1204,.495,-11.62,-8.22,0,6,0,0,0,0
+387,St. John's (NY) Red Storm,/cbb/schools/st-johns-ny/,st-johns-ny,1908,2015,108,2798,1841,957,.658,10.03,7.23,15,14,3,29,2,0
 388,St. John's College (OH) ,/cbb/schools/st-johns-college-oh/,st-johns-college-oh,1921,1921,1,15,15,0,1.000,,,0,0,0,,,
 389,St. Lawrence Saints,/cbb/schools/st-lawrence/,st-lawrence,1902,1914,7,99,70,29,.707,,,0,0,0,,,
-390,Stanford Cardinal,/cbb/schools/stanford/,stanford,1914,2015,100,2552,1458,1094,.571,11.11,6.80,10,11,1,17,2,1
-391,Stephen F. Austin Lumberjacks,/cbb/schools/stephen-f-austin/,stephen-f-austin,1987,2015,29,830,452,378,.545,-6.62,-6.75,0,6,2,2,0,0
-392,Stetson Hatters,/cbb/schools/stetson/,stetson,1972,2015,44,1239,578,661,.467,-8.38,-4.67,0,0,0,0,0,0
+390,Stanford Cardinal,/cbb/schools/stanford/,stanford,1914,2015,100,2565,1466,1099,.572,11.08,6.83,10,11,1,17,2,1
+391,Stephen F. Austin Lumberjacks,/cbb/schools/stephen-f-austin/,stephen-f-austin,1987,2015,29,840,461,379,.549,-6.59,-6.75,0,7,3,3,0,0
+392,Stetson Hatters,/cbb/schools/stetson/,stetson,1972,2015,44,1244,579,665,.465,-8.40,-4.69,0,0,0,0,0,0
 393,Stevens Institute Ducks,/cbb/schools/stevens-institute/,stevens-institute,1917,1920,4,48,37,11,.771,,,0,0,0,,,
-394,Stony Brook Seawolves,/cbb/schools/stony-brook/,stony-brook,2000,2015,16,479,224,255,.468,-7.61,-5.58,0,4,0,0,0,0
+394,Stony Brook Seawolves,/cbb/schools/stony-brook/,stony-brook,2000,2015,16,487,230,257,.472,-7.64,-5.66,0,4,0,0,0,0
 395,SUNY-Potsdam Bears,/cbb/schools/suny-potsdam/,suny-potsdam,1910,1913,2,32,22,10,.688,,,0,0,0,,,
 396,Swarthmore Garnet,/cbb/schools/swarthmore/,swarthmore,1906,1919,11,133,92,41,.692,,,0,0,0,,,
-397,Syracuse Orange,/cbb/schools/syracuse/,syracuse,1899,2015,115,2769,1921,847,.694,15.64,7.27,30,11,5,37,5,1
-398,Temple Owls,/cbb/schools/temple/,temple,1895,2015,119,2863,1842,1021,.643,9.93,4.71,9,21,10,31,2,0
-399,Tennessee State Tigers,/cbb/schools/tennessee-state/,tennessee-state,1978,2015,38,1079,450,629,.417,-8.87,-4.59,0,2,2,2,0,0
-400,Tennessee Tech Golden Eagles,/cbb/schools/tennessee-tech/,tennessee-tech,1944,2015,61,1642,818,824,.498,-6.59,-3.79,0,7,1,2,0,0
-401,Tennessee Volunteers,/cbb/schools/tennessee/,tennessee,1909,2015,106,2563,1566,995,.611,10.58,7.84,11,12,4,20,0,0
-402,Tennessee-Martin Skyhawks,/cbb/schools/tennessee-martin/,tennessee-martin,1993,2015,23,659,236,423,.358,-11.58,-4.11,0,1,0,0,0,0
-403,Texas A&M Aggies,/cbb/schools/texas-am/,texas-am,1913,2015,103,2555,1340,1215,.524,4.70,4.28,3,11,2,12,0,0
-404,Texas A&M-Corpus Christi Islanders,/cbb/schools/texas-am-corpus-christi/,texas-am-corpus-christi,2003,2015,13,386,192,194,.497,-5.74,-4.17,0,4,1,1,0,0
-405,Texas Christian Horned Frogs,/cbb/schools/texas-christian/,texas-christian,1914,2015,102,2474,1140,1334,.461,2.97,3.03,3,11,0,7,0,0
-406,Texas Longhorns,/cbb/schools/texas/,texas,1906,2015,109,2729,1715,1014,.628,11.02,6.17,11,25,2,31,3,0
-407,Texas Southern Tigers,/cbb/schools/texas-southern/,texas-southern,1978,2015,38,1100,532,568,.484,-11.12,-8.65,0,9,5,5,0,0
-408,Texas State Bobcats,/cbb/schools/texas-state/,texas-state,1985,2015,31,888,386,502,.435,-9.31,-5.87,0,3,2,2,0,0
-409,Texas Tech Red Raiders,/cbb/schools/texas-tech/,texas-tech,1926,2015,87,2305,1278,1027,.554,5.64,5.20,4,12,5,14,0,0
+397,Syracuse Orange,/cbb/schools/syracuse/,syracuse,1899,2015,115,2775,1923,851,.693,15.64,7.33,30,11,5,37,5,1
+398,Temple Owls,/cbb/schools/temple/,temple,1895,2015,119,2874,1849,1025,.643,9.93,4.73,9,21,10,31,2,0
+399,Tennessee State Tigers,/cbb/schools/tennessee-state/,tennessee-state,1978,2015,38,1083,450,633,.416,-8.89,-4.59,0,2,2,2,0,0
+400,Tennessee Tech Golden Eagles,/cbb/schools/tennessee-tech/,tennessee-tech,1944,2015,61,1646,818,828,.497,-6.60,-3.78,0,7,1,2,0,0
+401,Tennessee Volunteers,/cbb/schools/tennessee/,tennessee,1909,2015,106,2571,1568,1001,.610,10.58,7.88,11,12,4,20,0,0
+402,Tennessee-Martin Skyhawks,/cbb/schools/tennessee-martin/,tennessee-martin,1993,2015,23,668,241,427,.361,-11.57,-4.11,0,1,0,0,0,0
+403,Texas A&M Aggies,/cbb/schools/texas-am/,texas-am,1913,2015,103,2564,1344,1220,.524,4.68,4.27,3,11,2,12,0,0
+404,Texas A&M-Corpus Christi Islanders,/cbb/schools/texas-am-corpus-christi/,texas-am-corpus-christi,2003,2015,13,396,199,197,.503,-5.60,-4.22,0,4,1,1,0,0
+405,Texas Christian Horned Frogs,/cbb/schools/texas-christian/,texas-christian,1914,2015,102,2482,1143,1339,.461,2.95,3.08,3,11,0,7,0,0
+406,Texas Longhorns,/cbb/schools/texas/,texas,1906,2015,109,2738,1718,1020,.627,10.98,6.21,11,25,2,32,3,0
+407,Texas Southern Tigers,/cbb/schools/texas-southern/,texas-southern,1978,2015,38,1111,542,569,.488,-11.11,-8.73,0,10,6,6,0,0
+408,Texas State Bobcats,/cbb/schools/texas-state/,texas-state,1985,2015,31,895,389,506,.435,-9.33,-5.88,0,3,2,2,0,0
+409,Texas Tech Red Raiders,/cbb/schools/texas-tech/,texas-tech,1926,2015,87,2311,1279,1032,.553,5.65,5.23,4,12,5,14,0,0
 410,Texas Wesleyan Rams,/cbb/schools/texas-wesleyan/,texas-wesleyan,1948,1948,1,30,19,11,.633,,,0,0,0,0,0,0
-411,Texas-Arlington Mavericks,/cbb/schools/texas-arlington/,texas-arlington,1969,2015,47,1320,585,735,.443,-7.38,-4.73,0,2,1,1,0,0
-412,Texas-El Paso Miners,/cbb/schools/texas-el-paso/,texas-el-paso,1923,2015,87,2205,1278,927,.580,6.43,2.77,4,13,5,17,1,1
-413,Texas-Pan American Broncs,/cbb/schools/texas-pan-american/,texas-pan-american,1969,2015,47,1302,564,738,.433,-8.57,-2.36,0,5,0,0,0,0
-414,Texas-San Antonio Roadrunners,/cbb/schools/texas-san-antonio/,texas-san-antonio,1982,2015,34,984,506,478,.514,-5.93,-4.95,0,3,4,4,0,0
-415,Toledo Rockets,/cbb/schools/toledo/,toledo,1916,2015,100,2395,1368,1027,.571,-0.45,-0.38,2,11,1,4,0,0
-416,Towson Tigers,/cbb/schools/towson/,towson,1980,2015,36,1052,427,625,.406,-8.71,-4.56,0,4,3,2,0,0
+411,Texas-Arlington Mavericks,/cbb/schools/texas-arlington/,texas-arlington,1969,2015,47,1327,587,740,.442,-7.42,-4.75,0,2,1,1,0,0
+412,Texas-El Paso Miners,/cbb/schools/texas-el-paso/,texas-el-paso,1923,2015,87,2213,1282,931,.579,6.36,2.74,4,13,5,17,1,1
+413,Texas-Pan American Broncs,/cbb/schools/texas-pan-american/,texas-pan-american,1969,2015,47,1307,565,742,.432,-8.59,-2.37,0,5,0,0,0,0
+414,Texas-San Antonio Roadrunners,/cbb/schools/texas-san-antonio/,texas-san-antonio,1982,2015,34,990,507,483,.512,-5.96,-4.95,0,3,4,4,0,0
+415,Toledo Rockets,/cbb/schools/toledo/,toledo,1916,2015,100,2403,1372,1031,.571,-0.50,-0.38,2,11,1,4,0,0
+416,Towson Tigers,/cbb/schools/towson/,towson,1980,2015,36,1058,428,630,.405,-8.73,-4.56,0,4,3,2,0,0
 417,Trinity (CT) Bantams,/cbb/schools/trinity-ct/,trinity-ct,1897,1911,8,81,28,53,.346,,,0,0,0,,,
 418,Trinity (TX) Tigers,/cbb/schools/trinity-tx/,trinity-tx,1971,1973,3,70,25,45,.357,,,0,0,0,0,0,0
-419,Troy Trojans,/cbb/schools/troy/,troy,1994,2015,22,642,311,331,.484,-8.10,-5.74,0,6,1,1,0,0
-420,Tulane Green Wave,/cbb/schools/tulane/,tulane,1906,2015,105,2384,1182,1202,.496,2.21,2.38,1,6,0,3,0,0
-421,Tulsa Golden Hurricane,/cbb/schools/tulsa/,tulsa,1914,2015,102,2471,1372,1099,.555,7.39,2.94,5,10,6,15,0,0
-422,UCLA Bruins,/cbb/schools/ucla/,ucla,1920,2015,96,2602,1800,802,.692,13.96,7.98,40,31,4,46,18,11
+419,Troy Trojans,/cbb/schools/troy/,troy,1994,2015,22,647,312,335,.482,-8.09,-5.72,0,6,1,1,0,0
+420,Tulane Green Wave,/cbb/schools/tulane/,tulane,1906,2015,105,2391,1183,1208,.495,2.14,2.37,1,6,0,3,0,0
+421,Tulsa Golden Hurricane,/cbb/schools/tulsa/,tulsa,1914,2015,102,2481,1378,1103,.555,7.39,2.95,5,10,6,15,0,0
+422,UCLA Bruins,/cbb/schools/ucla/,ucla,1920,2015,96,2612,1806,806,.691,13.98,7.98,40,31,4,47,18,11
 423,Union (NY) Dutchmen,/cbb/schools/union-ny/,union-ny,1907,1925,19,266,162,104,.609,,,0,0,0,,,
-424,Utah State Aggies,/cbb/schools/utah-state/,utah-state,1904,2015,110,2584,1524,1060,.590,4.77,1.41,4,15,8,20,0,0
-425,Utah Utes,/cbb/schools/utah/,utah,1909,2015,107,2677,1725,952,.644,8.72,4.50,19,31,5,27,4,1
-426,Utah Valley Wolverines,/cbb/schools/utah-valley/,utah-valley,2010,2015,6,181,94,87,.519,-9.79,-6.88,0,3,0,0,0,0
+424,Utah State Aggies,/cbb/schools/utah-state/,utah-state,1904,2015,110,2591,1528,1063,.590,4.77,1.40,4,15,8,20,0,0
+425,Utah Utes,/cbb/schools/utah/,utah,1909,2015,107,2689,1732,957,.644,8.66,4.54,20,31,5,28,4,1
+426,Utah Valley Wolverines,/cbb/schools/utah-valley/,utah-valley,2010,2015,6,187,96,91,.513,-9.83,-6.98,0,3,0,0,0,0
 427,Utica Pioneers,/cbb/schools/utica/,utica,1982,1987,6,158,64,94,.405,-12.95,-7.35,0,0,0,0,0,0
-428,Valparaiso Crusaders,/cbb/schools/valparaiso/,valparaiso,1918,2015,80,1991,1040,951,.522,-3.61,-2.16,0,11,9,8,0,0
-429,Vanderbilt Commodores,/cbb/schools/vanderbilt/,vanderbilt,1901,2015,113,2630,1540,1090,.586,10.16,7.35,11,3,3,13,0,0
-430,Vermont Catamounts,/cbb/schools/vermont/,vermont,1921,2015,60,1595,814,781,.510,-6.80,-6.06,0,7,5,5,0,0
-431,Villanova Wildcats,/cbb/schools/villanova/,villanova,1921,2015,95,2551,1640,911,.643,12.31,7.87,18,9,3,34,4,1
-432,Virginia Cavaliers,/cbb/schools/virginia/,virginia,1906,2015,110,2648,1507,1140,.569,12.70,8.52,8,7,2,18,2,0
-433,Virginia Commonwealth Rams,/cbb/schools/virginia-commonwealth/,virginia-commonwealth,1974,2015,42,1269,817,452,.644,5.60,1.34,2,9,8,13,1,0
-434,Virginia Military Institute Keydets,/cbb/schools/virginia-military-institute/,virginia-military-institute,1909,2015,107,2303,860,1443,.373,-11.68,-4.36,1,2,3,3,0,0
-435,Virginia Tech Hokies,/cbb/schools/virginia-tech/,virginia-tech,1909,2015,107,2540,1374,1166,.541,6.22,4.67,1,2,1,8,0,0
+428,Valparaiso Crusaders,/cbb/schools/valparaiso/,valparaiso,1918,2015,80,1998,1045,953,.523,-3.63,-2.14,0,12,10,9,0,0
+429,Vanderbilt Commodores,/cbb/schools/vanderbilt/,vanderbilt,1901,2015,113,2640,1547,1093,.586,10.18,7.35,11,3,3,13,0,0
+430,Vermont Catamounts,/cbb/schools/vermont/,vermont,1921,2015,60,1603,818,785,.510,-6.82,-6.07,0,7,5,5,0,0
+431,Villanova Wildcats,/cbb/schools/villanova/,villanova,1921,2015,95,2562,1650,912,.644,12.37,7.89,19,10,4,35,4,1
+432,Virginia Cavaliers,/cbb/schools/virginia/,virginia,1906,2015,110,2658,1514,1143,.570,12.65,8.52,9,8,2,19,2,0
+433,Virginia Commonwealth Rams,/cbb/schools/virginia-commonwealth/,virginia-commonwealth,1974,2015,42,1280,824,456,.644,5.57,1.35,3,9,9,14,1,0
+434,Virginia Military Institute Keydets,/cbb/schools/virginia-military-institute/,virginia-military-institute,1909,2015,107,2308,862,1446,.373,-11.69,-4.38,1,2,3,3,0,0
+435,Virginia Tech Hokies,/cbb/schools/virginia-tech/,virginia-tech,1909,2015,107,2548,1375,1173,.540,6.21,4.73,1,2,1,8,0,0
 436,Wabash Little Giants,/cbb/schools/wabash/,wabash,1897,1925,29,407,301,106,.740,,,0,0,0,,,
-437,Wagner Seahawks,/cbb/schools/wagner/,wagner,1966,2015,43,1219,581,638,.477,-9.77,-7.50,0,1,1,1,0,0
-438,Wake Forest Demon Deacons,/cbb/schools/wake-forest/,wake-forest,1906,2015,109,2641,1484,1157,.562,11.25,8.22,17,4,5,22,1,0
+437,Wagner Seahawks,/cbb/schools/wagner/,wagner,1966,2015,43,1224,582,642,.475,-9.80,-7.51,0,1,1,1,0,0
+438,Wake Forest Demon Deacons,/cbb/schools/wake-forest/,wake-forest,1906,2015,109,2647,1485,1162,.561,11.18,8.25,17,4,5,22,1,0
 439,Washburn Ichabods,/cbb/schools/washburn/,washburn,1906,1941,35,557,270,283,.488,,,0,0,0,0,0,0
 440,Washington & Jefferson Presidents,/cbb/schools/washington-jefferson/,washington-jefferson,1913,1944,10,128,73,55,.570,,,0,0,0,0,0,0
 441,Washington & Lee Generals,/cbb/schools/washington-lee/,washington-lee,1907,1959,51,905,472,432,.522,,,0,3,2,0,0,0
 442,Washington (MO) Bears,/cbb/schools/washington-mo/,washington-mo,1905,1960,52,921,433,488,.470,,,0,2,0,0,0,0
 443,Washington College Shoremen,/cbb/schools/washington-college/,washington-college,1913,1925,13,151,109,42,.722,,,0,0,0,,,
-444,Washington Huskies,/cbb/schools/washington/,washington,1896,2015,114,2841,1719,1122,.605,8.09,7.14,8,11,3,16,1,0
-445,Washington State Cougars,/cbb/schools/washington-state/,washington-state,1902,2015,114,2988,1546,1442,.517,5.76,6.16,3,2,0,6,1,0
+444,Washington Huskies,/cbb/schools/washington/,washington,1896,2015,114,2848,1721,1127,.604,8.04,7.16,8,11,3,16,1,0
+445,Washington State Cougars,/cbb/schools/washington-state/,washington-state,1902,2015,114,2995,1548,1447,.517,5.76,6.18,3,2,0,6,1,0
 446,Wayne State (MI) Warriors,/cbb/schools/wayne-state-mi/,wayne-state-mi,1928,1950,5,104,47,57,.452,,,0,0,0,0,0,0
-447,Weber State Wildcats,/cbb/schools/weber-state/,weber-state,1964,2015,52,1509,952,557,.631,0.21,-1.58,1,21,9,15,0,0
+447,Weber State Wildcats,/cbb/schools/weber-state/,weber-state,1964,2015,52,1515,955,560,.630,0.21,-1.60,1,21,9,15,0,0
 448,Wesleyan (CT) Cardinals,/cbb/schools/wesleyan-ct/,wesleyan-ct,1896,1913,13,171,97,74,.567,,,0,0,0,,,
 449,West Chester Golden Rams,/cbb/schools/west-chester/,west-chester,1899,1982,10,244,86,158,.352,-18.03,-7.63,0,1,0,0,0,0
 450,West Texas A&M Buffaloes,/cbb/schools/west-texas-am/,west-texas-am,1921,1986,54,1275,707,568,.555,-0.41,3.10,0,4,0,1,0,0
-451,West Virginia Mountaineers,/cbb/schools/west-virginia/,west-virginia,1904,2015,106,2716,1670,1046,.615,9.37,5.10,13,16,13,25,2,0
-452,Western Carolina Catamounts,/cbb/schools/western-carolina/,western-carolina,1977,2015,39,1129,503,626,.446,-8.30,-3.99,0,3,1,1,0,0
-453,Western Illinois Leathernecks,/cbb/schools/western-illinois/,western-illinois,1982,2015,34,971,414,557,.426,-8.31,-3.79,0,2,1,0,0,0
-454,Western Kentucky Hilltoppers,/cbb/schools/western-kentucky/,western-kentucky,1922,2015,94,2571,1708,863,.664,3.17,-0.02,11,28,19,23,1,0
-455,Western Michigan Broncos,/cbb/schools/western-michigan/,western-michigan,1914,2015,102,2411,1285,1126,.533,-1.30,0.09,1,10,2,4,0,0
+451,West Virginia Mountaineers,/cbb/schools/west-virginia/,west-virginia,1904,2015,106,2726,1676,1050,.615,9.34,5.16,14,16,13,26,2,0
+452,Western Carolina Catamounts,/cbb/schools/western-carolina/,western-carolina,1977,2015,39,1134,505,629,.445,-8.31,-4.02,0,3,1,1,0,0
+453,Western Illinois Leathernecks,/cbb/schools/western-illinois/,western-illinois,1982,2015,34,976,414,562,.424,-8.35,-3.79,0,2,1,0,0,0
+454,Western Kentucky Hilltoppers,/cbb/schools/western-kentucky/,western-kentucky,1922,2015,94,2579,1712,867,.664,3.13,-0.05,11,28,19,23,1,0
+455,Western Michigan Broncos,/cbb/schools/western-michigan/,western-michigan,1914,2015,102,2420,1290,1130,.533,-1.32,0.08,1,10,2,4,0,0
 456,Western State Mountaineers,/cbb/schools/western-state/,western-state,1924,1937,14,189,88,101,.466,,,0,0,0,,,
 457,Westminster (MO) Blue Jays,/cbb/schools/westminster-mo/,westminster-mo,1920,1920,1,17,17,0,1.000,,,0,0,0,,,
 458,Westminster (PA) Titans,/cbb/schools/westminster-pa/,westminster-pa,1898,1935,21,294,210,84,.714,,,0,0,0,,,
 459,Wheaton (IL) Thunder,/cbb/schools/wheaton-il/,wheaton-il,1902,1905,4,57,39,17,.696,,,0,0,0,,,
 460,Whittier Poets,/cbb/schools/whittier/,whittier,1909,1915,3,42,38,3,.927,,,0,0,0,,,
-461,Wichita State Shockers,/cbb/schools/wichita-state/,wichita-state,1906,2015,108,2639,1475,1164,.559,5.78,2.82,5,8,3,11,2,0
+461,Wichita State Shockers,/cbb/schools/wichita-state/,wichita-state,1906,2015,108,2648,1482,1166,.560,5.78,2.84,6,9,3,12,2,0
 462,Widener Pride,/cbb/schools/widener/,widener,1899,1909,5,26,20,6,.769,,,0,0,0,,,
-463,William & Mary Tribe,/cbb/schools/william-mary/,william-mary,1906,2015,110,2504,1159,1345,.463,-4.97,-1.43,0,2,0,0,0,0
+463,William & Mary Tribe,/cbb/schools/william-mary/,william-mary,1906,2015,110,2512,1163,1349,.463,-5.02,-1.43,0,3,0,0,0,0
 464,Williams Ephs,/cbb/schools/williams/,williams,1901,1911,10,161,136,24,.850,,,0,0,0,,,
-465,Winthrop Eagles,/cbb/schools/winthrop/,winthrop,1987,2015,29,861,444,417,.516,-8.80,-6.97,1,7,10,9,0,0
-466,Wisconsin Badgers,/cbb/schools/wisconsin/,wisconsin,1899,2015,117,2673,1513,1160,.566,11.85,8.57,13,17,2,20,3,1
+465,Winthrop Eagles,/cbb/schools/winthrop/,winthrop,1987,2015,29,868,449,419,.517,-8.77,-7.00,1,7,10,9,0,0
+466,Wisconsin Badgers,/cbb/schools/wisconsin/,wisconsin,1899,2015,117,2689,1527,1162,.568,11.85,8.66,14,18,3,21,4,1
 467,Wisconsin-Stevens Point Pointers,/cbb/schools/wisconsin-stevens-point/,wisconsin-stevens-point,1898,1918,21,156,98,58,.628,,,0,0,0,,,
 468,Wisconsin-Superior Yellowjackets,/cbb/schools/wisconsin-superior/,wisconsin-superior,1900,1901,2,14,10,4,.714,,,0,0,0,,,
 469,Wittenberg Tigers,/cbb/schools/wittenberg/,wittenberg,1931,1931,1,20,18,2,.900,,,0,0,0,,,
-470,Wofford Terriers,/cbb/schools/wofford/,wofford,1996,2015,20,595,278,317,.467,-7.01,-3.02,0,2,3,3,0,0
+470,Wofford Terriers,/cbb/schools/wofford/,wofford,1996,2015,20,603,285,318,.473,-7.00,-3.08,0,3,4,4,0,0
 471,Wooster Fighting Scots,/cbb/schools/wooster/,wooster,1901,1931,31,390,225,165,.577,,,0,0,0,,,
 472,Worcester Tech Engineers,/cbb/schools/worcester-tech/,worcester-tech,1920,1920,1,16,14,2,.875,,,0,0,0,,,
-473,Wright State Raiders,/cbb/schools/wright-state/,wright-state,1988,2015,28,828,442,386,.534,-2.00,-2.02,0,2,2,2,0,0
-474,Wyoming Cowboys,/cbb/schools/wyoming/,wyoming,1905,2015,110,2577,1467,1110,.569,4.90,3.10,4,21,2,14,1,1
-475,Xavier Musketeers,/cbb/schools/xavier/,xavier,1920,2015,94,2342,1383,959,.591,9.01,2.81,10,17,9,24,0,0
-476,Yale Elis,/cbb/schools/yale/,yale,1896,2015,120,2834,1397,1435,.493,-7.82,-5.75,1,12,0,3,0,0
-477,Youngstown State Penguins,/cbb/schools/youngstown-state/,youngstown-state,1948,2015,35,997,387,610,.388,-8.27,-3.29,0,0,0,0,0,0
+473,Wright State Raiders,/cbb/schools/wright-state/,wright-state,1988,2015,28,834,442,392,.530,-2.06,-2.06,0,2,2,2,0,0
+474,Wyoming Cowboys,/cbb/schools/wyoming/,wyoming,1905,2015,110,2586,1472,1114,.569,4.89,3.13,4,21,3,15,1,1
+475,Xavier Musketeers,/cbb/schools/xavier/,xavier,1920,2015,94,2353,1390,963,.591,9.00,2.85,10,17,9,25,0,0
+476,Yale Elis,/cbb/schools/yale/,yale,1896,2015,120,2842,1401,1438,.493,-7.82,-5.77,1,12,0,3,0,0
+477,Youngstown State Penguins,/cbb/schools/youngstown-state/,youngstown-state,1948,2015,35,1002,388,614,.387,-8.29,-3.31,0,0,0,0,0,0

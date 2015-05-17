@@ -16,8 +16,7 @@ table_xpath = '//table/tbody/tr'
 schools = CSV.open("csv/schools.csv", "r",
                    {:col_sep => ",", :headers => TRUE})
 
-years = CSV.open("csv/years.csv", "w",
-                 {:col_sep => ","})
+years = CSV.open("csv/years.csv", "w", {:col_sep => ","})
 
 header = ["school_id", "school_name", "row_number",
           "year", "season", "school_year_url",
@@ -31,9 +30,10 @@ years << header
 
 schools.each do |school|
 
-  school_name = school["school_name"]
+  school_name = school["school"]
   school_url = school["school_url"]
-  school_id = school_url.split("/")[-1]
+  school_id = school["school_id"]
+  #school_id = school_url.split("/")[-1] rescue nil
 
   url = base+school_url
   print "Pulling #{school_name}"

@@ -49,7 +49,7 @@ ot as game_length,
       when year=2015 and type in ('NCAA','REG','CTOURN') then '35 seconds'
       when year between 1994 and 2014 then '35 seconds'
       when year between 1986 and 1993 then '45 seconds'
-      when year between 1980 and 1985 then 'none'
+      when year between 1950 and 1985 then 'none'
 end) as shot_clock
       
 from ncaa_sr.games g
@@ -92,7 +92,7 @@ ot as game_length,
       when year=2015 and type in ('NCAA','REG','CTOURN') then '35 seconds'
       when year between 1994 and 2014 then '35 seconds'
       when year between 1986 and 1993 then '45 seconds'
-      when year between 1980 and 1985 then 'none'
+      when year between 1950 and 1985 then 'none'
 end) as shot_clock
 
 from ncaa_sr.games g

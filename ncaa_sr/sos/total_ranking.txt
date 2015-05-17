@@ -1,108 +1,108 @@
 BEGIN
 CREATE TABLE
-INSERT 0 11109
+INSERT 0 16808
  rk  |           team            | year |  str  |  ofs  |  dfs  |  sos  
 -----+---------------------------+------+-------+-------+-------+-------
-   1 | Duke Blue Devils          | 1999 | 1.549 | 1.416 | 0.914 | 1.068
-   2 | Kentucky Wildcats         | 2015 | 1.525 | 1.171 | 0.767 | 1.061
-   3 | Kentucky Wildcats         | 1996 | 1.491 | 1.358 | 0.911 | 1.063
-   4 | Duke Blue Devils          | 1998 | 1.486 | 1.270 | 0.854 | 1.060
-   5 | Duke Blue Devils          | 2001 | 1.483 | 1.364 | 0.920 | 1.068
-   6 | Kentucky Wildcats         | 1997 | 1.476 | 1.269 | 0.859 | 1.049
-   7 | Nevada-Las Vegas Rebels   | 1991 | 1.461 | 1.320 | 0.903 | 1.027
-   8 | Indiana Hoosiers          | 1992 | 1.458 | 1.222 | 0.839 | 1.077
-   9 | Kansas Jayhawks           | 2008 | 1.441 | 1.226 | 0.851 | 1.054
-  10 | North Carolina Tar Heels  | 1998 | 1.439 | 1.259 | 0.875 | 1.076
-  11 | Florida Gators            | 2013 | 1.436 | 1.135 | 0.790 | 1.044
-  12 | Louisville Cardinals      | 2013 | 1.433 | 1.194 | 0.834 | 1.058
-  13 | Duke Blue Devils          | 2002 | 1.433 | 1.307 | 0.912 | 1.057
-  14 | Michigan State Spartans   | 2000 | 1.431 | 1.151 | 0.804 | 1.058
-  15 | North Carolina Tar Heels  | 1993 | 1.426 | 1.243 | 0.872 | 1.070
-  16 | Ohio State Buckeyes       | 2011 | 1.426 | 1.204 | 0.844 | 1.065
-  17 | Virginia Cavaliers        | 2015 | 1.421 | 1.032 | 0.726 | 1.059
-  18 | Wisconsin Badgers         | 2015 | 1.420 | 1.151 | 0.810 | 1.061
-  19 | Duke Blue Devils          | 2010 | 1.419 | 1.204 | 0.849 | 1.065
-  20 | North Carolina Tar Heels  | 2005 | 1.418 | 1.359 | 0.958 | 1.072
-  21 | Arizona Wildcats          | 1988 | 1.415 | 1.190 | 0.841 | 1.043
-  22 | Arizona Wildcats          | 1989 | 1.415 | 1.194 | 0.844 | 1.063
-  23 | Arizona Wildcats          | 2001 | 1.414 | 1.232 | 0.871 | 1.073
-  24 | Stanford Cardinal         | 2000 | 1.414 | 1.160 | 0.820 | 1.048
-  25 | Kentucky Wildcats         | 1995 | 1.413 | 1.262 | 0.893 | 1.060
-  26 | Ohio State Buckeyes       | 2012 | 1.410 | 1.199 | 0.850 | 1.065
-  27 | Auburn Tigers             | 1999 | 1.409 | 1.206 | 0.856 | 1.037
-  28 | North Carolina Tar Heels  | 2007 | 1.407 | 1.304 | 0.927 | 1.068
-  29 | Duke Blue Devils          | 2004 | 1.407 | 1.243 | 0.884 | 1.077
-  30 | Kansas Jayhawks           | 1997 | 1.405 | 1.293 | 0.920 | 1.054
-  31 | Maryland Terrapins        | 1999 | 1.404 | 1.295 | 0.922 | 1.064
-  32 | Connecticut Huskies       | 1996 | 1.403 | 1.184 | 0.844 | 1.051
-  33 | Louisville Cardinals      | 2014 | 1.401 | 1.196 | 0.854 | 1.037
-  34 | Kentucky Wildcats         | 2012 | 1.400 | 1.217 | 0.869 | 1.051
-  35 | Kentucky Wildcats         | 1993 | 1.399 | 1.231 | 0.880 | 1.058
-  36 | Arizona Wildcats          | 2015 | 1.399 | 1.202 | 0.859 | 1.051
-  37 | Cincinnati Bearcats       | 2000 | 1.397 | 1.201 | 0.860 | 1.058
-  38 | Cincinnati Bearcats       | 2002 | 1.395 | 1.161 | 0.833 | 1.057
-  39 | Indiana Hoosiers          | 2013 | 1.391 | 1.252 | 0.900 | 1.064
-  40 | Stanford Cardinal         | 2001 | 1.391 | 1.232 | 0.886 | 1.059
-  41 | Connecticut Huskies       | 1999 | 1.390 | 1.166 | 0.838 | 1.057
-  42 | Kansas Jayhawks           | 2010 | 1.389 | 1.226 | 0.883 | 1.065
-  43 | Arizona Wildcats          | 2014 | 1.389 | 1.101 | 0.793 | 1.060
-  44 | Florida Gators            | 2007 | 1.389 | 1.207 | 0.869 | 1.051
-  45 | Michigan State Spartans   | 1999 | 1.386 | 1.129 | 0.814 | 1.070
-  46 | North Carolina Tar Heels  | 1986 | 1.386 | 1.309 | 0.945 | 1.087
-  47 | Illinois Fighting Illini  | 2005 | 1.384 | 1.186 | 0.857 | 1.048
-  48 | Minnesota Golden Gophers  | 1997 | 1.384 | 1.176 | 0.850 | 1.062
-  49 | Duke Blue Devils          | 2015 | 1.384 | 1.275 | 0.921 | 1.062
-  50 | Duke Blue Devils          | 2011 | 1.383 | 1.253 | 0.906 | 1.056
-  51 | Michigan Wolverines       | 1989 | 1.381 | 1.268 | 0.918 | 1.072
-  52 | North Carolina Tar Heels  | 1984 | 1.378 | 1.241 | 0.901 | 1.074
-  53 | Villanova Wildcats        | 2015 | 1.376 | 1.199 | 0.871 | 1.059
-  54 | Michigan State Spartans   | 2001 | 1.374 | 1.151 | 0.838 | 1.063
-  55 | Memphis Tigers            | 2008 | 1.374 | 1.200 | 0.873 | 1.035
-  56 | Kansas Jayhawks           | 2011 | 1.374 | 1.235 | 0.899 | 1.055
-  57 | Duke Blue Devils          | 2000 | 1.373 | 1.320 | 0.961 | 1.051
-  58 | North Carolina Tar Heels  | 1991 | 1.373 | 1.239 | 0.902 | 1.067
-  59 | Cincinnati Bearcats       | 1993 | 1.373 | 1.069 | 0.778 | 1.043
-  60 | Kansas Jayhawks           | 2003 | 1.371 | 1.239 | 0.904 | 1.066
-  61 | North Carolina Tar Heels  | 2009 | 1.368 | 1.360 | 0.995 | 1.057
-  62 | Duke Blue Devils          | 1989 | 1.368 | 1.198 | 0.876 | 1.045
-  63 | UCLA Bruins               | 2008 | 1.366 | 1.138 | 0.833 | 1.053
-  64 | Texas Longhorns           | 2006 | 1.365 | 1.158 | 0.848 | 1.041
-  65 | Indiana Hoosiers          | 1993 | 1.365 | 1.261 | 0.923 | 1.070
-  66 | Temple Owls               | 2000 | 1.365 | 1.039 | 0.761 | 1.052
-  67 | Oklahoma Sooners          | 1988 | 1.365 | 1.440 | 1.055 | 1.051
-  68 | Kansas Jayhawks           | 2007 | 1.364 | 1.181 | 0.866 | 1.046
-  69 | Duke Blue Devils          | 1997 | 1.361 | 1.228 | 0.903 | 1.073
-  70 | Kentucky Wildcats         | 1999 | 1.360 | 1.137 | 0.836 | 1.060
-  71 | Massachusetts Minutemen   | 1995 | 1.360 | 1.184 | 0.870 | 1.052
-  72 | Kansas Jayhawks           | 1992 | 1.359 | 1.212 | 0.892 | 1.064
-  73 | Kansas Jayhawks           | 1986 | 1.359 | 1.222 | 0.900 | 1.065
-  74 | Ohio State Buckeyes       | 1992 | 1.359 | 1.171 | 0.862 | 1.072
-  75 | Kentucky Wildcats         | 1998 | 1.359 | 1.207 | 0.888 | 1.054
-  76 | Georgetown Hoyas          | 1985 | 1.358 | 1.109 | 0.816 | 1.054
-  77 | Connecticut Huskies       | 2009 | 1.357 | 1.185 | 0.873 | 1.058
-  78 | Texas A&M Aggies          | 2007 | 1.357 | 1.132 | 0.834 | 1.037
-  79 | North Carolina Tar Heels  | 1997 | 1.356 | 1.226 | 0.904 | 1.090
-  80 | Michigan State Spartans   | 2012 | 1.356 | 1.134 | 0.836 | 1.069
-  81 | Massachusetts Minutemen   | 1996 | 1.355 | 1.131 | 0.835 | 1.049
-  82 | Wake Forest Demon Deacons | 1997 | 1.355 | 1.083 | 0.799 | 1.078
-  83 | North Carolina Tar Heels  | 2008 | 1.354 | 1.346 | 0.994 | 1.053
-  84 | North Carolina Tar Heels  | 1982 | 1.353 | 1.106 | 0.817 | 1.068
-  85 | Duke Blue Devils          | 2005 | 1.353 | 1.192 | 0.881 | 1.074
-  86 | Kansas Jayhawks           | 1991 | 1.353 | 1.146 | 0.847 | 1.061
-  87 | Wisconsin Badgers         | 2008 | 1.353 | 1.054 | 0.778 | 1.049
-  88 | Oregon State Beavers      | 1982 | 1.353 | 1.072 | 0.793 | 1.035
-  89 | Kansas Jayhawks           | 2012 | 1.351 | 1.172 | 0.868 | 1.056
-  90 | Illinois Fighting Illini  | 2001 | 1.351 | 1.174 | 0.869 | 1.061
-  91 | Memphis Tigers            | 2009 | 1.350 | 1.128 | 0.836 | 1.040
-  92 | Utah Utes                 | 2015 | 1.350 | 1.097 | 0.812 | 1.048
-  93 | Duke Blue Devils          | 1992 | 1.350 | 1.246 | 0.924 | 1.057
-  94 | Florida Gators            | 2014 | 1.349 | 1.071 | 0.794 | 1.056
-  95 | Duke Blue Devils          | 1993 | 1.348 | 1.209 | 0.897 | 1.073
-  96 | Duke Blue Devils          | 1991 | 1.347 | 1.203 | 0.893 | 1.056
-  97 | Stanford Cardinal         | 1999 | 1.346 | 1.096 | 0.815 | 1.064
-  98 | Kansas Jayhawks           | 1990 | 1.346 | 1.236 | 0.919 | 1.050
-  99 | Wisconsin Badgers         | 2012 | 1.345 | 1.009 | 0.750 | 1.060
- 100 | Pittsburgh Panthers       | 2003 | 1.345 | 1.118 | 0.831 | 1.040
+   1 | Duke Blue Devils          | 1999 | 1.553 | 1.417 | 0.912 | 1.070
+   2 | Kentucky Wildcats         | 2015 | 1.524 | 1.170 | 0.768 | 1.061
+   3 | UCLA Bruins               | 1972 | 1.509 | 1.252 | 0.830 | 1.029
+   4 | Kentucky Wildcats         | 1996 | 1.489 | 1.352 | 0.908 | 1.064
+   5 | Duke Blue Devils          | 2001 | 1.487 | 1.363 | 0.917 | 1.070
+   6 | Duke Blue Devils          | 1998 | 1.486 | 1.275 | 0.858 | 1.062
+   7 | Kentucky Wildcats         | 1997 | 1.481 | 1.273 | 0.860 | 1.051
+   8 | Kentucky Wildcats         | 1952 | 1.474 | 1.267 | 0.860 | 1.014
+   9 | UCLA Bruins               | 1973 | 1.463 | 1.141 | 0.779 | 1.051
+  10 | Nevada-Las Vegas Rebels   | 1991 | 1.462 | 1.321 | 0.904 | 1.028
+  11 | Indiana Hoosiers          | 1992 | 1.460 | 1.224 | 0.838 | 1.079
+  12 | UCLA Bruins               | 1968 | 1.458 | 1.266 | 0.868 | 1.047
+  13 | Kentucky Wildcats         | 1951 | 1.450 | 1.213 | 0.837 | 1.012
+  14 | Kansas Jayhawks           | 2008 | 1.442 | 1.227 | 0.850 | 1.056
+  15 | Indiana Hoosiers          | 1975 | 1.440 | 1.220 | 0.847 | 1.047
+  16 | North Carolina Tar Heels  | 1998 | 1.439 | 1.248 | 0.867 | 1.077
+  17 | Duke Blue Devils          | 2002 | 1.437 | 1.308 | 0.910 | 1.059
+  18 | UCLA Bruins               | 1967 | 1.437 | 1.194 | 0.831 | 1.033
+  19 | Florida Gators            | 2013 | 1.435 | 1.135 | 0.791 | 1.045
+  20 | Kansas State Wildcats     | 1951 | 1.435 | 1.231 | 0.858 | 1.066
+  21 | Michigan State Spartans   | 2000 | 1.433 | 1.151 | 0.803 | 1.059
+  22 | Louisville Cardinals      | 2013 | 1.431 | 1.197 | 0.836 | 1.059
+  23 | UCLA Bruins               | 1969 | 1.429 | 1.184 | 0.828 | 1.039
+  24 | North Carolina Tar Heels  | 1993 | 1.426 | 1.238 | 0.868 | 1.071
+  25 | Ohio State Buckeyes       | 2011 | 1.423 | 1.202 | 0.844 | 1.066
+  26 | Kentucky Wildcats         | 1954 | 1.422 | 1.249 | 0.878 | 1.017
+  27 | Wisconsin Badgers         | 2015 | 1.422 | 1.165 | 0.819 | 1.061
+  28 | North Carolina Tar Heels  | 2005 | 1.420 | 1.357 | 0.955 | 1.074
+  29 | Arizona Wildcats          | 1988 | 1.420 | 1.192 | 0.839 | 1.046
+  30 | Virginia Cavaliers        | 2015 | 1.419 | 1.032 | 0.727 | 1.060
+  31 | Arizona Wildcats          | 2001 | 1.418 | 1.232 | 0.869 | 1.075
+  32 | Ohio State Buckeyes       | 1960 | 1.418 | 1.318 | 0.929 | 1.041
+  33 | Duke Blue Devils          | 2010 | 1.416 | 1.202 | 0.849 | 1.066
+  34 | Stanford Cardinal         | 2000 | 1.416 | 1.161 | 0.820 | 1.049
+  35 | Arizona Wildcats          | 1989 | 1.415 | 1.193 | 0.843 | 1.065
+  36 | San Francisco Dons        | 1955 | 1.412 | 1.031 | 0.731 | 1.049
+  37 | Auburn Tigers             | 1999 | 1.411 | 1.214 | 0.861 | 1.038
+  38 | Kentucky Wildcats         | 1995 | 1.411 | 1.260 | 0.892 | 1.061
+  39 | Ohio State Buckeyes       | 2012 | 1.409 | 1.199 | 0.851 | 1.066
+  40 | Cincinnati Bearcats       | 1960 | 1.409 | 1.264 | 0.897 | 1.041
+  41 | Duke Blue Devils          | 2004 | 1.408 | 1.241 | 0.882 | 1.078
+  42 | Maryland Terrapins        | 1999 | 1.408 | 1.298 | 0.922 | 1.066
+  43 | Kansas Jayhawks           | 1997 | 1.408 | 1.290 | 0.916 | 1.056
+  44 | North Carolina Tar Heels  | 2007 | 1.408 | 1.306 | 0.927 | 1.069
+  45 | UCLA Bruins               | 1974 | 1.407 | 1.140 | 0.811 | 1.051
+  46 | Cincinnati Bearcats       | 1962 | 1.405 | 1.054 | 0.750 | 1.042
+  47 | Duke Blue Devils          | 2015 | 1.402 | 1.272 | 0.907 | 1.063
+  48 | Connecticut Huskies       | 1996 | 1.401 | 1.182 | 0.844 | 1.052
+  49 | Cincinnati Bearcats       | 2002 | 1.399 | 1.163 | 0.831 | 1.059
+  50 | Kentucky Wildcats         | 1993 | 1.399 | 1.229 | 0.879 | 1.060
+  51 | Cincinnati Bearcats       | 2000 | 1.398 | 1.201 | 0.859 | 1.060
+  52 | Kentucky Wildcats         | 2012 | 1.398 | 1.218 | 0.871 | 1.053
+  53 | Stanford Cardinal         | 2001 | 1.394 | 1.231 | 0.884 | 1.061
+  54 | Louisville Cardinals      | 2014 | 1.393 | 1.193 | 0.856 | 1.037
+  55 | Connecticut Huskies       | 1999 | 1.393 | 1.167 | 0.837 | 1.059
+  56 | California Golden Bears   | 1960 | 1.391 | 1.004 | 0.722 | 1.051
+  57 | Indiana Hoosiers          | 1976 | 1.390 | 1.132 | 0.814 | 1.053
+  58 | Arizona Wildcats          | 2015 | 1.390 | 1.204 | 0.866 | 1.051
+  59 | Indiana Hoosiers          | 2013 | 1.389 | 1.252 | 0.901 | 1.065
+  60 | Florida Gators            | 2007 | 1.389 | 1.208 | 0.870 | 1.053
+  61 | Michigan State Spartans   | 1999 | 1.389 | 1.133 | 0.815 | 1.072
+  62 | Minnesota Golden Gophers  | 1997 | 1.387 | 1.183 | 0.853 | 1.064
+  63 | Kansas Jayhawks           | 2010 | 1.387 | 1.225 | 0.883 | 1.066
+  64 | North Carolina Tar Heels  | 1986 | 1.386 | 1.309 | 0.945 | 1.089
+  65 | Illinois Fighting Illini  | 2005 | 1.386 | 1.184 | 0.855 | 1.050
+  66 | Ohio State Buckeyes       | 1962 | 1.385 | 1.212 | 0.876 | 1.048
+  67 | Ohio State Buckeyes       | 1961 | 1.383 | 1.228 | 0.888 | 1.037
+  68 | Cincinnati Bearcats       | 1963 | 1.382 | 1.043 | 0.755 | 1.047
+  69 | Michigan Wolverines       | 1989 | 1.381 | 1.266 | 0.917 | 1.073
+  70 | Arizona Wildcats          | 2014 | 1.381 | 1.099 | 0.796 | 1.059
+  71 | Duke Blue Devils          | 2011 | 1.380 | 1.251 | 0.907 | 1.057
+  72 | North Carolina Tar Heels  | 1984 | 1.378 | 1.238 | 0.898 | 1.075
+  73 | Michigan State Spartans   | 2001 | 1.378 | 1.152 | 0.836 | 1.065
+  74 | Memphis Tigers            | 2008 | 1.375 | 1.201 | 0.873 | 1.036
+  75 | Duke Blue Devils          | 2000 | 1.375 | 1.317 | 0.958 | 1.053
+  76 | Kansas Jayhawks           | 2003 | 1.374 | 1.237 | 0.901 | 1.068
+  77 | San Francisco Dons        | 1956 | 1.374 | 1.030 | 0.750 | 0.983
+  78 | Cincinnati Bearcats       | 1993 | 1.373 | 1.067 | 0.777 | 1.044
+  79 | North Carolina Tar Heels  | 1991 | 1.373 | 1.240 | 0.903 | 1.069
+  80 | Villanova Wildcats        | 2015 | 1.373 | 1.198 | 0.873 | 1.060
+  81 | Kansas Jayhawks           | 2011 | 1.371 | 1.233 | 0.899 | 1.056
+  82 | Duke Blue Devils          | 1989 | 1.368 | 1.196 | 0.874 | 1.046
+  83 | Oklahoma Sooners          | 1988 | 1.368 | 1.440 | 1.053 | 1.053
+  84 | UCLA Bruins               | 2008 | 1.367 | 1.138 | 0.833 | 1.054
+  85 | Temple Owls               | 2000 | 1.366 | 1.040 | 0.761 | 1.054
+  86 | North Carolina Tar Heels  | 2009 | 1.365 | 1.358 | 0.995 | 1.058
+  87 | Indiana Hoosiers          | 1993 | 1.365 | 1.257 | 0.921 | 1.071
+  88 | Kansas Jayhawks           | 2007 | 1.364 | 1.182 | 0.866 | 1.048
+  89 | Duke Blue Devils          | 1997 | 1.364 | 1.234 | 0.905 | 1.075
+  90 | Texas Longhorns           | 2006 | 1.364 | 1.155 | 0.847 | 1.042
+  91 | Kentucky Wildcats         | 1999 | 1.363 | 1.141 | 0.837 | 1.062
+  92 | Kansas Jayhawks           | 1992 | 1.360 | 1.212 | 0.891 | 1.065
+  93 | Ohio State Buckeyes       | 1992 | 1.360 | 1.172 | 0.862 | 1.074
+  94 | Massachusetts Minutemen   | 1995 | 1.360 | 1.183 | 0.870 | 1.053
+  95 | North Carolina Tar Heels  | 1997 | 1.359 | 1.230 | 0.905 | 1.092
+  96 | Kansas Jayhawks           | 1986 | 1.359 | 1.223 | 0.900 | 1.067
+  97 | Kentucky Wildcats         | 1998 | 1.359 | 1.207 | 0.888 | 1.055
+  98 | Texas A&M Aggies          | 2007 | 1.358 | 1.132 | 0.833 | 1.039
+  99 | Wake Forest Demon Deacons | 1997 | 1.358 | 1.084 | 0.798 | 1.080
+ 100 | Georgetown Hoyas          | 1985 | 1.357 | 1.107 | 0.815 | 1.055
 (100 rows)
 
 COPY 100
