@@ -1,9 +1,5 @@
 year,round_id,team_id,conference_id,seed,bracket,p
 2015,1,GSW,west,Pacific Division,1,"{1,1,1,1,1}",1.0
-2015,1,MEM,west,Southwest Division,5,"{4,2,1,1,1}",1.0
-2015,1,LAC,west,Pacific Division,3,"{5,3,2,1,1}",1.0
 2015,1,HOU,west,Southwest Division,2,"{7,4,2,1,1}",1.0
 2015,1,ATL,east,Southeast Division,1,"{9,5,3,2,1}",1.0
-2015,1,WAS,east,Southeast Division,5,"{12,6,3,2,1}",1.0
-2015,1,CHI,east,Central Division,3,"{13,7,4,2,1}",1.0
 2015,1,CLE,east,Central Division,2,"{15,8,4,2,1}",1.0
