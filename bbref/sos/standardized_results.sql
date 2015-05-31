@@ -19,6 +19,8 @@ create table bbref.results (
 --	opponent_previous     boolean default false
 );
 
+-- Regular season
+
 insert into bbref.results
 (game_id,year,
  game_date,
@@ -72,6 +74,70 @@ g.visitor_score as team_score,
 g.home_score as opponent_score,
 status as game_length
 from bbref.games g
+where
+    g.home_score is not NULL
+and g.visitor_score is not NULL
+and g.home_score >= 0
+and g.visitor_score >= 0
+and g.home_id is not NULL
+and g.visitor_id is not NULL
+);
+
+-- Playoffs
+
+insert into bbref.results
+(game_id,year,
+ game_date,
+ team_name,team_id,
+ opponent_name,opponent_id,
+ location_id,field,
+ team_score,opponent_score,game_length)
+(
+select
+game_id+100000,
+year,
+game_date::date,
+trim(both from home_name),
+home_id,
+trim(both from visitor_name),
+visitor_id,
+home_id as location_id,
+'offense_home' as field,
+g.home_score as team_score,
+g.visitor_score as opponent_score,
+status as game_length
+from bbref.playoffs g
+where
+    g.home_score is not NULL
+and g.visitor_score is not NULL
+and g.home_score >= 0
+and g.visitor_score >= 0
+and g.home_id is not NULL
+and g.visitor_id is not NULL
+);
+
+insert into bbref.results
+(game_id,year,
+ game_date,
+ team_name,team_id,
+ opponent_name,opponent_id,
+ location_id,field,
+ team_score,opponent_score,game_length)
+(
+select
+game_id+100000,
+year,
+game_date::date,
+trim(both from visitor_name),
+visitor_id,
+trim(both from home_name),
+home_id,
+home_id as location_id,
+'defense_home' as field,
+g.visitor_score as team_score,
+g.home_score as opponent_score,
+status as game_length
+from bbref.playoffs g
 where
     g.home_score is not NULL
 and g.visitor_score is not NULL

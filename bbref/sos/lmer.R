@@ -33,7 +33,7 @@ group by year) f
   on (f.year)=(r.year)
 where
 TRUE
-and r.year between 2009 and 2015
+and r.year between 2008 and 2015
 and r.team_score>0
 and r.opponent_score>0
 and not(r.team_score,r.opponent_score)=(0,0)
@@ -95,6 +95,7 @@ parameter_levels <- as.data.frame(do.call("rbind",pll))
 dbWriteTable(con,c("bbref","_parameter_levels"),parameter_levels,row.names=TRUE)
 
 g <- cbind(fp,rp,week)
+#g <- cbind(fp,rp)
 
 g$log_ps <- log_ps
 

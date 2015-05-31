@@ -13,6 +13,10 @@ base = "http://www.basketball-reference.com/leagues"
 
 table_xpath = '//*[@id="games"]/tbody/tr'
 
+#league_id = "ABA"
+
+league_id = "NBA"
+
 first_year = 2015
 last_year = 2015
 
@@ -24,9 +28,10 @@ last_year = 2015
 
 (first_year..last_year).each do |year|
 
-  stats = CSV.open("csv/games_#{year}.csv","w")
+#  stats = CSV.open("csv/games_#{league_id}_#{year}.csv","w")
+   stats = CSV.open("csv/games_#{year}.csv","w")
 
-  url = "#{base}/NBA_#{year}_games.html"
+  url = "#{base}/#{league_id}_#{year}_games.html"
   print "Pulling year #{year}"
 
   begin

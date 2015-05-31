@@ -1,11 +1,9 @@
 BEGIN
        team_name       |   p   
 -----------------------+-------
- Golden State Warriors | 0.692
- Atlanta Hawks         | 0.126
- Cleveland Cavaliers   | 0.118
- Houston Rockets       | 0.064
-(4 rows)
+ Golden State Warriors | 0.807
+ Cleveland Cavaliers   | 0.193
+(2 rows)
 
-COPY 4
+COPY 2
 COMMIT

@@ -1,15 +1,9 @@
 BEGIN
  rd |         name          |   p   
 ----+-----------------------+-------
-  4 | Golden State Warriors | 0.852
-  4 | Atlanta Hawks         | 0.518
-  4 | Cleveland Cavaliers   | 0.482
-  4 | Houston Rockets       | 0.148
-  5 | Golden State Warriors | 0.692
-  5 | Atlanta Hawks         | 0.126
-  5 | Cleveland Cavaliers   | 0.118
-  5 | Houston Rockets       | 0.064
-(8 rows)
+  5 | Golden State Warriors | 0.807
+  5 | Cleveland Cavaliers   | 0.193
+(2 rows)
 
-COPY 8
+COPY 2
 COMMIT
