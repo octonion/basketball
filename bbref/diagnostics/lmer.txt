@@ -1,67 +1,67 @@
-[1] 20532     8
+[1] 20534     8
 [1] TRUE
-[1] 20532     7
-start par. =  1 1 1 fn =  -16783.19 
+[1] 20534     7
+start par. =  1 1 1 fn =  -16788.12 
 At return
-eval: 126 fn:     -30361.807 par: 0.210302 0.147841 0.142464
+eval: 148 fn:     -30367.609 par: 0.210322 0.147820 0.142425
 Linear mixed model fit by REML ['lmerMod']
 Formula: log_ps ~ year + field + game_length + (1 | offense) + (1 | defense) +  
     (1 | game_id)
    Data: g
 Weights: week
-REML criterion at convergence: -30361.81
+REML criterion at convergence: -30367.61
 Random effects:
  Groups   Name        Std.Dev.
- game_id  (Intercept) 0.06189 
- defense  (Intercept) 0.04351 
- offense  (Intercept) 0.04193 
- Residual             0.29430 
-Number of obs: 19288, groups:  game_id, 9644; defense, 240; offense, 240
+ game_id  (Intercept) 0.06190 
+ defense  (Intercept) 0.04350 
+ offense  (Intercept) 0.04191 
+ Residual             0.29429 
+Number of obs: 19290, groups:  game_id, 9645; defense, 240; offense, 240
 Fixed Effects:
       (Intercept)              year1              year2              year3  
-         4.572895           0.006187           0.006703           0.011272  
+         4.572896           0.006188           0.006713           0.011274  
             year4              year5              year6              year7  
-        -0.001198          -0.031375          -0.012527           0.017130  
+        -0.001188          -0.031362          -0.012513           0.017147  
 fieldoffense_home     game_length1OT     game_length2OT     game_length3OT  
-         0.030064           0.086874           0.171330           0.266624  
+         0.030065           0.086868           0.171304           0.266588  
    game_length4OT      game_lengthOT  
-         0.356099           0.057370  
+         0.356072           0.055452  
 Linear mixed model fit by REML ['lmerMod']
 Formula: log_ps ~ year + field + game_length + (1 | offense) + (1 | defense) +  
     (1 | game_id)
    Data: g
 Weights: week
 
-REML criterion at convergence: -30361.8
+REML criterion at convergence: -30367.6
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--4.7633 -0.5280  0.0157  0.5288  3.8352 
+-4.7633 -0.5282  0.0157  0.5286  3.8347 
 
 Random effects:
  Groups   Name        Variance Std.Dev.
- game_id  (Intercept) 0.003831 0.06189 
- defense  (Intercept) 0.001893 0.04351 
- offense  (Intercept) 0.001758 0.04193 
- Residual             0.086615 0.29430 
-Number of obs: 19288, groups:  game_id, 9644; defense, 240; offense, 240
+ game_id  (Intercept) 0.003831 0.06190 
+ defense  (Intercept) 0.001892 0.04350 
+ offense  (Intercept) 0.001757 0.04191 
+ Residual             0.086607 0.29429 
+Number of obs: 19290, groups:  game_id, 9645; defense, 240; offense, 240
 
 Fixed effects:
                    Estimate Std. Error t value
-(Intercept)        4.572895   0.004051  1128.8
-year1              0.006187   0.010578     0.6
-year2              0.006703   0.010577     0.6
-year3              0.011272   0.010578     1.1
-year4             -0.001198   0.010577    -0.1
-year5             -0.031375   0.010668    -2.9
-year6             -0.012527   0.010577    -1.2
-year7              0.017130   0.010578     1.6
-fieldoffense_home  0.030064   0.001157    26.0
-game_length1OT     0.086874   0.004120    21.1
-game_length2OT     0.171330   0.010123    16.9
-game_length3OT     0.266624   0.019361    13.8
-game_length4OT     0.356099   0.083409     4.3
-game_lengthOT      0.057370   0.012293     4.7
+(Intercept)        4.572896   0.004050  1129.1
+year1              0.006188   0.010575     0.6
+year2              0.006713   0.010575     0.6
+year3              0.011274   0.010576     1.1
+year4             -0.001188   0.010575    -0.1
+year5             -0.031362   0.010665    -2.9
+year6             -0.012513   0.010574    -1.2
+year7              0.017147   0.010575     1.6
+fieldoffense_home  0.030065   0.001157    26.0
+game_length1OT     0.086868   0.004120    21.1
+game_length2OT     0.171304   0.010123    16.9
+game_length3OT     0.266588   0.019361    13.8
+game_length4OT     0.356072   0.083410     4.3
+game_lengthOT      0.055452   0.012130     4.6
 
 Correlation of Fixed Effects:
             (Intr) year1  year2  year3  year4  year5  year6  year7  fldff_
@@ -73,11 +73,11 @@ year5        0.007 -0.144 -0.144 -0.144 -0.144
 year6       -0.001 -0.142 -0.142 -0.142 -0.142 -0.144                     
 year7       -0.001 -0.142 -0.142 -0.142 -0.142 -0.144 -0.142              
 fildffns_hm -0.143  0.000  0.000  0.000  0.000  0.000  0.000  0.000       
-gm_lngth1OT -0.053  0.003  0.002  0.000 -0.004 -0.003  0.001  0.000  0.000
+gm_lngth1OT -0.053  0.003  0.002  0.000 -0.004 -0.003  0.002  0.000  0.000
 gm_lngth2OT -0.021 -0.001 -0.002  0.001  0.004  0.001 -0.001 -0.001  0.000
-gm_lngth3OT -0.011  0.004 -0.002  0.002 -0.003  0.000  0.000  0.000  0.000
+gm_lngth3OT -0.011  0.004 -0.001  0.002 -0.003  0.000  0.000  0.000  0.000
 gm_lngth4OT -0.004  0.001  0.001  0.001  0.001 -0.009  0.001  0.001  0.000
-gam_lngthOT -0.017  0.005  0.000  0.005  0.000 -0.002 -0.003 -0.005  0.000
+gam_lngthOT -0.018  0.005  0.000  0.005  0.000 -0.002 -0.002 -0.004  0.000
             gm_1OT gm_2OT gm_3OT gm_4OT
 year1                                  
 year2                                  
@@ -91,5 +91,5 @@ gm_lngth1OT
 gm_lngth2OT  0.020                     
 gm_lngth3OT  0.016  0.007              
 gm_lngth4OT  0.005  0.001  0.006       
-gam_lngthOT  0.019  0.007  0.008  0.002
+gam_lngthOT  0.019  0.007  0.007  0.002
 [1] TRUE

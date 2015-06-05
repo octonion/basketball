@@ -3,31 +3,31 @@ CREATE TABLE
 INSERT 0 30
  rk |          team          |  str  |  ofs  |  dfs  |  sos  
 ----+------------------------+-------+-------+-------+-------
-  1 | Golden State Warriors  | 1.094 | 1.102 | 1.007 | 1.002
+  1 | Golden State Warriors  | 1.094 | 1.100 | 1.006 | 1.002
   2 | San Antonio Spurs      | 1.080 | 1.036 | 0.960 | 1.002
   3 | Los Angeles Clippers   | 1.071 | 1.070 | 0.999 | 1.004
-  4 | Cleveland Cavaliers    | 1.049 | 1.038 | 0.990 | 1.000
+  4 | Cleveland Cavaliers    | 1.049 | 1.037 | 0.989 | 1.001
   5 | Atlanta Hawks          | 1.045 | 1.030 | 0.985 | 0.998
   6 | Houston Rockets        | 1.038 | 1.049 | 1.010 | 1.006
   7 | Portland Trail Blazers | 1.037 | 1.025 | 0.988 | 1.001
   8 | Memphis Grizzlies      | 1.033 | 0.977 | 0.946 | 1.005
   9 | Chicago Bulls          | 1.029 | 1.006 | 0.977 | 1.000
- 10 | Oklahoma City Thunder  | 1.026 | 1.052 | 1.026 | 1.001
+ 10 | Oklahoma City Thunder  | 1.026 | 1.053 | 1.026 | 1.001
  11 | Utah Jazz              | 1.025 | 0.958 | 0.935 | 1.002
  12 | Dallas Mavericks       | 1.018 | 1.034 | 1.016 | 1.003
  13 | New Orleans Pelicans   | 1.011 | 0.991 | 0.980 | 1.003
- 14 | Toronto Raptors        | 1.009 | 1.024 | 1.016 | 0.998
+ 14 | Boston Celtics         | 1.009 | 1.014 | 1.005 | 0.999
  15 | Indiana Pacers         | 1.009 | 0.986 | 0.978 | 0.998
- 16 | Boston Celtics         | 1.009 | 1.014 | 1.005 | 0.999
+ 16 | Toronto Raptors        | 1.009 | 1.025 | 1.016 | 0.998
  17 | Washington Wizards     | 1.001 | 0.978 | 0.978 | 1.000
  18 | Milwaukee Bucks        | 0.999 | 0.975 | 0.976 | 0.999
  19 | Detroit Pistons        | 0.998 | 0.999 | 1.001 | 0.998
  20 | Phoenix Suns           | 0.981 | 1.002 | 1.022 | 1.002
- 21 | Brooklyn Nets          | 0.972 | 0.986 | 1.015 | 1.000
+ 21 | Brooklyn Nets          | 0.972 | 0.987 | 1.015 | 1.000
  22 | Miami Heat             | 0.972 | 0.956 | 0.983 | 0.999
  23 | Denver Nuggets         | 0.970 | 1.010 | 1.042 | 1.002
  24 | Sacramento Kings       | 0.966 | 1.016 | 1.052 | 1.003
- 25 | Charlotte Hornets      | 0.963 | 0.940 | 0.975 | 0.999
+ 25 | Charlotte Hornets      | 0.963 | 0.940 | 0.976 | 0.999
  26 | Orlando Magic          | 0.942 | 0.967 | 1.027 | 0.999
  27 | Los Angeles Lakers     | 0.935 | 0.970 | 1.037 | 1.003
  28 | Philadelphia 76ers     | 0.928 | 0.934 | 1.007 | 1.000
