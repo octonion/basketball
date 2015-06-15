@@ -1,31 +1,31 @@
-[1] 20534     8
+[1] 20540     8
 [1] TRUE
-[1] 20534     7
-start par. =  1 1 1 fn =  -16788.12 
+[1] 20540     7
+start par. =  1 1 1 fn =  -16789.7 
 At return
-eval: 148 fn:     -30367.609 par: 0.210322 0.147820 0.142425
+eval: 165 fn:     -30367.604 par: 0.210454 0.147770 0.142289
 Linear mixed model fit by REML ['lmerMod']
 Formula: log_ps ~ year + field + game_length + (1 | offense) + (1 | defense) +  
     (1 | game_id)
    Data: g
 Weights: week
-REML criterion at convergence: -30367.61
+REML criterion at convergence: -30367.6
 Random effects:
  Groups   Name        Std.Dev.
- game_id  (Intercept) 0.06190 
- defense  (Intercept) 0.04350 
- offense  (Intercept) 0.04191 
+ game_id  (Intercept) 0.06193 
+ defense  (Intercept) 0.04349 
+ offense  (Intercept) 0.04187 
  Residual             0.29429 
-Number of obs: 19290, groups:  game_id, 9645; defense, 240; offense, 240
+Number of obs: 19292, groups:  game_id, 9646; defense, 240; offense, 240
 Fixed Effects:
       (Intercept)              year1              year2              year3  
-         4.572896           0.006188           0.006713           0.011274  
+         4.572908           0.006191           0.006735           0.011277  
             year4              year5              year6              year7  
-        -0.001188          -0.031362          -0.012513           0.017147  
+        -0.001165          -0.031335          -0.012482           0.017185  
 fieldoffense_home     game_length1OT     game_length2OT     game_length3OT  
-         0.030065           0.086868           0.171304           0.266588  
+         0.030043           0.086853           0.171246           0.266507  
    game_length4OT      game_lengthOT  
-         0.356072           0.055452  
+         0.356017           0.051176  
 Linear mixed model fit by REML ['lmerMod']
 Formula: log_ps ~ year + field + game_length + (1 | offense) + (1 | defense) +  
     (1 | game_id)
@@ -36,32 +36,32 @@ REML criterion at convergence: -30367.6
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--4.7633 -0.5282  0.0157  0.5286  3.8347 
+-4.7625 -0.5281  0.0157  0.5286  3.8324 
 
 Random effects:
  Groups   Name        Variance Std.Dev.
- game_id  (Intercept) 0.003831 0.06190 
- defense  (Intercept) 0.001892 0.04350 
- offense  (Intercept) 0.001757 0.04191 
- Residual             0.086607 0.29429 
-Number of obs: 19290, groups:  game_id, 9645; defense, 240; offense, 240
+ game_id  (Intercept) 0.003836 0.06193 
+ defense  (Intercept) 0.001891 0.04349 
+ offense  (Intercept) 0.001753 0.04187 
+ Residual             0.086604 0.29429 
+Number of obs: 19292, groups:  game_id, 9646; defense, 240; offense, 240
 
 Fixed effects:
                    Estimate Std. Error t value
-(Intercept)        4.572896   0.004050  1129.1
-year1              0.006188   0.010575     0.6
-year2              0.006713   0.010575     0.6
-year3              0.011274   0.010576     1.1
-year4             -0.001188   0.010575    -0.1
-year5             -0.031362   0.010665    -2.9
-year6             -0.012513   0.010574    -1.2
-year7              0.017147   0.010575     1.6
-fieldoffense_home  0.030065   0.001157    26.0
-game_length1OT     0.086868   0.004120    21.1
-game_length2OT     0.171304   0.010123    16.9
-game_length3OT     0.266588   0.019361    13.8
-game_length4OT     0.356072   0.083410     4.3
-game_lengthOT      0.055452   0.012130     4.6
+(Intercept)        4.572908   0.004048  1129.8
+year1              0.006191   0.010569     0.6
+year2              0.006735   0.010568     0.6
+year3              0.011277   0.010569     1.1
+year4             -0.001165   0.010568    -0.1
+year5             -0.031335   0.010659    -2.9
+year6             -0.012482   0.010568    -1.2
+year7              0.017185   0.010569     1.6
+fieldoffense_home  0.030043   0.001157    26.0
+game_length1OT     0.086853   0.004121    21.1
+game_length2OT     0.171246   0.010127    16.9
+game_length3OT     0.266507   0.019368    13.8
+game_length4OT     0.356017   0.083438     4.3
+game_lengthOT      0.051176   0.011988     4.3
 
 Correlation of Fixed Effects:
             (Intr) year1  year2  year3  year4  year5  year6  year7  fldff_
