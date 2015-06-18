@@ -21,9 +21,9 @@ r.game_length as game_length,
 ln(r.team_score::float) as log_ps,
 (
 
-ceiling((1+r.game_date-f.base_date)/7.0)
+floor((1+r.game_date-f.base_date)/7.0)
 
-::integer) as week
+::float)^0.5 as week
 from bbref.results r
 join
 (
@@ -33,7 +33,7 @@ group by year) f
   on (f.year)=(r.year)
 where
 TRUE
-and r.year between 2008 and 2015
+and r.year between 1977 and 2015
 and r.team_score>0
 and r.opponent_score>0
 and not(r.team_score,r.opponent_score)=(0,0)

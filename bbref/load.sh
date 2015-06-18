@@ -38,6 +38,6 @@ psql basketball -f schema/create_teams.sql
 
 psql basketball -f schema/create_conferences.sql
 
-cat csv/playoffs*.csv >> /tmp/playoffs.csv
+cat csv/playoffs_*.csv >> /tmp/playoffs.csv
 psql basketball -f loaders/load_playoffs.sql
 rm /tmp/playoffs.csv

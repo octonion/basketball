@@ -3,106 +3,106 @@ CREATE TABLE
 INSERT 0 100
  rk  | year |          team          |  str  |  ofs  |  dfs  |  sos  
 -----+------+------------------------+-------+-------+-------+-------
-   1 | 1996 | Chicago Bulls          | 1.123 | 1.062 | 0.946 | 0.998
-   2 | 1997 | Chicago Bulls          | 1.112 | 1.069 | 0.961 | 1.000
-   3 | 2008 | Boston Celtics         | 1.102 | 1.010 | 0.916 | 0.996
-   4 | 1992 | Chicago Bulls          | 1.098 | 1.043 | 0.950 | 0.999
-   5 | 2015 | Golden State Warriors  | 1.097 | 1.097 | 1.000 | 1.000
-   6 | 2013 | Oklahoma City Thunder  | 1.094 | 1.072 | 0.981 | 1.000
-   7 | 2009 | Cleveland Cavaliers    | 1.093 | 1.008 | 0.922 | 0.999
-   8 | 2007 | San Antonio Spurs      | 1.089 | 1.001 | 0.920 | 1.000
-   9 | 2001 | San Antonio Spurs      | 1.087 | 1.014 | 0.933 | 1.001
-  10 | 2000 | Los Angeles Lakers     | 1.087 | 1.032 | 0.950 | 0.999
-  11 | 2004 | San Antonio Spurs      | 1.086 | 0.982 | 0.905 | 1.001
-  12 | 2005 | San Antonio Spurs      | 1.086 | 0.992 | 0.914 | 1.000
-  13 | 2012 | Chicago Bulls          | 1.084 | 1.006 | 0.928 | 0.996
-  14 | 1994 | Seattle SuperSonics    | 1.083 | 1.037 | 0.957 | 0.998
-  15 | 2003 | Dallas Mavericks       | 1.083 | 1.082 | 1.000 | 1.000
-  16 | 1986 | Boston Celtics         | 1.082 | 1.038 | 0.960 | 0.999
-  17 | 1997 | Utah Jazz              | 1.082 | 1.057 | 0.977 | 0.996
-  18 | 1999 | San Antonio Spurs      | 1.082 | 1.004 | 0.928 | 0.996
-  19 | 1986 | Milwaukee Bucks        | 1.080 | 1.044 | 0.966 | 0.999
-  20 | 1991 | Chicago Bulls          | 1.080 | 1.037 | 0.959 | 0.998
-  21 | 2002 | Sacramento Kings       | 1.079 | 1.092 | 1.013 | 1.000
-  22 | 2014 | San Antonio Spurs      | 1.079 | 1.044 | 0.967 | 1.001
-  23 | 1998 | Chicago Bulls          | 1.079 | 1.016 | 0.942 | 1.001
-  24 | 1995 | Utah Jazz              | 1.077 | 1.047 | 0.973 | 0.999
-  25 | 2007 | Dallas Mavericks       | 1.077 | 1.015 | 0.943 | 1.000
-  26 | 2009 | Boston Celtics         | 1.076 | 1.008 | 0.937 | 1.000
-  27 | 1989 | Cleveland Cavaliers    | 1.075 | 1.005 | 0.935 | 1.001
-  28 | 2002 | Los Angeles Lakers     | 1.075 | 1.059 | 0.985 | 1.000
-  29 | 1995 | Seattle SuperSonics    | 1.074 | 1.080 | 1.006 | 0.999
-  30 | 1991 | Portland Trail Blazers | 1.074 | 1.070 | 0.996 | 0.999
-  31 | 1981 | Philadelphia 76ers     | 1.073 | 1.032 | 0.962 | 1.000
-  32 | 2013 | Miami Heat             | 1.072 | 1.045 | 0.975 | 0.996
-  33 | 2012 | San Antonio Spurs      | 1.072 | 1.071 | 0.999 | 1.001
-  34 | 1987 | Los Angeles Lakers     | 1.071 | 1.060 | 0.989 | 0.996
-  35 | 2006 | San Antonio Spurs      | 1.071 | 0.990 | 0.925 | 0.999
-  36 | 2008 | Detroit Pistons        | 1.071 | 0.979 | 0.914 | 0.997
-  37 | 1996 | Seattle SuperSonics    | 1.071 | 1.041 | 0.972 | 0.998
-  38 | 2003 | Sacramento Kings       | 1.071 | 1.069 | 0.998 | 1.001
-  39 | 2014 | Los Angeles Clippers   | 1.070 | 1.066 | 0.996 | 1.001
-  40 | 2010 | Orlando Magic          | 1.070 | 1.027 | 0.960 | 0.999
-  41 | 2008 | Los Angeles Lakers     | 1.070 | 1.084 | 1.014 | 1.000
-  42 | 1997 | Seattle SuperSonics    | 1.070 | 1.037 | 0.968 | 0.997
-  43 | 2011 | Chicago Bulls          | 1.070 | 0.993 | 0.928 | 0.997
-  44 | 2007 | Phoenix Suns           | 1.070 | 1.107 | 1.035 | 1.000
-  45 | 2008 | Utah Jazz              | 1.069 | 1.064 | 0.996 | 1.000
-  46 | 2006 | Detroit Pistons        | 1.069 | 0.997 | 0.933 | 0.998
-  47 | 2011 | Miami Heat             | 1.069 | 1.027 | 0.961 | 0.997
-  48 | 2009 | Los Angeles Lakers     | 1.069 | 1.065 | 0.996 | 0.998
-  49 | 2000 | Portland Trail Blazers | 1.069 | 1.002 | 0.937 | 1.000
-  50 | 2005 | Phoenix Suns           | 1.068 | 1.133 | 1.061 | 1.000
-  51 | 2015 | Los Angeles Clippers   | 1.067 | 1.068 | 1.001 | 1.001
-  52 | 2002 | San Antonio Spurs      | 1.067 | 1.010 | 0.946 | 1.000
-  53 | 1987 | Atlanta Hawks          | 1.067 | 1.012 | 0.949 | 1.000
-  54 | 1980 | Boston Celtics         | 1.067 | 1.028 | 0.964 | 0.998
-  55 | 1994 | New York Knicks        | 1.067 | 0.970 | 0.909 | 0.998
-  56 | 2013 | Los Angeles Clippers   | 1.067 | 1.032 | 0.967 | 1.000
-  57 | 1983 | Philadelphia 76ers     | 1.067 | 1.038 | 0.973 | 1.000
-  58 | 2013 | San Antonio Spurs      | 1.066 | 1.045 | 0.980 | 1.001
-  59 | 1998 | Indiana Pacers         | 1.066 | 1.008 | 0.946 | 1.001
-  60 | 1998 | Los Angeles Lakers     | 1.065 | 1.093 | 1.026 | 0.996
-  61 | 1996 | Utah Jazz              | 1.065 | 1.028 | 0.965 | 0.998
-  62 | 2009 | Orlando Magic          | 1.065 | 1.014 | 0.953 | 0.999
-  63 | 1981 | Milwaukee Bucks        | 1.065 | 1.050 | 0.986 | 1.000
-  64 | 2012 | Oklahoma City Thunder  | 1.064 | 1.065 | 1.001 | 1.002
-  65 | 1991 | Los Angeles Lakers     | 1.064 | 0.997 | 0.938 | 1.000
-  66 | 1998 | Seattle SuperSonics    | 1.064 | 1.047 | 0.984 | 0.996
-  67 | 2014 | Oklahoma City Thunder  | 1.064 | 1.048 | 0.985 | 1.001
-  68 | 2006 | Dallas Mavericks       | 1.064 | 1.024 | 0.962 | 0.999
-  69 | 2015 | San Antonio Spurs      | 1.063 | 1.024 | 0.963 | 1.001
-  70 | 2004 | Minnesota Timberwolves | 1.063 | 1.013 | 0.953 | 1.002
-  71 | 1992 | Portland Trail Blazers | 1.062 | 1.050 | 0.988 | 0.999
-  72 | 1985 | Milwaukee Bucks        | 1.062 | 1.003 | 0.945 | 0.999
-  73 | 1990 | Phoenix Suns           | 1.062 | 1.069 | 1.007 | 1.000
-  74 | 1990 | Los Angeles Lakers     | 1.062 | 1.033 | 0.972 | 1.000
-  75 | 1999 | Portland Trail Blazers | 1.062 | 1.016 | 0.957 | 0.997
-  76 | 2000 | San Antonio Spurs      | 1.062 | 0.985 | 0.927 | 1.000
-  77 | 2010 | Cleveland Cavaliers    | 1.062 | 1.022 | 0.962 | 0.999
-  78 | 1989 | Phoenix Suns           | 1.061 | 1.079 | 1.017 | 0.997
-  79 | 1999 | Miami Heat             | 1.061 | 0.991 | 0.934 | 1.000
-  80 | 2005 | Miami Heat             | 1.061 | 1.035 | 0.975 | 0.997
-  81 | 2001 | Sacramento Kings       | 1.061 | 1.059 | 0.998 | 1.001
-  82 | 2011 | Los Angeles Lakers     | 1.061 | 1.016 | 0.958 | 1.000
-  83 | 1995 | Orlando Magic          | 1.060 | 1.089 | 1.027 | 0.998
-  84 | 2003 | San Antonio Spurs      | 1.060 | 1.008 | 0.951 | 1.001
-  85 | 1989 | Detroit Pistons        | 1.060 | 0.983 | 0.927 | 1.002
-  86 | 1997 | Detroit Pistons        | 1.060 | 0.980 | 0.925 | 1.001
-  87 | 1993 | Seattle SuperSonics    | 1.060 | 1.022 | 0.965 | 0.998
-  88 | 1986 | Los Angeles Lakers     | 1.060 | 1.052 | 0.993 | 0.997
-  89 | 1990 | Portland Trail Blazers | 1.060 | 1.064 | 1.004 | 1.001
-  90 | 1997 | Miami Heat             | 1.059 | 0.984 | 0.929 | 1.000
-  91 | 1987 | Boston Celtics         | 1.059 | 1.032 | 0.975 | 1.000
-  92 | 1999 | Utah Jazz              | 1.059 | 1.000 | 0.944 | 0.996
-  93 | 1996 | San Antonio Spurs      | 1.059 | 1.036 | 0.978 | 0.999
-  94 | 1984 | Boston Celtics         | 1.059 | 1.025 | 0.968 | 0.999
-  95 | 1997 | Atlanta Hawks          | 1.059 | 0.982 | 0.927 | 1.000
-  96 | 2004 | Detroit Pistons        | 1.059 | 0.969 | 0.915 | 0.996
-  97 | 1998 | Utah Jazz              | 1.058 | 1.049 | 0.992 | 0.996
-  98 | 2005 | Dallas Mavericks       | 1.058 | 1.058 | 1.000 | 1.000
-  99 | 1993 | Chicago Bulls          | 1.058 | 0.999 | 0.945 | 1.000
- 100 | 1991 | Phoenix Suns           | 1.058 | 1.071 | 1.013 | 1.000
+   1 | 1996 | Chicago Bulls          | 1.126 | 1.062 | 0.943 | 1.002
+   2 | 1997 | Chicago Bulls          | 1.103 | 1.065 | 0.966 | 1.005
+   3 | 2008 | Boston Celtics         | 1.098 | 1.008 | 0.919 | 1.000
+   4 | 2013 | Oklahoma City Thunder  | 1.097 | 1.072 | 0.978 | 1.002
+   5 | 1992 | Chicago Bulls          | 1.093 | 1.039 | 0.950 | 1.002
+   6 | 2015 | Golden State Warriors  | 1.093 | 1.096 | 1.002 | 1.003
+   7 | 2004 | San Antonio Spurs      | 1.093 | 0.987 | 0.903 | 1.003
+   8 | 2001 | San Antonio Spurs      | 1.092 | 1.015 | 0.929 | 1.003
+   9 | 2000 | Los Angeles Lakers     | 1.091 | 1.040 | 0.953 | 1.004
+  10 | 2009 | Cleveland Cavaliers    | 1.088 | 1.005 | 0.924 | 1.001
+  11 | 1999 | San Antonio Spurs      | 1.088 | 1.009 | 0.927 | 0.999
+  12 | 2007 | San Antonio Spurs      | 1.088 | 0.999 | 0.919 | 1.003
+  13 | 1997 | Utah Jazz              | 1.085 | 1.060 | 0.976 | 1.001
+  14 | 1991 | Chicago Bulls          | 1.084 | 1.037 | 0.957 | 1.000
+  15 | 1986 | Boston Celtics         | 1.084 | 1.041 | 0.960 | 1.001
+  16 | 1998 | Chicago Bulls          | 1.081 | 1.018 | 0.942 | 1.004
+  17 | 2014 | San Antonio Spurs      | 1.081 | 1.046 | 0.967 | 1.005
+  18 | 2012 | Chicago Bulls          | 1.080 | 1.001 | 0.928 | 0.998
+  19 | 2007 | Dallas Mavericks       | 1.080 | 1.016 | 0.940 | 1.000
+  20 | 2002 | Sacramento Kings       | 1.079 | 1.094 | 1.015 | 1.004
+  21 | 2012 | San Antonio Spurs      | 1.079 | 1.078 | 0.999 | 1.003
+  22 | 1986 | Milwaukee Bucks        | 1.078 | 1.040 | 0.965 | 1.001
+  23 | 2010 | Orlando Magic          | 1.078 | 1.029 | 0.955 | 1.000
+  24 | 1995 | Seattle SuperSonics    | 1.077 | 1.082 | 1.004 | 0.999
+  25 | 1995 | Utah Jazz              | 1.077 | 1.047 | 0.972 | 1.000
+  26 | 2003 | Dallas Mavericks       | 1.076 | 1.080 | 1.004 | 1.005
+  27 | 2005 | San Antonio Spurs      | 1.075 | 0.990 | 0.921 | 1.004
+  28 | 2013 | Miami Heat             | 1.075 | 1.043 | 0.970 | 1.000
+  29 | 1994 | Seattle SuperSonics    | 1.075 | 1.029 | 0.957 | 0.999
+  30 | 2011 | Chicago Bulls          | 1.075 | 0.994 | 0.924 | 0.997
+  31 | 2002 | Los Angeles Lakers     | 1.074 | 1.059 | 0.986 | 1.005
+  32 | 1991 | Portland Trail Blazers | 1.073 | 1.069 | 0.997 | 1.002
+  33 | 2008 | Utah Jazz              | 1.073 | 1.065 | 0.993 | 1.003
+  34 | 2015 | San Antonio Spurs      | 1.072 | 1.031 | 0.962 | 1.003
+  35 | 1989 | Phoenix Suns           | 1.072 | 1.084 | 1.012 | 0.998
+  36 | 1996 | Seattle SuperSonics    | 1.072 | 1.039 | 0.970 | 1.003
+  37 | 2014 | Los Angeles Clippers   | 1.072 | 1.065 | 0.993 | 1.004
+  38 | 2003 | Sacramento Kings       | 1.071 | 1.071 | 1.000 | 1.004
+  39 | 2008 | Los Angeles Lakers     | 1.071 | 1.085 | 1.013 | 1.006
+  40 | 1981 | Philadelphia 76ers     | 1.071 | 1.030 | 0.961 | 1.003
+  41 | 2007 | Phoenix Suns           | 1.071 | 1.106 | 1.033 | 1.002
+  42 | 1989 | Cleveland Cavaliers    | 1.070 | 1.002 | 0.936 | 1.002
+  43 | 2015 | Los Angeles Clippers   | 1.070 | 1.070 | 1.000 | 1.004
+  44 | 1992 | Portland Trail Blazers | 1.069 | 1.058 | 0.990 | 1.004
+  45 | 2011 | Miami Heat             | 1.069 | 1.028 | 0.962 | 1.001
+  46 | 2006 | San Antonio Spurs      | 1.068 | 0.995 | 0.932 | 1.002
+  47 | 1997 | Seattle SuperSonics    | 1.068 | 1.033 | 0.967 | 0.999
+  48 | 2004 | Minnesota Timberwolves | 1.068 | 1.018 | 0.953 | 1.004
+  49 | 2008 | Detroit Pistons        | 1.068 | 0.974 | 0.912 | 1.001
+  50 | 1987 | Atlanta Hawks          | 1.067 | 1.009 | 0.946 | 1.001
+  51 | 1994 | New York Knicks        | 1.067 | 0.967 | 0.907 | 1.001
+  52 | 2002 | San Antonio Spurs      | 1.067 | 1.005 | 0.941 | 1.003
+  53 | 1998 | Los Angeles Lakers     | 1.067 | 1.092 | 1.024 | 0.999
+  54 | 1989 | Detroit Pistons        | 1.067 | 0.987 | 0.925 | 1.004
+  55 | 2006 | Dallas Mavericks       | 1.067 | 1.027 | 0.963 | 1.004
+  56 | 1987 | Los Angeles Lakers     | 1.067 | 1.057 | 0.991 | 0.998
+  57 | 2009 | Los Angeles Lakers     | 1.067 | 1.060 | 0.993 | 1.002
+  58 | 1998 | Utah Jazz              | 1.066 | 1.056 | 0.990 | 1.001
+  59 | 1990 | Portland Trail Blazers | 1.066 | 1.068 | 1.002 | 1.004
+  60 | 2005 | Miami Heat             | 1.066 | 1.035 | 0.971 | 0.998
+  61 | 1998 | Indiana Pacers         | 1.065 | 1.011 | 0.949 | 1.004
+  62 | 2009 | Boston Celtics         | 1.065 | 1.005 | 0.944 | 1.002
+  63 | 2003 | San Antonio Spurs      | 1.064 | 1.012 | 0.951 | 1.005
+  64 | 1980 | Boston Celtics         | 1.064 | 1.026 | 0.965 | 0.999
+  65 | 1981 | Milwaukee Bucks        | 1.064 | 1.050 | 0.987 | 1.002
+  66 | 2004 | Detroit Pistons        | 1.063 | 0.969 | 0.912 | 1.000
+  67 | 1993 | New York Knicks        | 1.063 | 0.968 | 0.910 | 1.001
+  68 | 1991 | Los Angeles Lakers     | 1.063 | 0.997 | 0.938 | 1.004
+  69 | 2012 | Oklahoma City Thunder  | 1.063 | 1.062 | 0.998 | 1.005
+  70 | 2013 | Los Angeles Clippers   | 1.063 | 1.030 | 0.968 | 1.001
+  71 | 2009 | Orlando Magic          | 1.063 | 1.011 | 0.951 | 1.004
+  72 | 1985 | Milwaukee Bucks        | 1.063 | 1.006 | 0.946 | 1.000
+  73 | 2006 | Detroit Pistons        | 1.063 | 0.992 | 0.933 | 1.000
+  74 | 2005 | Phoenix Suns           | 1.062 | 1.133 | 1.067 | 1.003
+  75 | 1996 | Utah Jazz              | 1.062 | 1.021 | 0.961 | 1.003
+  76 | 2010 | Cleveland Cavaliers    | 1.062 | 1.024 | 0.964 | 0.999
+  77 | 1990 | Phoenix Suns           | 1.062 | 1.068 | 1.006 | 1.004
+  78 | 1990 | Los Angeles Lakers     | 1.062 | 1.034 | 0.974 | 1.002
+  79 | 1985 | Los Angeles Lakers     | 1.061 | 1.063 | 1.002 | 0.999
+  80 | 1998 | Seattle SuperSonics    | 1.061 | 1.044 | 0.984 | 0.998
+  81 | 2000 | Portland Trail Blazers | 1.061 | 0.999 | 0.942 | 1.004
+  82 | 2011 | Los Angeles Lakers     | 1.060 | 1.010 | 0.953 | 1.001
+  83 | 1993 | Cleveland Cavaliers    | 1.060 | 1.024 | 0.966 | 1.001
+  84 | 1997 | Atlanta Hawks          | 1.060 | 0.983 | 0.927 | 1.004
+  85 | 1995 | San Antonio Spurs      | 1.060 | 1.045 | 0.986 | 1.000
+  86 | 2000 | San Antonio Spurs      | 1.060 | 0.986 | 0.931 | 1.001
+  87 | 2009 | Portland Trail Blazers | 1.059 | 0.996 | 0.940 | 1.000
+  88 | 1992 | Utah Jazz              | 1.059 | 1.026 | 0.969 | 1.000
+  89 | 1983 | Philadelphia 76ers     | 1.059 | 1.032 | 0.974 | 1.002
+  90 | 2004 | Indiana Pacers         | 1.059 | 0.984 | 0.929 | 0.998
+  91 | 2013 | Denver Nuggets         | 1.058 | 1.079 | 1.021 | 1.002
+  92 | 1998 | Miami Heat             | 1.058 | 0.999 | 0.944 | 1.001
+  93 | 2013 | San Antonio Spurs      | 1.058 | 1.037 | 0.980 | 1.005
+  94 | 1997 | Miami Heat             | 1.058 | 0.983 | 0.929 | 1.003
+  95 | 1987 | Boston Celtics         | 1.058 | 1.032 | 0.975 | 1.004
+  96 | 1993 | Chicago Bulls          | 1.058 | 1.000 | 0.945 | 1.004
+  97 | 2014 | Oklahoma City Thunder  | 1.058 | 1.044 | 0.987 | 1.006
+  98 | 2005 | Dallas Mavericks       | 1.058 | 1.058 | 1.000 | 1.004
+  99 | 1993 | Seattle SuperSonics    | 1.058 | 1.021 | 0.965 | 1.002
+ 100 | 1999 | Portland Trail Blazers | 1.057 | 1.014 | 0.959 | 1.004
 (100 rows)
 
 COPY 100

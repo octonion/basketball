@@ -1,95 +1,113 @@
-[1] 20540     8
+[1] 90298     8
 [1] TRUE
-[1] 20540     7
-start par. =  1 1 1 fn =  -16789.7 
+[1] 90298     7
+start par. =  1 1 1 fn =  -128102.2 
 At return
-eval: 165 fn:     -30367.604 par: 0.210454 0.147770 0.142289
+eval:  65 fn:     -145967.88 par: 0.425515 0.294030 0.285733
 Linear mixed model fit by REML ['lmerMod']
 Formula: log_ps ~ year + field + game_length + (1 | offense) + (1 | defense) +  
     (1 | game_id)
    Data: g
 Weights: week
-REML criterion at convergence: -30367.6
+REML criterion at convergence: -145967.9
 Random effects:
  Groups   Name        Std.Dev.
- game_id  (Intercept) 0.06193 
- defense  (Intercept) 0.04349 
- offense  (Intercept) 0.04187 
- Residual             0.29429 
-Number of obs: 19292, groups:  game_id, 9646; defense, 240; offense, 240
+ game_id  (Intercept) 0.06168 
+ defense  (Intercept) 0.04262 
+ offense  (Intercept) 0.04142 
+ Residual             0.14496 
+Number of obs: 85066, groups:  game_id, 42533; defense, 1050; offense, 1050
 Fixed Effects:
       (Intercept)              year1              year2              year3  
-         4.572908           0.006191           0.006735           0.011277  
+         4.597737           0.042757           0.060263           0.078461  
             year4              year5              year6              year7  
-        -0.001165          -0.031335          -0.012482           0.017185  
-fieldoffense_home     game_length1OT     game_length2OT     game_length3OT  
-         0.030043           0.086853           0.171246           0.266507  
-   game_length4OT      game_lengthOT  
-         0.356017           0.051176  
+         0.067507           0.058527           0.062044           0.059536  
+            year8              year9             year10             year11  
+         0.072100           0.083204           0.075979           0.075279  
+           year12             year13             year14             year15  
+         0.058129           0.065886           0.047089           0.036458  
+           year16             year17             year18             year19  
+         0.029900           0.027676          -0.004708          -0.011417  
+           year20             year21             year22             year23  
+        -0.029290          -0.052777          -0.068455          -0.111494  
+           year24             year25             year26             year27  
+        -0.048475          -0.075586          -0.068431          -0.072489  
+           year28             year29             year30             year31  
+        -0.090637          -0.050049          -0.052843          -0.037584  
+           year32             year33             year34             year35  
+        -0.022610          -0.022099          -0.017013          -0.028533  
+           year36             year37             year38  fieldoffense_home  
+        -0.060238          -0.040859          -0.011586           0.035795  
+   game_length1OT     game_length2OT     game_length3OT     game_length4OT  
+         0.080192           0.160694           0.248194           0.323895  
+   game_length5OT      game_lengthOT  
+         0.401250           0.058028  
 Linear mixed model fit by REML ['lmerMod']
 Formula: log_ps ~ year + field + game_length + (1 | offense) + (1 | defense) +  
     (1 | game_id)
    Data: g
 Weights: week
 
-REML criterion at convergence: -30367.6
+REML criterion at convergence: -145967.9
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--4.7625 -0.5281  0.0157  0.5286  3.8324 
+-4.8967 -0.5395  0.0161  0.5494  4.2856 
 
 Random effects:
  Groups   Name        Variance Std.Dev.
- game_id  (Intercept) 0.003836 0.06193 
- defense  (Intercept) 0.001891 0.04349 
- offense  (Intercept) 0.001753 0.04187 
- Residual             0.086604 0.29429 
-Number of obs: 19292, groups:  game_id, 9646; defense, 240; offense, 240
+ game_id  (Intercept) 0.003805 0.06168 
+ defense  (Intercept) 0.001817 0.04262 
+ offense  (Intercept) 0.001716 0.04142 
+ Residual             0.021013 0.14496 
+Number of obs: 85066, groups:  game_id, 42533; defense, 1050; offense, 1050
 
 Fixed effects:
-                   Estimate Std. Error t value
-(Intercept)        4.572908   0.004048  1129.8
-year1              0.006191   0.010569     0.6
-year2              0.006735   0.010568     0.6
-year3              0.011277   0.010569     1.1
-year4             -0.001165   0.010568    -0.1
-year5             -0.031335   0.010659    -2.9
-year6             -0.012482   0.010568    -1.2
-year7              0.017185   0.010569     1.6
-fieldoffense_home  0.030043   0.001157    26.0
-game_length1OT     0.086853   0.004121    21.1
-game_length2OT     0.171246   0.010127    16.9
-game_length3OT     0.266507   0.019368    13.8
-game_length4OT     0.356017   0.083438     4.3
-game_lengthOT      0.051176   0.011988     4.3
-
-Correlation of Fixed Effects:
-            (Intr) year1  year2  year3  year4  year5  year6  year7  fldff_
-year1       -0.001                                                        
-year2       -0.001 -0.142                                                 
-year3       -0.001 -0.142 -0.142                                          
-year4       -0.001 -0.142 -0.142 -0.142                                   
-year5        0.007 -0.144 -0.144 -0.144 -0.144                            
-year6       -0.001 -0.142 -0.142 -0.142 -0.142 -0.144                     
-year7       -0.001 -0.142 -0.142 -0.142 -0.142 -0.144 -0.142              
-fildffns_hm -0.143  0.000  0.000  0.000  0.000  0.000  0.000  0.000       
-gm_lngth1OT -0.053  0.003  0.002  0.000 -0.004 -0.003  0.002  0.000  0.000
-gm_lngth2OT -0.021 -0.001 -0.002  0.001  0.004  0.001 -0.001 -0.001  0.000
-gm_lngth3OT -0.011  0.004 -0.001  0.002 -0.003  0.000  0.000  0.000  0.000
-gm_lngth4OT -0.004  0.001  0.001  0.001  0.001 -0.009  0.001  0.001  0.000
-gam_lngthOT -0.018  0.005  0.000  0.005  0.000 -0.002 -0.002 -0.004  0.000
-            gm_1OT gm_2OT gm_3OT gm_4OT
-year1                                  
-year2                                  
-year3                                  
-year4                                  
-year5                                  
-year6                                  
-year7                                  
-fildffns_hm                            
-gm_lngth1OT                            
-gm_lngth2OT  0.020                     
-gm_lngth3OT  0.016  0.007              
-gm_lngth4OT  0.005  0.001  0.006       
-gam_lngthOT  0.019  0.007  0.007  0.002
+                    Estimate Std. Error t value
+(Intercept)        4.5977366  0.0019147  2401.3
+year1              0.0427575  0.0127791     3.3
+year2              0.0602628  0.0127774     4.7
+year3              0.0784610  0.0127772     6.1
+year4              0.0675071  0.0127806     5.3
+year5              0.0585274  0.0125053     4.7
+year6              0.0620441  0.0125046     5.0
+year7              0.0595361  0.0125056     4.8
+year8              0.0720996  0.0125036     5.8
+year9              0.0832044  0.0125048     6.7
+year10             0.0759789  0.0125045     6.1
+year11             0.0752787  0.0125046     6.0
+year12             0.0581290  0.0125058     4.6
+year13             0.0658856  0.0120062     5.5
+year14             0.0470885  0.0115654     4.1
+year15             0.0364576  0.0115649     3.2
+year16             0.0298996  0.0115646     2.6
+year17             0.0276762  0.0115638     2.4
+year18            -0.0047085  0.0115646    -0.4
+year19            -0.0114168  0.0115639    -1.0
+year20            -0.0292899  0.0111702    -2.6
+year21            -0.0527770  0.0111707    -4.7
+year22            -0.0684553  0.0111704    -6.1
+year23            -0.1114944  0.0113889    -9.8
+year24            -0.0484753  0.0111710    -4.3
+year25            -0.0755862  0.0111719    -6.8
+year26            -0.0684315  0.0111702    -6.1
+year27            -0.0724885  0.0111698    -6.5
+year28            -0.0906371  0.0111702    -8.1
+year29            -0.0500492  0.0109876    -4.6
+year30            -0.0528429  0.0109865    -4.8
+year31            -0.0375838  0.0109890    -3.4
+year32            -0.0226097  0.0109886    -2.1
+year33            -0.0220993  0.0109877    -2.0
+year34            -0.0170134  0.0109889    -1.5
+year35            -0.0285331  0.0109878    -2.6
+year36            -0.0602377  0.0110698    -5.4
+year37            -0.0408587  0.0109874    -3.7
+year38            -0.0115856  0.0109877    -1.1
+fieldoffense_home  0.0357953  0.0005388    66.4
+game_length1OT     0.0801920  0.0019104    42.0
+game_length2OT     0.1606944  0.0047213    34.0
+game_length3OT     0.2481940  0.0119944    20.7
+game_length4OT     0.3238954  0.0341285     9.5
+game_length5OT     0.4012496  0.1067547     3.8
+game_lengthOT      0.0580279  0.0061661     9.4
 [1] TRUE
