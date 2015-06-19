@@ -6,3 +6,9 @@ http://data.nba.com/json/cms/noseason/game/20121126/0021200013/pbp_1.json
 http://data.nba.com/json/cms/2012/standings/division.json
 http://data.nba.com/json/cms/noseason/game/20121126/0021200013/recap.json
 http://data.nba.com/json/cms/noseason/game/20121126/0021200013/preview.json
+
+http://stats.nba.com/stats/boxscore?EndPeriod=10&EndRange=55800&GameID=0021400001&RangeType=2&Season=2014-15&SeasonType=Regular+Season&StartPeriod=1&StartRange=0
+
+http://stats.nba.com/stats/playbyplayv2?EndPeriod=10&EndRange=55800&GameID=0021400001&RangeType=2&Season=2014-15&SeasonType=Regular+Season&StartPeriod=1&StartRange=0
+
+http://stats.nba.com/stats/playbyplay?EndPeriod=10&EndRange=55800&GameID=0021400001&RangeType=2&Season=2014-15&SeasonType=Regular+Season&StartPeriod=1&StartRange=0
