@@ -1,0 +1,2 @@
+http://www.si.com/pbp/liveupdate?json=1&sport=basketball%2Fnba&id=1349030&box=true&pbp=true&linescore=true
+http://www.si.com/pbp/liveupdate?sport=nba&date=2015-3-2&pbp=false&box=false&json=1

@@ -1,0 +1,6 @@
+A note that might be of interest - I geocoded all of the NCAA teams
+and added a factor into my model accounting for distance traveled
+by each team. The impact was surprisingly significant and jumped
+the predictive power of my model nearly a full percentage point;
+at this level, that's a very large improvement. This is additional
+to the home court advantage that's already in the model.

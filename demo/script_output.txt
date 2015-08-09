@@ -1,0 +1,199 @@
+CREATE EXTENSION
+BEGIN
+psql:create_schema_bbref.sql:3: NOTICE:  schema "bbref" does not exist, skipping
+DROP SCHEMA
+CREATE SCHEMA
+COMMIT
+BEGIN
+CREATE TABLE
+COPY 1327
+ALTER TABLE
+ALTER TABLE
+UPDATE 1327
+UPDATE 1327
+COMMIT
+BEGIN
+CREATE TABLE
+COPY 12108
+ALTER TABLE
+UPDATE 12108
+COMMIT
+BEGIN
+psql:create_bbref_schools.sql:7: NOTICE:  CREATE TABLE / PRIMARY KEY will create implicit index "schools_pkey" for table "schools"
+CREATE TABLE
+INSERT 0 215
+COMMIT
+BEGIN
+psql:create_bbref_players.sql:12: NOTICE:  CREATE TABLE / PRIMARY KEY will create implicit index "players_pkey" for table "players"
+CREATE TABLE
+INSERT 0 940
+COMMIT
+BEGIN
+psql:create_schema_ncaa.sql:3: NOTICE:  schema "ncaa" does not exist, skipping
+DROP SCHEMA
+CREATE SCHEMA
+COMMIT
+BEGIN
+CREATE TABLE
+TRUNCATE TABLE
+COPY 322412
+COMMIT
+Replacing ",-," with ",," (case sensitive) (partial words matched)
+.
+A Total of 382934 matches replaced in 1 file searched.
+Replacing ",-," with ",," (case sensitive) (partial words matched)
+.
+A Total of 223427 matches replaced in 1 file searched.
+Replacing ".," with "," (case sensitive) (partial words matched)
+.
+A Total of 207915 matches replaced in 1 file searched.
+Replacing ".0," with "," (case sensitive) (partial words matched)
+.
+A Total of 92 matches replaced in 1 file searched.
+Replacing ".00," with "," (case sensitive) (partial words matched)
+.
+A Total of 17 matches replaced in 1 file searched.
+Replacing ".000," with "," (case sensitive) (partial words matched)
+.
+A Total of 83558 matches replaced in 1 file searched.
+Replacing ",-\n" with ",\n" (case sensitive) (partial words matched)
+.
+A Total of 103395 matches replaced in 1 file searched.
+BEGIN
+CREATE TABLE
+COPY 177764
+COMMIT
+BEGIN
+psql:create_ncaa_players.sql:10: NOTICE:  CREATE TABLE / PRIMARY KEY will create implicit index "players_pkey" for table "players"
+CREATE TABLE
+psql:create_ncaa_players.sql:17: NOTICE:  CREATE TABLE / PRIMARY KEY will create implicit index "last_year_pkey" for table "last_year"
+CREATE TABLE
+INSERT 0 87178
+INSERT 0 76298
+COMMIT
+BEGIN
+psql:load_ncaa_schools.sql:7: NOTICE:  CREATE TABLE / PRIMARY KEY will create implicit index "schools_pkey" for table "schools"
+CREATE TABLE
+COPY 1107
+COMMIT
+BEGIN
+psql:load_ncaa_colors.sql:8: NOTICE:  CREATE TABLE / PRIMARY KEY will create implicit index "colors_pkey" for table "colors"
+CREATE TABLE
+COPY 1107
+COMMIT
+BEGIN
+psql:create_schema_alias.sql:3: NOTICE:  schema "alias" does not exist, skipping
+DROP SCHEMA
+CREATE SCHEMA
+COMMIT
+BEGIN
+psql:create_alias_schools.sql:10: NOTICE:  CREATE TABLE / PRIMARY KEY will create implicit index "schools_pkey" for table "schools"
+psql:create_alias_schools.sql:10: NOTICE:  CREATE TABLE / UNIQUE will create implicit index "schools_ncaa_id_key" for table "schools"
+CREATE TABLE
+CREATE TABLE
+INSERT 0 215
+INSERT 0 117
+COMMIT
+BEGIN
+psql:create_alias_players.sql:10: NOTICE:  CREATE TABLE / PRIMARY KEY will create implicit index "players_pkey" for table "players"
+psql:create_alias_players.sql:10: NOTICE:  CREATE TABLE / UNIQUE will create implicit index "players_ncaa_id_key" for table "players"
+CREATE TABLE
+INSERT 0 263
+COMMIT
+
+R version 2.15.1 (2012-06-22) -- "Roasted Marshmallows"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> sink("feature_selection.txt")
+> 
+> library(MASS)
+> library(RPostgreSQL)
+Loading required package: DBI
+> 
+> drv <- dbDriver("PostgreSQL")
+> 
+> con <- dbConnect(drv,host="localhost",port="5432",dbname="basketball")
+> 
+> query <- dbSendQuery(con, "
++ select
++ split_part(n.height,'-',1)::integer*12+split_part(n.height,'-',2)::integer as height,
++ d.pick as pick,
++ sqrt(d.pick) as s_pick,
++ lower(n.position) as position,
++ n.games,
++ n.field_goals::float/nullif(n.field_goal_attempts,0) as fgp,
++ --n.three_pointers::float/nullif(n.three_pointer_attempts,0) as tpp,
++ n.free_throws::float/nullif(n.free_throw_attempts,0) as ftp,
++ n.rebounds_per_game,
++ n.assists_per_game,
++ --n.blocks_per_game,
++ n.steals_per_game,
++ n.points_per_game,
++ sum(b.minutes_played) as minutes_played
++ from ncaa.statistics n
++ join alias.players p
++   on (p.ncaa_id)=(n.player_id)
++ join bbref.draft_picks d
++   on (d.player_id,d.year)=(p.bbref_id,n.year)
++ join bbref.basic_statistics b
++   on (b.player_id,b.year)=(d.player_id,d.year+1)
++ where
++   not(b.team_id='TOT')
++ and not(n.three_pointer_attempts=0)
++ group by
++ height,
++ d.pick,
++ s_pick,
++ position,
++ n.games,
++ fgp,
++ --tpp,
++ ftp,
++ n.rebounds_per_game,
++ n.assists_per_game,
++ --n.blocks_per_game,
++ n.steals_per_game,
++ n.points_per_game
++ order by minutes_played desc;
++ ");
+> 
+> players <- fetch(query,n=-1)
+> dim(players)
+> 
+> model <- minutes_played ~ .
+> 
+> fit <- lm(model,data=players)
+Warning message:
+In model.matrix.default(mt, mf, contrasts) :
+  variable 'position' converted to a factor
+> out <- stepAIC(fit,direction="both",k=2)
+There were 13 warnings (use warnings() to see them)
+> out$anova
+> 
+> coef(out)
+> AIC(out)
+> deviance(out)
+> summary(out)
+> out
+> 
+> quit("no")
+
+real	0m12.202s
+user	0m2.312s
+sys	0m0.492s
