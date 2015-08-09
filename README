@@ -6,7 +6,7 @@ that impact NBA playing time 1 year out from the draft.
 
 You won't be able to run these without installing PostgreSQL,
 R etc., but I've included two text files showing the results. The
-first is "shell_output.txt" which shows the output of the "demo.sh"
+first is "script_output.txt" which shows the output of the "demo.sh"
 script (including the total time take - about 12 seconds).
 
 The file "feature_selection.txt" shows the results of the stepwise
