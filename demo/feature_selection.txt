@@ -1,241 +1,218 @@
-[1] 210  15
-Start:  AIC=2782.78
+[1] 214  15
+Start:  AIC=2836.9
 minutes_played ~ height + position + games + fgp + ftp + rebounds_per_game + 
     assists_per_game + steals_per_game + points_per_game + rebounds + 
     assists + blocks + steals + points
 
                     Df Sum of Sq       RSS    AIC
-- position           2    456764 103028552 2779.7
-- blocks             1         7 102571795 2780.8
-- steals             1       694 102572482 2780.8
-- steals_per_game    1     24616 102596404 2780.8
-- games              1     27183 102598970 2780.8
-- fgp                1     92371 102664159 2781.0
-- points             1    139836 102711624 2781.1
-- ftp                1    162335 102734123 2781.1
-- points_per_game    1    255373 102827161 2781.3
-- height             1    306196 102877984 2781.4
-- rebounds_per_game  1    617785 103189573 2782.0
-- rebounds           1    741828 103313616 2782.3
-- assists_per_game   1    924332 103496120 2782.7
-<none>                           102571788 2782.8
-- assists            1   1702258 104274046 2784.2
+- position           2    758202 106126708 2834.4
+- blocks             1       363 105368869 2834.9
+- steals_per_game    1      5466 105373973 2834.9
+- points             1      6317 105374824 2834.9
+- steals             1      8033 105376539 2834.9
+- points_per_game    1     37350 105405856 2835.0
+- ftp                1     49055 105417562 2835.0
+- games              1    102022 105470529 2835.1
+- fgp                1    299101 105667608 2835.5
+- rebounds_per_game  1    328472 105696978 2835.6
+- rebounds           1    411581 105780088 2835.7
+- height             1    569501 105938007 2836.1
+- assists_per_game   1    700797 106069304 2836.3
+<none>                           105368507 2836.9
+- assists            1   1461245 106829751 2837.8
 
-Step:  AIC=2779.72
+Step:  AIC=2834.43
 minutes_played ~ height + games + fgp + ftp + rebounds_per_game + 
     assists_per_game + steals_per_game + points_per_game + rebounds + 
     assists + blocks + steals + points
 
                     Df Sum of Sq       RSS    AIC
-- steals             1        15 103028567 2777.7
-- blocks             1       167 103028719 2777.7
-- steals_per_game    1     16210 103044762 2777.8
-- games              1     59430 103087982 2777.8
-- points             1     96680 103125232 2777.9
-- fgp                1    103528 103132080 2777.9
-- ftp                1    121230 103149782 2778.0
-- points_per_game    1    186092 103214644 2778.1
-- rebounds_per_game  1    562335 103590887 2778.9
-- height             1    671986 103700538 2779.1
-- rebounds           1    747221 103775773 2779.2
-- assists_per_game   1    963609 103992161 2779.7
-<none>                           103028552 2779.7
-- assists            1   1731001 104759553 2781.2
-+ position           2    456764 102571788 2782.8
+- steals_per_game    1       339 106127048 2832.4
+- points             1       474 106127183 2832.4
+- blocks             1      3883 106130591 2832.4
+- points_per_game    1     14534 106141242 2832.5
+- steals             1     21990 106148698 2832.5
+- ftp                1     25017 106151726 2832.5
+- games              1    156031 106282739 2832.8
+- fgp                1    246871 106373579 2832.9
+- rebounds_per_game  1    255300 106382009 2832.9
+- rebounds           1    396750 106523458 2833.2
+- assists_per_game   1    707835 106834544 2833.8
+<none>                           106126708 2834.4
+- height             1   1154592 107281300 2834.8
+- assists            1   1433865 107560573 2835.3
++ position           2    758202 105368507 2836.9
 
-Step:  AIC=2777.72
+Step:  AIC=2832.43
 minutes_played ~ height + games + fgp + ftp + rebounds_per_game + 
-    assists_per_game + steals_per_game + points_per_game + rebounds + 
-    assists + blocks + points
+    assists_per_game + points_per_game + rebounds + assists + 
+    blocks + steals + points
 
                     Df Sum of Sq       RSS    AIC
-- blocks             1       167 103028733 2775.7
-- games              1     66089 103094656 2775.8
-- points             1     97180 103125746 2775.9
-- fgp                1    103788 103132354 2775.9
-- ftp                1    121982 103150548 2776.0
-- points_per_game    1    186857 103215424 2776.1
-- rebounds_per_game  1    562468 103591034 2776.9
-- height             1    672012 103700578 2777.1
-- rebounds           1    747420 103775986 2777.2
-<none>                           103028567 2777.7
-- assists_per_game   1   1239653 104268219 2778.2
-- steals_per_game    1   1598543 104627109 2778.9
-+ steals             1        15 103028552 2779.7
-- assists            1   2228065 105256631 2780.2
-+ position           2    456085 102572482 2780.8
+- points             1       452 106127500 2830.4
+- blocks             1      3901 106130949 2830.4
+- points_per_game    1     14436 106141484 2830.5
+- ftp                1     25998 106153046 2830.5
+- games              1    177753 106304801 2830.8
+- fgp                1    246631 106373679 2830.9
+- rebounds_per_game  1    255237 106382285 2830.9
+- rebounds           1    396639 106523687 2831.2
+- assists_per_game   1    892644 107019692 2832.2
+<none>                           106127048 2832.4
+- height             1   1154674 107281722 2832.8
+- assists            1   1812747 107939795 2834.1
++ steals_per_game    1       339 106126708 2834.4
++ position           2    753075 105373973 2834.9
+- steals             1   2590600 108717648 2835.6
 
-Step:  AIC=2775.72
+Step:  AIC=2830.43
 minutes_played ~ height + games + fgp + ftp + rebounds_per_game + 
-    assists_per_game + steals_per_game + points_per_game + rebounds + 
-    assists + points
+    assists_per_game + points_per_game + rebounds + assists + 
+    blocks + steals
 
                     Df Sum of Sq       RSS    AIC
-- games              1     65923 103094656 2773.8
-- points             1     97394 103126128 2773.9
-- fgp                1    103859 103132593 2773.9
-- ftp                1    125231 103153965 2774.0
-- points_per_game    1    187164 103215897 2774.1
-- rebounds_per_game  1    563972 103592705 2774.9
-- height             1    708738 103737471 2775.2
-- rebounds           1    753783 103782516 2775.2
-<none>                           103028733 2775.7
-- assists_per_game   1   1239528 104268261 2776.2
-- steals_per_game    1   1616452 104645185 2777.0
-+ blocks             1       167 103028567 2777.7
-+ steals             1        14 103028719 2777.7
-- assists            1   2227900 105256633 2778.2
-+ position           2    456248 102572485 2778.8
+- blocks             1      3991 106131491 2828.4
+- ftp                1     26066 106153566 2828.5
+- fgp                1    255239 106382739 2828.9
+- rebounds_per_game  1    270217 106397717 2829.0
+- games              1    305762 106433262 2829.1
+- rebounds           1    418634 106546134 2829.3
+- points_per_game    1    839450 106966950 2830.1
+<none>                           106127500 2830.4
+- assists_per_game   1   1000831 107128331 2830.4
+- height             1   1160118 107287618 2830.8
++ points             1       452 106127048 2832.4
++ steals_per_game    1       317 106127183 2832.4
+- assists            1   2039333 108166833 2832.5
++ position           2    747506 105379994 2832.9
+- steals             1   2592930 108720431 2833.6
 
-Step:  AIC=2773.85
-minutes_played ~ height + fgp + ftp + rebounds_per_game + assists_per_game + 
-    steals_per_game + points_per_game + rebounds + assists + 
-    points
-
-                    Df Sum of Sq       RSS    AIC
-- fgp                1     87186 103181842 2772.0
-- ftp                1    126135 103220792 2772.1
-- points             1    389340 103483996 2772.6
-- rebounds_per_game  1    518116 103612773 2772.9
-- points_per_game    1    595476 103690132 2773.1
-- rebounds           1    740145 103834801 2773.3
-- height             1    751654 103846311 2773.4
-<none>                           103094656 2773.8
-- assists_per_game   1   1214371 104309028 2774.3
-- steals_per_game    1   1668091 104762748 2775.2
-+ games              1     65923 103028733 2775.7
-+ steals             1      6671 103087986 2775.8
-+ blocks             1         1 103094656 2775.8
-- assists            1   2302592 105397248 2776.5
-+ position           2    488589 102606068 2776.8
-
-Step:  AIC=2772.03
-minutes_played ~ height + ftp + rebounds_per_game + assists_per_game + 
-    steals_per_game + points_per_game + rebounds + assists + 
-    points
+Step:  AIC=2828.44
+minutes_played ~ height + games + fgp + ftp + rebounds_per_game + 
+    assists_per_game + points_per_game + rebounds + assists + 
+    steals
 
                     Df Sum of Sq       RSS    AIC
-- ftp                1    150420 103332262 2770.3
-- points             1    433617 103615459 2770.9
-- rebounds_per_game  1    597227 103779069 2771.2
-- points_per_game    1    651914 103833756 2771.3
-- height             1    820775 104002617 2771.7
-- rebounds           1    868357 104050199 2771.8
-<none>                           103181842 2772.0
-- assists_per_game   1   1250886 104432728 2772.6
-- steals_per_game    1   1628131 104809973 2773.3
-+ fgp                1     87186 103094656 2773.8
-+ games              1     49249 103132593 2773.9
-+ steals             1      3520 103178322 2774.0
-+ blocks             1        22 103181820 2774.0
-- assists            1   2336451 105518293 2774.7
-+ position           2    497524 102684318 2775.0
+- ftp                1     23280 106154771 2826.5
+- fgp                1    254599 106386089 2826.9
+- rebounds_per_game  1    266981 106398472 2827.0
+- games              1    303947 106435438 2827.1
+- rebounds           1    414659 106546149 2827.3
+- points_per_game    1    843868 106975358 2828.1
+<none>                           106131491 2828.4
+- assists_per_game   1    999471 107130962 2828.4
+- height             1   1206321 107337811 2828.9
++ blocks             1      3991 106127500 2830.4
++ points             1       541 106130949 2830.4
++ steals_per_game    1       333 106131157 2830.4
+- assists            1   2037370 108168861 2830.5
++ position           2    751249 105380242 2830.9
+- steals             1   2632788 108764278 2831.7
 
-Step:  AIC=2770.33
-minutes_played ~ height + rebounds_per_game + assists_per_game + 
-    steals_per_game + points_per_game + rebounds + assists + 
-    points
-
-                    Df Sum of Sq       RSS    AIC
-- points             1    442934 103775197 2769.2
-- rebounds_per_game  1    576044 103908306 2769.5
-- points_per_game    1    616915 103949178 2769.6
-- height             1    848637 104180900 2770.1
-- rebounds           1    864914 104197177 2770.1
-<none>                           103332262 2770.3
-- assists_per_game   1   1315988 104648251 2771.0
-+ ftp                1    150420 103181842 2772.0
-- steals_per_game    1   1847012 105179274 2772.1
-+ fgp                1    111471 103220792 2772.1
-+ games              1     48088 103284174 2772.2
-+ steals             1      8164 103324099 2772.3
-+ blocks             1      5355 103326907 2772.3
-- assists            1   2399790 105732052 2773.2
-+ position           2    448901 102883362 2773.4
-
-Step:  AIC=2769.23
-minutes_played ~ height + rebounds_per_game + assists_per_game + 
-    steals_per_game + points_per_game + rebounds + assists
+Step:  AIC=2826.49
+minutes_played ~ height + games + fgp + rebounds_per_game + assists_per_game + 
+    points_per_game + rebounds + assists + steals
 
                     Df Sum of Sq       RSS    AIC
-- rebounds_per_game  1    133557 103908754 2767.5
-- rebounds           1    555424 104330621 2768.3
-- height             1    762829 104538026 2768.8
-<none>                           103775197 2769.2
-- assists_per_game   1   1116888 104892085 2769.5
-- points_per_game    1   1226872 105002069 2769.7
-+ points             1    442934 103332262 2770.3
-+ games              1    352336 103422861 2770.5
-+ fgp                1    162014 103613183 2770.9
-+ ftp                1    159738 103615459 2770.9
-- steals_per_game    1   1844143 105619340 2770.9
-+ steals             1     47542 103727655 2771.1
-+ blocks             1      6792 103768405 2771.2
-+ position           2    427313 103347884 2772.4
-- assists            1   3187014 106962211 2773.6
+- rebounds_per_game  1    260860 106415630 2825.0
+- fgp                1    272971 106427742 2825.0
+- games              1    306970 106461740 2825.1
+- rebounds           1    411733 106566503 2825.3
+<none>                           106154771 2826.5
+- points_per_game    1   1017166 107171937 2826.5
+- assists_per_game   1   1017473 107172244 2826.5
+- height             1   1211432 107366202 2826.9
++ ftp                1     23280 106131491 2828.4
++ steals_per_game    1      1241 106153529 2828.5
++ blocks             1      1204 106153566 2828.5
++ points             1       570 106154201 2828.5
+- assists            1   2055290 108210060 2828.6
++ position           2    717941 105436830 2829.0
+- steals             1   2771706 108926476 2830.0
 
-Step:  AIC=2767.5
-minutes_played ~ height + assists_per_game + steals_per_game + 
-    points_per_game + rebounds + assists
-
-                    Df Sum of Sq       RSS    AIC
-- height             1    703743 104612496 2766.9
-<none>                           103908754 2767.5
-- points_per_game    1   1117851 105026604 2767.8
-- rebounds           1   1552103 105460856 2768.6
-+ fgp                1    194716 103714037 2769.1
-+ rebounds_per_game  1    133557 103775197 2769.2
-+ ftp                1    125995 103782758 2769.2
-- steals_per_game    1   1889624 105798378 2769.3
-+ blocks             1     11840 103896913 2769.5
-+ games              1      8895 103899859 2769.5
-+ steals             1      5170 103903584 2769.5
-+ points             1       447 103908306 2769.5
-+ position           2    340425 103568329 2770.8
-- assists_per_game   1   2703267 106612021 2770.9
-- assists            1   6953968 110862722 2779.1
-
-Step:  AIC=2766.92
-minutes_played ~ assists_per_game + steals_per_game + points_per_game + 
-    rebounds + assists
+Step:  AIC=2825.01
+minutes_played ~ height + games + fgp + assists_per_game + points_per_game + 
+    rebounds + assists + steals
 
                     Df Sum of Sq       RSS    AIC
-- points_per_game    1    883545 105496042 2766.7
-<none>                           104612496 2766.9
-+ height             1    703743 103908754 2767.5
-- steals_per_game    1   1476610 106089107 2767.9
-+ fgp                1    269747 104342749 2768.4
-+ ftp                1    156398 104456098 2768.6
-+ blocks             1     95707 104516789 2768.7
-+ rebounds_per_game  1     74470 104538026 2768.8
-+ points             1       930 104611567 2768.9
-+ steals             1        99 104612398 2768.9
-+ games              1        70 104612426 2768.9
-+ position           2    773724 103838773 2769.4
-- assists_per_game   1   2596757 107209253 2770.1
-- rebounds           1   4929856 109542352 2774.6
-- assists            1   6326112 110938608 2777.2
+- games              1     46287 106461917 2823.1
+- fgp                1    285983 106701614 2823.6
+- assists_per_game   1    780970 107196601 2824.6
+- points_per_game    1    894473 107310104 2824.8
+<none>                           106415630 2825.0
+- rebounds           1   1010343 107425973 2825.0
+- height             1   1158387 107574017 2825.3
++ rebounds_per_game  1    260860 106154771 2826.5
++ ftp                1     17159 106398472 2827.0
++ points             1     14555 106401075 2827.0
++ steals_per_game    1      1218 106414412 2827.0
++ blocks             1        15 106415615 2827.0
+- assists            1   2042230 108457861 2827.1
++ position           2    661609 105754021 2827.7
+- steals             1   2910137 109325767 2828.8
 
-Step:  AIC=2766.69
-minutes_played ~ assists_per_game + steals_per_game + rebounds + 
-    assists
+Step:  AIC=2823.11
+minutes_played ~ height + fgp + assists_per_game + points_per_game + 
+    rebounds + assists + steals
 
                     Df Sum of Sq       RSS    AIC
-<none>                           105496042 2766.7
-+ points_per_game    1    883545 104612496 2766.9
-+ points             1    818214 104677828 2767.1
-+ height             1    469437 105026604 2767.8
-+ fgp                1    184820 105311222 2768.3
-- steals_per_game    1   1859877 107355919 2768.4
-+ ftp                1     45922 105450120 2768.6
-+ blocks             1     17095 105478947 2768.7
-+ games              1     12964 105483077 2768.7
-+ rebounds_per_game  1     10571 105485471 2768.7
-+ steals             1      4999 105491042 2768.7
-- assists_per_game   1   2258805 107754846 2769.1
-+ position           2    445277 105050764 2769.8
-- rebounds           1   5504378 111000419 2775.4
-- assists            1   5851775 111347816 2776.0
+- fgp                1    262660 106724577 2821.6
+- rebounds           1    964168 107426085 2823.0
+- points_per_game    1    982611 107444528 2823.1
+<none>                           106461917 2823.1
+- height             1   1211011 107672929 2823.5
+- assists_per_game   1   1598861 108060778 2824.3
++ games              1     46287 106415630 2825.0
++ steals_per_game    1     30307 106431610 2825.1
++ ftp                1     25196 106436722 2825.1
++ points             1     23692 106438225 2825.1
++ blocks             1       244 106461674 2825.1
++ rebounds_per_game  1       177 106461740 2825.1
++ position           2    706691 105755226 2825.7
+- steals             1   2863882 109325799 2826.8
+- assists            1   5143013 111604930 2831.2
+
+Step:  AIC=2821.63
+minutes_played ~ height + assists_per_game + points_per_game + 
+    rebounds + assists + steals
+
+                    Df Sum of Sq       RSS    AIC
+- points_per_game    1    885724 107610301 2821.4
+<none>                           106724577 2821.6
+- height             1   1350355 108074932 2822.3
+- rebounds           1   1387294 108111872 2822.4
+- assists_per_game   1   1649022 108373600 2822.9
++ fgp                1    262660 106461917 2823.1
++ ftp                1     40219 106684358 2823.6
++ games              1     22964 106701614 2823.6
++ points             1     14962 106709615 2823.6
++ steals_per_game    1     12343 106712235 2823.6
++ rebounds_per_game  1      5592 106718985 2823.6
++ blocks             1        10 106724567 2823.6
++ position           2    640859 106083718 2824.3
+- steals             1   2812240 109536818 2825.2
+- assists            1   5116586 111841163 2829.7
+
+Step:  AIC=2821.4
+minutes_played ~ height + assists_per_game + rebounds + assists + 
+    steals
+
+                    Df Sum of Sq       RSS    AIC
+<none>                           107610301 2821.4
+- height             1   1028528 108638829 2821.4
++ points_per_game    1    885724 106724577 2821.6
++ points             1    779054 106831247 2821.8
+- assists_per_game   1   1341429 108951730 2822.1
++ fgp                1    165773 107444528 2823.1
++ ftp                1    130219 107480082 2823.1
++ games              1     94536 107515765 2823.2
+- rebounds           1   1977962 109588263 2823.3
++ steals_per_game    1     43100 107567201 2823.3
++ blocks             1     28365 107581936 2823.3
++ rebounds_per_game  1     15729 107594572 2823.4
++ position           2    470894 107139407 2824.5
+- steals             1   3138693 110748994 2825.6
+- assists            1   4579125 112189426 2828.3
 Stepwise Model Path 
 Analysis of Deviance Table
 
@@ -245,59 +222,59 @@ minutes_played ~ height + position + games + fgp + ftp + rebounds_per_game +
     assists + blocks + steals + points
 
 Final Model:
-minutes_played ~ assists_per_game + steals_per_game + rebounds + 
-    assists
+minutes_played ~ height + assists_per_game + rebounds + assists + 
+    steals
 
 
-                  Step Df     Deviance Resid. Df Resid. Dev      AIC
-1                                            194  102571788 2782.783
-2           - position  2 456764.13409       196  103028552 2779.716
-3             - steals  1     14.62062       197  103028567 2777.716
-4             - blocks  1    166.75211       198  103028733 2775.716
-5              - games  1  65923.14271       199  103094656 2773.851
-6                - fgp  1  87185.51752       200  103181842 2772.028
-7                - ftp  1 150420.46637       201  103332262 2770.334
-8             - points  1 442934.39691       202  103775197 2769.232
-9  - rebounds_per_game  1 133556.84203       203  103908754 2767.502
-10            - height  1 703742.76593       204  104612496 2766.920
-11   - points_per_game  1 883545.04906       205  105496042 2766.686
-     (Intercept) assists_per_game  steals_per_game         rebounds 
-     -195.119470      -280.783869       213.421284         2.182578 
-         assists 
-       12.816866 
-[1] 3364.64
-[1] 105496042
+                  Step Df    Deviance Resid. Df Resid. Dev      AIC
+1                                           198  105368507 2836.898
+2           - position  2 758201.9918       200  106126708 2834.432
+3    - steals_per_game  1    339.4901       201  106127048 2832.433
+4             - points  1    452.1488       202  106127500 2830.434
+5             - blocks  1   3990.5065       203  106131491 2828.442
+6                - ftp  1  23279.8585       204  106154771 2826.489
+7  - rebounds_per_game  1 260859.7190       205  106415630 2825.014
+8              - games  1  46287.1027       206  106461917 2823.107
+9                - fgp  1 262660.0324       207  106724577 2821.634
+10   - points_per_game  1 885723.6380       208  107610301 2821.403
+     (Intercept)           height assists_per_game         rebounds 
+    -3195.242103        37.824872      -215.762390         1.636351 
+         assists           steals 
+       11.844334         8.335443 
+[1] 3430.709
+[1] 107610301
 
 Call:
-lm(formula = minutes_played ~ assists_per_game + steals_per_game + 
-    rebounds + assists, data = players)
+lm(formula = minutes_played ~ height + assists_per_game + rebounds + 
+    assists + steals, data = players)
 
 Residuals:
     Min      1Q  Median      3Q     Max 
--1489.7  -551.0  -128.5   401.5  2049.7 
+-1421.0  -559.6  -110.4   436.4  2125.6 
 
 Coefficients:
-                  Estimate Std. Error t value Pr(>|t|)    
-(Intercept)      -195.1195   231.6277  -0.842 0.400555    
-assists_per_game -280.7839   134.0213  -2.095 0.037393 *  
-steals_per_game   213.4213   112.2630   1.901 0.058694 .  
-rebounds            2.1826     0.6674   3.270 0.001259 ** 
-assists            12.8169     3.8008   3.372 0.000892 ***
+                   Estimate Std. Error t value Pr(>|t|)   
+(Intercept)      -3195.2421  2107.8270  -1.516  0.13106   
+height              37.8249    26.8265   1.410  0.16004   
+assists_per_game  -215.7624   133.9945  -1.610  0.10886   
+rebounds             1.6364     0.8369   1.955  0.05189 . 
+assists             11.8443     3.9812   2.975  0.00328 **
+steals               8.3354     3.3841   2.463  0.01459 * 
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-Residual standard error: 717.4 on 205 degrees of freedom
-Multiple R-squared:  0.1873,	Adjusted R-squared:  0.1714 
-F-statistic: 11.81 on 4 and 205 DF,  p-value: 1.185e-08
+Residual standard error: 719.3 on 208 degrees of freedom
+Multiple R-squared:  0.2134,	Adjusted R-squared:  0.1945 
+F-statistic: 11.28 on 5 and 208 DF,  p-value: 1.217e-09
 
 
 Call:
-lm(formula = minutes_played ~ assists_per_game + steals_per_game + 
-    rebounds + assists, data = players)
+lm(formula = minutes_played ~ height + assists_per_game + rebounds + 
+    assists + steals, data = players)
 
 Coefficients:
-     (Intercept)  assists_per_game   steals_per_game          rebounds  
-        -195.119          -280.784           213.421             2.183  
-         assists  
-          12.817  
+     (Intercept)            height  assists_per_game          rebounds  
+       -3195.242            37.825          -215.762             1.636  
+         assists            steals  
+          11.844             8.335  
 

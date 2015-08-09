@@ -2,7 +2,7 @@ begin;
 
 drop table if exists bbref.schools;
 
-create table bbref.schools (
+create table if not exists bbref.schools (
        school_id	  text,
        school_name	  text,
        primary key (school_id)

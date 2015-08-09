@@ -1,109 +1,141 @@
-CREATE EXTENSION
 BEGIN
-psql:create_schema_bbref.sql:3: NOTICE:  schema "bbref" does not exist, skipping
 DROP SCHEMA
 CREATE SCHEMA
 COMMIT
+ERROR:  extension "fuzzystrmatch" already exists
 BEGIN
-CREATE TABLE
-COPY 1327
-ALTER TABLE
-ALTER TABLE
-UPDATE 1327
-UPDATE 1327
+psql:../bbref/schema/create_schema.sql:3: NOTICE:  schema "bbref" already exists, skipping
+CREATE SCHEMA
 COMMIT
 BEGIN
+DROP TABLE
 CREATE TABLE
-COPY 12108
+COPY 1328
 ALTER TABLE
-UPDATE 12108
+ALTER TABLE
+UPDATE 1328
+UPDATE 1328
 COMMIT
 BEGIN
-psql:create_bbref_schools.sql:7: NOTICE:  CREATE TABLE / PRIMARY KEY will create implicit index "schools_pkey" for table "schools"
+DROP TABLE
+CREATE TABLE
+COPY 12109
+ALTER TABLE
+UPDATE 12109
+COMMIT
+BEGIN
+DROP TABLE
 CREATE TABLE
 INSERT 0 215
 COMMIT
 BEGIN
-psql:create_bbref_players.sql:12: NOTICE:  CREATE TABLE / PRIMARY KEY will create implicit index "players_pkey" for table "players"
+DROP TABLE
 CREATE TABLE
-INSERT 0 940
+INSERT 0 941
 COMMIT
 BEGIN
-psql:create_schema_ncaa.sql:3: NOTICE:  schema "ncaa" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+COPY 30168
+ALTER TABLE
+ALTER TABLE
+UPDATE 30168
+UPDATE 30168
+UPDATE 28326
+UPDATE 1571
+ALTER TABLE
+COMMIT
+BEGIN
+DROP TABLE
+CREATE TABLE
+COPY 2813
+ALTER TABLE
+ALTER TABLE
+UPDATE 2813
+UPDATE 2813
+ALTER TABLE
+COMMIT
+BEGIN
+DROP TABLE
+CREATE TABLE
+INSERT 0 38
+COMMIT
+BEGIN
+psql:../ncaa/schema/create_schema_ncaa.sql:3: NOTICE:  drop cascades to 2 other objects
+DETAIL:  drop cascades to table ncaa.schools
+drop cascades to table ncaa.colors
 DROP SCHEMA
 CREATE SCHEMA
 COMMIT
 BEGIN
+psql:../ncaa/loaders/load_ncaa_games.sql:3: NOTICE:  table "games" does not exist, skipping
+DROP TABLE
 CREATE TABLE
 TRUNCATE TABLE
-COPY 322412
+COPY 415079
+ALTER TABLE
+UPDATE 415079
 COMMIT
 Replacing ",-," with ",," (case sensitive) (partial words matched)
 .
-A Total of 382934 matches replaced in 1 file searched.
+A Total of 498413 matches replaced in 1 file searched.
 Replacing ",-," with ",," (case sensitive) (partial words matched)
 .
-A Total of 223427 matches replaced in 1 file searched.
+A Total of 302978 matches replaced in 1 file searched.
 Replacing ".," with "," (case sensitive) (partial words matched)
 .
-A Total of 207915 matches replaced in 1 file searched.
+A Total of 245750 matches replaced in 1 file searched.
 Replacing ".0," with "," (case sensitive) (partial words matched)
 .
-A Total of 92 matches replaced in 1 file searched.
+A Total of 39 matches replaced in 1 file searched.
 Replacing ".00," with "," (case sensitive) (partial words matched)
 .
-A Total of 17 matches replaced in 1 file searched.
+A Total of 7 matches replaced in 1 file searched.
 Replacing ".000," with "," (case sensitive) (partial words matched)
 .
-A Total of 83558 matches replaced in 1 file searched.
+A Total of 95357 matches replaced in 1 file searched.
 Replacing ",-\n" with ",\n" (case sensitive) (partial words matched)
 .
-A Total of 103395 matches replaced in 1 file searched.
+A Total of 110423 matches replaced in 1 file searched.
 BEGIN
 CREATE TABLE
-COPY 177764
+COPY 215550
 COMMIT
 BEGIN
-psql:create_ncaa_players.sql:10: NOTICE:  CREATE TABLE / PRIMARY KEY will create implicit index "players_pkey" for table "players"
 CREATE TABLE
-psql:create_ncaa_players.sql:17: NOTICE:  CREATE TABLE / PRIMARY KEY will create implicit index "last_year_pkey" for table "last_year"
 CREATE TABLE
-INSERT 0 87178
-INSERT 0 76298
+INSERT 0 103034
+INSERT 0 90005
 COMMIT
 BEGIN
-psql:load_ncaa_schools.sql:7: NOTICE:  CREATE TABLE / PRIMARY KEY will create implicit index "schools_pkey" for table "schools"
 CREATE TABLE
-COPY 1107
+COPY 1322
 COMMIT
 BEGIN
-psql:load_ncaa_colors.sql:8: NOTICE:  CREATE TABLE / PRIMARY KEY will create implicit index "colors_pkey" for table "colors"
 CREATE TABLE
-COPY 1107
+COPY 46357
 COMMIT
 BEGIN
-psql:create_schema_alias.sql:3: NOTICE:  schema "alias" does not exist, skipping
+CREATE TABLE
+COPY 1322
+COMMIT
+BEGIN
 DROP SCHEMA
 CREATE SCHEMA
 COMMIT
 BEGIN
-psql:create_alias_schools.sql:10: NOTICE:  CREATE TABLE / PRIMARY KEY will create implicit index "schools_pkey" for table "schools"
-psql:create_alias_schools.sql:10: NOTICE:  CREATE TABLE / UNIQUE will create implicit index "schools_ncaa_id_key" for table "schools"
 CREATE TABLE
 CREATE TABLE
 INSERT 0 215
-INSERT 0 117
+INSERT 0 116
 COMMIT
 BEGIN
-psql:create_alias_players.sql:10: NOTICE:  CREATE TABLE / PRIMARY KEY will create implicit index "players_pkey" for table "players"
-psql:create_alias_players.sql:10: NOTICE:  CREATE TABLE / UNIQUE will create implicit index "players_ncaa_id_key" for table "players"
 CREATE TABLE
-INSERT 0 263
+INSERT 0 280
 COMMIT
 
-R version 2.15.1 (2012-06-22) -- "Roasted Marshmallows"
-Copyright (C) 2012 The R Foundation for Statistical Computing
-ISBN 3-900051-07-0
+R version 3.1.2 (2014-10-31) -- "Pumpkin Helmet"
+Copyright (C) 2014 The R Foundation for Statistical Computing
 Platform: x86_64-pc-linux-gnu (64-bit)
 
 R is free software and comes with ABSOLUTELY NO WARRANTY.
@@ -133,8 +165,8 @@ Loading required package: DBI
 > query <- dbSendQuery(con, "
 + select
 + split_part(n.height,'-',1)::integer*12+split_part(n.height,'-',2)::integer as height,
-+ d.pick as pick,
-+ sqrt(d.pick) as s_pick,
++ --d.pick as pick,
++ --sqrt(d.pick) as s_pick,
 + lower(n.position) as position,
 + n.games,
 + n.field_goals::float/nullif(n.field_goal_attempts,0) as fgp,
@@ -145,6 +177,11 @@ Loading required package: DBI
 + --n.blocks_per_game,
 + n.steals_per_game,
 + n.points_per_game,
++ n.rebounds,
++ n.assists,
++ n.blocks,
++ n.steals,
++ n.points,
 + sum(b.minutes_played) as minutes_played
 + from ncaa.statistics n
 + join alias.players p
@@ -158,8 +195,8 @@ Loading required package: DBI
 + and not(n.three_pointer_attempts=0)
 + group by
 + height,
-+ d.pick,
-+ s_pick,
++ --d.pick,
++ --s_pick,
 + position,
 + n.games,
 + fgp,
@@ -169,21 +206,24 @@ Loading required package: DBI
 + n.assists_per_game,
 + --n.blocks_per_game,
 + n.steals_per_game,
-+ n.points_per_game
-+ order by minutes_played desc;
++ n.points_per_game,
++ n.rebounds,
++ n.assists,
++ n.blocks,
++ n.steals,
++ n.points
++ --order by minutes_played desc;
 + ");
 > 
 > players <- fetch(query,n=-1)
 > dim(players)
 > 
+> players$position <- as.factor(players$position)
+> 
 > model <- minutes_played ~ .
 > 
 > fit <- lm(model,data=players)
-Warning message:
-In model.matrix.default(mt, mf, contrasts) :
-  variable 'position' converted to a factor
 > out <- stepAIC(fit,direction="both",k=2)
-There were 13 warnings (use warnings() to see them)
 > out$anova
 > 
 > coef(out)
@@ -193,7 +233,3 @@ There were 13 warnings (use warnings() to see them)
 > out
 > 
 > quit("no")
-
-real	0m12.202s
-user	0m2.312s
-sys	0m0.492s
