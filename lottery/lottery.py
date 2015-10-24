@@ -39,7 +39,8 @@ with open('picks.csv', 'wb') as csvfile:
     f = csv.writer(csvfile, delimiter=',')
     f.writerow(['Pr(pick)|seed']+range(1,s+1))
     for i,row in enumerate(picks):
-        f.writerow([i+1]+row.tolist())
+        frow = ["%.3f" % c for c in row]
+        f.writerow([i+1]+frow)
 
 #p = open("picks.csv","a")
 #for i,row in enumerate(picks):
