@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import numpy
+import csv
 
 votes = numpy.array([250,199,156,119,88,63,43,28,17,11,8,7,6,5])
 weights = votes/float(sum(votes))
@@ -34,4 +35,13 @@ for i,wi in enumerate(weights):
 #numpy.set_printoptions(precision=3,suppress=True)
 #print(picks)
 
-numpy.savetxt("picks.csv", picks, delimiter=",", fmt="%.4f")
+with open('picks.csv', 'wb') as csvfile:
+    f = csv.writer(csvfile, delimiter=',')
+    f.writerow(['Pr(pick)|seed']+range(1,s+1))
+    for i,row in enumerate(picks):
+        f.writerow([i+1]+row.tolist())
+
+#p = open("picks.csv","a")
+#for i,row in enumerate(picks):
+#    numpy.savetxt("picks.csv", row, delimiter=",", fmt="%.4f")
+#p.close()
