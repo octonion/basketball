@@ -37,7 +37,7 @@ for i,wi in enumerate(weights):
 
 with open('picks.csv', 'wb') as csvfile:
     f = csv.writer(csvfile, delimiter=',')
-    f.writerow(['Pr(pick)|seed']+range(1,s+1))
+    f.writerow(['seed\pick']+range(1,s+1))
     for i,row in enumerate(picks):
         frow = ["%.3f" % c for c in row]
         f.writerow([i+1]+frow)
