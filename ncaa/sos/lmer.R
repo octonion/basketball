@@ -24,7 +24,7 @@ ln(r.team_score::float) as log_ps
 from ncaa.results r
 
 where
-    r.year between 2002 and 2015
+    r.year between 2002 and 2016
 and r.school_div_id is not null
 and r.opponent_div_id is not null
 and r.team_score>0

@@ -10,8 +10,8 @@ url = "http://web1.ncaa.org/stats/exec/records"
 schools = CSV.read("csv/ncaa_schools.csv")
 #schools = CSV.read("schools.csv")
 
-first_year = 2015
-last_year = 2015
+first_year = 2016
+last_year = 2016
 
 games_header = ["year","team_name","team_id","opponent_name","opponent_id",
                 "game_date","team_score","opponent_score","location",

@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#!/usr/bin/ruby
 
 require 'csv'
 require 'mechanize'
@@ -7,31 +7,29 @@ agent = Mechanize.new{ |agent| agent.history.max_size=0 }
 
 agent.user_agent = 'Mozilla/5.0'
 
-#url = "http://web1.ncaa.org/stats/exec/records"
-#url = "http://web1.ncaa.org/stats/StatsSrv/careersearch"
-
 sport_code = "MBB"
 
-stats = CSV.open("ncaa_divisions.csv","w")
+stats = CSV.open("csv/ncaa_divisions.csv","w")
 
-#schools = CSV.read("schools.csv")
-schools = CSV.read("ncaa_schools.csv")
+teams = CSV.read("csv/ncaa_schools.csv")
 
-schools.each do |school|
 # Needed for referer
 
-  school_id = school[0]
-  school_name = school[1]
+url = "http://web1.ncaa.org/stats/StatsSrv/careersearch"
+page = agent.get(url)
 
-  url = "http://web1.ncaa.org/stats/StatsSrv/careersearch"
-  page = agent.get(url)
+team_form = page.forms[1]
 
-  form = page.forms[1]
-  form.searchOrg = school_id
-  form.academicYear = "X"
-  form.searchSport = sport_code
-  form.searchDiv = "X"
-  page = form.submit
+teams.each do |team|
+
+  team_id = team[0]
+  team_name = team[1]
+
+  team_form.searchOrg = team_id
+  team_form.academicYear = "X"
+  team_form.searchSport = sport_code
+  team_form.searchDiv = "X"
+  page = team_form.submit
 
   sp = "/html/body/form/table/tr/td[1]/table/tr/td/table/tr/td/a"
   show = page.search(sp)
@@ -45,11 +43,11 @@ schools.each do |school|
 
   (0..pulls).each do |pull|
 
-    print "#{school_name} - #{pull}\n"
+    print "#{team_name} - #{pull}\n"
 
     if (pull>0)
       form = page.forms[2]
-      form.orgId = school_id
+      form.orgId = team_id
       form.academicYear = "X"
       form.sportCode = sport_code
       form.division = "X"
@@ -64,23 +62,26 @@ schools.each do |school|
         next
       end
 
-      r = [sport_code,school_name,school_id]
+      r = [sport_code,team_name,team_id]
       row.search("td").each_with_index do |td,j|
         if (j==0)
           h = td.search("a").first
           if (h==nil)
             r += [td.text.strip,nil,nil,nil]
+          else
+            o = h["href"]
+            year = o.split(",")[1].strip
+            div = o.split(",")[3].strip
+            r += [td.text.strip,h["href"],year,div]
+          end
         else
-          o = h["href"]
-          year = o.split(",")[1].strip
-          div = o.split(",")[3].strip
-          r += [td.text.strip,h["href"],year,div]
+          r += [td.text.strip]
         end
-      else
-        r += [td.text.strip]
       end
-    end
-      stats << r
+
+      if (r.size>8)
+        stats << r
+      end
     end
     stats.flush
   end

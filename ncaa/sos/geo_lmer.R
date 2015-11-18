@@ -39,7 +39,7 @@ join ncaa.geocodes team
 join ncaa.geocodes opponent
   on (opponent.school_id)=(r.opponent_id)
 where
-    r.year between 2002 and 2015
+    r.year between 2002 and 2016
 and r.school_div_id is not null
 and r.opponent_div_id is not null
 and r.team_score>0

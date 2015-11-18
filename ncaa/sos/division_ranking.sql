@@ -28,7 +28,7 @@ left outer join ncaa._factors o
   on (o.parameter,o.level)=('o_div',length(t.division)::text)
 left outer join ncaa._factors d
   on (d.parameter,d.level)=('d_div',length(t.division)::text)
-where sf.year in (2015)
+where sf.year in (2016)
 and t.school_id is not null
 order by str desc);
 
@@ -62,6 +62,6 @@ order by year asc,str desc;
 
 select * from r
 where div is null
-and year=2015;
+and year=2016;
 
 commit;

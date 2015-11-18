@@ -49,8 +49,8 @@
 31,Arkansas
 30,Arkansas St.
 947,Arkansas Tech
-33,Armstrong
-725,Army
+33,Armstrong St.
+725,Army West Point
 506427,Arnold
 506029,Asbury
 35,Ashland
@@ -58,21 +58,21 @@
 500260,Athens St.
 37,Auburn
 38,Augsburg
+39,Augusta
 40,Augustana (IL)
 41,Augustana (SD)
+30093,AUM
 42,Aurora
 953,Austin
 43,Austin Peay
 44,Averett
-500089,Azusa Pacific
 30146,Azusa Pacific
+500089,Azusa Pacific
 45,Babson
 506059,Baker
-94,Bakersfield
 46,Baldwin Wallace
 47,Ball St.
 500367,Baptist Bible (PA)
-958,Baptist Bible (PA)
 962,Bard
 500385,Barrington
 49,Barry
@@ -91,6 +91,7 @@
 296,Benedictine (IL)
 14770,Bennett
 56,Bentley
+30171,Berea
 506023,Berea
 973,Berry
 506014,Bethany (KS)
@@ -133,6 +134,7 @@
 80,Brown
 500660,Bryan
 81,Bryant
+30188,Bryn Athyn
 82,Bryn Mawr
 83,Bucknell
 84,Buena Vista
@@ -150,10 +152,10 @@
 98,Cal St. East Bay
 97,Cal St. Fullerton
 100,Cal St. L.A.
-506122,Cal St. Monterey Bay
 30055,Cal St. Monterey Bay
+506122,Cal St. Monterey Bay
 93,Cal St. San B'dino
-103,Cal St. Stanislaus
+30198,Cal St. San Marcos
 995,Caldwell
 107,California
 106,California (PA)
@@ -173,7 +175,6 @@
 1000,Carson-Newman
 121,Carthage
 506094,Cascade
-122,Case
 123,Castleton
 1001,Catawba
 124,Catholic
@@ -190,8 +191,8 @@
 129,Central Mich.
 130,Central Mo.
 1009,Central Okla.
-30049,Central St. (OH)
 506028,Central St. (OH)
+30049,Central St. (OH)
 1010,Central Wash.
 132,Centre
 1012,Chadron St.
@@ -247,6 +248,7 @@
 158,Columbia
 159,Columbus St.
 1028,Concord
+30199,Concordia (CA)
 501120,Concordia (IN)
 501123,Concordia (MI)
 501130,Concordia (MO)
@@ -255,6 +257,7 @@
 162,Concordia (NY)
 24400,Concordia (TX)
 160,Concordia Chicago
+30200,Concordia Portland
 1036,Concordia Wisconsin
 161,Concordia-M'head
 9081,Concordia-St. Paul
@@ -267,9 +270,11 @@
 30111,Covenant
 169,Creighton
 30035,Crown (MN)
+94,CSU Bakersfield
 101,CSUN
 506032,Culver-Stockton
 170,Curry
+122,CWRU
 1059,D'Youville
 506446,D.C. Teachers
 30174,Daemen
@@ -315,7 +320,6 @@
 196,East Carolina
 8965,East Central
 197,East Stroudsburg
-198,East Tenn. St.
 1062,East Tex. Baptist
 203,East. Mennonite
 8968,Eastern
@@ -338,6 +342,7 @@
 213,Elmira
 532,Elms
 1068,Elon
+9680,Embry-Riddle (FL)
 214,Emerson
 30193,Emmanuel (GA)
 215,Emmanuel (MA)
@@ -346,6 +351,7 @@
 1071,Emporia St.
 8981,Endicott
 1072,Erskine
+198,ETSU
 218,Eureka
 219,Evansville
 8984,Evergreen St.
@@ -365,7 +371,7 @@
 227,Fitchburg St.
 231,FIU
 229,Fla. Atlantic
-506221,Fla. Gulf Coast
+506221,Fla. Gulf Csoast
 501725,Fla. Memorial
 233,Fla. Southern
 30092,Flagler
@@ -426,7 +432,6 @@
 1111,Greenville
 264,Grinnell
 265,Grove City
-39,GRU Augusta
 1112,Guilford
 266,Gust. Adolphus
 12399,Gwynedd Mercy
@@ -492,7 +497,6 @@
 307,Indiana (PA)
 305,Indiana St.
 502330,Indiana Tech
-309,Indianapolis
 310,Iona
 312,Iowa
 311,Iowa St.
@@ -573,10 +577,11 @@
 357,Lincoln (PA)
 30066,Lincoln Christian
 1176,Lincoln Memorial
-502725,Lindenwood (MO)
 30136,Lindenwood (MO)
+502725,Lindenwood (MO)
 1179,Linfield
 28600,Lipscomb
+32,Little Rock
 361,LIU Brooklyn
 362,LIU Post
 359,Livingstone
@@ -653,7 +658,6 @@
 410,Merrimack
 411,Messiah
 412,Methodist
-413,Metro St.
 415,Miami (FL)
 414,Miami (OH)
 506396,Miami Dade North JC
@@ -719,6 +723,7 @@
 1245,Mount Olive
 452,Mount Union
 20220,MSOE
+413,MSU Denver
 506043,Mt. Aloysius
 8567,Mt. St. Joseph
 1468,Mt. St. Mary (NY)
@@ -809,6 +814,7 @@
 15207,Ohio Valley
 520,Ohio Wesleyan
 503895,Okla. Baptist
+30202,Okla. Baptist
 30179,Okla. Christian
 24342,Okla. Panhandle
 522,Oklahoma
@@ -909,14 +915,14 @@
 576,Rider
 504350,Rio Grande
 577,Ripon
+580,RIT
 18422,Rivier
 578,Roanoke
 579,Robert Morris
-30150,Roberts Wesleyan
 504365,Roberts Wesleyan
+30150,Roberts Wesleyan
 581,Rochester (NY)
 503129,Rochester College
-580,Rochester Inst.
 582,Rockford
 1328,Rockhurst
 506025,Rocky Mountain
@@ -1030,13 +1036,13 @@
 506063,Southwestern (KS)
 8746,Southwestern (TX)
 8744,Southwestern Okla.
-23260,Spalding
 505038,Spalding
+23260,Spalding
 26973,Spelman
 505040,Spring Arbor
 506256,Spring Garden
-505050,Spring Hill
 30191,Spring Hill
+505050,Spring Hill
 673,Springfield
 506002,St. Ambrose
 592,St. Andrews
@@ -1074,6 +1080,7 @@
 620,St. Thomas (MN)
 1348,St. Thomas Aquinas
 674,Stanford
+103,Stanislaus St.
 675,Staten Island
 676,Stephen F. Austin
 2756,Stephens College
@@ -1088,6 +1095,7 @@
 683,Stony Brook
 684,Suffolk
 1390,Sul Ross St.
+958,Summit
 30165,SUNY Canton
 168,SUNY Cortland
 247,SUNY Geneseo
@@ -1117,7 +1125,6 @@
 199,Tex. A&M-Commerce
 696,Tex. A&M-Kingsville
 30088,Tex. Permian Basin
-536,Tex.-Pan American
 703,Texas
 697,Texas A&M
 505260,Texas Col.
@@ -1129,8 +1136,8 @@
 701,Texas Woman's
 702,Texas-Arlington
 23121,Texas-Dallas
-506226,Texas-Tyler
 30028,Texas-Tyler
+506226,Texas-Tyler
 707,Thiel
 2758,Thomas (ME)
 1402,Thomas More
@@ -1140,8 +1147,8 @@
 711,Towson
 28749,Transylvania
 30002,Trevecca Nazarene
-505355,Trine
 30037,Trine
+505355,Trine
 713,Trinity (CT)
 505340,Trinity (IL)
 715,Trinity (TX)
@@ -1155,7 +1162,6 @@
 720,Tuskegee
 1255,U New England
 9,UAB
-32,UALR
 108,UC Davis
 109,UC Irvine
 111,UC Riverside
@@ -1166,6 +1172,7 @@
 128,UCF
 110,UCLA
 164,UConn
+309,UIndy
 401,UMass Boston
 656,UMass Dartmouth
 368,UMass Lowell
@@ -1173,8 +1180,8 @@
 393,UMES
 2707,UMKC
 456,UNC Asheville
-459,UNC Greensboro
 537,UNC Pembroke
+459,UNCG
 460,UNCW
 504,UNI
 506105,Union (KY)
@@ -1195,6 +1202,7 @@
 30024,Utah Valley
 704,UTEP
 733,Utica
+536,UTRGV
 706,UTSA
 30181,UVa-Wise
 745,Va. Wesleyan
@@ -1262,6 +1270,7 @@
 505184,Westmar
 1450,Westminster (MO)
 1451,Westminster (PA)
+30209,Westminster (UT)
 506139,Westminster (UT)
 505775,Westmont
 778,Wheaton (IL)

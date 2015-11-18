@@ -22,7 +22,7 @@ anonymouse_base_url = "http://anonymouse.org/cgi-bin/anon-www.cgi/"
 ncaa_base_url = "http://web1.ncaa.org/stats/exec/records"
 
 # Example NCAA URL
-#http://web1.ncaa.org/stats/exec/records?academicYear=2014&sportCode=MBB&orgId=26172
+#http://web1.ncaa.org/stats/exec/records?academicYear=2016&sportCode=MBB&orgId=26172
 
 game_xpath = "//table/tr[3]/td/form/table[2]/tr[position()>1]"
 record_xpath = "//table/tr[3]/td/form/table[1]/tr[2]"
@@ -45,8 +45,8 @@ n = schools.size
 
 tpt = (n.to_f/nthreads.to_f).ceil
 
-first_year = 2014
-last_year = 2014
+first_year = 2016
+last_year = 2016
 
 (first_year..last_year).each do |year|
 

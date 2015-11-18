@@ -38,7 +38,7 @@ join ncaa._geo_factors o
   on (o.parameter,o.level::integer)=('o_div',sd.div_id)
 join ncaa._geo_factors d
   on (d.parameter,d.level::integer)=('d_div',sd.div_id)
-where sf.year in (2015)
+where sf.year in (2016)
 order by str desc);
 
 select
