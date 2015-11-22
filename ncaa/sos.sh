@@ -2,6 +2,8 @@
 
 psql basketball -f sos/standardized_results.sql
 
+psql basketball -c "vacuum full verbose analyze ncaa.results;"
+
 psql basketball -c "drop table ncaa._basic_factors;"
 psql basketball -c "drop table ncaa._parameter_levels;"
 
@@ -9,8 +11,14 @@ psql basketball -c "vacuum analyze ncaa.results;"
 
 R --vanilla < sos/lmer.R
 
+psql basketball -c "vacuum full verbose analyze ncaa._parameter_levels;"
+psql basketball -c "vacuum full verbose analyze ncaa._basic_factors;"
+
 psql basketball -f sos/normalize_factors.sql
+psql basketball -c "vacuum full verbose analyze ncaa._factors;"
+
 psql basketball -f sos/schedule_factors.sql
+psql basketball -c "vacuum full verbose analyze ncaa._schedule_factors;"
 
 psql basketball -f sos/connectivity.sql > sos/connectivity.txt
 psql basketball -f sos/current_ranking.sql > sos/current_ranking.txt
