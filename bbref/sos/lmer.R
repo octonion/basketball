@@ -33,7 +33,7 @@ group by year) f
   on (f.year)=(r.year)
 where
 TRUE
-and r.year between 1977 and 2015
+and r.year between 1990 and 2016
 and r.team_score>0
 and r.opponent_score>0
 and not(r.team_score,r.opponent_score)=(0,0)

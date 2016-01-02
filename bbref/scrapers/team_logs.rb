@@ -10,14 +10,14 @@ agent = Mechanize.new{ |agent| agent.history.max_size=0 }
 agent.user_agent = 'Mozilla/5.0'
 
 base = "http://www.basketball-reference.com/leagues"
-#http://www.basketball-reference.com/leagues/NBA_2015.html
+#http://www.basketball-reference.com/leagues/NBA_2016.html
 tl_base = "http://www.basketball-reference.com/teams"
 
 table_xpath = '//*[@id="team"]/tbody/tr/td/a'
 tl_xpath = '//*[@id="stats"]/tbody/tr'
 
-first_year = 2015
-last_year = 2015
+first_year = 2016
+last_year = 2016
 
 if (first_year==last_year)
   results = CSV.open("csv/team_logs_#{first_year}.csv","w")

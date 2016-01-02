@@ -11,7 +11,7 @@ agent.user_agent = 'Mozilla/5.0'
 
 base = "http://www.basketball-reference.com/leagues"
 gl_base = "http://www.basketball-reference.com/players"
-#/a/acyqu01/gamelog/2015/
+#/a/acyqu01/gamelog/2016/
 
 table_xpath = '//*[@id="totals"]/tbody/tr'
 gl_basic_xpath = '//*[starts-with(@id,"pgl_basic")]/tbody/tr'
@@ -19,8 +19,8 @@ gl_advanced_xpath = '//*[starts-with(@id,"pgl_advanced")]/tbody/tr'
 #'//*[@id="pgl_basic.1"]'
 #starts-with(.,'2552')
 
-first_year = 2015
-last_year = 2015
+first_year = 2016
+last_year = 2016
 
 if (first_year==last_year)
   basic = CSV.open("csv/game_logs_basic_#{first_year}.csv","w")

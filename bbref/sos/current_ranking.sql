@@ -25,7 +25,7 @@ schedule_strength::numeric(4,3) as sos
 from bbref._schedule_factors sf
 join bbref.teams s
   on (s.team_id)=(sf.team_id)
-where sf.year in (2015)
+where sf.year in (2016)
 order by str desc);
 
 select

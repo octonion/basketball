@@ -15,7 +15,7 @@ table_xpath = '//*[@id="stats"]/tbody/tr'
 
 stats = CSV.open("csv/draft_picks.csv","w")
 
-(1990..2015).each do |year|
+(1990..2016).each do |year|
 
   url = "#{base}/NBA_#{year}.html"
   print "Pulling draft year #{year}"

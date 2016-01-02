@@ -17,8 +17,8 @@ table_xpath = '//*[@id="games"]/tbody/tr'
 
 league_id = "NBA"
 
-first_year = 2015
-last_year = 2015
+first_year = 1950
+last_year = 2016
 
 #if (first_year==last_year)
 #  stats = CSV.open("csv/games_#{first_year}.csv","w")
@@ -45,22 +45,33 @@ last_year = 2015
     row = [year]
     r.xpath("td").each_with_index do |e,i|
 
-      et = e.text
-      if (et==nil) or (et.size==0)
-        et=nil
+      text = e.text.strip rescue nil
+      if (text==nil) or (text.size==0)
+        text=nil
       end
 
-      if ([0,1,2,4].include?(i))
+      if ([0,2].include?(i))
 
         if (e.xpath("a").first==nil)
-          row += [et,nil]
+          row += [text, nil]
         else
-          row += [et,e.xpath("a").first.attribute("href").to_s]
+          href = e.xpath("a").first.attribute("href").to_s.strip rescue nil
+          row += [text, href]
         end
 
+      elsif ([3,5].include?(i))
+        
+        if (e.xpath("a").first==nil)
+          row += [text, nil, nil]
+        else
+          href = e.xpath("a").first.attribute("href").to_s.strip rescue nil
+          id = href.split("/")[-2]
+          row += [text, href, id]
+        end
+        
       else
 
-        row += [et]
+        row += [text]
 
       end
 

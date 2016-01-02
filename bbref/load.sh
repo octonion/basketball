@@ -22,11 +22,11 @@ rm /tmp/basic.csv
 psql basketball -f schema/create_players.sql
 psql basketball -f schema/create_schools.sql
 
-cat csv/games.csv > /tmp/games.csv
+cat csv/games_1*.csv >> /tmp/games.csv
 cat csv/games_2*.csv >> /tmp/games.csv
-cat csv/games_NBA*.csv >> /tmp/games.csv
-cat csv/games_BAA*.csv >> /tmp/games.csv
-cat csv/games_ABA*.csv >> /tmp/games.csv
+#cat csv/games_NBA*.csv >> /tmp/games.csv
+#cat csv/games_BAA*.csv >> /tmp/games.csv
+#cat csv/games_ABA*.csv >> /tmp/games.csv
 psql basketball -f loaders/load_games.sql
 rm /tmp/games.csv
 

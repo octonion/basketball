@@ -12,14 +12,16 @@ insert into bbref.teams
 (team_id,team_name)
 (
 select
-distinct visitor_id,visitor_name
+visitor_id,visitor_name
 from bbref.games
 where visitor_id is not null
+and year>=1990
 union
 select
-distinct home_id,home_name
+home_id,home_name
 from bbref.games
 where home_id is not null
+and year>=1990
 );
 
 commit;

@@ -15,8 +15,8 @@ east_xpath = '//table[@id="E_standings"]/tbody/tr'
 
 west_xpath = '//table[@id="W_standings"]/tbody/tr'
 
-first_year = 2015
-last_year = 2015
+first_year = 2016
+last_year = 2016
 
 #if (first_year==last_year)
 #  stats = CSV.open("csv/games_#{first_year}.csv","w")

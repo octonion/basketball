@@ -17,7 +17,7 @@ table_xpath = '//table[@id="games_playoffs"]/tbody/tr'
 
 #stats = CSV.open("csv/playoffs.csv","w")
 
-(2015..2015).each do |year|
+(2016..2016).each do |year|
 
   stats = CSV.open("csv/playoffs_#{year}.csv","w")
 

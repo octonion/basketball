@@ -13,8 +13,8 @@ base = "http://www.basketball-reference.com/leagues"
 
 table_xpath = '//*[@id="advanced"]/tbody/tr'
 
-first_year = 2015
-last_year = 2015
+first_year = 2016
+last_year = 2016
 
 if (first_year==last_year)
   stats = CSV.open("csv/advanced_#{first_year}.csv","w")
