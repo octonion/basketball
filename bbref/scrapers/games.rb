@@ -17,7 +17,7 @@ table_xpath = '//*[@id="games"]/tbody/tr'
 
 league_id = "NBA"
 
-first_year = 1950
+first_year = 2016
 last_year = 2016
 
 #if (first_year==last_year)
