@@ -1,6 +1,6 @@
 begin;
 
-set timezone to 'America/Los_Angeles';
+set timezone to 'America/New_York';
 
 select
 g.game_date::date as date,
