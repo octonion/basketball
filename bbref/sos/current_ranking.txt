@@ -3,36 +3,36 @@ CREATE TABLE
 INSERT 0 30
  rk |          team          |  str  |  ofs  |  dfs  |  sos  
 ----+------------------------+-------+-------+-------+-------
-  1 | San Antonio Spurs      | 1.127 | 1.029 | 0.913 | 0.994
-  2 | Golden State Warriors  | 1.076 | 1.095 | 1.018 | 0.994
-  3 | Cleveland Cavaliers    | 1.060 | 1.004 | 0.947 | 0.996
-  4 | Oklahoma City Thunder  | 1.059 | 1.060 | 1.001 | 0.995
-  5 | Indiana Pacers         | 1.034 | 1.014 | 0.980 | 1.000
-  6 | Toronto Raptors        | 1.033 | 0.997 | 0.965 | 0.999
-  7 | Los Angeles Clippers   | 1.032 | 1.022 | 0.990 | 0.997
-  8 | Boston Celtics         | 1.025 | 1.022 | 0.997 | 0.999
-  9 | Detroit Pistons        | 1.020 | 0.998 | 0.979 | 1.000
- 10 | Atlanta Hawks          | 1.012 | 1.020 | 1.008 | 0.999
- 11 | Miami Heat             | 1.005 | 0.967 | 0.961 | 0.999
- 12 | Chicago Bulls          | 1.005 | 0.995 | 0.990 | 1.000
- 13 | Dallas Mavericks       | 1.003 | 0.991 | 0.988 | 0.999
- 14 | Charlotte Hornets      | 1.000 | 0.999 | 0.999 | 1.001
- 15 | Utah Jazz              | 0.996 | 0.961 | 0.964 | 1.002
- 16 | Houston Rockets        | 0.995 | 1.023 | 1.028 | 1.000
- 17 | Washington Wizards     | 0.992 | 1.024 | 1.032 | 1.004
- 18 | Orlando Magic          | 0.992 | 0.975 | 0.983 | 0.997
- 19 | New York Knicks        | 0.991 | 0.991 | 1.000 | 1.000
- 20 | Sacramento Kings       | 0.989 | 1.041 | 1.052 | 1.002
- 21 | Memphis Grizzlies      | 0.986 | 0.963 | 0.976 | 1.003
- 22 | Portland Trail Blazers | 0.985 | 1.007 | 1.022 | 0.999
- 23 | New Orleans Pelicans   | 0.978 | 1.003 | 1.025 | 1.002
- 24 | Milwaukee Bucks        | 0.974 | 0.985 | 1.011 | 1.003
- 25 | Denver Nuggets         | 0.968 | 0.979 | 1.011 | 1.002
- 26 | Phoenix Suns           | 0.957 | 1.010 | 1.055 | 1.001
- 27 | Minnesota Timberwolves | 0.954 | 0.973 | 1.020 | 1.000
- 28 | Brooklyn Nets          | 0.937 | 0.957 | 1.021 | 1.004
- 29 | Los Angeles Lakers     | 0.926 | 0.958 | 1.034 | 1.001
- 30 | Philadelphia 76ers     | 0.915 | 0.954 | 1.042 | 1.003
+  1 | San Antonio Spurs      | 1.132 | 1.030 | 0.910 | 0.995
+  2 | Golden State Warriors  | 1.086 | 1.101 | 1.014 | 0.995
+  3 | Oklahoma City Thunder  | 1.065 | 1.059 | 0.994 | 0.995
+  4 | Cleveland Cavaliers    | 1.049 | 1.001 | 0.954 | 0.997
+  5 | Los Angeles Clippers   | 1.032 | 1.026 | 0.994 | 0.998
+  6 | Toronto Raptors        | 1.032 | 0.998 | 0.967 | 0.998
+  7 | Indiana Pacers         | 1.032 | 1.018 | 0.987 | 0.999
+  8 | Boston Celtics         | 1.023 | 1.021 | 0.998 | 0.999
+  9 | Detroit Pistons        | 1.016 | 0.997 | 0.982 | 1.000
+ 10 | Atlanta Hawks          | 1.016 | 1.019 | 1.003 | 0.999
+ 11 | Chicago Bulls          | 1.009 | 0.998 | 0.989 | 1.000
+ 12 | Dallas Mavericks       | 1.001 | 0.990 | 0.990 | 1.000
+ 13 | Charlotte Hornets      | 1.000 | 1.000 | 0.999 | 1.001
+ 14 | Miami Heat             | 0.999 | 0.959 | 0.960 | 1.000
+ 15 | Houston Rockets        | 0.999 | 1.029 | 1.029 | 0.999
+ 16 | Utah Jazz              | 0.997 | 0.962 | 0.965 | 1.002
+ 17 | Sacramento Kings       | 0.990 | 1.040 | 1.050 | 1.002
+ 18 | New York Knicks        | 0.989 | 0.990 | 1.001 | 0.999
+ 19 | Portland Trail Blazers | 0.989 | 1.007 | 1.018 | 0.999
+ 20 | Memphis Grizzlies      | 0.986 | 0.962 | 0.976 | 1.003
+ 21 | Orlando Magic          | 0.986 | 0.968 | 0.982 | 0.997
+ 22 | Washington Wizards     | 0.986 | 1.020 | 1.034 | 1.003
+ 23 | New Orleans Pelicans   | 0.978 | 1.002 | 1.024 | 1.002
+ 24 | Milwaukee Bucks        | 0.974 | 0.984 | 1.010 | 1.002
+ 25 | Denver Nuggets         | 0.971 | 0.985 | 1.015 | 1.003
+ 26 | Minnesota Timberwolves | 0.962 | 0.975 | 1.014 | 1.000
+ 27 | Phoenix Suns           | 0.950 | 1.004 | 1.057 | 1.001
+ 28 | Brooklyn Nets          | 0.937 | 0.958 | 1.022 | 1.004
+ 29 | Los Angeles Lakers     | 0.924 | 0.956 | 1.035 | 1.001
+ 30 | Philadelphia 76ers     | 0.917 | 0.954 | 1.040 | 1.002
 (30 rows)
 
 COMMIT
