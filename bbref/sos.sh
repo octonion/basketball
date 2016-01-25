@@ -25,3 +25,7 @@ psql basketball -f sos/current_ranking.sql > sos/current_ranking.txt
 psql basketball -f sos/predict_playoffs.sql > sos/predict_playoffs.txt
 
 psql basketball -f sos/predict_daily.sql > sos/predict_daily.txt
+cp /tmp/predict_daily.csv sos/predict_daily.csv
+
+psql basketball -f sos/predict_weekly.sql > sos/predict_weekly.txt
+cp /tmp/predict_weekly.csv sos/predict_weekly.csv
