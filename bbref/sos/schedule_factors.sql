@@ -60,7 +60,7 @@ r.opponent_id,
 r.year,
 r.field
 from bbref.results r
-where r.year between 1990 and 2016
+where r.year between 2014 and 2016
 );
 
 update public.r
