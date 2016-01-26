@@ -157,6 +157,7 @@ where
 and npl.parameter not in ('field','year')
 );
 
+/*
 create temporary table scale (
        parameter		text,
        mean			float,
@@ -177,6 +178,7 @@ update bbref._factors
 set raw_factor=raw_factor-s.mean
 from scale s
 where s.parameter=bbref._factors.parameter;
+*/
 
 update bbref._factors
 set exp_factor=exp(raw_factor);

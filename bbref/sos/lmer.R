@@ -49,7 +49,7 @@ pll <- list()
 # Fixed parameters
 
 year <- as.factor(year)
-contrasts(year)<-'contr.sum'
+#contrasts(year)<-'contr.sum'
 
 field <- as.factor(field)
 
@@ -62,13 +62,13 @@ fpn <- names(fp)
 # Random parameters
 
 game_id <- as.factor(game_id)
-contrasts(game_id) <- 'contr.sum'
+#contrasts(game_id) <- 'contr.sum'
 
 offense <- as.factor(paste(year,"/",team,sep=""))
-contrasts(offense) <- 'contr.sum'
+#contrasts(offense) <- 'contr.sum'
 
 defense <- as.factor(paste(year,"/",opponent,sep=""))
-contrasts(defense) <- 'contr.sum'
+#contrasts(defense) <- 'contr.sum'
 
 rp <- data.frame(offense,defense)
 rpn <- names(rp)
