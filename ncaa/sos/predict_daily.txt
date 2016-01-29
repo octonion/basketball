@@ -1,409 +1,155 @@
 BEGIN
 SET
-         team         | h_div |  site   |                  opp                  | v_div | t_score | o_score 
-----------------------+-------+---------+---------------------------------------+-------+---------+---------
- Adelphi              |     2 | home    | %                                    +|     2 |    72.7 |    77.7
-                      |       |         |                   Stonehill           |       |         | 
- Adrian               |     3 | home    | %                                    +|     3 |    67.2 |    71.0
-                      |       |         |                   Hope                |       |         | 
- Air Force            |     1 | home    | %                                    +|     1 |    72.0 |    76.3
-                      |       |         |                   Colorado St.        |       |         | 
- American Int'l       |     2 | home    | %                                    +|     2 |    74.4 |    87.9
-                      |       |         |                   St. Anselm          |       |         | 
- Anderson (SC)        |     2 | home    | %                                    +|     2 |    71.1 |    72.4
-                      |       |         |                   Carson-Newman       |       |         | 
- Babson               |     3 | home    | %                                    +|     3 |    70.4 |    60.3
-                      |       |         |                   MIT                 |       |         | 
- Baldwin Wallace      |     3 | home    | %                                    +|     3 |    87.7 |    92.6
-                      |       |         |                   John Carroll        |       |         | 
- Baylor               |     1 | home    | %                                    +|     1 |    71.9 |    65.0
-                      |       |         |                   Kansas St.          |       |         | 
- Belmont Abbey        |     2 | home    | %                                    +|     2 |    74.3 |    74.1
-                      |       |         |                   Limestone           |       |         | 
- Boise St.            |     1 | home    | %                                    +|     1 |    85.2 |    66.0
-                      |       |         |                   San Jose St.        |       |         | 
- Boston College       |     1 | home    | %                                    +|     1 |    59.1 |    76.7
-                      |       |         |                   Miami (FL)          |       |         | 
- Bradley              |     1 | home    | %                                    +|     1 |    55.0 |    64.3
-                      |       |         |                   Illinois St.        |       |         | 
- Brevard              |     2 | home    | %                                    +|     2 |    77.3 |    76.6
-                      |       |         |                   Mars Hill           |       |         | 
- Brooklyn             |     3 | home    | %                                    +|     3 |    82.0 |    67.5
-                      |       |         |                   CCNY                |       |         | 
- Cabrini              |     3 | home    | %                                    +|     3 |    82.1 |    84.7
-                      |       |         |                   Neumann             |       |         | 
- Caldwell             |     2 | home    | %                                    +|     2 |    70.3 |    64.1
-                      |       |         |                   Dominican (NY)      |       |         | 
- Calvin               |     3 | home    | %                                    +|     3 |    94.3 |    69.6
-                      |       |         |                   Kalamazoo           |       |         | 
- Cameron              |     2 | home    | %                                    +|     2 |    81.5 |    80.9
-                      |       |         |                   Angelo St.          |       |         | 
- Capital              |     3 | home    | %                                    +|     3 |    81.8 |    67.1
-                      |       |         |                   Muskingum           |       |         | 
- Catawba              |     2 | home    | %                                    +|     2 |    85.7 |    86.7
-                      |       |         |                   Newberry            |       |         | 
- Cazenovia            |     3 | home    | %                                    +|     3 |    82.0 |    69.1
-                      |       |         |                   Cobleskill St.      |       |         | 
- Chapman              |     3 | home    | %                                    +|     3 |    76.6 |    61.9
-                      |       |         |                   Caltech             |       |         | 
- Cheyney              |     2 | home    | %                                    +|     2 |    68.3 |    78.1
-                      |       |         |                   Bloomsburg          |       |         | 
- Chowan               |     2 | home    | %                                    +|     2 |    72.4 |    75.6
-                      |       |         |                   Virginia St.        |       |         | 
- Claremont-M-S        |     3 | home    | %                                    +|     3 |    69.0 |    58.7
-                      |       |         |                   Redlands            |       |         | 
- Coast Guard          |     3 | home    | %                                    +|     3 |    79.3 |    81.0
-                      |       |         |                   Springfield         |       |         | 
- Coe                  |     3 | home    | %                                    +|     3 |    69.4 |    78.6
-                      |       |         |                   Central (IA)        |       |         | 
- Colgate              |     1 | home    | %                                    +|     1 |    71.2 |    69.2
-                      |       |         |                   Boston U.           |       |         | 
- Concordia (NY)       |     2 | home    | %                                    +|     2 |    81.5 |    76.1
-                      |       |         |                   Nyack               |       |         | 
- Concordia Wisconsin  |     3 | home    | %                                    +|     3 |    76.9 |    69.9
-                      |       |         |                   MSOE                |       |         | 
- Dickinson            |     3 | home    | %                                    +|     3 |    68.6 |    71.8
-                      |       |         |                   Johns Hopkins       |       |         | 
- Dist. Columbia       |     2 | home    | %                                    +|     2 |    75.1 |    78.8
-                      |       |         |                   LIU Post            |       |         | 
- Drake                |     1 | home    | %                                    +|     1 |    70.5 |    67.4
-                      |       |         |                   Missouri St.        |       |         | 
- Dubuque              |     3 | home    | %                                    +|     3 |    87.1 |    79.0
-                      |       |         |                   Buena Vista         |       |         | 
- Earlham              |     3 | home    | %                                    +|     3 |    65.9 |    75.5
-                      |       |         |                   Rose-Hulman         |       |         | 
- Eastern Conn. St.    |     3 | home    | %                                    +|     3 |    76.6 |    65.4
-                      |       |         |                   Western Conn. St.   |       |         | 
- Edgewood             |     3 | home    | %                                    +|     3 |    66.6 |    79.6
-                      |       |         |                   Wis. Lutheran       |       |         | 
- Edinboro             |     2 | home    | %                                    +|     2 |    77.2 |    67.9
-                      |       |         |                   California (PA)     |       |         | 
- Elizabeth City St.   |     2 | home    | %                                    +|     2 |    71.7 |    68.1
-                      |       |         |                   Lincoln (PA)        |       |         | 
- Elmhurst             |     3 | home    | %                                    +|     3 |    89.8 |    70.7
-                      |       |         |                   North Park          |       |         | 
- Embry-Riddle (FL)    |     2 | home    | %                                    +|     2 |    77.6 |    84.3
-                      |       |         |                   Eckerd              |       |         | 
- Emerson              |     3 | home    | %                                    +|     3 |    80.9 |    75.7
-                      |       |         |                   Wheaton (MA)        |       |         | 
- Emory & Henry        |     3 | home    | %                                    +|     3 |    94.5 |    91.5
-                      |       |         |                   Roanoke             |       |         | 
- Erskine              |     2 | home    | %                                    +|     2 |    66.8 |    66.0
-                      |       |         |                   North Greenville    |       |         | 
- Eureka               |     3 | home    | %                                    +|     3 |   116.7 |   121.3
-                      |       |         |                   Greenville          |       |         | 
- Fayetteville St.     |     2 | home    | %                                    +|     2 |    79.1 |    76.2
-                      |       |         |                   Livingstone         |       |         | 
- FDU-Florham          |     3 | home    | %                                    +|     3 |    63.9 |    76.1
-                      |       |         |                   Delaware Valley     |       |         | 
- Felician             |     2 | home    | %                                    +|     2 |    67.6 |    72.8
-                      |       |         |                   Bloomfield          |       |         | 
- Florida Tech         |     2 | home    | %                                    +|     2 |    90.3 |    93.1
-                      |       |         |                   Barry               |       |         | 
- Fordham              |     1 | home    | %                                    +|     1 |    69.6 |    62.8
-                      |       |         |                   George Mason        |       |         | 
- Gardner-Webb         |     1 | home    | %                                    +|     1 |    82.5 |    77.3
-                      |       |         |                   Winthrop            |       |         | 
- Gettysburg           |     3 | home    | %                                    +|     3 |    67.4 |    65.3
-                      |       |         |                   Frank. & Marsh.     |       |         | 
- Goldey-Beacom        |     2 | home    | %                                    +|     2 |    65.2 |    67.9
-                      |       |         |                   Philadelphia U.     |       |         | 
- Greensboro           |     3 | home    | %                                    +|     3 |    83.0 |    76.9
-                      |       |         |                   N.C. Wesleyan       |       |         | 
- Grinnell             |     3 | home    | %                                    +|     3 |   106.3 |    89.5
-                      |       |         |                   Cornell College     |       |         | 
- Guilford             |     3 | home    | %                                    +|     3 |    71.2 |    71.1
-                      |       |         |                   Lynchburg           |       |         | 
- Gwynedd Mercy        |     3 | home    | %                                    +|     3 |    90.3 |    70.3
-                      |       |         |                   Cairn               |       |         | 
- Hamline              |     3 | home    | %                                    +|     3 |    81.2 |    73.1
-                      |       |         |                   Saint Mary's (MN)   |       |         | 
- Hanover              |     3 | home    | %                                    +|     3 |    82.6 |    69.9
-                      |       |         |                   Franklin            |       |         | 
- Heidelberg           |     3 | home    | %                                    +|     3 |    82.7 |    75.9
-                      |       |         |                   Ohio Northern       |       |         | 
- High Point           |     1 | home    | %                                    +|     1 |    75.2 |    72.4
-                      |       |         |                   UNC Asheville       |       |         | 
- Hiram                |     3 | home    | %                                    +|     3 |    77.2 |    76.3
-                      |       |         |                   Denison             |       |         | 
- Holy Cross           |     1 | home    | %                                    +|     1 |    70.8 |    76.4
-                      |       |         |                   Army West Point     |       |         | 
- Holy Family          |     2 | home    | %                                    +|     2 |    67.1 |    57.5
-                      |       |         |                   USciences           |       |         | 
- Huntingdon           |     3 | home    | %                                    +|     3 |    86.2 |    78.5
-                      |       |         |                   Rust                |       |         | 
- Ill. Wesleyan        |     3 | home    | %                                    +|     3 |    67.4 |    77.9
-                      |       |         |                   Augustana (IL)      |       |         | 
- Indiana (PA)         |     2 | home    | %                                    +|     2 |    81.2 |    68.2
-                      |       |         |                   Seton Hill          |       |         | 
- Johnson C. Smith     |     2 | home    | %                                    +|     2 |    79.0 |    64.8
-                      |       |         |                   Saint Augustine's   |       |         | 
- Juniata              |     3 | home    | %                                    +|     3 |    66.1 |    71.8
-                      |       |         |                   Catholic            |       |         | 
- Kean                 |     3 | home    | %                                    +|     3 |    70.0 |    77.6
-                      |       |         |                   Montclair St.       |       |         | 
- Keene St.            |     3 | home    | %                                    +|     3 |    79.9 |    73.2
-                      |       |         |                   Plymouth St.        |       |         | 
- Kenyon               |     3 | home    | %                                    +|     3 |    68.5 |    72.9
-                      |       |         |                   Wittenberg          |       |         | 
- Keystone             |     3 | home    | %                                    +|     3 |    76.8 |    79.0
-                      |       |         |                   Centenary (NJ)      |       |         | 
- King's (PA)          |     3 | home    | %                                    +|     3 |    71.7 |    72.3
-                      |       |         |                   Misericordia        |       |         | 
- Knox                 |     3 | home    | %                                    +|     3 |    78.5 |    74.4
-                      |       |         |                   Illinois Col.       |       |         | 
- Kutztown             |     2 | home    | %                                    +|     2 |    97.8 |    68.5
-                      |       |         |                   Mansfield           |       |         | 
- Lafayette            |     1 | home    | %                                    +|     1 |    68.2 |    59.0
-                      |       |         |                   American            |       |         | 
- LaGrange             |     3 | home    | %                                    +|     3 |    80.8 |    71.2
-                      |       |         |                   Piedmont            |       |         | 
- Lake Forest          |     3 | home    | %                                    +|     3 |    80.3 |    67.7
-                      |       |         |                   Beloit              |       |         | 
- La Salle             |     1 | neutral | %                                    +|     1 |    62.2 |    71.9
-                      |       |         |                   Temple              |       |         | 
- La Verne             |     3 | home    | %                                    +|     3 |    77.0 |    74.2
-                      |       |         |                   Pomona-Pitzer       |       |         | 
- Lawrence             |     3 | home    | %                                    +|     3 |    67.5 |    69.8
-                      |       |         |                   Ripon               |       |         | 
- Lebanon Valley       |     3 | home    | %                                    +|     3 |    79.8 |    65.8
-                      |       |         |                   Messiah             |       |         | 
- Lehigh               |     1 | home    | %                                    +|     1 |    64.0 |    65.0
-                      |       |         |                   Navy                |       |         | 
- Lehman               |     3 | home    | %                                    +|     3 |    84.6 |    62.5
-                      |       |         |                   John Jay            |       |         | 
- Lenoir-Rhyne         |     2 | home    | %                                    +|     2 |    87.1 |    75.3
-                      |       |         |                   Coker               |       |         | 
- Lincoln Memorial     |     2 | home    | %                                    +|     2 |   101.7 |    77.6
-                      |       |         |                   Tusculum            |       |         | 
- Lock Haven           |     2 | home    | %                                    +|     2 |    71.8 |    91.5
-                      |       |         |                   East Stroudsburg    |       |         | 
- Loras                |     3 | home    | %                                    +|     3 |    72.7 |    62.3
-                      |       |         |                   Luther              |       |         | 
- Louisville           |     1 | home    | %                                    +|     1 |    79.9 |    64.4
-                      |       |         |                   Florida St.         |       |         | 
- Loyola Maryland      |     1 | home    | %                                    +|     1 |    76.7 |    80.7
-                      |       |         |                   Bucknell            |       |         | 
- Lynn                 |     2 | home    | %                                    +|     2 |    88.1 |    83.7
-                      |       |         |                   Palm Beach Atl.     |       |         | 
- MacMurray            |     3 | home    | %                                    +|     3 |    82.7 |    75.9
-                      |       |         |                   Fontbonne           |       |         | 
- Manhattanville       |     3 | home    | %                                    +|     3 |    76.6 |    81.0
-                      |       |         |                   Eastern             |       |         | 
- Marian (WI)          |     3 | home    | %                                    +|     3 |    76.0 |    80.6
-                      |       |         |                   Lakeland            |       |         | 
- Marquette            |     1 | home    | %                                    +|     1 |    77.8 |    69.6
-                      |       |         |                   DePaul              |       |         | 
- Maryville (TN)       |     3 | home    | %                                    +|     3 |    83.8 |    74.6
-                      |       |         |                   Covenant            |       |         | 
- Marywood             |     3 | home    | %                                    +|     3 |    78.7 |    63.5
-                      |       |         |                   Summit              |       |         | 
- McDaniel             |     3 | home    | %                                    +|     3 |    64.6 |    55.5
-                      |       |         |                   Washington Col.     |       |         | 
- MCLA                 |     3 | home    | %                                    +|     3 |    75.6 |    88.7
-                      |       |         |                   Fitchburg St.       |       |         | 
- Medgar Evers         |     3 | home    | %                                    +|     3 |    79.4 |    74.7
-                      |       |         |                   York (NY)           |       |         | 
- Mercy                |     2 | home    | %                                    +|     2 |    77.8 |    81.2
-                      |       |         |                   Dowling             |       |         | 
- Mercyhurst           |     2 | home    | %                                    +|     2 |    71.3 |    48.6
-                      |       |         |                   Gannon              |       |         | 
- Merrimack            |     2 | home    | %                                    +|     2 |    84.3 |    76.1
-                      |       |         |                   Saint Rose          |       |         | 
- Michigan             |     1 | home    | %                                    +|     1 |    81.8 |    61.0
-                      |       |         |                   Minnesota           |       |         | 
- Michigan St.         |     1 | home    | %                                    +|     1 |    78.6 |    62.8
-                      |       |         |                   Nebraska            |       |         | 
- Midwestern St.       |     2 | home    | %                                    +|     2 |    75.8 |    59.2
-                      |       |         |                   Tex. A&M-Kingsville |       |         | 
- Missouri             |     1 | home    | %                                    +|     1 |    65.2 |    65.8
-                      |       |         |                   Georgia             |       |         | 
- Moravian             |     3 | home    | %                                    +|     3 |    71.1 |    77.3
-                      |       |         |                   Scranton            |       |         | 
- Morrisville St.      |     3 | home    | %                                    +|     3 |    75.7 |    67.0
-                      |       |         |                   SUNY Poly           |       |         | 
- Mount Union          |     3 | home    | %                                    +|     3 |    81.1 |    83.0
-                      |       |         |                   Marietta            |       |         | 
- Mt. St. Mary (NY)    |     3 | home    | %                                    +|     3 |    74.6 |    74.7
-                      |       |         |                   Mt. St. Vincent     |       |         | 
- Muhlenberg           |     3 | home    | %                                    +|     3 |    66.7 |    68.0
-                      |       |         |                   Swarthmore          |       |         | 
- New Haven            |     2 | home    | %                                    +|     2 |    65.6 |    66.8
-                      |       |         |                   Franklin Pierce     |       |         | 
- New Jersey City      |     3 | home    | %                                    +|     3 |    71.7 |    71.2
-                      |       |         |                   Rutgers-Newark      |       |         | 
- North Carolina       |     1 | home    | %                                    +|     1 |    95.1 |    74.3
-                      |       |         |                   Wake Forest         |       |         | 
- North Central (IL)   |     3 | home    | %                                    +|     3 |    77.0 |    59.0
-                      |       |         |                   Carthage            |       |         | 
- Notre Dame           |     1 | home    | %                                    +|     1 |    81.6 |    70.6
-                      |       |         |                   Virginia Tech       |       |         | 
- Ohio Wesleyan        |     3 | home    | %                                    +|     3 |    90.1 |    71.4
-                      |       |         |                   Oberlin             |       |         | 
- Olivet               |     3 | home    | %                                    +|     3 |    64.2 |    82.0
-                      |       |         |                   Albion              |       |         | 
- Oregon St.           |     1 | home    | %                                    +|     1 |    74.4 |    71.9
-                      |       |         |                   UCLA                |       |         | 
- Pace                 |     2 | home    | %                                    +|     2 |    65.9 |    77.4
-                      |       |         |                   Bentley             |       |         | 
- Penn                 |     1 | home    | %                                    +|     1 |    66.1 |    78.4
-                      |       |         |                   Saint Joseph's      |       |         | 
- Penn St.-Altoona     |     3 | home    | %                                    +|     3 |    72.7 |    86.7
-                      |       |         |                   Lycoming            |       |         | 
- Penn St. Harrisburg  |     3 | home    | %                                    +|     3 |    75.9 |    72.9
-                      |       |         |                   Wesley              |       |         | 
- Presbyterian         |     1 | home    | %                                    +|     1 |    71.0 |    73.6
-                      |       |         |                   Charleston So.      |       |         | 
- Radford              |     1 | home    | %                                    +|     1 |    76.3 |    65.9
-                      |       |         |                   Campbell            |       |         | 
- Ramapo               |     3 | home    | %                                    +|     3 |    79.6 |    78.1
-                      |       |         |                   Wm. Paterson        |       |         | 
- Randolph             |     3 | home    | %                                    +|     3 |    59.8 |    63.8
-                      |       |         |                   Hampden-Sydney      |       |         | 
- Randolph-Macon       |     3 | home    | %                                    +|     3 |    79.5 |    77.0
-                      |       |         |                   East. Mennonite     |       |         | 
- Rhode Island Col.    |     3 | home    | %                                    +|     3 |    73.7 |    78.0
-                      |       |         |                   UMass Dartmouth     |       |         | 
- Rockford             |     3 | home    | %                                    +|     3 |   104.5 |    82.3
-                      |       |         |                   Concordia Chicago   |       |         | 
- Rollins              |     2 | home    | %                                    +|     2 |    89.9 |    83.3
-                      |       |         |                   Fla. Southern       |       |         | 
- Rosemont             |     3 | home    | %                                    +|     3 |    80.1 |    70.9
-                      |       |         |                   Immaculata          |       |         | 
- Rutgers-Camden       |     3 | home    | %                                    +|     3 |    64.8 |    74.9
-                      |       |         |                   TCNJ                |       |         | 
- Saint John's (MN)    |     3 | home    | %                                    +|     3 |    72.7 |    64.7
-                      |       |         |                   Gust. Adolphus      |       |         | 
- Saint Louis          |     1 | home    | %                                    +|     1 |    73.8 |    78.5
-                      |       |         |                   Davidson            |       |         | 
- Saint Michael's      |     2 | home    | %                                    +|     2 |    69.9 |    73.4
-                      |       |         |                   Le Moyne            |       |         | 
- Saint Vincent        |     3 | home    | %                                    +|     3 |    75.9 |    66.8
-                      |       |         |                   Thiel               |       |         | 
- Salem St.            |     3 | home    | %                                    +|     3 |    78.8 |    77.0
-                      |       |         |                   Westfield St.       |       |         | 
- Salisbury            |     3 | home    | %                                    +|     3 |    68.6 |    53.3
-                      |       |         |                   Marymount (VA)      |       |         | 
- Sarah Lawrence       |     3 | home    | %                                    +|     3 |    64.2 |    69.2
-                      |       |         |                   Purchase            |       |         | 
- Seton Hall           |     1 | home    | %                                    +|     1 |    62.9 |    70.7
-                      |       |         |                   Villanova           |       |         | 
- Shaw                 |     2 | home    | %                                    +|     2 |    71.6 |    70.5
-                      |       |         |                   Winston-Salem       |       |         | 
- Slippery Rock        |     2 | home    | %                                    +|     2 |    72.5 |    70.5
-                      |       |         |                   Pitt.-Johnstown     |       |         | 
- South Dakota         |     1 | home    | %                                    +|     1 |    78.5 |    74.2
-                      |       |         |                   Western Ill.        |       |         | 
- Southeastern Okla.   |     2 | home    | %                                    +|     2 |    73.2 |    77.2
-                      |       |         |                   Southwestern Okla.  |       |         | 
- Southern Conn. St.   |     2 | home    | %                                    +|     2 |    88.6 |    83.2
-                      |       |         |                   Southern N.H.       |       |         | 
- Southern Ill.        |     1 | home    | %                                    +|     1 |    74.1 |    70.0
-                      |       |         |                   Indiana St.         |       |         | 
- Southern Va.         |     3 | home    | %                                    +|     3 |    72.3 |    81.4
-                      |       |         |                   Mary Washington     |       |         | 
- South Fla.           |     1 | home    | %                                    +|     1 |    66.8 |    70.8
-                      |       |         |                   UCF                 |       |         | 
- Staten Island        |     3 | home    | %                                    +|     3 |    94.9 |    68.0
-                      |       |         |                   Hunter              |       |         | 
- Stevenson            |     3 | home    | %                                    +|     3 |    63.1 |    68.5
-                      |       |         |                   Hood                |       |         | 
- St. Joseph's (Brkln) |     3 | home    | %                                    +|     3 |    83.5 |    79.4
-                      |       |         |                   Sage Colleges       |       |         | 
- St. Mary's (MD)      |     3 | home    | %                                    +|     3 |    59.6 |    69.2
-                      |       |         |                   Chris. Newport      |       |         | 
- St. Norbert          |     3 | home    | %                                    +|     3 |    67.8 |    58.5
-                      |       |         |                   Carroll (WI)        |       |         | 
- Stockton             |     3 | home    | %                                    +|     3 |    83.7 |    68.2
-                      |       |         |                   Rowan               |       |         | 
- St. Thomas Aquinas   |     2 | home    | %                                    +|     2 |    81.1 |    74.0
-                      |       |         |                   Bridgeport          |       |         | 
- St. Thomas (MN)      |     3 | home    | %                                    +|     3 |    75.8 |    59.9
-                      |       |         |                   St. Olaf            |       |         | 
- SUNY Canton          |     3 | home    | %                                    +|     3 |    82.2 |    60.9
-                      |       |         |                   Alfred St.          |       |         | 
- SUNY Maritime        |     3 | home    | %                                    +|     3 |    63.6 |    69.3
-                      |       |         |                   Old Westbury        |       |         | 
- Susquehanna          |     3 | home    | %                                    +|     3 |    84.5 |    65.7
-                      |       |         |                   Goucher             |       |         | 
- Tampa                |     2 | home    | %                                    +|     2 |    73.5 |    71.8
-                      |       |         |                   Nova Southeastern   |       |         | 
- Tarleton St.         |     2 | home    | %                                    +|     2 |    81.0 |    63.7
-                      |       |         |                   Eastern N.M.        |       |         | 
- Temple               |     1 | neutral | %                                    +|     1 |    71.9 |    62.2
-                      |       |         |                   La Salle            |       |         | 
- Tennessee            |     1 | home    | %                                    +|     1 |    71.9 |    78.5
-                      |       |         |                   Vanderbilt          |       |         | 
- Tex. A&M-Commerce    |     2 | home    | %                                    +|     2 |    84.7 |    78.0
-                      |       |         |                   West Tex. A&M       |       |         | 
- Thomas More          |     3 | home    | %                                    +|     3 |    89.1 |    70.5
-                      |       |         |                   Chatham             |       |         | 
- Transylvania         |     3 | home    | %                                    +|     3 |    67.9 |    73.3
-                      |       |         |                   Mt. St. Joseph      |       |         | 
- Trine                |     3 | home    | %                                    +|     3 |    65.3 |    68.2
-                      |       |         |                   Alma                |       |         | 
- UC Irvine            |     1 | home    | %                                    +|     1 |    73.7 |    62.2
-                      |       |         |                   Cal St. Fullerton   |       |         | 
- UC Santa Barbara     |     1 | home    | %                                    +|     1 |    72.7 |    69.6
-                      |       |         |                   Long Beach St.      |       |         | 
- UMass Boston         |     3 | home    | %                                    +|     3 |    73.6 |    76.4
-                      |       |         |                   Southern Me.        |       |         | 
- UNI                  |     1 | home    | %                                    +|     1 |    62.9 |    66.5
-                      |       |         |                   Wichita St.         |       |         | 
- Ursinus              |     3 | home    | %                                    +|     3 |    76.5 |    57.7
-                      |       |         |                   Haverford           |       |         | 
- Va. Wesleyan         |     3 | home    | %                                    +|     3 |    74.0 |    56.7
-                      |       |         |                   Bridgewater (VA)    |       |         | 
- VCU                  |     1 | home    | %                                    +|     1 |    84.9 |    69.3
-                      |       |         |                   Duquesne            |       |         | 
- Virginia Union       |     2 | home    | %                                    +|     2 |    76.1 |    77.6
-                      |       |         |                   Bowie St.           |       |         | 
- Wabash               |     3 | home    | %                                    +|     3 |    74.3 |    66.9
-                      |       |         |                   DePauw              |       |         | 
- Wartburg             |     3 | home    | %                                    +|     3 |    69.6 |    72.2
-                      |       |         |                   Simpson             |       |         | 
- Washington           |     1 | home    | %                                    +|     1 |    79.4 |    79.0
-                      |       |         |                   Colorado            |       |         | 
- Wash. & Lee          |     3 | home    | %                                    +|     3 |    77.3 |    64.7
-                      |       |         |                   Shenandoah          |       |         | 
- Waynesburg           |     3 | home    | %                                    +|     3 |    81.7 |    70.6
-                      |       |         |                   Geneva              |       |         | 
- West Chester         |     2 | home    | %                                    +|     2 |    82.9 |    62.1
-                      |       |         |                   Millersville        |       |         | 
- Westminster (PA)     |     3 | home    | %                                    +|     3 |    86.0 |    61.7
-                      |       |         |                   Wash. & Jeff.       |       |         | 
- West Virginia        |     1 | home    | %                                    +|     1 |    77.7 |    63.9
-                      |       |         |                   Texas               |       |         | 
- Wheaton (IL)         |     3 | home    | %                                    +|     3 |    68.6 |    63.1
-                      |       |         |                   Millikin            |       |         | 
- Whittier             |     3 | home    | %                                    +|     3 |    77.4 |    70.1
-                      |       |         |                   Occidental          |       |         | 
- Wilmington (DE)      |     2 | home    | %                                    +|     2 |    83.2 |    74.1
-                      |       |         |                   Georgian Court      |       |         | 
- Wilmington (OH)      |     3 | home    | %                                    +|     3 |    76.3 |    71.1
-                      |       |         |                   Otterbein           |       |         | 
- Wilson               |     3 | home    | %                                    +|     3 |    62.1 |    73.3
-                      |       |         |                   Gallaudet           |       |         | 
- Wingate              |     2 | home    | %                                    +|     2 |    75.8 |    75.1
-                      |       |         |                   Queens (NC)         |       |         | 
- Wis.-Oshkosh         |     3 | home    | %                                    +|     3 |    76.1 |    70.2
-                      |       |         |                   Wis.-Whitewater     |       |         | 
- Wis.-Platteville     |     3 | home    | %                                    +|     3 |    70.5 |    68.5
-                      |       |         |                   Wis.-Eau Claire     |       |         | 
- Wis.-River Falls     |     3 | home    | %                                    +|     3 |    66.8 |    62.8
-                      |       |         |                   Wis.-Stevens Point  |       |         | 
- Wis.-Stout           |     3 | home    | %                                    +|     3 |    57.7 |    69.3
-                      |       |         |                   Wis.-La Crosse      |       |         | 
- Wooster              |     3 | home    | %                                    +|     3 |    76.7 |    56.9
-                      |       |         |                   Allegheny           |       |         | 
- WPI                  |     3 | home    | %                                    +|     3 |    69.2 |    54.4
-                      |       |         |                   Clark (MA)          |       |         | 
- Wyoming              |     1 | home    | %                                    +|     1 |    70.1 |    69.1
-                      |       |         |                   Nevada              |       |         | 
- Yeshiva              |     3 | home    | %                                    +|     3 |    70.7 |    67.1
-                      |       |         |                   Farmingdale St.     |       |         | 
- York (PA)            |     3 | home    | %                                    +|     3 |    70.4 |    62.0
-                      |       |         |                   Frostburg St.       |       |         | 
-(201 rows)
+         team         | h_div | site |                  opp                   | v_div | t_score | o_score 
+----------------------+-------+------+----------------------------------------+-------+---------+---------
+ Adams St.            |     2 | home | %                                     +|     2 |    82.5 |    70.0
+                      |       |      |                   Chadron St.          |       |         | 
+ Barton               |     2 | home | %                                     +|     2 |    85.5 |    74.9
+                      |       |      |                   Limestone            |       |         | 
+ Bemidji St.          |     2 | home | %                                     +|     2 |    66.1 |    69.8
+                      |       |      |                   Winona St.           |       |         | 
+ Berry                |     3 | home | %                                     +|     3 |    68.7 |    66.4
+                      |       |      |                   Centre               |       |         | 
+ Brandeis             |     3 | home | %                                     +|     3 |    83.3 |    76.4
+                      |       |      |                   CWRU                 |       |         | 
+ Brockport            |     3 | home | %                                     +|     3 |    86.3 |    77.9
+                      |       |      |                   SUNY Geneseo         |       |         | 
+ Brown                |     1 | home | %                                     +|     1 |    70.5 |    80.8
+                      |       |      |                   Princeton            |       |         | 
+ Buffalo St.          |     3 | home | %                                     +|     3 |    81.9 |    81.2
+                      |       |      |                   Plattsburgh St.      |       |         | 
+ Cal St. Dom. Hills   |     2 | home | %                                     +|     2 |    71.8 |    72.6
+                      |       |      |                   San Fran. St.        |       |         | 
+ Cal St. L.A.         |     2 | home | %                                     +|     2 |    55.1 |    61.0
+                      |       |      |                   Sonoma St.           |       |         | 
+ Centenary (LA)       |     3 | home | %                                     +|     3 |    80.2 |    80.7
+                      |       |      |                   Southwestern (TX)    |       |         | 
+ Chicago              |     3 | home | %                                     +|     3 |    72.0 |    63.9
+                      |       |      |                   Emory                |       |         | 
+ Colby-Sawyer         |     3 | home | %                                     +|     3 |    78.6 |    62.6
+                      |       |      |                   Maine Maritime       |       |         | 
+ Colo. Christian      |     2 | home | %                                     +|     2 |    83.1 |    78.2
+                      |       |      |                   Black Hills St.      |       |         | 
+ Colorado Col.        |     3 | home | %                                     +|     3 |    72.1 |    75.5
+                      |       |      |                   Texas Lutheran       |       |         | 
+ Colorado Mesa        |     2 | home | %                                     +|     2 |    87.6 |    82.5
+                      |       |      |                   Colorado St.-Pueblo  |       |         | 
+ Colorado Mines       |     2 | home | %                                     +|     2 |    76.7 |    59.7
+                      |       |      |                   South Dakota Mines   |       |         | 
+ Concordia Chicago    |     3 | home | %                                     +|     3 |    77.5 |    98.9
+                      |       |      |                   Concordia Wisconsin  |       |         | 
+ Concordia-St. Paul   |     2 | home | %                                     +|     2 |    70.0 |    87.0
+                      |       |      |                   MSU Moorhead         |       |         | 
+ Covenant             |     3 | home | %                                     +|     3 |    75.8 |    74.0
+                      |       |      |                   Greensboro           |       |         | 
+ Crown (MN)           |     3 | home | %                                     +|     3 |    78.3 |    90.0
+                      |       |      |                   North Central (MN)   |       |         | 
+ Dartmouth            |     1 | home | %                                     +|     1 |    68.5 |    69.2
+                      |       |      |                   Columbia             |       |         | 
+ Davidson             |     1 | home | %                                     +|     1 |    77.5 |    84.3
+                      |       |      |                   VCU                  |       |         | 
+ Detroit              |     1 | home | %                                     +|     1 |    85.0 |    77.0
+                      |       |      |                   Northern Ky.         |       |         | 
+ Dist. Columbia       |     2 | home | %                                     +|     2 |    88.5 |    87.0
+                      |       |      |                   Daemen               |       |         | 
+ Emmanuel (GA)        |     2 | home | %                                     +|     2 |    83.2 |    64.6
+                      |       |      |                   Belmont Abbey        |       |         | 
+ Erskine              |     2 | home | %                                     +|     2 |    73.4 |    75.2
+                      |       |      |                   Pfeiffer             |       |         | 
+ Fairfield            |     1 | home | %                                     +|     1 |    87.7 |    83.9
+                      |       |      |                   Canisius             |       |         | 
+ Finlandia            |     3 | home | %                                     +|     3 |    70.8 |    78.2
+                      |       |      |                   St. Scholastica      |       |         | 
+ Fort Lewis           |     2 | home | %                                     +|     2 |    82.8 |    65.7
+                      |       |      |                   Regis (CO)           |       |         | 
+ Fredonia             |     3 | home | %                                     +|     3 |    75.1 |    67.4
+                      |       |      |                   SUNY Potsdam         |       |         | 
+ George Fox           |     3 | home | %                                     +|     3 |    68.3 |    68.3
+                      |       |      |                   Pacific (OR)         |       |         | 
+ Harvard              |     1 | home | %                                     +|     1 |    74.7 |    62.7
+                      |       |      |                   Cornell              |       |         | 
+ Hendrix              |     3 | home | %                                     +|     3 |    75.6 |    64.5
+                      |       |      |                   Millsaps             |       |         | 
+ Hobart               |     3 | home | %                                     +|     3 |    71.4 |    69.8
+                      |       |      |                   Skidmore             |       |         | 
+ Holy Names           |     2 | home | %                                     +|     2 |    73.9 |    77.2
+                      |       |      |                   Dominican (CA)       |       |         | 
+ Iona                 |     1 | home | %                                     +|     1 |    83.6 |    70.9
+                      |       |      |                   Manhattan            |       |         | 
+ IUPUI                |     1 | home | %                                     +|     1 |    71.6 |    68.1
+                      |       |      |                   Western Ill.         |       |         | 
+ John Jay             |     3 | home | %                                     +|     3 |    76.8 |    77.3
+                      |       |      |                   Hunter               |       |         | 
+ Johnson St.          |     3 | home | %                                     +|     3 |    74.6 |    82.1
+                      |       |      |                   Thomas (ME)          |       |         | 
+ Lancaster Bible      |     3 | home | %                                     +|     3 |   109.7 |    67.6
+                      |       |      |                   Wilson               |       |         | 
+ Lees-McRae           |     2 | home | %                                     +|     2 |    95.9 |    77.3
+                      |       |      |                   Southern Wesleyan    |       |         | 
+ Lewis & Clark        |     3 | home | %                                     +|     3 |    79.4 |    88.3
+                      |       |      |                   Whitman              |       |         | 
+ Linfield             |     3 | home | %                                     +|     3 |    60.9 |    69.7
+                      |       |      |                   Whitworth            |       |         | 
+ Lyndon St.           |     3 | home | %                                     +|     3 |    77.5 |    63.2
+                      |       |      |                   Me.-Farmington       |       |         | 
+ Maryville (TN)       |     3 | home | %                                     +|     3 |    79.3 |    70.6
+                      |       |      |                   Methodist            |       |         | 
+ Milwaukee            |     1 | home | %                                     +|     1 |    85.3 |    79.9
+                      |       |      |                   Green Bay            |       |         | 
+ Minn.-Crookston      |     2 | home | %                                     +|     2 |    73.4 |    82.9
+                      |       |      |                   Upper Iowa           |       |         | 
+ Minn. Duluth         |     2 | home | %                                     +|     2 |    79.2 |    75.5
+                      |       |      |                   Sioux Falls          |       |         | 
+ Minn.-Morris         |     3 | home | %                                     +|     3 |    77.8 |    83.7
+                      |       |      |                   Northwestern-St.Paul |       |         | 
+ Minn. St. Mankato    |     2 | home | %                                     +|     2 |    78.6 |    75.3
+                      |       |      |                   Northern St.         |       |         | 
+ Mount Olive          |     2 | home | %                                     +|     2 |    76.9 |    63.9
+                      |       |      |                   North Greenville     |       |         | 
+ MSU Denver           |     2 | home | %                                     +|     2 |    73.7 |    71.7
+                      |       |      |                   N.M. Highlands       |       |         | 
+ New England Col.     |     3 | home | %                                     +|     3 |    80.5 |    95.4
+                      |       |      |                   Husson               |       |         | 
+ Northland            |     3 | home | %                                     +|     3 |    66.9 |    70.7
+                      |       |      |                   Wis.-Superior        |       |         | 
+ NYU                  |     3 | home | %                                     +|     3 |    74.9 |    69.6
+                      |       |      |                   Carnegie Mellon      |       |         | 
+ Oakland              |     1 | home | %                                     +|     1 |    78.6 |    71.3
+                      |       |      |                   Wright St.           |       |         | 
+ Oglethorpe           |     3 | home | %                                     +|     3 |    67.6 |    68.4
+                      |       |      |                   Sewanee              |       |         | 
+ Oswego St.           |     3 | home | %                                     +|     3 |    73.4 |    56.7
+                      |       |      |                   SUNY New Paltz       |       |         | 
+ Pacific Lutheran     |     3 | home | %                                     +|     3 |    75.9 |    65.8
+                      |       |      |                   Willamette           |       |         | 
+ Penn St.-Berks       |     3 | home | %                                     +|     3 |    78.2 |    82.5
+                      |       |      |                   Gallaudet            |       |         | 
+ Pine Manor           |     3 | home | %                                     +|     3 |    77.8 |    84.7
+                      |       |      |                   SUNY Canton          |       |         | 
+ Rhodes               |     3 | home | %                                     +|     3 |    66.5 |    64.8
+                      |       |      |                   Birmingham-So.       |       |         | 
+ RIT                  |     3 | home | %                                     +|     3 |    71.1 |    68.3
+                      |       |      |                   Rensselaer           |       |         | 
+ St. Cloud St.        |     2 | home | %                                     +|     2 |    83.2 |    79.4
+                      |       |      |                   Southwest Minn. St.  |       |         | 
+ Stevens              |     3 | home | %                                     +|     3 |    81.0 |    86.0
+                      |       |      |                   St. John Fisher      |       |         | 
+ SUNY Cortland        |     3 | home | %                                     +|     3 |    73.6 |    74.1
+                      |       |      |                   SUNY Oneonta         |       |         | 
+ Trinity (TX)         |     3 | home | %                                     +|     3 |    73.0 |    68.5
+                      |       |      |                   Dallas               |       |         | 
+ UC-Colo. Springs     |     2 | home | %                                     +|     2 |    87.0 |    64.9
+                      |       |      |                   Western N.M.         |       |         | 
+ UC Santa Cruz        |     3 | home | %                                     +|     3 |    72.5 |    74.5
+                      |       |      |                   La Verne             |       |         | 
+ Vassar               |     3 | home | %                                     +|     3 |    62.7 |    59.7
+                      |       |      |                   Clarkson             |       |         | 
+ Washington-St. Louis |     3 | home | %                                     +|     3 |    74.4 |    68.7
+                      |       |      |                   Rochester (NY)       |       |         | 
+ Westminster (UT)     |     2 | home | %                                     +|     2 |    77.4 |    70.8
+                      |       |      |                   Western St.          |       |         | 
+ Yale                 |     1 | home | %                                     +|     1 |    74.3 |    57.4
+                      |       |      |                   Penn                 |       |         | 
+(74 rows)
 
 COMMIT
