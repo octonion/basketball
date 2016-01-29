@@ -19,8 +19,8 @@ boxscore_base = 'http://www.euroleague.net/main/results/showgame?gamecode=164&se
 
 score_xpath = '//*[@id="games"]//tr'
 
-first_year = 2014
-last_year = 2014
+first_year = 2015
+last_year = 2015
 
 if (first_year==last_year)
   results = CSV.open("csv/games_#{first_year}.csv","w")

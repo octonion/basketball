@@ -46,11 +46,10 @@
 2014,IST,22,L,away,Olympiacos Piraeus,at Olympiacos Piraeus,http://www.euroleague.net/main/results/showgame?gamecode=215&seasoncode=E2014,215,86,75,
 2014,IST,23,W,home,EA7 Emporio Armani Milan,vs EA7 Emporio Armani Milan,http://www.euroleague.net/main/results/showgame?gamecode=223&seasoncode=E2014,223,86,78,
 2014,IST,24,L,away,Fenerbahce Ulker Istanbul,at Fenerbahce Ulker Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=230&seasoncode=E2014,230,83,72,
-2014,IST,25,"",away,Real Madrid,at Real Madrid,http://www.euroleague.net/main/results/showgame?gamecode=233&seasoncode=E2014,233,,,April 15
-2014,IST,26,"",away,Real Madrid,at Real Madrid,http://www.euroleague.net/main/results/showgame?gamecode=237&seasoncode=E2014,237,,,April 17
-2014,IST,27,"",home,Real Madrid,vs Real Madrid,http://www.euroleague.net/main/results/showgame?gamecode=241&seasoncode=E2014,241,,,April 21
-2014,IST,28,"",home,Real Madrid,vs Real Madrid,http://www.euroleague.net/main/results/showgame?gamecode=245&seasoncode=E2014,245,,,April 23
-2014,IST,29,"",away,Real Madrid,at Real Madrid,http://www.euroleague.net/main/results/showgame?gamecode=249&seasoncode=E2014,249,,,April 28
+2014,IST,25,L,away,Real Madrid,at Real Madrid,http://www.euroleague.net/main/results/showgame?gamecode=233&seasoncode=E2014,233,80,71,
+2014,IST,26,L,away,Real Madrid,at Real Madrid,http://www.euroleague.net/main/results/showgame?gamecode=237&seasoncode=E2014,237,90,85,
+2014,IST,27,W,home,Real Madrid,vs Real Madrid,http://www.euroleague.net/main/results/showgame?gamecode=241&seasoncode=E2014,241,75,72,
+2014,IST,28,L,home,Real Madrid,vs Real Madrid,http://www.euroleague.net/main/results/showgame?gamecode=245&seasoncode=E2014,245,63,76,
 2014,CED,1,L,home,Unicaja Malaga,vs Unicaja Malaga,http://www.euroleague.net/main/results/showgame?gamecode=6&seasoncode=E2014,6,63,78,
 2014,CED,2,L,away,Limoges CSP,at Limoges CSP,http://www.euroleague.net/main/results/showgame?gamecode=17&seasoncode=E2014,17,71,60,
 2014,CED,3,L,home,CSKA Moscow,vs CSKA Moscow,http://www.euroleague.net/main/results/showgame?gamecode=29&seasoncode=E2014,29,72,76,
@@ -110,10 +109,11 @@
 2014,CSK,23,W,home,Olympiacos Piraeus,vs Olympiacos Piraeus,http://www.euroleague.net/main/results/showgame?gamecode=222&seasoncode=E2014,222,76,70,
 2014,CSK,24,W,away,EA7 Emporio Armani Milan,at EA7 Emporio Armani Milan,http://www.euroleague.net/main/results/showgame?gamecode=231&seasoncode=E2014,231,79,88,
 2014,CSK,25,W,home,Panathinaikos Athens,vs Panathinaikos Athens,http://www.euroleague.net/main/results/showgame?gamecode=235&seasoncode=E2014,235,93,66,
-2014,CSK,26,"",home,Panathinaikos Athens,vs Panathinaikos Athens,http://www.euroleague.net/main/results/showgame?gamecode=239&seasoncode=E2014,239,,,April 16
-2014,CSK,27,"",away,Panathinaikos Athens,at Panathinaikos Athens,http://www.euroleague.net/main/results/showgame?gamecode=243&seasoncode=E2014,243,,,April 20
-2014,CSK,28,"",away,Panathinaikos Athens,at Panathinaikos Athens,http://www.euroleague.net/main/results/showgame?gamecode=247&seasoncode=E2014,247,,,April 22
-2014,CSK,29,"",home,Panathinaikos Athens,vs Panathinaikos Athens,http://www.euroleague.net/main/results/showgame?gamecode=251&seasoncode=E2014,251,,,April 28
+2014,CSK,26,W,home,Panathinaikos Athens,vs Panathinaikos Athens,http://www.euroleague.net/main/results/showgame?gamecode=239&seasoncode=E2014,239,100,80,
+2014,CSK,27,L,away,Panathinaikos Athens,at Panathinaikos Athens,http://www.euroleague.net/main/results/showgame?gamecode=243&seasoncode=E2014,243,86,85,
+2014,CSK,28,W,away,Panathinaikos Athens,at Panathinaikos Athens,http://www.euroleague.net/main/results/showgame?gamecode=246&seasoncode=E2014,246,55,74,
+2014,CSK,29,L,home,Olympiacos Piraeus,vs Olympiacos Piraeus,http://www.euroleague.net/main/results/showgame?gamecode=249&seasoncode=E2014,249,68,70,
+2014,CSK,30,W,away,Fenerbahce Ulker Istanbul,at Fenerbahce Ulker Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=250&seasoncode=E2014,250,80,86,
 2014,SAS,1,L,away,Nizhny Novgorod,at Nizhny Novgorod,http://www.euroleague.net/main/results/showgame?gamecode=2&seasoncode=E2014,2,88,86,
 2014,SAS,2,L,home,Anadolu Efes Istanbul,vs Anadolu Efes Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=14&seasoncode=E2014,14,75,82,
 2014,SAS,3,L,away,Unics Kazan,at Unics Kazan,http://www.euroleague.net/main/results/showgame?gamecode=27&seasoncode=E2014,27,85,62,
@@ -173,10 +173,9 @@
 2014,BAR,23,W,home,Real Madrid,vs Real Madrid,http://www.euroleague.net/main/results/showgame?gamecode=218&seasoncode=E2014,218,85,80,
 2014,BAR,24,W,away,Galatasaray Liv Hospital Istanbul,at Galatasaray Liv Hospital Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=227&seasoncode=E2014,227,65,88,
 2014,BAR,25,W,home,Olympiacos Piraeus,vs Olympiacos Piraeus,http://www.euroleague.net/main/results/showgame?gamecode=236&seasoncode=E2014,236,73,57,
-2014,BAR,26,"",home,Olympiacos Piraeus,vs Olympiacos Piraeus,http://www.euroleague.net/main/results/showgame?gamecode=240&seasoncode=E2014,240,,,April 17
-2014,BAR,27,"",away,Olympiacos Piraeus,at Olympiacos Piraeus,http://www.euroleague.net/main/results/showgame?gamecode=244&seasoncode=E2014,244,,,April 21
-2014,BAR,28,"",away,Olympiacos Piraeus,at Olympiacos Piraeus,http://www.euroleague.net/main/results/showgame?gamecode=248&seasoncode=E2014,248,,,April 23
-2014,BAR,29,"",home,Olympiacos Piraeus,vs Olympiacos Piraeus,http://www.euroleague.net/main/results/showgame?gamecode=252&seasoncode=E2014,252,,,April 29
+2014,BAR,26,L,home,Olympiacos Piraeus,vs Olympiacos Piraeus,http://www.euroleague.net/main/results/showgame?gamecode=240&seasoncode=E2014,240,63,76,
+2014,BAR,27,L,away,Olympiacos Piraeus,at Olympiacos Piraeus,http://www.euroleague.net/main/results/showgame?gamecode=244&seasoncode=E2014,244,73,71,
+2014,BAR,28,L,away,Olympiacos Piraeus,at Olympiacos Piraeus,http://www.euroleague.net/main/results/showgame?gamecode=247&seasoncode=E2014,247,71,68,
 2014,MUN,1,L,away,FC Barcelona,at FC Barcelona,http://www.euroleague.net/main/results/showgame?gamecode=9&seasoncode=E2014,9,83,81,
 2014,MUN,2,W,home,Panathinaikos Athens,vs Panathinaikos Athens,http://www.euroleague.net/main/results/showgame?gamecode=19&seasoncode=E2014,19,81,75,
 2014,MUN,3,L,home,EA7 Emporio Armani Milan,vs EA7 Emporio Armani Milan,http://www.euroleague.net/main/results/showgame?gamecode=33&seasoncode=E2014,33,74,81,
@@ -212,10 +211,10 @@
 2014,ULK,23,L,away,Laboral Kutxa Vitoria,at Laboral Kutxa Vitoria,http://www.euroleague.net/main/results/showgame?gamecode=224&seasoncode=E2014,224,93,76,
 2014,ULK,24,W,home,Anadolu Efes Istanbul,vs Anadolu Efes Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=230&seasoncode=E2014,230,83,72,
 2014,ULK,25,W,home,Maccabi Electra Tel Aviv,vs Maccabi Electra Tel Aviv,http://www.euroleague.net/main/results/showgame?gamecode=234&seasoncode=E2014,234,80,72,
-2014,ULK,26,"",home,Maccabi Electra Tel Aviv,vs Maccabi Electra Tel Aviv,http://www.euroleague.net/main/results/showgame?gamecode=238&seasoncode=E2014,238,,,April 16
-2014,ULK,27,"",away,Maccabi Electra Tel Aviv,at Maccabi Electra Tel Aviv,http://www.euroleague.net/main/results/showgame?gamecode=242&seasoncode=E2014,242,,,April 20
-2014,ULK,28,"",away,Maccabi Electra Tel Aviv,at Maccabi Electra Tel Aviv,http://www.euroleague.net/main/results/showgame?gamecode=246&seasoncode=E2014,246,,,April 22
-2014,ULK,29,"",home,Maccabi Electra Tel Aviv,vs Maccabi Electra Tel Aviv,http://www.euroleague.net/main/results/showgame?gamecode=250&seasoncode=E2014,250,,,April 28
+2014,ULK,26,W,home,Maccabi Electra Tel Aviv,vs Maccabi Electra Tel Aviv,http://www.euroleague.net/main/results/showgame?gamecode=238&seasoncode=E2014,238,82,67,
+2014,ULK,27,W,away,Maccabi Electra Tel Aviv,at Maccabi Electra Tel Aviv,http://www.euroleague.net/main/results/showgame?gamecode=242&seasoncode=E2014,242,74,75,
+2014,ULK,29,L,away,Real Madrid,at Real Madrid,http://www.euroleague.net/main/results/showgame?gamecode=248&seasoncode=E2014,248,96,87,
+2014,ULK,30,L,home,CSKA Moscow,vs CSKA Moscow,http://www.euroleague.net/main/results/showgame?gamecode=250&seasoncode=E2014,250,80,86,
 2014,GAL,1,L,away,Crvena Zvezda Telekom Belgrade,at Crvena Zvezda Telekom Belgrade,http://www.euroleague.net/main/results/showgame?gamecode=10&seasoncode=E2014,10,76,68,
 2014,GAL,2,W,home,Valencia Basket,vs Valencia Basket,http://www.euroleague.net/main/results/showgame?gamecode=24&seasoncode=E2014,24,71,64,
 2014,GAL,3,L,away,Laboral Kutxa Vitoria,at Laboral Kutxa Vitoria,http://www.euroleague.net/main/results/showgame?gamecode=35&seasoncode=E2014,35,91,90,
@@ -299,10 +298,8 @@
 2014,TEL,23,W,home,Galatasaray Liv Hospital Istanbul,vs Galatasaray Liv Hospital Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=219&seasoncode=E2014,219,81,72,
 2014,TEL,24,W,away,ALBA Berlin,at ALBA Berlin,http://www.euroleague.net/main/results/showgame?gamecode=226&seasoncode=E2014,226,64,73,
 2014,TEL,25,L,away,Fenerbahce Ulker Istanbul,at Fenerbahce Ulker Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=234&seasoncode=E2014,234,80,72,
-2014,TEL,26,"",away,Fenerbahce Ulker Istanbul,at Fenerbahce Ulker Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=238&seasoncode=E2014,238,,,April 16
-2014,TEL,27,"",home,Fenerbahce Ulker Istanbul,vs Fenerbahce Ulker Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=242&seasoncode=E2014,242,,,April 20
-2014,TEL,28,"",home,Fenerbahce Ulker Istanbul,vs Fenerbahce Ulker Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=246&seasoncode=E2014,246,,,April 22
-2014,TEL,29,"",away,Fenerbahce Ulker Istanbul,at Fenerbahce Ulker Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=250&seasoncode=E2014,250,,,April 28
+2014,TEL,26,L,away,Fenerbahce Ulker Istanbul,at Fenerbahce Ulker Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=238&seasoncode=E2014,238,82,67,
+2014,TEL,27,L,home,Fenerbahce Ulker Istanbul,vs Fenerbahce Ulker Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=242&seasoncode=E2014,242,74,75,
 2014,KLA,1,L,away,Laboral Kutxa Vitoria,at Laboral Kutxa Vitoria,http://www.euroleague.net/main/results/showgame?gamecode=12&seasoncode=E2014,12,88,69,
 2014,KLA,2,W,home,Crvena Zvezda Telekom Belgrade,vs Crvena Zvezda Telekom Belgrade,http://www.euroleague.net/main/results/showgame?gamecode=22&seasoncode=E2014,22,83,81,
 2014,KLA,3,L,home,Olympiacos Piraeus,vs Olympiacos Piraeus,http://www.euroleague.net/main/results/showgame?gamecode=36&seasoncode=E2014,36,81,85,
@@ -362,10 +359,11 @@
 2014,OLY,23,L,away,CSKA Moscow,at CSKA Moscow,http://www.euroleague.net/main/results/showgame?gamecode=222&seasoncode=E2014,222,76,70,
 2014,OLY,24,W,home,Nizhny Novgorod,vs Nizhny Novgorod,http://www.euroleague.net/main/results/showgame?gamecode=232&seasoncode=E2014,232,77,70,
 2014,OLY,25,L,away,FC Barcelona,at FC Barcelona,http://www.euroleague.net/main/results/showgame?gamecode=236&seasoncode=E2014,236,73,57,
-2014,OLY,26,"",away,FC Barcelona,at FC Barcelona,http://www.euroleague.net/main/results/showgame?gamecode=240&seasoncode=E2014,240,,,April 17
-2014,OLY,27,"",home,FC Barcelona,vs FC Barcelona,http://www.euroleague.net/main/results/showgame?gamecode=244&seasoncode=E2014,244,,,April 21
-2014,OLY,28,"",home,FC Barcelona,vs FC Barcelona,http://www.euroleague.net/main/results/showgame?gamecode=248&seasoncode=E2014,248,,,April 23
-2014,OLY,29,"",away,FC Barcelona,at FC Barcelona,http://www.euroleague.net/main/results/showgame?gamecode=252&seasoncode=E2014,252,,,April 29
+2014,OLY,26,W,away,FC Barcelona,at FC Barcelona,http://www.euroleague.net/main/results/showgame?gamecode=240&seasoncode=E2014,240,63,76,
+2014,OLY,27,W,home,FC Barcelona,vs FC Barcelona,http://www.euroleague.net/main/results/showgame?gamecode=244&seasoncode=E2014,244,73,71,
+2014,OLY,28,W,home,FC Barcelona,vs FC Barcelona,http://www.euroleague.net/main/results/showgame?gamecode=247&seasoncode=E2014,247,71,68,
+2014,OLY,29,W,away,CSKA Moscow,at CSKA Moscow,http://www.euroleague.net/main/results/showgame?gamecode=249&seasoncode=E2014,249,68,70,
+2014,OLY,30,L,away,Real Madrid,at Real Madrid,http://www.euroleague.net/main/results/showgame?gamecode=251&seasoncode=E2014,251,78,59,
 2014,PAN,1,W,home,PGE Turow Zgorzelec,vs PGE Turow Zgorzelec,http://www.euroleague.net/main/results/showgame?gamecode=7&seasoncode=E2014,7,84,77,
 2014,PAN,2,L,away,FC Bayern Munich,at FC Bayern Munich,http://www.euroleague.net/main/results/showgame?gamecode=19&seasoncode=E2014,19,81,75,
 2014,PAN,3,W,home,Fenerbahce Ulker Istanbul,vs Fenerbahce Ulker Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=31&seasoncode=E2014,31,91,73,
@@ -391,10 +389,9 @@
 2014,PAN,23,L,home,ALBA Berlin,vs ALBA Berlin,http://www.euroleague.net/main/results/showgame?gamecode=220&seasoncode=E2014,220,66,68,
 2014,PAN,24,L,away,Crvena Zvezda Telekom Belgrade,at Crvena Zvezda Telekom Belgrade,http://www.euroleague.net/main/results/showgame?gamecode=225&seasoncode=E2014,225,69,68,
 2014,PAN,25,L,away,CSKA Moscow,at CSKA Moscow,http://www.euroleague.net/main/results/showgame?gamecode=235&seasoncode=E2014,235,93,66,
-2014,PAN,26,"",away,CSKA Moscow,at CSKA Moscow,http://www.euroleague.net/main/results/showgame?gamecode=239&seasoncode=E2014,239,,,April 16
-2014,PAN,27,"",home,CSKA Moscow,vs CSKA Moscow,http://www.euroleague.net/main/results/showgame?gamecode=243&seasoncode=E2014,243,,,April 20
-2014,PAN,28,"",home,CSKA Moscow,vs CSKA Moscow,http://www.euroleague.net/main/results/showgame?gamecode=247&seasoncode=E2014,247,,,April 22
-2014,PAN,29,"",away,CSKA Moscow,at CSKA Moscow,http://www.euroleague.net/main/results/showgame?gamecode=251&seasoncode=E2014,251,,,April 28
+2014,PAN,26,L,away,CSKA Moscow,at CSKA Moscow,http://www.euroleague.net/main/results/showgame?gamecode=239&seasoncode=E2014,239,100,80,
+2014,PAN,27,W,home,CSKA Moscow,vs CSKA Moscow,http://www.euroleague.net/main/results/showgame?gamecode=243&seasoncode=E2014,243,86,85,
+2014,PAN,28,L,home,CSKA Moscow,vs CSKA Moscow,http://www.euroleague.net/main/results/showgame?gamecode=246&seasoncode=E2014,246,55,74,
 2014,ZGO,1,L,away,Panathinaikos Athens,at Panathinaikos Athens,http://www.euroleague.net/main/results/showgame?gamecode=7&seasoncode=E2014,7,84,77,
 2014,ZGO,2,L,home,Fenerbahce Ulker Istanbul,vs Fenerbahce Ulker Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=21&seasoncode=E2014,21,76,91,
 2014,ZGO,3,L,away,FC Barcelona,at FC Barcelona,http://www.euroleague.net/main/results/showgame?gamecode=32&seasoncode=E2014,32,86,67,
@@ -429,11 +426,12 @@
 2014,MAD,22,W,home,Maccabi Electra Tel Aviv,vs Maccabi Electra Tel Aviv,http://www.euroleague.net/main/results/showgame?gamecode=211&seasoncode=E2014,211,86,75,
 2014,MAD,23,L,away,FC Barcelona,at FC Barcelona,http://www.euroleague.net/main/results/showgame?gamecode=218&seasoncode=E2014,218,85,80,
 2014,MAD,24,W,home,Zalgiris Kaunas,vs Zalgiris Kaunas,http://www.euroleague.net/main/results/showgame?gamecode=228&seasoncode=E2014,228,99,83,
-2014,MAD,25,"",home,Anadolu Efes Istanbul,vs Anadolu Efes Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=233&seasoncode=E2014,233,,,April 15
-2014,MAD,26,"",home,Anadolu Efes Istanbul,vs Anadolu Efes Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=237&seasoncode=E2014,237,,,April 17
-2014,MAD,27,"",away,Anadolu Efes Istanbul,at Anadolu Efes Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=241&seasoncode=E2014,241,,,April 21
-2014,MAD,28,"",away,Anadolu Efes Istanbul,at Anadolu Efes Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=245&seasoncode=E2014,245,,,April 23
-2014,MAD,29,"",home,Anadolu Efes Istanbul,vs Anadolu Efes Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=249&seasoncode=E2014,249,,,April 28
+2014,MAD,25,W,home,Anadolu Efes Istanbul,vs Anadolu Efes Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=233&seasoncode=E2014,233,80,71,
+2014,MAD,26,W,home,Anadolu Efes Istanbul,vs Anadolu Efes Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=237&seasoncode=E2014,237,90,85,
+2014,MAD,27,L,away,Anadolu Efes Istanbul,at Anadolu Efes Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=241&seasoncode=E2014,241,75,72,
+2014,MAD,28,W,away,Anadolu Efes Istanbul,at Anadolu Efes Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=245&seasoncode=E2014,245,63,76,
+2014,MAD,29,W,home,Fenerbahce Ulker Istanbul,vs Fenerbahce Ulker Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=248&seasoncode=E2014,248,96,87,
+2014,MAD,30,W,home,Olympiacos Piraeus,vs Olympiacos Piraeus,http://www.euroleague.net/main/results/showgame?gamecode=251&seasoncode=E2014,251,78,59,
 2014,MAL,1,W,away,Cedevita Zagreb,at Cedevita Zagreb,http://www.euroleague.net/main/results/showgame?gamecode=6&seasoncode=E2014,6,63,78,
 2014,MAL,2,W,home,ALBA Berlin,vs ALBA Berlin,http://www.euroleague.net/main/results/showgame?gamecode=16&seasoncode=E2014,16,87,84,
 2014,MAL,3,W,home,Limoges CSP,vs Limoges CSP,http://www.euroleague.net/main/results/showgame?gamecode=30&seasoncode=E2014,30,75,69,

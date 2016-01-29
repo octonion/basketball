@@ -1,32 +1,32 @@
 BEGIN
 CREATE TABLE
 INSERT 0 24
- rk |               team                |  str  |  ofs  |  dfs  |  sos  
-----+-----------------------------------+-------+-------+-------+-------
-  1 | Real Madrid                       | 1.156 | 1.127 | 0.975 | 1.004
-  2 | CSKA Moscow                       | 1.140 | 1.123 | 0.985 | 1.000
-  3 | FC Barcelona                      | 1.121 | 1.073 | 0.957 | 1.006
-  4 | Fenerbahce Ulker Istanbul         | 1.086 | 1.042 | 0.959 | 1.004
-  5 | Olympiacos Piraeus                | 1.054 | 0.960 | 0.910 | 1.009
-  6 | Unics Kazan                       | 1.048 | 0.977 | 0.933 | 1.004
-  7 | Panathinaikos Athens              | 1.035 | 0.973 | 0.940 | 1.016
-  8 | Anadolu Efes Istanbul             | 1.023 | 0.982 | 0.960 | 1.019
-  9 | Maccabi Electra Tel Aviv          | 1.022 | 1.014 | 0.992 | 1.011
- 10 | Crvena Zvezda Telekom Belgrade    | 1.020 | 0.974 | 0.955 | 1.005
- 11 | Laboral Kutxa Vitoria             | 1.004 | 1.046 | 1.042 | 1.004
- 12 | Zalgiris Kaunas                   | 0.996 | 0.938 | 0.942 | 1.013
- 13 | Valencia Basket                   | 0.994 | 0.985 | 0.990 | 0.993
- 14 | Unicaja Malaga                    | 0.987 | 0.989 | 1.003 | 1.007
- 15 | ALBA Berlin                       | 0.980 | 0.948 | 0.967 | 1.008
- 16 | Nizhny Novgorod                   | 0.970 | 1.017 | 1.049 | 1.013
- 17 | EA7 Emporio Armani Milan          | 0.959 | 0.994 | 1.037 | 1.012
- 18 | FC Bayern Munich                  | 0.953 | 1.027 | 1.077 | 1.007
- 19 | Galatasaray Liv Hospital Istanbul | 0.944 | 0.995 | 1.053 | 1.010
- 20 | Cedevita Zagreb                   | 0.943 | 0.958 | 1.015 | 1.001
- 21 | Dinamo Banco di Sardegna Sassari  | 0.920 | 0.990 | 1.076 | 1.016
- 22 | Neptunas Klaipeda                 | 0.904 | 0.984 | 1.089 | 1.001
- 23 | Limoges CSP                       | 0.902 | 0.923 | 1.023 | 1.005
- 24 | PGE Turow Zgorzelec               | 0.897 | 0.990 | 1.104 | 1.012
+ rk |               team               |  str  |  ofs  |  dfs  |  sos  
+----+----------------------------------+-------+-------+-------+-------
+  1 | CSKA Moscow                      | 1.125 | 1.160 | 1.031 | 1.008
+  2 | Fenerbahce Istanbul              | 1.115 | 1.060 | 0.951 | 1.007
+  3 | Khimki Moscow Region             | 1.107 | 1.056 | 0.954 | 1.019
+  4 | Laboral Kutxa Vitoria Gasteiz    | 1.076 | 1.067 | 0.992 | 1.009
+  5 | Brose Baskets Bamberg            | 1.071 | 1.014 | 0.947 | 1.012
+  6 | Real Madrid                      | 1.068 | 1.113 | 1.042 | 1.021
+  7 | FC Barcelona Lassa               | 1.064 | 1.069 | 1.004 | 1.008
+  8 | Lokomotiv Kuban Krasnodar        | 1.053 | 1.000 | 0.950 | 0.997
+  9 | Olympiacos Piraeus               | 1.049 | 0.964 | 0.920 | 1.011
+ 10 | Anadolu Efes Istanbul            | 1.041 | 1.098 | 1.054 | 1.001
+ 11 | Unicaja Malaga                   | 1.030 | 0.982 | 0.954 | 1.003
+ 12 | FC Bayern Munich                 | 1.024 | 1.006 | 0.983 | 1.019
+ 13 | Panathinaikos Athens             | 1.012 | 0.977 | 0.966 | 1.000
+ 14 | Crvena Zvezda Telekom Belgrade   | 1.010 | 1.015 | 1.004 | 1.014
+ 15 | Maccabi FOX Tel Aviv             | 0.964 | 0.989 | 1.026 | 1.002
+ 16 | Cedevita Zagreb                  | 0.957 | 0.991 | 1.035 | 1.006
+ 17 | Darussafaka Dogus Istanbul       | 0.955 | 0.947 | 0.992 | 1.009
+ 18 | Zalgiris Kaunas                  | 0.944 | 0.955 | 1.012 | 1.017
+ 19 | Strasbourg                       | 0.931 | 0.949 | 1.019 | 1.027
+ 20 | EA7 Emporio Armani Milan         | 0.929 | 0.963 | 1.036 | 0.998
+ 21 | Pinar Karsiyaka Izmir            | 0.911 | 0.936 | 1.027 | 0.997
+ 22 | Stelmet Zielona Gora             | 0.900 | 0.898 | 0.997 | 0.998
+ 23 | Limoges CSP                      | 0.873 | 0.918 | 1.051 | 1.003
+ 24 | Dinamo Banco di Sardegna Sassari | 0.862 | 0.923 | 1.071 | 1.012
 (24 rows)
 
 COMMIT
