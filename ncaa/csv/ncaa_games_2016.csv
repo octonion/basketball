@@ -606,7 +606,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Alabama A&M,6,"%
                   Prairie View",553,01/30/2016,83,69,Home,"",-,574
 2016,Alabama A&M,6,"%
-                  Texas Southern",699,02/01/2016,0,0,Home,"",-,0
+                  Texas Southern",699,02/01/2016,66,71,Home,"",-,0
 2016,Alabama A&M,6,"%
                   Ark.-Pine Bluff",2678,02/06/2016,0,0,Away,"",-,0
 2016,Alabama A&M,6,"%
@@ -666,7 +666,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Alabama St.,7,"%
                   Texas Southern",699,01/30/2016,72,75,Home,"",-,"1,846"
 2016,Alabama St.,7,"%
-                  Prairie View",553,02/01/2016,0,0,Home,"",-,0
+                  Prairie View",553,02/01/2016,83,77,Home,"",-,"1,546"
 2016,Alabama St.,7,"%
                   Mississippi Val.",432,02/06/2016,0,0,Away,"",-,0
 2016,Alabama St.,7,"%
@@ -1260,7 +1260,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Alfred St.,30170,"%
                   Franciscan",30069,01/27/2016,81,71,Away,"",1 OT,175
 2016,Alfred St.,30170,"%
-                  SUNY Delhi",,01/30/2016,0,0,Home,"",-,0
+                  SUNY Delhi",,01/30/2016,65,63,Home,"",-,215
 2016,Alfred St.,30170,"%
                   Penn St.-Behrend",538,02/03/2016,0,0,Away,"",-,0
 2016,Alfred St.,30170,"%
@@ -1460,7 +1460,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,American,23,"%
                   Colgate",153,01/30/2016,54,49,Away,"",-,784
 2016,American,23,"%
-                  Holy Cross",285,02/01/2016,0,0,Home,"",-,0
+                  Holy Cross",285,02/01/2016,58,45,Home,"",-,457
 2016,American,23,"%
                   Bucknell",83,02/03/2016,0,0,Home,"",-,0
 2016,American,23,"%
@@ -1674,7 +1674,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Anderson (SC),13028,"%
                   Newberry",1257,01/30/2016,82,104,Home,"",-,627
 2016,Anderson (SC),13028,"%
-                  Queens (NC)",11504,02/01/2016,0,0,Away,"",-,0
+                  Queens (NC)",11504,02/01/2016,65,76,Away,"",-,204
 2016,Anderson (SC),13028,"%
                   Tusculum",12830,02/03/2016,0,0,Home,"",-,0
 2016,Anderson (SC),13028,"%
@@ -1892,7 +1892,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Arcadia,966,"%
                   Stevenson",21852,01/30/2016,82,74,Home,"",-,194
 2016,Arcadia,966,"%
-                  Hood",8404,02/01/2016,0,0,Away,"",-,0
+                  Hood",8404,02/01/2016,60,63,Away,"",-,0
 2016,Arcadia,966,"%
                   Albright",16,02/03/2016,0,0,Away,"",-,0
 2016,Arcadia,966,"%
@@ -2010,7 +2010,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Arizona St.,28,"%
                   Oregon St.",528,01/28/2016,86,68,Home,"",-,"6,074"
 2016,Arizona St.,28,"%
-                  Oregon",529,01/31/2016,0,0,Home,"",-,0
+                  Oregon",529,01/31/2016,74,91,Home,"",-,"6,760"
 2016,Arizona St.,28,"%
                   Washington",756,02/03/2016,0,0,Away,"",-,0
 2016,Arizona St.,28,"%
@@ -2184,9 +2184,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Ark.-Pine Bluff,2678,"%
                   Texas Southern",699,01/25/2016,49,78,Away,"",-,"1,271"
 2016,Ark.-Pine Bluff,2678,"%
-                  Grambling",261,01/30/2016,63,59,Home,"",-,0
+                  Grambling",261,01/30/2016,63,59,Home,"",-,"2,819"
 2016,Ark.-Pine Bluff,2678,"%
-                  Jackson St.",314,02/01/2016,0,0,Home,"",-,0
+                  Jackson St.",314,02/01/2016,53,66,Home,"",-,"2,245"
 2016,Ark.-Pine Bluff,2678,"%
                   Alabama A&M",6,02/06/2016,0,0,Home,"",-,0
 2016,Ark.-Pine Bluff,2678,"%
@@ -2480,7 +2480,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Army West Point,725,"%
                   Bucknell",83,01/30/2016,66,94,Away,"",-,"3,513"
 2016,Army West Point,725,"%
-                  Navy",726,02/01/2016,0,0,Home,"",-,0
+                  Navy",726,02/01/2016,50,64,Home,"",-,"3,133"
 2016,Army West Point,725,"%
                   Lafayette",342,02/03/2016,0,0,Away,"",-,0
 2016,Army West Point,725,"%
@@ -2538,7 +2538,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Ashland,35,"%
                   Tiffin",1403,01/30/2016,70,51,Home,"",-,476
 2016,Ashland,35,"%
-                  Lake Erie",2746,02/01/2016,0,0,Away,"",-,0
+                  Lake Erie",2746,02/01/2016,87,79,Away,"",1 OT,200
 2016,Ashland,35,"%
                   Walsh",30141,02/04/2016,0,0,Away,"",-,0
 2016,Ashland,35,"%
@@ -3078,7 +3078,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Averett,44,"%
                   Huntingdon",1130,01/30/2016,85,67,Home,"",-,450
 2016,Averett,44,"%
-                  LaGrange",1162,01/31/2016,0,0,Home,"",-,0
+                  LaGrange",1162,01/31/2016,87,94,Home,"",-,853
 2016,Averett,44,"%
                   Covenant",30111,02/02/2016,0,0,Home,"",-,0
 2016,Averett,44,"%
@@ -3132,7 +3132,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Azusa Pacific,30146,"%
                   Fresno Pacific",30147,01/30/2016,90,94,Home,"",-,"1,183"
 2016,Azusa Pacific,30146,"%
-                  Hawaii Pacific",2696,02/01/2016,0,0,Home,"",-,0
+                  Hawaii Pacific",2696,02/01/2016,80,83,Home,"",-,787
 2016,Azusa Pacific,30146,"%
                   BYU-Hawaii",2685,02/05/2016,0,0,Home,"",-,0
 2016,Azusa Pacific,30146,"%
@@ -3606,7 +3606,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Baylor,51,"%
                   Georgia",257,01/30/2016,83,73,Home,"",-,"9,675"
 2016,Baylor,51,"%
-                  Texas",703,02/01/2016,0,0,Home,"",-,0
+                  Texas",703,02/01/2016,59,67,Home,"",-,"6,064"
 2016,Baylor,51,"%
                   West Virginia",768,02/06/2016,0,0,Away,"",-,0
 2016,Baylor,51,"%
@@ -4146,7 +4146,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Berry,973,"%
                   Centre",132,01/29/2016,66,76,Home,"",-,"1,200"
 2016,Berry,973,"%
-                  Sewanee",652,01/31/2016,0,0,Home,"",-,0
+                  Sewanee",652,01/31/2016,65,80,Home,"",-,500
 2016,Berry,973,"%
                   Hendrix",1124,02/05/2016,0,0,Home,"",-,0
 2016,Berry,973,"%
@@ -4570,7 +4570,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Blackburn,64,"%
                   MacMurray",377,01/27/2016,75,83,Away,"",-,250
 2016,Blackburn,64,"%
-                  Greenville",1111,01/30/2016,0,0,Home,"",-,0
+                  Greenville",1111,01/30/2016,116,130,Home,"",-,0
 2016,Blackburn,64,"%
                   Webster",759,02/03/2016,0,0,Away,"",-,0
 2016,Blackburn,64,"%
@@ -5280,7 +5280,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Brevard,30094,"%
                   Coker",1023,01/30/2016,74,65,Home,"",-,483
 2016,Brevard,30094,"%
-                  Mars Hill",1199,02/01/2016,0,0,Home,"",-,0
+                  Mars Hill",1199,02/01/2016,75,78,Home,"",-,556
 2016,Brevard,30094,"%
                   Lincoln Memorial",1176,02/03/2016,0,0,Away,"",-,0
 2016,Brevard,30094,"%
@@ -5333,6 +5333,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   LIU Post",362,01/27/2016,100,91,Home,"",-,239
 2016,Bridgeport,74,"%
                   NYIT",477,01/30/2016,81,86,Away,"",-,131
+2016,Bridgeport,74,"%
+                  Queens (NY)",560,02/01/2016,76,70,Away,"",-,91
 2016,Bridgeport,74,"%
                   Southern Conn. St.",658,02/02/2016,0,0,Away,"",-,0
 2016,Bridgeport,74,"%
@@ -5694,7 +5696,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Bryn Athyn,30188,"%
                   Wilson",12973,01/27/2016,80,83,Away,"",-,85
 2016,Bryn Athyn,30188,"%
-                  Penn St.-Abington",30114,01/30/2016,0,0,Home,"",-,0
+                  Penn St.-Abington",30114,01/30/2016,62,49,Home,"",-,0
 2016,Bryn Athyn,30188,"%
                   Penn St.-Berks",30044,02/03/2016,0,0,Home,"",-,0
 2016,Bryn Athyn,30188,"%
@@ -6090,7 +6092,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,BYU-Hawaii,2685,"%
                   Point Loma",30149,01/30/2016,87,71,Away,"",-,351
 2016,BYU-Hawaii,2685,"%
-                  Concordia (CA)",30199,02/01/2016,0,0,Away,"",-,0
+                  Concordia (CA)",30199,02/01/2016,65,87,Away,"",-,500
 2016,BYU-Hawaii,2685,"%
                   California Baptist",30135,02/03/2016,0,0,Away,"",-,0
 2016,BYU-Hawaii,2685,"%
@@ -6138,7 +6140,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Cabrini,88,"%
                   Cairn",1305,01/30/2016,99,71,Home,"",-,328
 2016,Cabrini,88,"%
-                  Summit",958,02/01/2016,0,0,Away,"",-,0
+                  Summit",958,02/01/2016,110,83,Away,"",-,250
 2016,Cabrini,88,"%
                   Immaculata",303,02/03/2016,0,0,Home,"",-,0
 2016,Cabrini,88,"%
@@ -6192,7 +6194,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Cairn,1305,"%
                   Cabrini",88,01/30/2016,71,99,Away,"",-,328
 2016,Cairn,1305,"%
-                  Centenary (NJ)",12884,02/01/2016,0,0,Home,"",-,0
+                  Centenary (NJ)",12884,02/01/2016,80,92,Home,"",-,200
 2016,Cairn,1305,"%
                   Rosemont",15882,02/03/2016,0,0,Home,"",-,0
 2016,Cairn,1305,"%
@@ -6514,7 +6516,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Cal St. Fullerton,97,"%
                   UC Davis",108,01/27/2016,64,69,Away,"",-,905
 2016,Cal St. Fullerton,97,"%
-                  UC Riverside",111,01/30/2016,71,81,Home,"",-,0
+                  UC Riverside",111,01/30/2016,71,81,Home,"",-,"3,489"
 2016,Cal St. Fullerton,97,"%
                   UC Davis",108,02/04/2016,0,0,Home,"",-,0
 2016,Cal St. Fullerton,97,"%
@@ -7942,7 +7944,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Centenary (NJ),12884,"%
                   Immaculata",303,01/30/2016,78,85,Away,"",1 OT,431
 2016,Centenary (NJ),12884,"%
-                  Cairn",1305,02/01/2016,0,0,Away,"",-,0
+                  Cairn",1305,02/01/2016,92,80,Away,"",-,200
 2016,Centenary (NJ),12884,"%
                   Marywood",397,02/03/2016,0,0,Away,"",-,0
 2016,Centenary (NJ),12884,"%
@@ -8326,7 +8328,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Central St. (OH),30049,"%
                   Kentucky St.",332,01/28/2016,58,64,Away,"",-,"2,500"
 2016,Central St. (OH),30049,"%
-                  Lane",347,02/01/2016,0,0,Home,"",-,0
+                  Lane",347,02/01/2016,65,66,Home,"",-,"1,171"
 2016,Central St. (OH),30049,"%
                   Spring Hill",30191,02/04/2016,0,0,Home,"",-,0
 2016,Central St. (OH),30049,"%
@@ -8534,7 +8536,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Chaminade,133,"%
                   Academy of Art",30123,01/30/2016,100,87,Away,"",-,86
 2016,Chaminade,133,"%
-                  Holy Names",30175,02/01/2016,0,0,Away,"",-,0
+                  Holy Names",30175,02/01/2016,114,83,Away,"",-,148
 2016,Chaminade,133,"%
                   Dominican (CA)",30118,02/04/2016,0,0,Away,"",-,0
 2016,Chaminade,133,"%
@@ -8584,7 +8586,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Chapman,134,"%
                   Occidental",516,01/30/2016,65,53,Home,"",-,354
 2016,Chapman,134,"%
-                  La Verne",341,02/01/2016,0,0,Home,"",-,0
+                  La Verne",341,02/01/2016,76,67,Home,"",-,347
 2016,Chapman,134,"%
                   Pomona-Pitzer",549,02/06/2016,0,0,Away,"",-,0
 2016,Chapman,134,"%
@@ -8866,7 +8868,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Chattanooga,693,"%
                   Samford",625,01/30/2016,63,56,Away,"",-,"2,549"
 2016,Chattanooga,693,"%
-                  The Citadel",141,02/01/2016,0,0,Home,"",-,0
+                  The Citadel",141,02/01/2016,125,85,Home,"",-,"2,587"
 2016,Chattanooga,693,"%
                   Wofford",2915,02/04/2016,0,0,Home,"",-,0
 2016,Chattanooga,693,"%
@@ -8974,7 +8976,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Cheyney,135,"%
                   Mansfield",384,01/27/2016,65,69,Away,"",-,406
 2016,Cheyney,135,"%
-                  Delaware St.",178,02/01/2016,0,0,Away,"",-,0
+                  Delaware St.",178,02/01/2016,70,86,Away,"",-,"1,387"
 2016,Cheyney,135,"%
                   Millersville",423,02/03/2016,0,0,Away,"",-,0
 2016,Cheyney,135,"%
@@ -9164,6 +9166,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Chowan,8875,"%
                   UVa-Wise",30181,11/14/2015,86,81,Neutral,"Institute, W.Va. (Walker Center)",-,81
 2016,Chowan,8875,"%
+                  UNCG",459,11/17/2015,60,81,Away,"",-,"2,766"
+2016,Chowan,8875,"%
                   Piedmont Int'l",,11/19/2015,93,50,Home,"",-,"1,034"
 2016,Chowan,8875,"%
                   Belmont Abbey",2683,11/21/2015,74,57,Home,"",-,389
@@ -9248,7 +9252,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Chris. Newport,139,"%
                   Penn St. Harrisburg",30081,01/30/2016,90,41,Home,"",-,"1,174"
 2016,Chris. Newport,139,"%
-                  Frostburg St.",243,02/01/2016,0,0,Away,"",-,0
+                  Frostburg St.",243,02/01/2016,82,71,Away,"",-,251
 2016,Chris. Newport,139,"%
                   Salisbury",622,02/03/2016,0,0,Away,"",-,0
 2016,Chris. Newport,139,"%
@@ -9626,7 +9630,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Clark Atlanta,144,"%
                   Morehouse",445,01/30/2016,67,69,Away,"",-,"5,637"
 2016,Clark Atlanta,144,"%
-                  Paine",535,02/01/2016,0,0,Away,"",-,0
+                  Paine",535,02/01/2016,87,78,Away,"",-,273
 2016,Clark Atlanta,144,"%
                   Claflin",30058,02/04/2016,0,0,Home,"",-,0
 2016,Clark Atlanta,144,"%
@@ -10320,7 +10324,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Colgate,153,"%
                   American",23,01/30/2016,49,54,Home,"",-,784
 2016,Colgate,153,"%
-                  Loyola Maryland",369,02/01/2016,0,0,Away,"",-,0
+                  Loyola Maryland",369,02/01/2016,65,68,Away,"",-,431
 2016,Colgate,153,"%
                   Navy",726,02/06/2016,0,0,Away,"",-,0
 2016,Colgate,153,"%
@@ -10496,8 +10500,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Colorado Col.,154,"%
                   Southwestern (TX)",8746,01/31/2016,86,73,Home,"",1 OT,213
 2016,Colorado Col.,154,"%
-                  Southwestern (TX)",8746,02/01/2016,0,0,Home,"",-,0
-2016,Colorado Col.,154,"%
                   Dallas",1044,02/05/2016,0,0,Home,"",-,0
 2016,Colorado Col.,154,"%
                   Austin",953,02/07/2016,0,0,Home,"",-,0
@@ -10544,7 +10546,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Colorado Mesa,11416,"%
                   Chadron St.",1012,01/23/2016,85,72,Away,"",-,450
 2016,Colorado Mesa,11416,"%
-                  Colorado St.-Pueblo",2720,01/29/2016,0,0,Home,"",-,0
+                  Colorado St.-Pueblo",2720,01/29/2016,93,66,Home,"",-,"1,245"
 2016,Colorado Mesa,11416,"%
                   Western St.",2759,01/30/2016,89,62,Home,"",-,"2,166"
 2016,Colorado Mesa,11416,"%
@@ -10718,7 +10720,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Colorado St.-Pueblo,2720,"%
                   Colo. Christian",11403,01/23/2016,113,115,Away,"",-,0
 2016,Colorado St.-Pueblo,2720,"%
-                  Colorado Mesa",11416,01/29/2016,0,0,Away,"",-,0
+                  Colorado Mesa",11416,01/29/2016,66,93,Away,"",-,"1,245"
 2016,Colorado St.-Pueblo,2720,"%
                   Westminster (UT)",30209,01/30/2016,75,89,Away,"",-,214
 2016,Colorado St.-Pueblo,2720,"%
@@ -10948,7 +10950,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Concordia (CA),30199,"%
                   California Baptist",30135,01/30/2016,82,81,Home,"",-,"1,000"
 2016,Concordia (CA),30199,"%
-                  BYU-Hawaii",2685,02/01/2016,0,0,Home,"",-,0
+                  BYU-Hawaii",2685,02/01/2016,87,65,Home,"",-,500
 2016,Concordia (CA),30199,"%
                   Hawaii Pacific",2696,02/04/2016,0,0,Home,"",-,0
 2016,Concordia (CA),30199,"%
@@ -11416,7 +11418,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Coppin St.,165,"%
                   UMES",393,01/30/2016,81,83,Home,"",1 OT,455
 2016,Coppin St.,165,"%
-                  Morgan St.",446,02/01/2016,0,0,Away,"",-,0
+                  Morgan St.",446,02/01/2016,43,83,Away,"",-,"3,878"
 2016,Coppin St.,165,"%
                   South Carolina St.",647,02/06/2016,0,0,Away,"",-,0
 2016,Coppin St.,165,"%
@@ -12110,7 +12112,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Dallas Baptist,1045,"%
                   Lubbock Christian",30177,01/30/2016,57,78,Away,"",-,217
 2016,Dallas Baptist,1045,"%
-                  Okla. Panhandle",24342,02/01/2016,0,0,Away,"",-,0
+                  Okla. Panhandle",24342,02/01/2016,95,92,Away,"",-,280
 2016,Dallas Baptist,1045,"%
                   St. Edward's",1334,02/06/2016,0,0,Home,"",-,0
 2016,Dallas Baptist,1045,"%
@@ -12556,7 +12558,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Delaware St.,178,"%
                   South Carolina St.",647,01/30/2016,41,56,Home,"",-,968
 2016,Delaware St.,178,"%
-                  Cheyney",135,02/01/2016,0,0,Home,"",-,0
+                  Cheyney",135,02/01/2016,86,70,Home,"",-,"1,387"
 2016,Delaware St.,178,"%
                   Bethune-Cookman",61,02/06/2016,0,0,Away,"",-,0
 2016,Delaware St.,178,"%
@@ -13202,7 +13204,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Dominican (CA),30118,"%
                   Holy Names",30175,01/29/2016,80,56,Away,"",-,155
 2016,Dominican (CA),30118,"%
-                  Hawaii Hilo",2697,02/01/2016,0,0,Home,"",-,0
+                  Hawaii Hilo",2697,02/01/2016,76,86,Home,"",-,600
 2016,Dominican (CA),30118,"%
                   Chaminade",133,02/04/2016,0,0,Home,"",-,0
 2016,Dominican (CA),30118,"%
@@ -13978,7 +13980,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,East Stroudsburg,197,"%
                   Bloomsburg",65,01/30/2016,84,91,Home,"",-,875
 2016,East Stroudsburg,197,"%
-                  Shippensburg",638,02/01/2016,0,0,Away,"",-,0
+                  Shippensburg",638,02/01/2016,69,74,Away,"",-,412
 2016,East Stroudsburg,197,"%
                   Cheyney",135,02/06/2016,0,0,Away,"",-,0
 2016,East Stroudsburg,197,"%
@@ -14028,9 +14030,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,East Tex. Baptist,1062,"%
                   LeTourneau",8490,01/28/2016,76,58,Home,"",-,692
 2016,East Tex. Baptist,1062,"%
-                  Texas-Tyler",30028,01/30/2016,0,0,Home,"",-,0
+                  Texas-Tyler",30028,01/30/2016,69,64,Home,"",-,729
 2016,East Tex. Baptist,1062,"%
-                  Louisiana Col.",1182,02/01/2016,0,0,Away,"",-,0
+                  Louisiana Col.",1182,02/01/2016,61,55,Away,"",-,"1,076"
 2016,East Tex. Baptist,1062,"%
                   Texas-Tyler",30028,02/04/2016,0,0,Away,"",-,0
 2016,East Tex. Baptist,1062,"%
@@ -14232,7 +14234,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Eastern Ill.,201,"%
                   SIUE",660,01/30/2016,60,46,Away,"",-,"2,008"
 2016,Eastern Ill.,201,"%
-                  St. Ambrose",,02/01/2016,0,0,Home,"",-,0
+                  St. Ambrose",,02/01/2016,101,59,Home,"",-,713
 2016,Eastern Ill.,201,"%
                   Southeast Mo. St.",654,02/06/2016,0,0,Home,"",-,0
 2016,Eastern Ill.,201,"%
@@ -14788,7 +14790,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Elmhurst,212,"%
                   Greenville",1111,11/20/2015,123,111,Away,"",-,500
 2016,Elmhurst,212,"%
-                  Westminster (MO)",1450,11/21/2015,81,58,Neutral,"Greenville, Ill.",-,100
+                  Westminster (MO)",1450,11/21/2015,81,58,Neutral,"Greenville, IL",-,100
 2016,Elmhurst,212,"%
                   Benedictine (IL)",296,11/25/2015,86,94,Home,"",-,501
 2016,Elmhurst,212,"%
@@ -15186,7 +15188,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Emmanuel (MA),215,"%
                   Suffolk",684,01/30/2016,68,58,Home,"",-,0
 2016,Emmanuel (MA),215,"%
-                  Wesleyan (CT)",764,02/01/2016,0,0,Home,"",-,0
+                  Wesleyan (CT)",764,02/01/2016,60,78,Home,"",-,175
 2016,Emmanuel (MA),215,"%
                   St. Joseph's (ME)",605,02/03/2016,0,0,Home,"",-,0
 2016,Emmanuel (MA),215,"%
@@ -15674,7 +15676,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Fairfield,220,"%
                   Canisius",116,01/29/2016,84,77,Home,"",-,"1,008"
 2016,Fairfield,220,"%
-                  Quinnipiac",562,02/01/2016,0,0,Home,"",-,0
+                  Quinnipiac",562,02/01/2016,59,64,Home,"",-,842
 2016,Fairfield,220,"%
                   Monmouth",439,02/05/2016,0,0,Away,"",-,0
 2016,Fairfield,220,"%
@@ -16050,7 +16052,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Ferris St.,224,"%
                   Saginaw Valley",591,01/30/2016,72,74,Home,"",-,"1,355"
 2016,Ferris St.,224,"%
-                  Grand Valley St.",262,02/01/2016,0,0,Home,"",-,0
+                  Grand Valley St.",262,02/01/2016,74,71,Home,"",-,"1,447"
 2016,Ferris St.,224,"%
                   Michigan Tech",417,02/04/2016,0,0,Away,"",-,0
 2016,Ferris St.,224,"%
@@ -16162,7 +16164,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,FGCU,28755,"%
                   North Florida",2711,01/30/2016,76,82,Away,"",-,"4,138"
 2016,FGCU,28755,"%
-                  Jacksonville",316,02/01/2016,0,0,Away,"",-,0
+                  Jacksonville",316,02/01/2016,80,83,Away,"",-,778
 2016,FGCU,28755,"%
                   North Florida",2711,02/06/2016,0,0,Home,"",-,0
 2016,FGCU,28755,"%
@@ -16214,7 +16216,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Findlay,1079,"%
                   Malone",30137,01/30/2016,83,67,Away,"",-,285
 2016,Findlay,1079,"%
-                  Wayne St. (MI)",757,02/01/2016,0,0,Home,"",-,0
+                  Wayne St. (MI)",757,02/01/2016,76,68,Home,"",-,933
 2016,Findlay,1079,"%
                   Ohio Dominican",30119,02/04/2016,0,0,Away,"",-,0
 2016,Findlay,1079,"%
@@ -16664,7 +16666,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Florida A&M,228,"%
                   Bethune-Cookman",61,01/30/2016,56,88,Away,"",-,"1,090"
 2016,Florida A&M,228,"%
-                  N.C. Central",489,02/01/2016,0,0,Home,"",-,0
+                  N.C. Central",489,02/01/2016,63,81,Home,"",-,"1,738"
 2016,Florida A&M,228,"%
                   Delaware St.",178,02/08/2016,0,0,Home,"",-,0
 2016,Florida A&M,228,"%
@@ -16722,7 +16724,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Florida St.,234,"%
                   Clemson",147,01/30/2016,76,65,Home,"",-,"8,166"
 2016,Florida St.,234,"%
-                  North Carolina St.",490,02/01/2016,0,0,Home,"",-,0
+                  North Carolina St.",490,02/01/2016,77,73,Home,"",-,"6,375"
 2016,Florida St.,234,"%
                   Wake Forest",749,02/06/2016,0,0,Away,"",-,0
 2016,Florida St.,234,"%
@@ -17166,7 +17168,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Francis Marion,1085,"%
                   Georgia College",1096,01/30/2016,91,74,Home,"",-,629
 2016,Francis Marion,1085,"%
-                  Johnson & Wales (NC)",,02/01/2016,0,0,Home,"",-,0
+                  Johnson & Wales (NC)",,02/01/2016,96,76,Home,"",-,895
 2016,Francis Marion,1085,"%
                   Lander",1167,02/03/2016,0,0,Home,"",-,0
 2016,Francis Marion,1085,"%
@@ -17468,7 +17470,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Fresno Pacific,30147,"%
                   Azusa Pacific",30146,01/30/2016,94,90,Away,"",-,"1,183"
 2016,Fresno Pacific,30147,"%
-                  Notre Dame de Namur",30056,02/01/2016,0,0,Home,"",-,0
+                  Notre Dame de Namur",30056,02/01/2016,80,54,Home,"",-,340
 2016,Fresno Pacific,30147,"%
                   Hawaii Hilo",2697,02/04/2016,0,0,Home,"",-,0
 2016,Fresno Pacific,30147,"%
@@ -17582,7 +17584,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Frostburg St.,243,"%
                   Marymount (VA)",394,01/30/2016,62,84,Away,"",-,425
 2016,Frostburg St.,243,"%
-                  Chris. Newport",139,02/01/2016,0,0,Home,"",-,0
+                  Chris. Newport",139,02/01/2016,71,82,Home,"",-,251
 2016,Frostburg St.,243,"%
                   Penn St. Harrisburg",30081,02/03/2016,0,0,Home,"",-,0
 2016,Frostburg St.,243,"%
@@ -17802,7 +17804,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Gallaudet,245,"%
                   Lancaster Bible",30085,01/30/2016,73,91,Away,"",-,636
 2016,Gallaudet,245,"%
-                  Morrisville St.",30067,02/01/2016,0,0,Home,"",-,0
+                  Morrisville St.",30067,02/01/2016,87,80,Home,"",-,171
 2016,Gallaudet,245,"%
                   Keuka",1159,02/06/2016,0,0,Away,"",-,0
 2016,Gallaudet,245,"%
@@ -18486,7 +18488,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Georgian Court,9004,"%
                   Caldwell",995,01/22/2016,72,64,Home,"",-,156
 2016,Georgian Court,9004,"%
-                  USciences",28594,01/27/2016,0,0,Away,"",-,0
+                  USciences",28594,01/27/2016,73,66,Away,"",-,110
 2016,Georgian Court,9004,"%
                   Post",1318,01/30/2016,50,84,Home,"",-,175
 2016,Georgian Court,9004,"%
@@ -18812,7 +18814,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Goucher,1467,"%
                   Juniata",325,01/27/2016,60,54,Home,"",-,455
 2016,Goucher,1467,"%
-                  Merchant Marine",724,01/30/2016,0,0,Away,"",-,0
+                  Merchant Marine",724,01/30/2016,66,82,Away,"",-,150
 2016,Goucher,1467,"%
                   Elizabethtown",211,02/06/2016,0,0,Home,"",-,0
 2016,Goucher,1467,"%
@@ -18862,9 +18864,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Grambling,261,"%
                   Jackson St.",314,01/23/2016,45,60,Away,"",-,"1,499"
 2016,Grambling,261,"%
-                  Ark.-Pine Bluff",2678,01/30/2016,59,63,Away,"",-,0
+                  Ark.-Pine Bluff",2678,01/30/2016,59,63,Away,"",-,"2,819"
 2016,Grambling,261,"%
-                  Mississippi Val.",432,02/01/2016,0,0,Away,"",-,0
+                  Mississippi Val.",432,02/01/2016,59,72,Away,"",-,932
 2016,Grambling,261,"%
                   Southern U.",665,02/06/2016,0,0,Home,"",-,0
 2016,Grambling,261,"%
@@ -18986,7 +18988,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Grand Valley St.,262,"%
                   Hillsdale",280,01/30/2016,63,76,Home,"",-,"1,511"
 2016,Grand Valley St.,262,"%
-                  Ferris St.",224,02/01/2016,0,0,Away,"",-,0
+                  Ferris St.",224,02/01/2016,71,74,Away,"",-,"1,447"
 2016,Grand Valley St.,262,"%
                   Northern Mich.",506,02/04/2016,0,0,Away,"",-,0
 2016,Grand Valley St.,262,"%
@@ -19200,7 +19202,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Greenville,1111,"%
                   Westminster (MO)",1450,01/27/2016,114,97,Home,"",-,500
 2016,Greenville,1111,"%
-                  Blackburn",64,01/30/2016,0,0,Away,"",-,0
+                  Blackburn",64,01/30/2016,130,116,Away,"",-,0
 2016,Greenville,1111,"%
                   Spalding",23260,02/03/2016,0,0,Home,"",-,0
 2016,Greenville,1111,"%
@@ -19296,7 +19298,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Grove City,265,"%
                   Thomas More",1402,01/27/2016,56,64,Home,"",-,725
 2016,Grove City,265,"%
-                  Waynesburg",1434,01/30/2016,0,0,Away,"",-,0
+                  Waynesburg",1434,01/30/2016,69,75,Away,"",-,450
 2016,Grove City,265,"%
                   Westminster (PA)",1451,02/03/2016,0,0,Home,"",-,0
 2016,Grove City,265,"%
@@ -19444,7 +19446,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Gwynedd Mercy,12399,"%
                   Keystone",30047,01/30/2016,93,79,Away,"",-,185
 2016,Gwynedd Mercy,12399,"%
-                  Immaculata",303,02/01/2016,0,0,Away,"",-,0
+                  Immaculata",303,02/01/2016,75,73,Away,"",-,369
 2016,Gwynedd Mercy,12399,"%
                   Neumann",1254,02/03/2016,0,0,Home,"",-,0
 2016,Gwynedd Mercy,12399,"%
@@ -19496,7 +19498,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Hamilton,267,"%
                   Middlebury",420,01/30/2016,64,62,Home,"",-,557
 2016,Hamilton,267,"%
-                  Union (NY)",727,02/01/2016,0,0,Home,"",-,0
+                  Union (NY)",727,02/01/2016,61,72,Home,"",-,175
 2016,Hamilton,267,"%
                   Bowdoin",69,02/05/2016,0,0,Home,"",-,0
 2016,Hamilton,267,"%
@@ -20130,7 +20132,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Hawaii Hilo,2697,"%
                   Notre Dame de Namur",30056,01/30/2016,80,82,Away,"",1 OT,120
 2016,Hawaii Hilo,2697,"%
-                  Dominican (CA)",30118,02/01/2016,0,0,Away,"",-,0
+                  Dominican (CA)",30118,02/01/2016,86,76,Away,"",-,600
 2016,Hawaii Hilo,2697,"%
                   Fresno Pacific",30147,02/04/2016,0,0,Away,"",-,0
 2016,Hawaii Hilo,2697,"%
@@ -20184,7 +20186,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Hawaii Pacific,2696,"%
                   Dixie St.",30095,01/30/2016,63,84,Away,"",-,"3,167"
 2016,Hawaii Pacific,2696,"%
-                  Azusa Pacific",30146,02/01/2016,0,0,Away,"",-,0
+                  Azusa Pacific",30146,02/01/2016,83,80,Away,"",-,787
 2016,Hawaii Pacific,2696,"%
                   Concordia (CA)",30199,02/04/2016,0,0,Away,"",-,0
 2016,Hawaii Pacific,2696,"%
@@ -20498,7 +20500,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Hillsdale,280,"%
                   Grand Valley St.",262,01/30/2016,76,63,Away,"",-,"1,511"
 2016,Hillsdale,280,"%
-                  Saginaw Valley",591,02/01/2016,0,0,Home,"",-,0
+                  Saginaw Valley",591,02/01/2016,69,72,Home,"",-,557
 2016,Hillsdale,280,"%
                   Northwood (MI)",510,02/04/2016,0,0,Away,"",-,0
 2016,Hillsdale,280,"%
@@ -20716,7 +20718,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Holy Cross,285,"%
                   Navy",726,01/30/2016,87,80,Home,"",1 OT,"1,834"
 2016,Holy Cross,285,"%
-                  American",23,02/01/2016,0,0,Away,"",-,0
+                  American",23,02/01/2016,45,58,Away,"",-,457
 2016,Holy Cross,285,"%
                   Bucknell",83,02/06/2016,0,0,Home,"",-,0
 2016,Holy Cross,285,"%
@@ -20832,7 +20834,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Holy Names,30175,"%
                   Dominican (CA)",30118,01/29/2016,56,80,Home,"",-,155
 2016,Holy Names,30175,"%
-                  Chaminade",133,02/01/2016,0,0,Home,"",-,0
+                  Chaminade",133,02/01/2016,83,114,Home,"",-,148
 2016,Holy Names,30175,"%
                   Academy of Art",30123,02/03/2016,0,0,Away,"",-,0
 2016,Holy Names,30175,"%
@@ -20884,7 +20886,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Hood,8404,"%
                   Albright",16,01/30/2016,59,90,Home,"",-,0
 2016,Hood,8404,"%
-                  Arcadia",966,02/01/2016,0,0,Home,"",-,0
+                  Arcadia",966,02/01/2016,63,60,Home,"",-,0
 2016,Hood,8404,"%
                   Alvernia",938,02/03/2016,0,0,Away,"",-,0
 2016,Hood,8404,"%
@@ -21038,7 +21040,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Houston,288,"%
                   East Carolina",196,01/30/2016,97,93,Away,"",2 OT,"5,212"
 2016,Houston,288,"%
-                  SMU",663,02/01/2016,0,0,Home,"",-,0
+                  SMU",663,02/01/2016,71,68,Home,"",-,"6,195"
 2016,Houston,288,"%
                   Tulsa",719,02/07/2016,0,0,Away,"",-,0
 2016,Houston,288,"%
@@ -21160,7 +21162,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Howard,290,"%
                   Morgan St.",446,01/30/2016,63,83,Away,"",-,"1,508"
 2016,Howard,290,"%
-                  UMES",393,02/01/2016,0,0,Away,"",-,0
+                  UMES",393,02/01/2016,67,85,Away,"",-,"3,122"
 2016,Howard,290,"%
                   Norfolk St.",485,02/06/2016,0,0,Home,"",-,0
 2016,Howard,290,"%
@@ -21924,7 +21926,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Immaculata,303,"%
                   Centenary (NJ)",12884,01/30/2016,85,78,Home,"",1 OT,431
 2016,Immaculata,303,"%
-                  Gwynedd Mercy",12399,02/01/2016,0,0,Home,"",-,0
+                  Gwynedd Mercy",12399,02/01/2016,73,75,Home,"",-,369
 2016,Immaculata,303,"%
                   Cabrini",88,02/03/2016,0,0,Away,"",-,0
 2016,Immaculata,303,"%
@@ -22214,7 +22216,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Iona,310,"%
                   Manhattan",381,01/29/2016,70,56,Home,"",-,"2,611"
 2016,Iona,310,"%
-                  Saint Peter's",617,02/01/2016,0,0,Away,"",-,0
+                  Saint Peter's",617,02/01/2016,75,67,Away,"",-,389
 2016,Iona,310,"%
                   Canisius",116,02/05/2016,0,0,Away,"",-,0
 2016,Iona,310,"%
@@ -22388,7 +22390,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Iowa Wesleyan,30173,"%
                   Fontbonne",11538,01/27/2016,53,82,Away,"",-,275
 2016,Iowa Wesleyan,30173,"%
-                  Westminster (MO)",1450,01/30/2016,0,0,Home,"",-,0
+                  Westminster (MO)",1450,01/30/2016,76,72,Home,"",-,250
 2016,Iowa Wesleyan,30173,"%
                   Principia",555,02/02/2016,0,0,Away,"",-,0
 2016,Iowa Wesleyan,30173,"%
@@ -22618,7 +22620,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Jackson St.,314,"%
                   Mississippi Val.",432,01/30/2016,77,62,Away,"",-,"1,998"
 2016,Jackson St.,314,"%
-                  Ark.-Pine Bluff",2678,02/01/2016,0,0,Away,"",-,0
+                  Ark.-Pine Bluff",2678,02/01/2016,66,53,Away,"",-,"2,245"
 2016,Jackson St.,314,"%
                   Alcorn",17,02/06/2016,0,0,Home,"",-,0
 2016,Jackson St.,314,"%
@@ -22686,7 +22688,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Jacksonville,316,"%
                   Stetson",678,01/30/2016,75,60,Home,"",-,877
 2016,Jacksonville,316,"%
-                  FGCU",28755,02/01/2016,0,0,Home,"",-,0
+                  FGCU",28755,02/01/2016,83,80,Home,"",-,778
 2016,Jacksonville,316,"%
                   Stetson",678,02/06/2016,0,0,Away,"",-,0
 2016,Jacksonville,316,"%
@@ -23384,7 +23386,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Kean,329,"%
                   Rutgers-Camden",588,01/30/2016,67,64,Away,"",-,150
 2016,Kean,329,"%
-                  New Jersey City",319,02/01/2016,0,0,Away,"",-,0
+                  New Jersey City",319,02/01/2016,52,79,Away,"",-,322
 2016,Kean,329,"%
                   Rutgers-Newark",589,02/03/2016,0,0,Home,"",-,0
 2016,Kean,329,"%
@@ -23492,7 +23494,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Kennesaw St.,1157,"%
                   NJIT",471,01/30/2016,67,75,Home,"",-,"1,623"
 2016,Kennesaw St.,1157,"%
-                  USC Upstate",10411,02/01/2016,0,0,Home,"",-,0
+                  USC Upstate",10411,02/01/2016,75,62,Home,"",-,"1,109"
 2016,Kennesaw St.,1157,"%
                   NJIT",471,02/06/2016,0,0,Away,"",-,0
 2016,Kennesaw St.,1157,"%
@@ -23812,7 +23814,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Keystone,30047,"%
                   Gwynedd Mercy",12399,01/30/2016,79,93,Home,"",-,185
 2016,Keystone,30047,"%
-                  Neumann",1254,02/01/2016,0,0,Away,"",-,0
+                  Neumann",1254,02/01/2016,71,93,Away,"",-,319
 2016,Keystone,30047,"%
                   Summit",958,02/03/2016,0,0,Home,"",-,0
 2016,Keystone,30047,"%
@@ -24164,7 +24166,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,La Salle,340,"%
                   Rhode Island",572,01/16/2016,62,73,Away,"",-,"3,872"
 2016,La Salle,340,"%
-                  Temple",690,01/20/2016,49,62,Neutral,"The Palestra (Philadelphia, Pa.)",-,"8,030"
+                  Temple",690,01/20/2016,49,62,Home,"",-,"8,030"
 2016,La Salle,340,"%
                   Saint Joseph's",606,01/24/2016,48,69,Home,"",-,"3,021"
 2016,La Salle,340,"%
@@ -24226,7 +24228,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,La Verne,341,"%
                   UC Santa Cruz",113,01/29/2016,71,77,Away,"",-,200
 2016,La Verne,341,"%
-                  Chapman",134,02/01/2016,0,0,Away,"",-,0
+                  Chapman",134,02/01/2016,67,76,Away,"",-,347
 2016,La Verne,341,"%
                   Cal Lutheran",105,02/03/2016,0,0,Away,"",-,0
 2016,La Verne,341,"%
@@ -24456,7 +24458,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,LaGrange,1162,"%
                   Ferrum",225,01/30/2016,76,100,Away,"",-,450
 2016,LaGrange,1162,"%
-                  Averett",44,01/31/2016,0,0,Away,"",-,0
+                  Averett",44,01/31/2016,94,87,Away,"",-,853
 2016,LaGrange,1162,"%
                   N.C. Wesleyan",491,02/06/2016,0,0,Home,"",-,0
 2016,LaGrange,1162,"%
@@ -24510,7 +24512,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Lake Erie,2746,"%
                   Ohio Dominican",30119,01/30/2016,97,84,Home,"",-,125
 2016,Lake Erie,2746,"%
-                  Ashland",35,02/01/2016,0,0,Home,"",-,0
+                  Ashland",35,02/01/2016,79,87,Home,"",1 OT,200
 2016,Lake Erie,2746,"%
                   Malone",30137,02/04/2016,0,0,Away,"",-,0
 2016,Lake Erie,2746,"%
@@ -24610,7 +24612,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Lake Superior St.,345,"%
                   Michigan Tech",417,01/30/2016,72,56,Home,"",-,646
 2016,Lake Superior St.,345,"%
-                  Northwood (MI)",510,02/01/2016,0,0,Away,"",-,0
+                  Northwood (MI)",510,02/01/2016,111,112,Away,"",1 OT,405
 2016,Lake Superior St.,345,"%
                   Saginaw Valley",591,02/04/2016,0,0,Home,"",-,0
 2016,Lake Superior St.,345,"%
@@ -24718,7 +24720,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Lamar,346,"%
                   Abilene Christian",2,01/30/2016,71,80,Away,"",-,"2,103"
 2016,Lamar,346,"%
-                  Sam Houston St.",624,02/01/2016,0,0,Home,"",-,0
+                  Sam Houston St.",624,02/01/2016,66,69,Home,"",-,"2,076"
 2016,Lamar,346,"%
                   Incarnate Word",2743,02/06/2016,0,0,Home,"",-,0
 2016,Lamar,346,"%
@@ -24886,7 +24888,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Lane,347,"%
                   Kentucky St.",332,01/30/2016,91,74,Home,"",-,419
 2016,Lane,347,"%
-                  Central St. (OH)",30049,02/01/2016,0,0,Away,"",-,0
+                  Central St. (OH)",30049,02/01/2016,66,65,Away,"",-,"1,171"
 2016,Lane,347,"%
                   Spring Hill",30191,02/08/2016,0,0,Home,"",-,0
 2016,Lane,347,"%
@@ -25358,7 +25360,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,LeMoyne-Owen,350,"%
                   Stillman",680,01/30/2016,84,89,Home,"",1 OT,789
 2016,LeMoyne-Owen,350,"%
-                  Spring Hill",30191,02/01/2016,0,0,Home,"",-,0
+                  Spring Hill",30191,02/01/2016,67,74,Home,"",-,0
 2016,LeMoyne-Owen,350,"%
                   Kentucky St.",332,02/04/2016,0,0,Away,"",-,0
 2016,LeMoyne-Owen,350,"%
@@ -25848,7 +25850,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Lincoln (PA),357,"%
                   Chowan",8875,01/27/2016,77,71,Home,"",1 OT,576
 2016,Lincoln (PA),357,"%
-                  Virginia St.",743,01/30/2016,0,0,Home,"",-,0
+                  Virginia St.",743,01/30/2016,63,81,Home,"",-,532
 2016,Lincoln (PA),357,"%
                   Bowie St.",70,02/06/2016,0,0,Away,"",-,0
 2016,Lincoln (PA),357,"%
@@ -26070,7 +26072,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Lipscomb,28600,"%
                   USC Upstate",10411,01/30/2016,91,92,Home,"",1 OT,"2,374"
 2016,Lipscomb,28600,"%
-                  NJIT",471,02/01/2016,0,0,Home,"",-,0
+                  NJIT",471,02/01/2016,78,90,Home,"",-,"1,713"
 2016,Lipscomb,28600,"%
                   USC Upstate",10411,02/06/2016,0,0,Away,"",-,0
 2016,Lipscomb,28600,"%
@@ -26578,7 +26580,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Louisiana Col.,1182,"%
                   LeTourneau",8490,01/30/2016,68,66,Home,"",-,"1,068"
 2016,Louisiana Col.,1182,"%
-                  East Tex. Baptist",1062,02/01/2016,0,0,Home,"",-,0
+                  East Tex. Baptist",1062,02/01/2016,55,61,Home,"",-,"1,076"
 2016,Louisiana Col.,1182,"%
                   LeTourneau",8490,02/04/2016,0,0,Away,"",-,0
 2016,Louisiana Col.,1182,"%
@@ -26694,7 +26696,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Louisville,367,"%
                   Virginia",746,01/30/2016,47,63,Home,"",-,"21,714"
 2016,Louisville,367,"%
-                  North Carolina",457,02/01/2016,0,0,Home,"",-,0
+                  North Carolina",457,02/01/2016,71,65,Home,"",-,"22,781"
 2016,Louisville,367,"%
                   Boston College",67,02/06/2016,0,0,Home,"",-,0
 2016,Louisville,367,"%
@@ -26814,7 +26816,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Loyola Maryland,369,"%
                   Lafayette",342,01/30/2016,84,77,Home,"",-,"1,036"
 2016,Loyola Maryland,369,"%
-                  Colgate",153,02/01/2016,0,0,Home,"",-,0
+                  Colgate",153,02/01/2016,68,65,Home,"",-,431
 2016,Loyola Maryland,369,"%
                   Lehigh",352,02/03/2016,0,0,Away,"",-,0
 2016,Loyola Maryland,369,"%
@@ -27096,7 +27098,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Lycoming,373,"%
                   Widener",783,01/30/2016,70,63,Home,"",1 OT,645
 2016,Lycoming,373,"%
-                  Stevenson",21852,02/01/2016,0,0,Away,"",-,0
+                  Stevenson",21852,02/01/2016,68,73,Away,"",-,341
 2016,Lycoming,373,"%
                   Messiah",411,02/03/2016,0,0,Home,"",-,0
 2016,Lycoming,373,"%
@@ -27504,7 +27506,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Malone,30137,"%
                   Findlay",1079,01/30/2016,67,83,Home,"",-,285
 2016,Malone,30137,"%
-                  Walsh",30141,02/01/2016,0,0,Away,"",-,0
+                  Walsh",30141,02/01/2016,97,99,Away,"",-,"1,874"
 2016,Malone,30137,"%
                   Lake Erie",2746,02/04/2016,0,0,Home,"",-,0
 2016,Malone,30137,"%
@@ -27756,9 +27758,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Maranatha Baptist,1194,"%
                   Dominican (IL)",1332,01/26/2016,68,71,Away,"",-,80
 2016,Maranatha Baptist,1194,"%
-                  Emmaus",,01/29/2016,0,0,Away,"",-,0
+                  Emmaus",,01/29/2016,70,59,Away,"",-,0
 2016,Maranatha Baptist,1194,"%
-                  Moody Bible",,01/30/2016,0,0,Away,"",-,0
+                  Moody Bible",,01/30/2016,73,76,Away,"",-,100
 2016,Maranatha Baptist,1194,"%
                   Concordia Chicago",160,02/02/2016,0,0,Home,"",-,0
 2016,Maranatha Baptist,1194,"%
@@ -28030,7 +28032,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Mars Hill,1199,"%
                   Catawba",1001,01/30/2016,77,100,Away,"",-,417
 2016,Mars Hill,1199,"%
-                  Brevard",30094,02/01/2016,0,0,Away,"",-,0
+                  Brevard",30094,02/01/2016,78,75,Away,"",-,556
 2016,Mars Hill,1199,"%
                   Carson-Newman",1000,02/03/2016,0,0,Home,"",-,0
 2016,Mars Hill,1199,"%
@@ -28304,7 +28306,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Mary Washington,390,"%
                   Wesley",763,01/30/2016,75,57,Home,"",-,650
 2016,Mary Washington,390,"%
-                  York (PA)",815,02/01/2016,0,0,Home,"",-,0
+                  York (PA)",815,02/01/2016,67,45,Home,"",-,286
 2016,Mary Washington,390,"%
                   St. Mary's (MD)",611,02/03/2016,0,0,Away,"",-,0
 2016,Mary Washington,390,"%
@@ -28418,7 +28420,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Marymount (VA),394,"%
                   Frostburg St.",243,01/30/2016,84,62,Home,"",-,425
 2016,Marymount (VA),394,"%
-                  St. Mary's (MD)",611,02/01/2016,0,0,Home,"",-,0
+                  St. Mary's (MD)",611,02/01/2016,77,67,Home,"",-,325
 2016,Marymount (VA),394,"%
                   Southern Va.",30164,02/03/2016,0,0,Home,"",-,0
 2016,Marymount (VA),394,"%
@@ -28574,7 +28576,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Marywood,397,"%
                   Neumann",1254,01/30/2016,67,83,Away,"",-,324
 2016,Marywood,397,"%
-                  Rosemont",15882,02/01/2016,0,0,Away,"",-,0
+                  Rosemont",15882,02/01/2016,61,80,Away,"",-,206
 2016,Marywood,397,"%
                   Centenary (NJ)",12884,02/03/2016,0,0,Home,"",-,0
 2016,Marywood,397,"%
@@ -28886,7 +28888,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,McNeese St.,402,"%
                   New Orleans",474,01/30/2016,64,76,Away,"",-,"1,108"
 2016,McNeese St.,402,"%
-                  Southeastern La.",655,02/01/2016,0,0,Away,"",-,0
+                  Southeastern La.",655,02/01/2016,80,82,Away,"",-,"1,030"
 2016,McNeese St.,402,"%
                   Nicholls St.",483,02/06/2016,0,0,Away,"",-,0
 2016,McNeese St.,402,"%
@@ -29198,7 +29200,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Mercer,406,"%
                   UNCG",459,01/30/2016,81,67,Home,"",-,"4,032"
 2016,Mercer,406,"%
-                  Samford",625,02/01/2016,0,0,Away,"",-,0
+                  Samford",625,02/01/2016,85,70,Away,"",-,"1,263"
 2016,Mercer,406,"%
                   Citadel",141,02/06/2016,0,0,Home,"",-,0
 2016,Mercer,406,"%
@@ -29250,7 +29252,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Merchant Marine,724,"%
                   Trinity (CT)",713,01/27/2016,67,60,Home,"",-,65
 2016,Merchant Marine,724,"%
-                  Goucher",1467,01/30/2016,0,0,Home,"",-,0
+                  Goucher",1467,01/30/2016,82,66,Home,"",-,150
 2016,Merchant Marine,724,"%
                   Drew",190,02/03/2016,0,0,Home,"",-,0
 2016,Merchant Marine,724,"%
@@ -29296,7 +29298,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Mercy,407,"%
                   Molloy",437,01/27/2016,81,96,Away,"",-,219
 2016,Mercy,407,"%
-                  Queens (NY)",560,01/30/2016,0,0,Away,"",-,0
+                  Queens (NY)",560,01/30/2016,82,66,Away,"",-,127
 2016,Mercy,407,"%
                   LIU Post",362,02/03/2016,0,0,Home,"",-,0
 2016,Mercy,407,"%
@@ -29802,7 +29804,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Michigan Tech,417,"%
                   Lake Superior St.",345,01/30/2016,56,72,Away,"",-,646
 2016,Michigan Tech,417,"%
-                  Northern Mich.",506,02/01/2016,0,0,Away,"",-,0
+                  Northern Mich.",506,02/01/2016,69,56,Away,"",-,727
 2016,Michigan Tech,417,"%
                   Ferris St.",224,02/04/2016,0,0,Home,"",-,0
 2016,Michigan Tech,417,"%
@@ -30020,7 +30022,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Miles,422,"%
                   Fort Valley St.",237,01/30/2016,76,68,Away,"",-,411
 2016,Miles,422,"%
-                  Tuskegee",720,02/01/2016,0,0,Away,"",-,0
+                  Tuskegee",720,02/01/2016,76,71,Away,"",-,"1,549"
 2016,Miles,422,"%
                   Stillman",680,02/04/2016,0,0,Home,"",-,0
 2016,Miles,422,"%
@@ -30088,7 +30090,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Millikin,424,"%
                   Aurora",42,11/18/2015,93,105,Home,"",-,250
 2016,Millikin,424,"%
-                  Westminster (MO)",1450,11/20/2015,65,56,Neutral,"Greenville, Ill.",-,100
+                  Westminster (MO)",1450,11/20/2015,65,56,Neutral,"Greenville, IL",-,100
 2016,Millikin,424,"%
                   Greenville",1111,11/21/2015,115,113,Away,"",-,500
 2016,Millikin,424,"%
@@ -30170,7 +30172,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Millsaps,426,"%
                   Hendrix",1124,01/29/2016,56,68,Away,"",-,471
 2016,Millsaps,426,"%
-                  Rhodes",573,01/31/2016,0,0,Away,"",-,0
+                  Rhodes",573,01/31/2016,61,75,Away,"",-,203
 2016,Millsaps,426,"%
                   Sewanee",652,02/05/2016,0,0,Away,"",-,0
 2016,Millsaps,426,"%
@@ -30840,7 +30842,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Mississippi Val.,432,"%
                   Jackson St.",314,01/30/2016,62,77,Home,"",-,"1,998"
 2016,Mississippi Val.,432,"%
-                  Grambling",261,02/01/2016,0,0,Home,"",-,0
+                  Grambling",261,02/01/2016,72,59,Home,"",-,932
 2016,Mississippi Val.,432,"%
                   Alabama St.",7,02/06/2016,0,0,Home,"",-,0
 2016,Mississippi Val.,432,"%
@@ -31398,7 +31400,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Monmouth,439,"%
                   Saint Peter's",617,01/30/2016,73,57,Home,"",-,"4,105"
 2016,Monmouth,439,"%
-                  Siena",639,02/01/2016,0,0,Away,"",-,0
+                  Siena",639,02/01/2016,93,87,Away,"",-,"7,016"
 2016,Monmouth,439,"%
                   Fairfield",220,02/05/2016,0,0,Home,"",-,0
 2016,Monmouth,439,"%
@@ -31674,7 +31676,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Montclair St.,442,"%
                   Ramapo",564,01/30/2016,64,81,Home,"",-,589
 2016,Montclair St.,442,"%
-                  TCNJ",712,02/01/2016,0,0,Away,"",-,0
+                  TCNJ",712,02/01/2016,76,93,Away,"",-,130
 2016,Montclair St.,442,"%
                   Wm. Paterson",787,02/03/2016,0,0,Away,"",-,0
 2016,Montclair St.,442,"%
@@ -31928,7 +31930,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Morgan St.,446,"%
                   Howard",290,01/30/2016,83,63,Home,"",-,"1,508"
 2016,Morgan St.,446,"%
-                  Coppin St.",165,02/01/2016,0,0,Home,"",-,0
+                  Coppin St.",165,02/01/2016,83,43,Home,"",-,"3,878"
 2016,Morgan St.,446,"%
                   Savannah St.",632,02/06/2016,0,0,Away,"",-,0
 2016,Morgan St.,446,"%
@@ -31984,7 +31986,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Morrisville St.,30067,"%
                   Keuka",1159,01/30/2016,86,65,Home,"",-,178
 2016,Morrisville St.,30067,"%
-                  Gallaudet",245,02/01/2016,0,0,Away,"",-,0
+                  Gallaudet",245,02/01/2016,80,87,Away,"",-,171
 2016,Morrisville St.,30067,"%
                   SUNY Poly",9500,02/03/2016,0,0,Away,"",-,0
 2016,Morrisville St.,30067,"%
@@ -32508,7 +32510,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Mt. St. Vincent,451,"%
                   SUNY Maritime",478,01/26/2016,77,79,Home,"",1 OT,202
 2016,Mt. St. Vincent,451,"%
-                  St. Joseph's (Brkln)",30072,02/01/2016,0,0,Away,"",-,0
+                  St. Joseph's (Brkln)",30072,02/01/2016,88,95,Away,"",-,151
 2016,Mt. St. Vincent,451,"%
                   Yeshiva",814,02/03/2016,0,0,Home,"",-,0
 2016,Mt. St. Vincent,451,"%
@@ -32784,7 +32786,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,N.C. Central,489,"%
                   Delaware St.",178,01/27/2016,60,71,Away,"",-,"1,371"
 2016,N.C. Central,489,"%
-                  Florida A&M",228,02/01/2016,0,0,Away,"",-,0
+                  Florida A&M",228,02/01/2016,81,63,Away,"",-,"1,738"
 2016,N.C. Central,489,"%
                   N.C. A&T",488,02/06/2016,0,0,Home,"",-,0
 2016,N.C. Central,489,"%
@@ -32954,7 +32956,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Navy,726,"%
                   Holy Cross",285,01/30/2016,80,87,Away,"",1 OT,"1,834"
 2016,Navy,726,"%
-                  Army West Point",725,02/01/2016,0,0,Away,"",-,0
+                  Army West Point",725,02/01/2016,64,50,Away,"",-,"3,133"
 2016,Navy,726,"%
                   Boston U.",68,02/03/2016,0,0,Home,"",-,0
 2016,Navy,726,"%
@@ -33226,7 +33228,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Neumann,1254,"%
                   Marywood",397,01/30/2016,83,67,Home,"",-,324
 2016,Neumann,1254,"%
-                  Keystone",30047,02/01/2016,0,0,Home,"",-,0
+                  Keystone",30047,02/01/2016,93,71,Home,"",-,319
 2016,Neumann,1254,"%
                   Gwynedd Mercy",12399,02/03/2016,0,0,Away,"",-,0
 2016,Neumann,1254,"%
@@ -33496,13 +33498,13 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,New Jersey City,319,"%
                   Rowan",259,01/30/2016,88,81,Home,"",-,343
 2016,New Jersey City,319,"%
-                  Kean",329,02/01/2016,0,0,Home,"",-,0
-2016,New Jersey City,319,"%
-                  Valley Forge",30166,02/01/2016,0,0,Home,"",-,0
+                  Kean",329,02/01/2016,79,52,Home,"",-,322
 2016,New Jersey City,319,"%
                   Ramapo",564,02/03/2016,0,0,Away,"",-,0
 2016,New Jersey City,319,"%
                   TCNJ",712,02/06/2016,0,0,Away,"",-,0
+2016,New Jersey City,319,"%
+                  Valley Forge",30166,02/08/2016,0,0,Home,"",-,0
 2016,New Jersey City,319,"%
                   Stockton",681,02/10/2016,0,0,Home,"",-,0
 2016,New Jersey City,319,"%
@@ -33672,7 +33674,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,New Orleans,474,"%
                   McNeese St.",402,01/30/2016,76,64,Home,"",-,"1,108"
 2016,New Orleans,474,"%
-                  Nicholls St.",483,02/01/2016,0,0,Home,"",-,0
+                  Nicholls St.",483,02/01/2016,74,53,Home,"",-,468
 2016,New Orleans,474,"%
                   Central Ark.",1004,02/06/2016,0,0,Away,"",-,0
 2016,New Orleans,474,"%
@@ -33960,7 +33962,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Nicholls St.,483,"%
                   Incarnate Word",2743,01/30/2016,61,68,Away,"",-,408
 2016,Nicholls St.,483,"%
-                  New Orleans",474,02/01/2016,0,0,Away,"",-,0
+                  New Orleans",474,02/01/2016,53,74,Away,"",-,468
 2016,Nicholls St.,483,"%
                   McNeese St.",402,02/06/2016,0,0,Home,"",-,0
 2016,Nicholls St.,483,"%
@@ -34076,7 +34078,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,NJIT,471,"%
                   Kennesaw St.",1157,01/30/2016,75,67,Away,"",-,"1,623"
 2016,NJIT,471,"%
-                  Lipscomb",28600,02/01/2016,0,0,Away,"",-,0
+                  Lipscomb",28600,02/01/2016,90,78,Away,"",-,"1,713"
 2016,NJIT,471,"%
                   Kennesaw St.",1157,02/06/2016,0,0,Home,"",-,0
 2016,NJIT,471,"%
@@ -34250,7 +34252,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,North Carolina,457,"%
                   Boston College",67,01/30/2016,89,62,Home,"",-,"20,208"
 2016,North Carolina,457,"%
-                  Louisville",367,02/01/2016,0,0,Away,"",-,0
+                  Louisville",367,02/01/2016,65,71,Away,"",-,"22,781"
 2016,North Carolina,457,"%
                   Notre Dame",513,02/06/2016,0,0,Away,"",-,0
 2016,North Carolina,457,"%
@@ -34314,7 +34316,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,North Carolina St.,490,"%
                   Miami (FL)",415,01/30/2016,85,69,Home,"",-,"18,103"
 2016,North Carolina St.,490,"%
-                  Florida St.",234,02/01/2016,0,0,Away,"",-,0
+                  Florida St.",234,02/01/2016,73,77,Away,"",-,"6,375"
 2016,North Carolina St.,490,"%
                   Duke",193,02/06/2016,0,0,Away,"",-,0
 2016,North Carolina St.,490,"%
@@ -34602,7 +34604,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,North Florida,2711,"%
                   FGCU",28755,01/30/2016,82,76,Home,"",-,"4,138"
 2016,North Florida,2711,"%
-                  Stetson",678,02/01/2016,0,0,Home,"",-,0
+                  Stetson",678,02/01/2016,82,86,Home,"",-,"2,004"
 2016,North Florida,2711,"%
                   FGCU",28755,02/06/2016,0,0,Away,"",-,0
 2016,North Florida,2711,"%
@@ -35176,7 +35178,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Northern Ky.,505,"%
                   Detroit",184,01/29/2016,91,83,Away,"",-,"2,025"
 2016,Northern Ky.,505,"%
-                  Oakland",514,02/01/2016,0,0,Home,"",-,0
+                  Oakland",514,02/01/2016,74,85,Home,"",-,"1,746"
 2016,Northern Ky.,505,"%
                   Green Bay",794,02/04/2016,0,0,Home,"",-,0
 2016,Northern Ky.,505,"%
@@ -35232,7 +35234,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Northern Mich.,506,"%
                   Northwood (MI)",510,01/30/2016,82,69,Away,"",-,425
 2016,Northern Mich.,506,"%
-                  Michigan Tech",417,02/01/2016,0,0,Home,"",-,0
+                  Michigan Tech",417,02/01/2016,56,69,Home,"",-,727
 2016,Northern Mich.,506,"%
                   Grand Valley St.",262,02/04/2016,0,0,Home,"",-,0
 2016,Northern Mich.,506,"%
@@ -35720,7 +35722,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Northwood (MI),510,"%
                   Northern Mich.",506,01/30/2016,69,82,Home,"",-,425
 2016,Northwood (MI),510,"%
-                  Lake Superior St.",345,02/01/2016,0,0,Home,"",-,0
+                  Lake Superior St.",345,02/01/2016,112,111,Home,"",1 OT,405
 2016,Northwood (MI),510,"%
                   Hillsdale",280,02/04/2016,0,0,Home,"",-,0
 2016,Northwood (MI),510,"%
@@ -35942,7 +35944,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Notre Dame de Namur,30056,"%
                   Hawaii Hilo",2697,01/30/2016,82,80,Home,"",1 OT,120
 2016,Notre Dame de Namur,30056,"%
-                  Fresno Pacific",30147,02/01/2016,0,0,Away,"",-,0
+                  Fresno Pacific",30147,02/01/2016,54,80,Away,"",-,340
 2016,Notre Dame de Namur,30056,"%
                   Chaminade",133,02/06/2016,0,0,Home,"",-,0
 2016,Notre Dame de Namur,30056,"%
@@ -36208,7 +36210,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Oakland,514,"%
                   Wright St.",810,01/29/2016,89,63,Home,"",-,"3,901"
 2016,Oakland,514,"%
-                  Northern Ky.",505,02/01/2016,0,0,Away,"",-,0
+                  Northern Ky.",505,02/01/2016,85,74,Away,"",-,"1,746"
 2016,Oakland,514,"%
                   Youngstown St.",817,02/04/2016,0,0,Away,"",-,0
 2016,Oakland,514,"%
@@ -36258,9 +36260,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Oakland City,1278,"%
                   Wright St.-Lake",,01/24/2016,68,66,Home,"",-,474
 2016,Oakland City,1278,"%
-                  Boyce",,01/29/2016,0,0,Home,"",-,0
-2016,Oakland City,1278,"%
-                  Robert Morris-S'fiel",,01/30/2016,0,0,Home,"",-,0
+                  Robert Morris-S'fiel",,01/30/2016,67,56,Home,"",-,218
 2016,Oakland City,1278,"%
                   Ky. Wesleyan",333,02/06/2016,0,0,Home,"",-,0
 2016,Oakland City,1278,"%
@@ -36378,7 +36378,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Oglethorpe,2713,"%
                   Regis (MA)",569,12/21/2015,73,69,Home,"",-,299
 2016,Oglethorpe,2713,"%
-                  Westminster (MO)",1450,12/29/2015,50,49,Neutral,"Louisville, Ky.",-,30
+                  Westminster (MO)",1450,12/29/2015,50,49,Neutral,"Louisville, KY",-,30
 2016,Oglethorpe,2713,"%
                   Spalding",23260,12/30/2015,69,77,Away,"",-,85
 2016,Oglethorpe,2713,"%
@@ -36510,7 +36510,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Ohio Dominican,30119,"%
                   Lake Erie",2746,01/30/2016,84,97,Away,"",-,125
 2016,Ohio Dominican,30119,"%
-                  Tiffin",1403,02/01/2016,0,0,Home,"",-,0
+                  Tiffin",1403,02/01/2016,96,83,Home,"",-,0
 2016,Ohio Dominican,30119,"%
                   Findlay",1079,02/04/2016,0,0,Home,"",-,0
 2016,Ohio Dominican,30119,"%
@@ -36884,7 +36884,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Okla. Panhandle,24342,"%
                   Lubbock Christian",30177,01/28/2016,61,67,Home,"",-,319
 2016,Okla. Panhandle,24342,"%
-                  Dallas Baptist",1045,02/01/2016,0,0,Home,"",-,0
+                  Dallas Baptist",1045,02/01/2016,92,95,Home,"",-,280
 2016,Okla. Panhandle,24342,"%
                   Newman",30054,02/04/2016,0,0,Away,"",-,0
 2016,Okla. Panhandle,24342,"%
@@ -37410,7 +37410,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Oregon,529,"%
                   Arizona",29,01/28/2016,83,75,Away,"",-,"14,644"
 2016,Oregon,529,"%
-                  Arizona St.",28,01/31/2016,0,0,Away,"",-,0
+                  Arizona St.",28,01/31/2016,91,74,Away,"",-,"6,760"
 2016,Oregon,529,"%
                   Colorado",157,02/04/2016,0,0,Home,"",-,0
 2016,Oregon,529,"%
@@ -37682,7 +37682,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Ozarks (AR),23008,"%
                   Belhaven",30197,01/30/2016,80,79,Away,"",-,197
 2016,Ozarks (AR),23008,"%
-                  Texas-Dallas",23121,02/01/2016,0,0,Away,"",-,0
+                  Texas-Dallas",23121,02/01/2016,67,110,Away,"",-,529
 2016,Ozarks (AR),23008,"%
                   Belhaven",30197,02/04/2016,0,0,Home,"",-,0
 2016,Ozarks (AR),23008,"%
@@ -37994,7 +37994,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Paine,535,"%
                   Claflin",30058,01/28/2016,58,70,Home,"",-,473
 2016,Paine,535,"%
-                  Clark Atlanta",144,02/01/2016,0,0,Home,"",-,0
+                  Clark Atlanta",144,02/01/2016,78,87,Home,"",-,273
 2016,Paine,535,"%
                   Benedict",55,02/06/2016,0,0,Away,"",-,0
 2016,Paine,535,"%
@@ -38155,6 +38155,8 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   Keuka",1159,02/14/2016,0,0,Home,"",-,0
 2016,Penn College,30190,"%
                   Lancaster Bible",30085,02/16/2016,0,0,Away,"",-,0
+2016,Penn College,30190,"%
+                  Penn St.-Abington",30114,02/19/2016,0,0,Home,"",-,0
 2016,Penn St.,539,"%
                   VMI",741,11/14/2015,62,50,Home,"",-,"5,959"
 2016,Penn St.,539,"%
@@ -38254,7 +38256,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Penn St. Harrisburg,30081,"%
                   Chris. Newport",139,01/30/2016,41,90,Away,"",-,"1,174"
 2016,Penn St. Harrisburg,30081,"%
-                  Salisbury",622,02/01/2016,0,0,Home,"",-,0
+                  Salisbury",622,02/01/2016,56,82,Home,"",-,267
 2016,Penn St. Harrisburg,30081,"%
                   Frostburg St.",243,02/03/2016,0,0,Away,"",-,0
 2016,Penn St. Harrisburg,30081,"%
@@ -38298,7 +38300,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Penn St.-Abington,30114,"%
                   Gallaudet",245,01/27/2016,69,88,Away,"",-,141
 2016,Penn St.-Abington,30114,"%
-                  Bryn Athyn",30188,01/30/2016,0,0,Away,"",-,0
+                  Bryn Athyn",30188,01/30/2016,49,62,Away,"",-,0
 2016,Penn St.-Abington,30114,"%
                   Lancaster Bible",30085,02/02/2016,0,0,Home,"",-,0
 2016,Penn St.-Abington,30114,"%
@@ -38316,7 +38318,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Penn St.-Abington,30114,"%
                   Wilson",12973,02/16/2016,0,0,Away,"",-,0
 2016,Penn St.-Abington,30114,"%
-                  Penn Tech",,02/19/2016,0,0,Away,"",-,0
+                  Penn College",30190,02/19/2016,0,0,Away,"",-,0
 2016,Penn St.-Altoona,25719,"%
                   Mount Aloysius",30036,11/20/2015,90,80,Neutral,"Huntingdon, Pa.",-,570
 2016,Penn St.-Altoona,25719,"%
@@ -38978,7 +38980,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Pittsburgh,545,"%
                   Clemson",147,01/27/2016,60,73,Away,"",-,"8,752"
 2016,Pittsburgh,545,"%
-                  Virginia Tech",742,01/31/2016,0,0,Home,"",-,0
+                  Virginia Tech",742,01/31/2016,90,71,Home,"",-,"10,049"
 2016,Pittsburgh,545,"%
                   Virginia",746,02/06/2016,0,0,Home,"",-,0
 2016,Pittsburgh,545,"%
@@ -39412,7 +39414,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Prairie View,553,"%
                   Alabama A&M",6,01/30/2016,69,83,Away,"",-,574
 2016,Prairie View,553,"%
-                  Alabama St.",7,02/01/2016,0,0,Away,"",-,0
+                  Alabama St.",7,02/01/2016,77,83,Away,"",-,"1,546"
 2016,Prairie View,553,"%
                   Texas Southern",699,02/06/2016,0,0,Home,"",-,0
 2016,Prairie View,553,"%
@@ -39854,7 +39856,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Queens (NC),11504,"%
                   Carson-Newman",1000,01/30/2016,82,79,Away,"",-,"1,098"
 2016,Queens (NC),11504,"%
-                  Anderson (SC)",13028,02/01/2016,0,0,Home,"",-,0
+                  Anderson (SC)",13028,02/01/2016,76,65,Home,"",-,204
 2016,Queens (NC),11504,"%
                   Coker",1023,02/03/2016,0,0,Home,"",-,0
 2016,Queens (NC),11504,"%
@@ -39902,7 +39904,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Queens (NY),560,"%
                   St. Thomas Aquinas",1348,01/27/2016,65,78,Home,"",-,0
 2016,Queens (NY),560,"%
-                  Mercy",407,01/30/2016,0,0,Home,"",-,0
+                  Mercy",407,01/30/2016,66,82,Home,"",-,127
+2016,Queens (NY),560,"%
+                  Bridgeport",74,02/01/2016,70,76,Home,"",-,91
 2016,Queens (NY),560,"%
                   Dist. Columbia",186,02/04/2016,0,0,Home,"",-,0
 2016,Queens (NY),560,"%
@@ -40012,7 +40016,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Quinnipiac,562,"%
                   Niagara",482,01/30/2016,82,68,Home,"",-,"1,451"
 2016,Quinnipiac,562,"%
-                  Fairfield",220,02/01/2016,0,0,Away,"",-,0
+                  Fairfield",220,02/01/2016,64,59,Away,"",-,842
 2016,Quinnipiac,562,"%
                   Marist",386,02/04/2016,0,0,Home,"",-,0
 2016,Quinnipiac,562,"%
@@ -40596,7 +40600,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Rhodes,573,"%
                   Birmingham-So.",28593,01/29/2016,59,70,Home,"",-,332
 2016,Rhodes,573,"%
-                  Millsaps",426,01/31/2016,0,0,Home,"",-,0
+                  Millsaps",426,01/31/2016,75,61,Home,"",-,203
 2016,Rhodes,573,"%
                   Oglethorpe",2713,02/05/2016,0,0,Away,"",-,0
 2016,Rhodes,573,"%
@@ -40710,7 +40714,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Richmond,575,"%
                   George Washington",249,01/28/2016,98,90,Away,"",2 OT,"3,367"
 2016,Richmond,575,"%
-                  St. Bonaventure",596,01/31/2016,0,0,Away,"",-,0
+                  St. Bonaventure",596,01/31/2016,68,84,Away,"",-,"5,263"
 2016,Richmond,575,"%
                   George Mason",248,02/03/2016,0,0,Home,"",-,0
 2016,Richmond,575,"%
@@ -41504,7 +41508,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Rosemont,15882,"%
                   Summit",958,01/30/2016,99,65,Home,"",-,142
 2016,Rosemont,15882,"%
-                  Marywood",397,02/01/2016,0,0,Home,"",-,0
+                  Marywood",397,02/01/2016,80,61,Home,"",-,206
 2016,Rosemont,15882,"%
                   Cairn",1305,02/03/2016,0,0,Away,"",-,0
 2016,Rosemont,15882,"%
@@ -41716,7 +41720,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Rutgers-Camden,588,"%
                   Kean",329,01/30/2016,64,67,Home,"",-,150
 2016,Rutgers-Camden,588,"%
-                  Wm. Paterson",787,02/01/2016,0,0,Away,"",-,0
+                  Wm. Paterson",787,02/01/2016,62,87,Away,"",-,285
 2016,Rutgers-Camden,588,"%
                   Stockton",681,02/03/2016,0,0,Home,"",-,0
 2016,Rutgers-Camden,588,"%
@@ -41768,7 +41772,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Rutgers-Newark,589,"%
                   TCNJ",712,01/30/2016,62,58,Home,"",-,212
 2016,Rutgers-Newark,589,"%
-                  Stockton",681,02/01/2016,0,0,Home,"",-,0
+                  Stockton",681,02/01/2016,63,66,Home,"",-,358
 2016,Rutgers-Newark,589,"%
                   Kean",329,02/03/2016,0,0,Away,"",-,0
 2016,Rutgers-Newark,589,"%
@@ -42038,7 +42042,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Saginaw Valley,591,"%
                   Ferris St.",224,01/30/2016,74,72,Away,"",-,"1,355"
 2016,Saginaw Valley,591,"%
-                  Hillsdale",280,02/01/2016,0,0,Away,"",-,0
+                  Hillsdale",280,02/01/2016,72,69,Away,"",-,557
 2016,Saginaw Valley,591,"%
                   Lake Superior St.",345,02/04/2016,0,0,Away,"",-,0
 2016,Saginaw Valley,591,"%
@@ -42094,7 +42098,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Saint Augustine's,594,"%
                   Fayetteville St.",223,01/30/2016,65,58,Home,"",-,737
 2016,Saint Augustine's,594,"%
-                  Shaw",636,02/01/2016,0,0,Home,"",-,0
+                  Shaw",636,02/01/2016,71,67,Home,"",-,750
 2016,Saint Augustine's,594,"%
                   Winston-Salem",791,02/06/2016,0,0,Home,"",-,0
 2016,Saint Augustine's,594,"%
@@ -42590,7 +42594,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Saint Peter's,617,"%
                   Monmouth",439,01/30/2016,57,73,Away,"",-,"4,105"
 2016,Saint Peter's,617,"%
-                  Iona",310,02/01/2016,0,0,Home,"",-,0
+                  Iona",310,02/01/2016,67,75,Home,"",-,389
 2016,Saint Peter's,617,"%
                   Siena",639,02/05/2016,0,0,Away,"",-,0
 2016,Saint Peter's,617,"%
@@ -42848,7 +42852,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Salisbury,622,"%
                   York (PA)",815,01/30/2016,68,76,Away,"",1 OT,"1,460"
 2016,Salisbury,622,"%
-                  Penn St. Harrisburg",30081,02/01/2016,0,0,Away,"",-,0
+                  Penn St. Harrisburg",30081,02/01/2016,82,56,Away,"",-,267
 2016,Salisbury,622,"%
                   Chris. Newport",139,02/03/2016,0,0,Home,"",-,0
 2016,Salisbury,622,"%
@@ -42956,7 +42960,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Sam Houston St.,624,"%
                   Houston Baptist",287,01/30/2016,69,70,Away,"",-,"1,075"
 2016,Sam Houston St.,624,"%
-                  Lamar",346,02/01/2016,0,0,Away,"",-,0
+                  Lamar",346,02/01/2016,69,66,Away,"",-,"2,076"
 2016,Sam Houston St.,624,"%
                   A&M-Corpus Christi",26172,02/06/2016,0,0,Away,"",-,0
 2016,Sam Houston St.,624,"%
@@ -43018,7 +43022,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Samford,625,"%
                   Chattanooga",693,01/30/2016,56,63,Home,"",-,"2,549"
 2016,Samford,625,"%
-                  Mercer",406,02/01/2016,0,0,Home,"",-,0
+                  Mercer",406,02/01/2016,70,85,Home,"",-,"1,263"
 2016,Samford,625,"%
                   Furman",244,02/04/2016,0,0,Home,"",-,0
 2016,Samford,625,"%
@@ -43854,7 +43858,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Sewanee,652,"%
                   Oglethorpe",2713,01/29/2016,68,64,Away,"",-,360
 2016,Sewanee,652,"%
-                  Berry",973,01/31/2016,0,0,Away,"",-,0
+                  Berry",973,01/31/2016,80,65,Away,"",-,500
 2016,Sewanee,652,"%
                   Millsaps",426,02/05/2016,0,0,Home,"",-,0
 2016,Sewanee,652,"%
@@ -43910,7 +43914,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Shaw,636,"%
                   Johnson C. Smith",323,01/30/2016,108,93,Home,"",-,0
 2016,Shaw,636,"%
-                  Saint Augustine's",594,02/01/2016,0,0,Away,"",-,0
+                  Saint Augustine's",594,02/01/2016,67,71,Away,"",-,750
 2016,Shaw,636,"%
                   Virginia St.",743,02/03/2016,0,0,Home,"",-,0
 2016,Shaw,636,"%
@@ -44068,7 +44072,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Shippensburg,638,"%
                   West Chester",765,01/30/2016,59,64,Away,"",-,745
 2016,Shippensburg,638,"%
-                  East Stroudsburg",197,02/01/2016,0,0,Home,"",-,0
+                  East Stroudsburg",197,02/01/2016,74,69,Home,"",-,412
 2016,Shippensburg,638,"%
                   Mansfield",384,02/03/2016,0,0,Home,"",-,0
 2016,Shippensburg,638,"%
@@ -44182,7 +44186,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Siena,639,"%
                   Marist",386,01/30/2016,77,66,Home,"",-,"8,354"
 2016,Siena,639,"%
-                  Monmouth",439,02/01/2016,0,0,Home,"",-,0
+                  Monmouth",439,02/01/2016,87,93,Home,"",-,"7,016"
 2016,Siena,639,"%
                   Saint Peter's",617,02/05/2016,0,0,Home,"",-,0
 2016,Siena,639,"%
@@ -44558,7 +44562,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,SMU,663,"%
                   Memphis",404,01/30/2016,80,68,Home,"",-,"7,205"
 2016,SMU,663,"%
-                  Houston",288,02/01/2016,0,0,Away,"",-,0
+                  Houston",288,02/01/2016,68,71,Away,"",-,"6,195"
 2016,SMU,663,"%
                   South Fla.",651,02/07/2016,0,0,Away,"",-,0
 2016,SMU,663,"%
@@ -45150,7 +45154,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Southeastern La.,655,"%
                   Northwestern St.",508,01/30/2016,76,91,Away,"",-,"1,920"
 2016,Southeastern La.,655,"%
-                  McNeese St.",402,02/01/2016,0,0,Home,"",-,0
+                  McNeese St.",402,02/01/2016,82,80,Home,"",-,"1,030"
 2016,Southeastern La.,655,"%
                   Abilene Christian",2,02/06/2016,0,0,Home,"",-,0
 2016,Southeastern La.,655,"%
@@ -45896,7 +45900,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Southern Va.,30164,"%
                   St. Mary's (MD)",611,01/30/2016,64,83,Away,"",-,327
 2016,Southern Va.,30164,"%
-                  Wesley",763,02/01/2016,0,0,Home,"",-,0
+                  Wesley",763,02/01/2016,74,62,Home,"",-,120
 2016,Southern Va.,30164,"%
                   Marymount (VA)",394,02/03/2016,0,0,Away,"",-,0
 2016,Southern Va.,30164,"%
@@ -46168,8 +46172,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Southwestern (TX),8746,"%
                   Colorado Col.",154,01/31/2016,73,86,Away,"",1 OT,213
 2016,Southwestern (TX),8746,"%
-                  Colorado Col.",154,02/01/2016,0,0,Away,"",-,0
-2016,Southwestern (TX),8746,"%
                   Schreiner",1355,02/05/2016,0,0,Home,"",-,0
 2016,Southwestern (TX),8746,"%
                   Trinity (TX)",715,02/06/2016,0,0,Home,"",-,0
@@ -46324,7 +46326,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Spring Hill,30191,"%
                   Lane",347,01/28/2016,80,78,Home,"",-,186
 2016,Spring Hill,30191,"%
-                  LeMoyne-Owen",350,02/01/2016,0,0,Away,"",-,0
+                  LeMoyne-Owen",350,02/01/2016,74,67,Away,"",-,0
 2016,Spring Hill,30191,"%
                   Central St. (OH)",30049,02/04/2016,0,0,Away,"",-,0
 2016,Spring Hill,30191,"%
@@ -46480,7 +46482,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,St. Bonaventure,596,"%
                   VCU",740,01/24/2016,76,84,Away,"",-,"7,637"
 2016,St. Bonaventure,596,"%
-                  Richmond",575,01/31/2016,0,0,Home,"",-,0
+                  Richmond",575,01/31/2016,84,68,Home,"",-,"5,263"
 2016,St. Bonaventure,596,"%
                   Saint Joseph's",606,02/03/2016,0,0,Away,"",-,0
 2016,St. Bonaventure,596,"%
@@ -46573,8 +46575,6 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
                   St. Xavier",,11/27/2015,70,65,Home,"",-,106
 2016,St. Edward's,1334,"%
                   Tex. A&M-Kingsville",696,12/02/2015,90,73,Home,"",-,203
-2016,St. Edward's,1334,"%
-                  Rice",574,12/05/2015,72,93,Away,"",-,"1,698"
 2016,St. Edward's,1334,"%
                   Newman",30054,12/17/2015,97,90,Home,"",-,238
 2016,St. Edward's,1334,"%
@@ -46712,7 +46712,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,St. John Fisher,601,"%
                   Stevens",679,01/29/2016,95,102,Away,"",-,276
 2016,St. John Fisher,601,"%
-                  Utica",733,02/01/2016,0,0,Home,"",-,0
+                  Utica",733,02/01/2016,94,68,Home,"",-,360
 2016,St. John Fisher,601,"%
                   Ithaca",313,02/04/2016,0,0,Away,"",-,0
 2016,St. John Fisher,601,"%
@@ -46828,7 +46828,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,St. Joseph's (Brkln),30072,"%
                   Purchase",30029,01/30/2016,64,77,Home,"",-,231
 2016,St. Joseph's (Brkln),30072,"%
-                  Mt. St. Vincent",451,02/01/2016,0,0,Home,"",-,0
+                  Mt. St. Vincent",451,02/01/2016,95,88,Home,"",-,151
 2016,St. Joseph's (Brkln),30072,"%
                   Sage Colleges",11036,02/03/2016,0,0,Away,"",-,0
 2016,St. Joseph's (Brkln),30072,"%
@@ -47138,7 +47138,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,St. Mary's (MD),611,"%
                   Southern Va.",30164,01/30/2016,83,64,Home,"",-,327
 2016,St. Mary's (MD),611,"%
-                  Marymount (VA)",394,02/01/2016,0,0,Away,"",-,0
+                  Marymount (VA)",394,02/01/2016,67,77,Away,"",-,325
 2016,St. Mary's (MD),611,"%
                   Mary Washington",390,02/03/2016,0,0,Home,"",-,0
 2016,St. Mary's (MD),611,"%
@@ -47724,7 +47724,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Stetson,678,"%
                   Jacksonville",316,01/30/2016,60,75,Away,"",-,877
 2016,Stetson,678,"%
-                  North Florida",2711,02/01/2016,0,0,Away,"",-,0
+                  North Florida",2711,02/01/2016,86,82,Away,"",-,"2,004"
 2016,Stetson,678,"%
                   Jacksonville",316,02/06/2016,0,0,Home,"",-,0
 2016,Stetson,678,"%
@@ -47828,7 +47828,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Stevenson,21852,"%
                   Arcadia",966,01/30/2016,74,82,Away,"",-,194
 2016,Stevenson,21852,"%
-                  Lycoming",373,02/01/2016,0,0,Home,"",-,0
+                  Lycoming",373,02/01/2016,73,68,Home,"",-,341
 2016,Stevenson,21852,"%
                   Widener",783,02/06/2016,0,0,Home,"",-,0
 2016,Stevenson,21852,"%
@@ -47934,7 +47934,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Stockton,681,"%
                   Wm. Paterson",787,01/30/2016,82,60,Home,"",-,300
 2016,Stockton,681,"%
-                  Rutgers-Newark",589,02/01/2016,0,0,Away,"",-,0
+                  Rutgers-Newark",589,02/01/2016,66,63,Away,"",-,358
 2016,Stockton,681,"%
                   Rutgers-Camden",588,02/03/2016,0,0,Away,"",-,0
 2016,Stockton,681,"%
@@ -48196,7 +48196,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Summit,958,"%
                   Rosemont",15882,01/30/2016,65,99,Away,"",-,142
 2016,Summit,958,"%
-                  Cabrini",88,02/01/2016,0,0,Home,"",-,0
+                  Cabrini",88,02/01/2016,83,110,Home,"",-,250
 2016,Summit,958,"%
                   Keystone",30047,02/03/2016,0,0,Away,"",-,0
 2016,Summit,958,"%
@@ -48394,7 +48394,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,SUNY Maritime,478,"%
                   Farmingdale St.",27892,01/30/2016,73,63,Home,"",-,142
 2016,SUNY Maritime,478,"%
-                  Yeshiva",814,02/01/2016,0,0,Home,"",-,0
+                  Yeshiva",814,02/01/2016,73,77,Home,"",-,253
 2016,SUNY Maritime,478,"%
                   Sage Colleges",11036,02/06/2016,0,0,Away,"",-,0
 2016,SUNY Maritime,478,"%
@@ -48914,7 +48914,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,TCNJ,712,"%
                   Rutgers-Newark",589,01/30/2016,58,62,Away,"",-,212
 2016,TCNJ,712,"%
-                  Montclair St.",442,02/01/2016,0,0,Home,"",-,0
+                  Montclair St.",442,02/01/2016,93,76,Home,"",-,130
 2016,TCNJ,712,"%
                   Rowan",259,02/03/2016,0,0,Away,"",-,0
 2016,TCNJ,712,"%
@@ -49020,7 +49020,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Temple,690,"%
                   Cincinnati",140,01/16/2016,67,65,Home,"",2 OT,"7,481"
 2016,Temple,690,"%
-                  La Salle",340,01/20/2016,62,49,Neutral,"The Palestra (Philadelphia, Pa.)",-,"8,030"
+                  La Salle",340,01/20/2016,62,49,Away,"",-,"8,030"
 2016,Temple,690,"%
                   SMU",663,01/24/2016,89,80,Home,"",-,"6,096"
 2016,Temple,690,"%
@@ -49484,7 +49484,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Texas,703,"%
                   Vanderbilt",736,01/30/2016,72,58,Home,"",-,"13,041"
 2016,Texas,703,"%
-                  Baylor",51,02/01/2016,0,0,Away,"",-,0
+                  Baylor",51,02/01/2016,67,59,Away,"",-,"6,064"
 2016,Texas,703,"%
                   Texas Tech",700,02/06/2016,0,0,Home,"",-,0
 2016,Texas,703,"%
@@ -49656,7 +49656,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Texas Southern,699,"%
                   Alabama St.",7,01/30/2016,75,72,Away,"",-,"1,846"
 2016,Texas Southern,699,"%
-                  Alabama A&M",6,02/01/2016,0,0,Away,"",-,0
+                  Alabama A&M",6,02/01/2016,71,66,Away,"",-,0
 2016,Texas Southern,699,"%
                   Prairie View",553,02/06/2016,0,0,Away,"",-,0
 2016,Texas Southern,699,"%
@@ -49890,7 +49890,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Texas-Dallas,23121,"%
                   Belhaven",30197,01/28/2016,87,75,Away,"",-,445
 2016,Texas-Dallas,23121,"%
-                  Ozarks (AR)",23008,02/01/2016,0,0,Home,"",-,0
+                  Ozarks (AR)",23008,02/01/2016,110,67,Home,"",-,529
 2016,Texas-Dallas,23121,"%
                   Mary Hardin-Baylor",1203,02/04/2016,0,0,Away,"",-,0
 2016,Texas-Dallas,23121,"%
@@ -49944,7 +49944,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Texas-Tyler,30028,"%
                   Louisiana Col.",1182,01/28/2016,71,77,Away,"",-,"1,157"
 2016,Texas-Tyler,30028,"%
-                  East Tex. Baptist",1062,01/30/2016,0,0,Away,"",-,0
+                  East Tex. Baptist",1062,01/30/2016,64,69,Away,"",-,729
 2016,Texas-Tyler,30028,"%
                   East Tex. Baptist",1062,02/04/2016,0,0,Home,"",-,0
 2016,Texas-Tyler,30028,"%
@@ -50002,7 +50002,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,The Citadel,141,"%
                   VMI",741,01/30/2016,78,75,Home,"",-,"3,535"
 2016,The Citadel,141,"%
-                  Chattanooga",693,02/01/2016,0,0,Away,"",-,0
+                  Chattanooga",693,02/01/2016,85,125,Away,"",-,"2,587"
 2016,The Citadel,141,"%
                   Mercer",406,02/06/2016,0,0,Away,"",-,0
 2016,The Citadel,141,"%
@@ -50214,7 +50214,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Tiffin,1403,"%
                   Ashland",35,01/30/2016,51,70,Away,"",-,476
 2016,Tiffin,1403,"%
-                  Ohio Dominican",30119,02/01/2016,0,0,Away,"",-,0
+                  Ohio Dominican",30119,02/01/2016,83,96,Away,"",-,0
 2016,Tiffin,1403,"%
                   Wayne St. (MI)",757,02/04/2016,0,0,Home,"",-,0
 2016,Tiffin,1403,"%
@@ -50934,7 +50934,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Tusculum,12830,"%
                   Brevard",30094,01/27/2016,78,77,Away,"",-,427
 2016,Tusculum,12830,"%
-                  Wingate",1462,01/30/2016,67,78,Home,"",-,0
+                  Wingate",1462,01/30/2016,67,78,Home,"",-,350
 2016,Tusculum,12830,"%
                   Anderson (SC)",13028,02/03/2016,0,0,Away,"",-,0
 2016,Tusculum,12830,"%
@@ -50990,7 +50990,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Tuskegee,720,"%
                   Albany St. (GA)",13,01/30/2016,56,70,Away,"",-,975
 2016,Tuskegee,720,"%
-                  Miles",422,02/01/2016,0,0,Home,"",-,0
+                  Miles",422,02/01/2016,71,76,Home,"",-,"1,549"
 2016,Tuskegee,720,"%
                   Stillman",680,02/06/2016,0,0,Away,"",-,0
 2016,Tuskegee,720,"%
@@ -51284,7 +51284,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,UC Riverside,111,"%
                   Cal Poly",90,01/28/2016,72,68,Away,"",-,"2,134"
 2016,UC Riverside,111,"%
-                  Cal St. Fullerton",97,01/30/2016,81,71,Away,"",-,0
+                  Cal St. Fullerton",97,01/30/2016,81,71,Away,"",-,"3,489"
 2016,UC Riverside,111,"%
                   CSUN",101,02/03/2016,0,0,Home,"",-,0
 2016,UC Riverside,111,"%
@@ -52016,7 +52016,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,UMES,393,"%
                   Coppin St.",165,01/30/2016,83,81,Away,"",1 OT,455
 2016,UMES,393,"%
-                  Howard",290,02/01/2016,0,0,Home,"",-,0
+                  Howard",290,02/01/2016,85,67,Home,"",-,"3,122"
 2016,UMES,393,"%
                   Hampton",270,02/06/2016,0,0,Home,"",-,0
 2016,UMES,393,"%
@@ -52208,7 +52208,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,UNCG,459,"%
                   Greensboro",263,11/14/2015,86,69,Home,"",-,"1,211"
 2016,UNCG,459,"%
-                  Chowan",8875,11/17/2015,81,60,Home,"",-,"1,517"
+                  Chowan",8875,11/17/2015,81,60,Home,"",-,"2,766"
 2016,UNCG,459,"%
                   UCF",128,11/21/2015,54,65,Away,"",-,"3,607"
 2016,UNCG,459,"%
@@ -52422,7 +52422,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Union (NY),727,"%
                   Hobart",282,01/26/2016,74,65,Home,"",-,190
 2016,Union (NY),727,"%
-                  Hamilton",267,02/01/2016,0,0,Away,"",-,0
+                  Hamilton",267,02/01/2016,72,61,Away,"",-,175
 2016,Union (NY),727,"%
                   St. Lawrence",607,02/05/2016,0,0,Away,"",-,0
 2016,Union (NY),727,"%
@@ -52768,7 +52768,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,USC Upstate,10411,"%
                   Lipscomb",28600,01/30/2016,92,91,Away,"",1 OT,"2,374"
 2016,USC Upstate,10411,"%
-                  Kennesaw St.",1157,02/01/2016,0,0,Away,"",-,0
+                  Kennesaw St.",1157,02/01/2016,62,75,Away,"",-,"1,109"
 2016,USC Upstate,10411,"%
                   Lipscomb",28600,02/06/2016,0,0,Home,"",-,0
 2016,USC Upstate,10411,"%
@@ -52818,7 +52818,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,USciences,28594,"%
                   Nyack",1277,01/25/2016,70,72,Away,"",-,276
 2016,USciences,28594,"%
-                  Georgian Court",9004,01/27/2016,0,0,Home,"",-,0
+                  Georgian Court",9004,01/27/2016,66,73,Home,"",-,110
 2016,USciences,28594,"%
                   Concordia (NY)",162,01/30/2016,78,79,Away,"",-,175
 2016,USciences,28594,"%
@@ -53174,7 +53174,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Utica,733,"%
                   Alfred",18,01/30/2016,70,76,Home,"",-,179
 2016,Utica,733,"%
-                  St. John Fisher",601,02/01/2016,0,0,Away,"",-,0
+                  St. John Fisher",601,02/01/2016,68,94,Away,"",-,360
 2016,Utica,733,"%
                   Elmira",213,02/05/2016,0,0,Away,"",-,0
 2016,Utica,733,"%
@@ -53504,11 +53504,11 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Valley Forge,30166,"%
                   Pine Manor",544,01/30/2016,77,69,Away,"",-,300
 2016,Valley Forge,30166,"%
-                  New Jersey City",319,02/01/2016,0,0,Away,"",-,0
-2016,Valley Forge,30166,"%
                   Central Penn",,02/04/2016,0,0,Away,"",-,0
 2016,Valley Forge,30166,"%
                   Berkeley (NY)",,02/06/2016,0,0,Home,"",-,0
+2016,Valley Forge,30166,"%
+                  New Jersey City",319,02/08/2016,0,0,Away,"",-,0
 2016,Valley Forge,30166,"%
                   Penn St.-Schuylkill",,02/10/2016,0,0,Away,"",-,0
 2016,Valley Forge,30166,"%
@@ -53972,7 +53972,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Virginia St.,743,"%
                   Bowie St.",70,01/27/2016,69,58,Home,"",-,"1,203"
 2016,Virginia St.,743,"%
-                  Lincoln (PA)",357,01/30/2016,0,0,Away,"",-,0
+                  Lincoln (PA)",357,01/30/2016,81,63,Away,"",-,532
 2016,Virginia St.,743,"%
                   Shaw",636,02/03/2016,0,0,Away,"",-,0
 2016,Virginia St.,743,"%
@@ -54030,7 +54030,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Virginia Tech,742,"%
                   Louisville",367,01/27/2016,83,91,Home,"",-,"7,084"
 2016,Virginia Tech,742,"%
-                  Pittsburgh",545,01/31/2016,0,0,Away,"",-,0
+                  Pittsburgh",545,01/31/2016,71,90,Away,"",-,"10,049"
 2016,Virginia Tech,742,"%
                   Syracuse",688,02/02/2016,0,0,Away,"",-,0
 2016,Virginia Tech,742,"%
@@ -54094,7 +54094,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Virginia Union,744,"%
                   Chowan",8875,01/30/2016,71,82,Away,"",-,"2,497"
 2016,Virginia Union,744,"%
-                  Winston-Salem",791,02/01/2016,0,0,Away,"",-,0
+                  Winston-Salem",791,02/01/2016,72,75,Away,"",1 OT,"1,822"
 2016,Virginia Union,744,"%
                   Livingstone",359,02/03/2016,0,0,Away,"",-,0
 2016,Virginia Union,744,"%
@@ -54366,9 +54366,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Walsh,30141,"%
                   Findlay",1079,01/28/2016,57,79,Away,"",-,963
 2016,Walsh,30141,"%
-                  Wayne St. (MI)",757,01/30/2016,0,0,Home,"",-,0
+                  Wayne St. (MI)",757,01/30/2016,76,83,Home,"",-,941
 2016,Walsh,30141,"%
-                  Malone",30137,02/01/2016,0,0,Home,"",-,0
+                  Malone",30137,02/01/2016,99,97,Home,"",-,"1,874"
 2016,Walsh,30141,"%
                   Ashland",35,02/04/2016,0,0,Home,"",-,0
 2016,Walsh,30141,"%
@@ -54840,9 +54840,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Wayne St. (MI),757,"%
                   Malone",30137,01/28/2016,85,86,Home,"",1 OT,493
 2016,Wayne St. (MI),757,"%
-                  Walsh",30141,01/30/2016,0,0,Away,"",-,0
+                  Walsh",30141,01/30/2016,83,76,Away,"",-,941
 2016,Wayne St. (MI),757,"%
-                  Findlay",1079,02/01/2016,0,0,Away,"",-,0
+                  Findlay",1079,02/01/2016,68,76,Away,"",-,933
 2016,Wayne St. (MI),757,"%
                   Tiffin",1403,02/04/2016,0,0,Away,"",-,0
 2016,Wayne St. (MI),757,"%
@@ -54948,7 +54948,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Waynesburg,1434,"%
                   Westminster (PA)",1451,01/27/2016,65,66,Away,"",-,509
 2016,Waynesburg,1434,"%
-                  Grove City",265,01/30/2016,0,0,Home,"",-,0
+                  Grove City",265,01/30/2016,75,69,Home,"",-,450
 2016,Waynesburg,1434,"%
                   Saint Vincent",30064,02/03/2016,0,0,Away,"",-,0
 2016,Waynesburg,1434,"%
@@ -55208,7 +55208,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Wesley,763,"%
                   Mary Washington",390,01/30/2016,57,75,Away,"",-,650
 2016,Wesley,763,"%
-                  Southern Va.",30164,02/01/2016,0,0,Away,"",-,0
+                  Southern Va.",30164,02/01/2016,62,74,Away,"",-,120
 2016,Wesley,763,"%
                   York (PA)",815,02/03/2016,0,0,Home,"",-,0
 2016,Wesley,763,"%
@@ -55262,7 +55262,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Wesleyan (CT),764,"%
                   Connecticut Col.",163,01/30/2016,87,79,Home,"",-,613
 2016,Wesleyan (CT),764,"%
-                  Emmanuel (MA)",215,02/01/2016,0,0,Away,"",-,0
+                  Emmanuel (MA)",215,02/01/2016,78,60,Away,"",-,175
 2016,Wesleyan (CT),764,"%
                   Williams",789,02/05/2016,0,0,Home,"",-,0
 2016,Wesleyan (CT),764,"%
@@ -56388,9 +56388,9 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Westfield St.,777,"%
                   Worcester St.",809,02/20/2016,0,0,Away,"",-,0
 2016,Westminster (MO),1450,"%
-                  Millikin",424,11/20/2015,56,65,Neutral,"Greenville, Ill.",-,100
+                  Millikin",424,11/20/2015,56,65,Neutral,"Greenville, IL",-,100
 2016,Westminster (MO),1450,"%
-                  Elmhurst",212,11/21/2015,58,81,Neutral,"Greenville, Ill.",-,100
+                  Elmhurst",212,11/21/2015,58,81,Neutral,"Greenville, IL",-,100
 2016,Westminster (MO),1450,"%
                   Spalding",23260,12/02/2015,71,67,Away,"",-,220
 2016,Westminster (MO),1450,"%
@@ -56400,7 +56400,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Westminster (MO),1450,"%
                   Iowa Wesleyan",30173,12/12/2015,94,82,Home,"",-,200
 2016,Westminster (MO),1450,"%
-                  Oglethorpe",2713,12/29/2015,49,50,Neutral,"Louisville, Ky.",-,30
+                  Oglethorpe",2713,12/29/2015,49,50,Neutral,"Louisville, KY",-,30
 2016,Westminster (MO),1450,"%
                   Austin Peay",43,12/30/2015,61,112,Away,"",-,"1,203"
 2016,Westminster (MO),1450,"%
@@ -56424,7 +56424,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Westminster (MO),1450,"%
                   Iowa Wesleyan",30173,01/30/2016,72,76,Away,"",-,250
 2016,Westminster (MO),1450,"%
-                  Central Bible (MO)",,02/01/2016,0,0,Away,"",-,0
+                  Cent. Christian Bib.",,02/01/2016,92,93,Away,"",-,200
 2016,Westminster (MO),1450,"%
                   Fontbonne",11538,02/03/2016,0,0,Home,"",-,0
 2016,Westminster (MO),1450,"%
@@ -57304,7 +57304,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Williams,789,"%
                   Amherst",24,01/27/2016,50,71,Home,"",-,979
 2016,Williams,789,"%
-                  Me.-Fort Kent",,02/01/2016,0,0,Home,"",-,0
+                  Me.-Fort Kent",,02/01/2016,67,63,Home,"",-,247
 2016,Williams,789,"%
                   Wesleyan (CT)",764,02/05/2016,0,0,Away,"",-,0
 2016,Williams,789,"%
@@ -57498,7 +57498,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Wingate,1462,"%
                   Lenoir-Rhyne",1170,01/27/2016,81,79,Home,"",-,479
 2016,Wingate,1462,"%
-                  Tusculum",12830,01/30/2016,78,67,Away,"",-,0
+                  Tusculum",12830,01/30/2016,78,67,Away,"",-,350
 2016,Wingate,1462,"%
                   Newberry",1257,02/03/2016,0,0,Away,"",-,0
 2016,Wingate,1462,"%
@@ -57612,7 +57612,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Winston-Salem,791,"%
                   Livingstone",359,01/30/2016,81,79,Away,"",1 OT,"1,537"
 2016,Winston-Salem,791,"%
-                  Virginia Union",744,02/01/2016,0,0,Home,"",-,0
+                  Virginia Union",744,02/01/2016,75,72,Home,"",1 OT,"1,822"
 2016,Winston-Salem,791,"%
                   Saint Augustine's",594,02/06/2016,0,0,Away,"",-,0
 2016,Winston-Salem,791,"%
@@ -58386,7 +58386,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Wm. Paterson,787,"%
                   Stockton",681,01/30/2016,60,82,Away,"",-,300
 2016,Wm. Paterson,787,"%
-                  Rutgers-Camden",588,02/01/2016,0,0,Home,"",-,0
+                  Rutgers-Camden",588,02/01/2016,87,62,Home,"",-,285
 2016,Wm. Paterson,787,"%
                   Montclair St.",442,02/03/2016,0,0,Home,"",-,0
 2016,Wm. Paterson,787,"%
@@ -58880,7 +58880,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,Yeshiva,814,"%
                   Mt. St. Mary (NY)",1468,01/30/2016,75,53,Home,"",-,250
 2016,Yeshiva,814,"%
-                  SUNY Maritime",478,02/01/2016,0,0,Away,"",-,0
+                  SUNY Maritime",478,02/01/2016,77,73,Away,"",-,253
 2016,Yeshiva,814,"%
                   Mt. St. Vincent",451,02/03/2016,0,0,Away,"",-,0
 2016,Yeshiva,814,"%
@@ -58984,7 +58984,7 @@ year,team_name,team_id,opponent_name,opponent_id,game_date,team_score,opponent_s
 2016,York (PA),815,"%
                   Salisbury",622,01/30/2016,76,68,Home,"",1 OT,"1,460"
 2016,York (PA),815,"%
-                  Mary Washington",390,02/01/2016,0,0,Away,"",-,0
+                  Mary Washington",390,02/01/2016,45,67,Away,"",-,286
 2016,York (PA),815,"%
                   Wesley",763,02/03/2016,0,0,Away,"",-,0
 2016,York (PA),815,"%
