@@ -40,7 +40,7 @@ psql basketball -f ../bbref/schema/create_players.sql
 
 # NBA games
 
-cat ../bbref/csv/games.csv > /tmp/games.csv
+cat ../bbref/csv/games_1*.csv >> /tmp/games.csv
 cat ../bbref/csv/games_2*.csv >> /tmp/games.csv
 psql basketball -f ../bbref/loaders/load_games.sql
 rm /tmp/games.csv
