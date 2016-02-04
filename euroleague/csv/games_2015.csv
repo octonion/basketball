@@ -37,7 +37,7 @@
 2015,BAM,13,W,away,Olympiacos Piraeus,at Olympiacos Piraeus,http://www.euroleague.net/main/results/showgame?gamecode=142&seasoncode=E2015,142,72,77,
 2015,BAM,14,L,away,Khimki Moscow Region,at Khimki Moscow Region,http://www.euroleague.net/main/results/showgame?gamecode=151&seasoncode=E2015,151,78,61,
 2015,BAM,15,L,away,CSKA Moscow,at CSKA Moscow,http://www.euroleague.net/main/results/showgame?gamecode=159&seasoncode=E2015,159,91,70,
-2015,BAM,16,"",home,FC Barcelona Lassa,vs FC Barcelona Lassa,http://www.euroleague.net/main/results/showgame?gamecode=166&seasoncode=E2015,166,,,February 04
+2015,BAM,16,W,home,FC Barcelona Lassa,vs FC Barcelona Lassa,http://www.euroleague.net/main/results/showgame?gamecode=166&seasoncode=E2015,166,74,70,
 2015,BAM,17,"",away,Laboral Kutxa Vitoria Gasteiz,at Laboral Kutxa Vitoria Gasteiz,http://www.euroleague.net/main/results/showgame?gamecode=176&seasoncode=E2015,176,,,February 11
 2015,BAM,18,"",home,Real Madrid,vs Real Madrid,http://www.euroleague.net/main/results/showgame?gamecode=181&seasoncode=E2015,181,,,February 25
 2015,BAM,19,"",away,Zalgiris Kaunas,at Zalgiris Kaunas,http://www.euroleague.net/main/results/showgame?gamecode=192&seasoncode=E2015,192,,,March 04
@@ -61,7 +61,7 @@
 2015,CED,13,L,away,Unicaja Malaga,at Unicaja Malaga,http://www.euroleague.net/main/results/showgame?gamecode=137&seasoncode=E2015,137,90,67,
 2015,CED,14,W,home,Anadolu Efes Istanbul,vs Anadolu Efes Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=148&seasoncode=E2015,148,84,80,
 2015,CED,15,L,away,Fenerbahce Istanbul,at Fenerbahce Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=154&seasoncode=E2015,154,86,73,
-2015,CED,16,"",home,Panathinaikos Athens,vs Panathinaikos Athens,http://www.euroleague.net/main/results/showgame?gamecode=163&seasoncode=E2015,163,,,February 04
+2015,CED,16,L,home,Panathinaikos Athens,vs Panathinaikos Athens,http://www.euroleague.net/main/results/showgame?gamecode=163&seasoncode=E2015,163,60,78,
 2015,CED,17,"",away,Crvena Zvezda Telekom Belgrade,at Crvena Zvezda Telekom Belgrade,http://www.euroleague.net/main/results/showgame?gamecode=171&seasoncode=E2015,171,,,February 11
 2015,CED,18,"",away,Lokomotiv Kuban Krasnodar,at Lokomotiv Kuban Krasnodar,http://www.euroleague.net/main/results/showgame?gamecode=178&seasoncode=E2015,178,,,February 25
 2015,CED,19,"",home,Darussafaka Dogus Istanbul,vs Darussafaka Dogus Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=188&seasoncode=E2015,188,,,March 03
@@ -85,7 +85,7 @@
 2015,RED,13,W,away,Panathinaikos Athens,at Panathinaikos Athens,http://www.euroleague.net/main/results/showgame?gamecode=140&seasoncode=E2015,140,63,74,
 2015,RED,14,W,home,Unicaja Malaga,vs Unicaja Malaga,http://www.euroleague.net/main/results/showgame?gamecode=145&seasoncode=E2015,145,87,73,
 2015,RED,15,W,home,Lokomotiv Kuban Krasnodar,vs Lokomotiv Kuban Krasnodar,http://www.euroleague.net/main/results/showgame?gamecode=156&seasoncode=E2015,156,80,66,
-2015,RED,16,"",away,Darussafaka Dogus Istanbul,at Darussafaka Dogus Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=162&seasoncode=E2015,162,,,February 04
+2015,RED,16,L,away,Darussafaka Dogus Istanbul,at Darussafaka Dogus Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=162&seasoncode=E2015,162,69,66,
 2015,RED,17,"",home,Cedevita Zagreb,vs Cedevita Zagreb,http://www.euroleague.net/main/results/showgame?gamecode=171&seasoncode=E2015,171,,,February 11
 2015,RED,18,"",home,Anadolu Efes Istanbul,vs Anadolu Efes Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=179&seasoncode=E2015,179,,,February 26
 2015,RED,19,"",away,Fenerbahce Istanbul,at Fenerbahce Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=186&seasoncode=E2015,186,,,March 04
@@ -132,8 +132,8 @@
 2015,DAR,12,L,home,Cedevita Zagreb,vs Cedevita Zagreb,http://www.euroleague.net/main/results/showgame?gamecode=132&seasoncode=E2015,132,72,79,
 2015,DAR,13,L,away,Anadolu Efes Istanbul,at Anadolu Efes Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=138&seasoncode=E2015,138,84,71,
 2015,DAR,14,L,home,Fenerbahce Istanbul,vs Fenerbahce Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=147&seasoncode=E2015,147,100,106,
-2015,DAR,15,"",away,Panathinaikos Athens,at Panathinaikos Athens,http://www.euroleague.net/main/results/showgame?gamecode=155&seasoncode=E2015,155,,,January 29
-2015,DAR,16,"",home,Crvena Zvezda Telekom Belgrade,vs Crvena Zvezda Telekom Belgrade,http://www.euroleague.net/main/results/showgame?gamecode=162&seasoncode=E2015,162,,,February 04
+2015,DAR,15,L,away,Panathinaikos Athens,at Panathinaikos Athens,http://www.euroleague.net/main/results/showgame?gamecode=155&seasoncode=E2015,155,82,79,
+2015,DAR,16,W,home,Crvena Zvezda Telekom Belgrade,vs Crvena Zvezda Telekom Belgrade,http://www.euroleague.net/main/results/showgame?gamecode=162&seasoncode=E2015,162,69,66,
 2015,DAR,17,"",away,Lokomotiv Kuban Krasnodar,at Lokomotiv Kuban Krasnodar,http://www.euroleague.net/main/results/showgame?gamecode=172&seasoncode=E2015,172,,,February 12
 2015,DAR,18,"",home,Unicaja Malaga,vs Unicaja Malaga,http://www.euroleague.net/main/results/showgame?gamecode=177&seasoncode=E2015,177,,,February 25
 2015,DAR,19,"",away,Cedevita Zagreb,at Cedevita Zagreb,http://www.euroleague.net/main/results/showgame?gamecode=188&seasoncode=E2015,188,,,March 03
@@ -176,8 +176,8 @@
 2015,BAR,12,W,home,Khimki Moscow Region,vs Khimki Moscow Region,http://www.euroleague.net/main/results/showgame?gamecode=134&seasoncode=E2015,134,87,70,
 2015,BAR,13,L,away,CSKA Moscow,at CSKA Moscow,http://www.euroleague.net/main/results/showgame?gamecode=144&seasoncode=E2015,144,93,82,
 2015,BAR,14,W,away,Real Madrid,at Real Madrid,http://www.euroleague.net/main/results/showgame?gamecode=149&seasoncode=E2015,149,86,87,
-2015,BAR,15,"",home,Laboral Kutxa Vitoria Gasteiz,vs Laboral Kutxa Vitoria Gasteiz,http://www.euroleague.net/main/results/showgame?gamecode=160&seasoncode=E2015,160,,,January 29
-2015,BAR,16,"",away,Brose Baskets Bamberg,at Brose Baskets Bamberg,http://www.euroleague.net/main/results/showgame?gamecode=166&seasoncode=E2015,166,,,February 04
+2015,BAR,15,L,home,Laboral Kutxa Vitoria Gasteiz,vs Laboral Kutxa Vitoria Gasteiz,http://www.euroleague.net/main/results/showgame?gamecode=160&seasoncode=E2015,160,78,81,
+2015,BAR,16,L,away,Brose Baskets Bamberg,at Brose Baskets Bamberg,http://www.euroleague.net/main/results/showgame?gamecode=166&seasoncode=E2015,166,74,70,
 2015,BAR,17,"",home,Zalgiris Kaunas,vs Zalgiris Kaunas,http://www.euroleague.net/main/results/showgame?gamecode=175&seasoncode=E2015,175,,,February 12
 2015,BAR,18,"",home,Olympiacos Piraeus,vs Olympiacos Piraeus,http://www.euroleague.net/main/results/showgame?gamecode=183&seasoncode=E2015,183,,,February 26
 2015,BAR,19,"",away,Khimki Moscow Region,at Khimki Moscow Region,http://www.euroleague.net/main/results/showgame?gamecode=190&seasoncode=E2015,190,,,March 03
@@ -258,7 +258,7 @@
 2015,BAS,12,L,home,Olympiacos Piraeus,vs Olympiacos Piraeus,http://www.euroleague.net/main/results/showgame?gamecode=135&seasoncode=E2015,135,76,82,
 2015,BAS,13,L,away,Khimki Moscow Region,at Khimki Moscow Region,http://www.euroleague.net/main/results/showgame?gamecode=143&seasoncode=E2015,143,76,68,
 2015,BAS,14,W,home,CSKA Moscow,vs CSKA Moscow,http://www.euroleague.net/main/results/showgame?gamecode=150&seasoncode=E2015,150,81,71,
-2015,BAS,15,"",away,FC Barcelona Lassa,at FC Barcelona Lassa,http://www.euroleague.net/main/results/showgame?gamecode=160&seasoncode=E2015,160,,,January 29
+2015,BAS,15,W,away,FC Barcelona Lassa,at FC Barcelona Lassa,http://www.euroleague.net/main/results/showgame?gamecode=160&seasoncode=E2015,160,78,81,
 2015,BAS,16,"",away,Real Madrid,at Real Madrid,http://www.euroleague.net/main/results/showgame?gamecode=165&seasoncode=E2015,165,,,February 05
 2015,BAS,17,"",home,Brose Baskets Bamberg,vs Brose Baskets Bamberg,http://www.euroleague.net/main/results/showgame?gamecode=176&seasoncode=E2015,176,,,February 11
 2015,BAS,18,"",home,Zalgiris Kaunas,vs Zalgiris Kaunas,http://www.euroleague.net/main/results/showgame?gamecode=182&seasoncode=E2015,182,,,February 25
@@ -293,7 +293,7 @@
 2015,TIV,13,L,away,Fenerbahce Istanbul,at Fenerbahce Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=139&seasoncode=E2015,139,85,79,
 2015,TIV,14,W,home,Panathinaikos Athens,vs Panathinaikos Athens,http://www.euroleague.net/main/results/showgame?gamecode=146&seasoncode=E2015,146,76,67,
 2015,TIV,15,L,away,Crvena Zvezda Telekom Belgrade,at Crvena Zvezda Telekom Belgrade,http://www.euroleague.net/main/results/showgame?gamecode=156&seasoncode=E2015,156,80,66,
-2015,TIV,16,"",away,Unicaja Malaga,at Unicaja Malaga,http://www.euroleague.net/main/results/showgame?gamecode=161&seasoncode=E2015,161,,,February 04
+2015,TIV,16,W,away,Unicaja Malaga,at Unicaja Malaga,http://www.euroleague.net/main/results/showgame?gamecode=161&seasoncode=E2015,161,64,82,
 2015,TIV,17,"",home,Darussafaka Dogus Istanbul,vs Darussafaka Dogus Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=172&seasoncode=E2015,172,,,February 12
 2015,TIV,18,"",home,Cedevita Zagreb,vs Cedevita Zagreb,http://www.euroleague.net/main/results/showgame?gamecode=178&seasoncode=E2015,178,,,February 25
 2015,TIV,19,"",away,Anadolu Efes Istanbul,at Anadolu Efes Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=187&seasoncode=E2015,187,,,March 03
@@ -350,8 +350,8 @@
 2015,PAN,12,W,home,Unicaja Malaga,vs Unicaja Malaga,http://www.euroleague.net/main/results/showgame?gamecode=129&seasoncode=E2015,129,68,66,
 2015,PAN,13,L,home,Crvena Zvezda Telekom Belgrade,vs Crvena Zvezda Telekom Belgrade,http://www.euroleague.net/main/results/showgame?gamecode=140&seasoncode=E2015,140,63,74,
 2015,PAN,14,L,away,Lokomotiv Kuban Krasnodar,at Lokomotiv Kuban Krasnodar,http://www.euroleague.net/main/results/showgame?gamecode=146&seasoncode=E2015,146,76,67,
-2015,PAN,15,"",home,Darussafaka Dogus Istanbul,vs Darussafaka Dogus Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=155&seasoncode=E2015,155,,,January 29
-2015,PAN,16,"",away,Cedevita Zagreb,at Cedevita Zagreb,http://www.euroleague.net/main/results/showgame?gamecode=163&seasoncode=E2015,163,,,February 04
+2015,PAN,15,W,home,Darussafaka Dogus Istanbul,vs Darussafaka Dogus Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=155&seasoncode=E2015,155,82,79,
+2015,PAN,16,W,away,Cedevita Zagreb,at Cedevita Zagreb,http://www.euroleague.net/main/results/showgame?gamecode=163&seasoncode=E2015,163,60,78,
 2015,PAN,17,"",home,Anadolu Efes Istanbul,vs Anadolu Efes Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=170&seasoncode=E2015,170,,,February 12
 2015,PAN,18,"",home,Fenerbahce Istanbul,vs Fenerbahce Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=180&seasoncode=E2015,180,,,February 25
 2015,PAN,19,"",away,Unicaja Malaga,at Unicaja Malaga,http://www.euroleague.net/main/results/showgame?gamecode=185&seasoncode=E2015,185,,,March 03
@@ -428,7 +428,7 @@
 2015,MAL,12,L,away,Panathinaikos Athens,at Panathinaikos Athens,http://www.euroleague.net/main/results/showgame?gamecode=129&seasoncode=E2015,129,68,66,
 2015,MAL,13,W,home,Cedevita Zagreb,vs Cedevita Zagreb,http://www.euroleague.net/main/results/showgame?gamecode=137&seasoncode=E2015,137,90,67,
 2015,MAL,14,L,away,Crvena Zvezda Telekom Belgrade,at Crvena Zvezda Telekom Belgrade,http://www.euroleague.net/main/results/showgame?gamecode=145&seasoncode=E2015,145,87,73,
-2015,MAL,15,"",home,Anadolu Efes Istanbul,vs Anadolu Efes Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=153&seasoncode=E2015,153,,,January 29
+2015,MAL,15,L,home,Anadolu Efes Istanbul,vs Anadolu Efes Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=153&seasoncode=E2015,153,75,85,
 2015,MAL,16,"",home,Lokomotiv Kuban Krasnodar,vs Lokomotiv Kuban Krasnodar,http://www.euroleague.net/main/results/showgame?gamecode=161&seasoncode=E2015,161,,,February 04
 2015,MAL,17,"",away,Fenerbahce Istanbul,at Fenerbahce Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=169&seasoncode=E2015,169,,,February 11
 2015,MAL,18,"",away,Darussafaka Dogus Istanbul,at Darussafaka Dogus Istanbul,http://www.euroleague.net/main/results/showgame?gamecode=177&seasoncode=E2015,177,,,February 25
