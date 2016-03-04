@@ -678,7 +678,6 @@
 797,Milwaukee
 427,Minn. Duluth
 383,Minn. St. Mankato
-1240,Minn. St. Moorhead
 27854,Minn.-Crookston
 1226,Minn.-Morris
 428,Minnesota
@@ -723,6 +722,7 @@
 452,Mount Union
 20220,MSOE
 413,MSU Denver
+1240,MSU Moorhead
 506043,Mt. Aloysius
 8567,Mt. St. Joseph
 1468,Mt. St. Mary (NY)
@@ -980,6 +980,7 @@
 504752,Seton Hill
 30063,Seton Hill
 652,Sewanee
+676,SFA
 636,Shaw
 637,Shenandoah
 10870,Shepherd
@@ -1081,7 +1082,6 @@
 674,Stanford
 103,Stanislaus St.
 675,Staten Island
-676,Stephen F. Austin
 2756,Stephens College
 506073,Sterling (KS)
 678,Stetson
@@ -1133,10 +1133,9 @@
 700,Texas Tech
 1401,Texas Wesleyan
 701,Texas Woman's
-702,Texas-Arlington
 23121,Texas-Dallas
-506226,Texas-Tyler
 30028,Texas-Tyler
+506226,Texas-Tyler
 141,The Citadel
 707,Thiel
 2758,Thomas (ME)
@@ -1196,6 +1195,7 @@
 30140,Ursuline
 10411,USC Upstate
 28594,USciences
+702,UT Arlington
 695,UT Martin
 732,Utah
 731,Utah St.
