@@ -55,7 +55,7 @@ join bbref._factors o
 join bbref._factors d
   on (d.parameter,d.level)=('field','defense_home')
 where
-  r1.year=2015
+  r1.year=2016
 );
 
 -- home advantage
@@ -116,7 +116,7 @@ from bbref.rounds r1
 join bbref.rounds r2
   on ((r2.year)=(r1.year) and not((r2.team_id)=(r1.team_id)))
 where
-  r1.year=2015
+  r1.year=2016
 );
 
 create temporary table records (
@@ -151,7 +151,7 @@ end) as won,
       when home_score>visitor_score then 0
 end) as lost
 from bbref.games
-where year=2015
+where year=2016
 
 union all
 
@@ -166,7 +166,7 @@ end) as won,
       when home_score>visitor_score then 1
 end) as lost
 from bbref.games
-where year=2015
+where year=2016
 
 ) results
 group by year,team_id
@@ -237,7 +237,7 @@ join bbref.conferences h
   on (h.year,h.team_id)=(g.year,g.home_id)
 join bbref.conferences v
   on (v.year,v.team_id)=(g.year,g.visitor_id)
-where g.year=2015
+where g.year=2016
 
 union all
 
@@ -262,7 +262,7 @@ join bbref.conferences h
   on (h.year,h.team_id)=(g.year,g.home_id)
 join bbref.conferences v
   on (v.year,v.team_id)=(g.year,g.visitor_id)
-where g.year=2015
+where g.year=2016
 
 ) results
 group by year,team_id,team_division_id,team_conference_id,

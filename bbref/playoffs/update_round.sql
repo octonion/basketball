@@ -53,7 +53,7 @@ left join bbref.matrix_p mp2
 left join bbref.matrix_home mh
   on (mh.year,mh.team_id,mh.opponent_id)=(r1.year,r1.team_id,r2.team_id)
 where
-    r1.year=2015
+    r1.year=2016
 and r1.round_id=1
 group by r1.year,round,r1.team_id,r1.seed,r1.bracket
 );
