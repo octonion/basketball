@@ -11,9 +11,9 @@ agent.user_agent = 'Mozilla/5.0'
 
 base = "http://www.basketball-reference.com/leagues"
 
-east_xpath = '//table[@id="E_standings"]/tbody/tr'
-
-west_xpath = '//table[@id="W_standings"]/tbody/tr'
+east_xpath = '//div[@class="stw standings_divs hidden"]//table[@id="E_standings"]/tbody/tr'
+west_xpath = '//div[@class="stw standings_divs hidden"]//table[@id="W_standings"]/tbody/tr'
+#west_xpath = '//table[@id="W_standings"]/tbody/tr'
 
 first_year = 2016
 last_year = 2016
