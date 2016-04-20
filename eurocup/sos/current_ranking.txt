@@ -1,8 +1,52 @@
 BEGIN
 CREATE TABLE
-INSERT 0 0
- rk | team | str | ofs | dfs | sos 
-----+------+-----+-----+-----+-----
-(0 rows)
+INSERT 0 44
+ rk |               team                |  str  |  ofs  |  dfs  |  sos  
+----+-----------------------------------+-------+-------+-------+-------
+  1 | Herbalife Gran Canaria Las Palmas | 1.134 | 1.088 | 0.960 | 1.009
+  2 | Pinar Karsiyaka Izmir             | 1.120 | 1.016 | 0.907 | 1.018
+  3 | Dominion Bilbao Basket            | 1.116 | 1.048 | 0.939 | 1.000
+  4 | Galatasaray Odeabank Istanbul     | 1.110 | 1.064 | 0.959 | 1.003
+  5 | MHP RIESEN Ludwigsburg            | 1.078 | 1.038 | 0.963 | 1.002
+  6 | Strasbourg                        | 1.074 | 1.014 | 0.944 | 1.019
+  7 | FC Bayern Munich                  | 1.073 | 1.035 | 0.964 | 1.021
+  8 | Valencia Basket                   | 1.073 | 1.011 | 0.943 | 0.984
+  9 | Unics Kazan                       | 1.070 | 1.017 | 0.951 | 0.999
+ 10 | Dolomiti Energia Trento           | 1.069 | 1.071 | 1.003 | 1.007
+ 11 | Stelmet Zielona Gora              | 1.060 | 1.012 | 0.955 | 1.024
+ 12 | Avtodor Saratov                   | 1.047 | 1.141 | 1.090 | 0.992
+ 13 | EA7 Emporio Armani Milan          | 1.045 | 1.015 | 0.971 | 1.012
+ 14 | Banvit Bandirma                   | 1.043 | 1.016 | 0.974 | 1.009
+ 15 | Zenit St Petersburg               | 1.033 | 1.013 | 0.981 | 0.991
+ 16 | Limoges CSP                       | 1.033 | 1.025 | 0.991 | 1.007
+ 17 | Buducnost VOLI Podgorica          | 1.032 | 0.984 | 0.953 | 1.000
+ 18 | Aris Thessaloniki                 | 1.029 | 0.951 | 0.924 | 1.003
+ 19 | Nizhny Novgorod                   | 1.022 | 1.045 | 1.023 | 1.002
+ 20 | ALBA Berlin                       | 1.012 | 1.002 | 0.990 | 1.009
+ 21 | CAI Zaragoza                      | 1.005 | 0.989 | 0.985 | 0.994
+ 22 | Trabzonspor Medical Park          | 0.998 | 0.985 | 0.987 | 1.012
+ 23 | Grissin Bon Reggio Emilia         | 0.998 | 1.006 | 1.008 | 1.013
+ 24 | Neptunas Klaipeda                 | 0.988 | 0.984 | 0.996 | 1.003
+ 25 | AEK Athens                        | 0.983 | 0.991 | 1.009 | 1.000
+ 26 | Maccabi FOX Tel Aviv              | 0.974 | 1.002 | 1.028 | 1.009
+ 27 | Hapoel Bank Yahav Jerusalem       | 0.972 | 0.994 | 1.023 | 1.012
+ 28 | Union Olimpija Ljubljana          | 0.971 | 0.982 | 1.011 | 1.006
+ 29 | ratiopharm Ulm                    | 0.971 | 1.011 | 1.041 | 1.007
+ 30 | Umana Reyer Venice                | 0.968 | 0.960 | 0.992 | 1.004
+ 31 | Dinamo Banco di Sardegna Sassari  | 0.966 | 0.995 | 1.030 | 0.997
+ 32 | JSF Nanterre                      | 0.964 | 0.962 | 0.998 | 1.005
+ 33 | EWE Baskets Oldenburg             | 0.964 | 0.996 | 1.034 | 1.007
+ 34 | Telekom Baskets Bonn              | 0.954 | 1.059 | 1.111 | 1.006
+ 35 | Le Mans Sarthe Basket             | 0.951 | 0.938 | 0.986 | 1.010
+ 36 | Lietuvos Rytas Vilnius            | 0.939 | 1.040 | 1.107 | 0.981
+ 37 | SLUC Nancy                        | 0.938 | 0.931 | 0.993 | 0.995
+ 38 | Besiktas Sompo Japan Istanbul     | 0.931 | 0.983 | 1.056 | 0.982
+ 39 | Proximus Spirou Charleroi         | 0.930 | 0.947 | 1.018 | 0.996
+ 40 | PAOK Thessaloniki                 | 0.912 | 0.934 | 1.024 | 0.994
+ 41 | Enel Basket Brindisi              | 0.904 | 0.928 | 1.026 | 1.014
+ 42 | Krasny Oktyabr Volgograd          | 0.892 | 0.999 | 1.120 | 1.007
+ 43 | Szolnoki Olaj                     | 0.879 | 0.909 | 1.034 | 0.996
+ 44 | Steaua CSM EximBank Bucharest     | 0.874 | 0.915 | 1.048 | 1.015
+(44 rows)
 
 COMMIT
