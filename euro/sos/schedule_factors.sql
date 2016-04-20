@@ -60,7 +60,7 @@ r.opponent_id,
 r.year,
 r.field
 from euro.results r
-where r.year between 2004 and 2014
+where r.year between 2004 and 2015
 );
 
 update r

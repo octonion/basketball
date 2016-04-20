@@ -1,83 +1,85 @@
-[1] 4616    7
+[1] 6888    7
 [1] TRUE
-[1] 4616    5
-start par. =  1 1 fn =  -5487.672 
+[1] 6888    5
+start par. =  0.4851439 0.4295831 fn =  -8471.574 
 At return
-eval:  35 fn:     -5647.4134 par: 0.484687 0.427759
-start par. =  1 1 1 fn =  -5663.585 
+eval:  26 fn:     -8471.6335 par: 0.478278 0.431068
+start par. =  1.699378 0.84704 0.9565931 fn =  -6971.526 
 At return
-eval:  57 fn:     -5850.5444 par: 0.653534 0.524731 0.592621
+eval:  61 fn:     -8630.5085 par: 0.505292 0.494777 0.542770
 Linear mixed model fit by REML ['lmerMod']
 Formula: log_ps ~ year + field + (1 | offense) + (1 | defense) + (1 |  
     game_id)
    Data: g
-REML criterion at convergence: -5850.544
+REML criterion at convergence: -8630.508
 Random effects:
  Groups   Name        Std.Dev.
- game_id  (Intercept) 0.06758 
- defense  (Intercept) 0.05426 
- offense  (Intercept) 0.06128 
- Residual             0.10341 
-Number of obs: 4616, groups:  game_id, 2308; defense, 132; offense, 132
+ game_id  (Intercept) 0.05568 
+ defense  (Intercept) 0.05452 
+ offense  (Intercept) 0.05981 
+ Residual             0.11020 
+Number of obs: 6888, groups:  game_id, 3096; defense, 192; offense, 192
 Fixed Effects:
-      (Intercept)           year2014  fieldoffense_home  
-          4.29914            0.01577            0.05175  
+      (Intercept)           year2014           year2015  fieldoffense_home  
+          4.29861            0.01523            0.02260            0.05251  
 Linear mixed model fit by REML ['lmerMod']
 Formula: log_ps ~ year + field + (1 | offense) + (1 | defense) + (1 |  
     game_id)
    Data: g
 
-REML criterion at convergence: -5850.5
+REML criterion at convergence: -8630.5
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--3.3839 -0.5455  0.0461  0.5764  2.4049 
+-4.2889 -0.5581  0.0289  0.6182  2.5039 
 
 Random effects:
  Groups   Name        Variance Std.Dev.
- game_id  (Intercept) 0.004567 0.06758 
- defense  (Intercept) 0.002945 0.05426 
- offense  (Intercept) 0.003756 0.06128 
- Residual             0.010694 0.10341 
-Number of obs: 4616, groups:  game_id, 2308; defense, 132; offense, 132
+ game_id  (Intercept) 0.003100 0.05568 
+ defense  (Intercept) 0.002973 0.05452 
+ offense  (Intercept) 0.003577 0.05981 
+ Residual             0.012143 0.11020 
+Number of obs: 6888, groups:  game_id, 3096; defense, 192; offense, 192
 
 Fixed effects:
                   Estimate Std. Error t value
-(Intercept)       4.299136   0.010243   419.7
-year2014          0.015773   0.014994     1.1
-fieldoffense_home 0.051752   0.003045    17.0
+(Intercept)       4.298614   0.010077   426.6
+year2014          0.015228   0.014785     1.0
+year2015          0.022600   0.014732     1.5
+fieldoffense_home 0.052507   0.002656    19.8
 
 Correlation of Fixed Effects:
-            (Intr) yr2014
-year2014    -0.668       
-fildffns_hm -0.149  0.000
+            (Intr) yr2014 yr2015
+year2014    -0.670              
+year2015    -0.667  0.455       
+fildffns_hm -0.132  0.000  0.000
 Analysis of Variance Table
-      Df  Sum Sq Mean Sq  F value
-year   1 0.01801 0.01801   1.1777
-field  1 3.09005 3.09005 202.0922
+      Df Sum Sq Mean Sq  F value
+year   2 0.0367  0.0183   1.2036
+field  1 4.7454  4.7454 311.5904
 Analysis of Variance Table
-      Df  Sum Sq Mean Sq  F value
-year   1 0.01183 0.01183   1.1066
-field  1 3.08908 3.08908 288.8608
+      Df Sum Sq Mean Sq  F value
+year   2 0.0303  0.0151   1.2462
+field  1 4.7441  4.7441 390.6784
 Data: g
 Models:
 fit0: log_ps ~ year + field + (1 | offense) + (1 | defense)
 fit: log_ps ~ year + field + (1 | offense) + (1 | defense) + (1 | 
 fit:     game_id)
      Df     AIC     BIC logLik deviance  Chisq Chi Df Pr(>Chisq)    
-fit0  6 -5659.5 -5620.8 2835.7  -5671.5                             
-fit   7 -5860.8 -5815.8 2937.4  -5874.8 203.36      1  < 2.2e-16 ***
+fit0  7 -8489.4 -8441.5 4251.7  -8503.4                             
+fit   8 -8646.3 -8591.6 4331.2  -8662.3 158.96      1  < 2.2e-16 ***
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 [1] TRUE
-[1] 0.05759647
-[1] 0.007363198
-[1] 0.1229486
+[1] 0.08393811
+[1] 0.01134343
+[1] 0.1622224
           0%           5%          10%          15%          20%          25% 
-6.071214e-07 4.279088e-05 1.212047e-04 2.407675e-04 4.865184e-04 8.745915e-04 
+8.391781e-08 2.645808e-05 7.719866e-05 1.989072e-04 4.232276e-04 7.727498e-04 
          30%          35%          40%          45%          50%          55% 
-1.421784e-03 2.535337e-03 3.960511e-03 5.328554e-03 7.363198e-03 1.048260e-02 
+1.370445e-03 2.745385e-03 4.826303e-03 7.047566e-03 1.134343e-02 1.663331e-02 
          60%          65%          70%          75%          80%          85% 
-1.528479e-02 2.420186e-02 3.450561e-02 5.016575e-02 7.006933e-02 1.014750e-01 
+2.519788e-02 3.540653e-02 5.431614e-02 8.527657e-02 1.161955e-01 1.758348e-01 
          90%          95%         100% 
-1.662722e-01 3.149367e-01 8.805301e-01 
+2.724928e-01 4.585119e-01 9.535848e-01 

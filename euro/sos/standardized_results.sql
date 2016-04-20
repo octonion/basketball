@@ -21,18 +21,34 @@ insert into euro.results
  team_score, opponent_score, game_length)
 (
 select
-*
+game_id,
+year,
+team_id,
+opponent_id,
+location_id,
+field,
+team_score,
+opponent_score,
+game_length
 from eurocup.results
 where
-year between 2013 and 2014
+year between 2013 and 2015
 
 union all
 
 select
-*
+game_id,
+year,
+team_id,
+opponent_id,
+location_id,
+field,
+team_score,
+opponent_score,
+game_length
 from euroleague.results
 where
-year between 2013 and 2014
+year between 2013 and 2015
 );
 
 commit;

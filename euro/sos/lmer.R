@@ -20,7 +20,7 @@ ln(r.team_score::float) as log_ps
 from euro.results r
 
 where
-    r.year between 2013 and 2014
+    r.year between 2013 and 2015
 
 and r.team_score is not null
 and r.opponent_score is not null
