@@ -10,14 +10,14 @@ require 'cgi'
 
 base = 'http://www.eurocupbasketball.com'
 
-team_base = 'http://www.eurocupbasketball.com/eurocup/competition/teams' #?seasoncode=U2014
+team_base = 'http://www.eurocupbasketball.com/eurocup/competition/teams' #?seasoncode=U2015
 
 table_xpath = '//*[contains(concat(" ", @class, " "), concat(" ", "RoasterName", " "))]//a'
 
 #table_xpath = '//*[@id="el-layout"]/div[4]/div[3]/div/div[2]/div[3]/ul/li/a'
 
-first_year = 2014
-last_year = 2014
+first_year = 2015
+last_year = 2015
 
 if (first_year==last_year)
   results = CSV.open("csv/teams_#{first_year}.csv","w")

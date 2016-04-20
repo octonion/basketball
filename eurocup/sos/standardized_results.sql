@@ -46,7 +46,7 @@ where
     TRUE
 --and g.score is not null
 --and not(g.score='')
-and g.year between 2002 and 2014
+and g.year between 2002 and 2015
 
 union
 
@@ -75,7 +75,7 @@ where
     TRUE
 --and g.score is not null
 --and not(g.score='')
-and g.year between 2002 and 2014
+and g.year between 2002 and 2015
 );
 
 commit;

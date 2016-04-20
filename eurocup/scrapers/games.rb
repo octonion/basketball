@@ -19,8 +19,8 @@ team_base = 'http://www.eurocupbasketball.com/eurocup/competition/teams/showteam
 
 score_xpath = '//*[@id="games"]//tr'
 
-first_year = 2014
-last_year = 2014
+first_year = 2015
+last_year = 2015
 
 if (first_year==last_year)
   results = CSV.open("csv/games_#{first_year}.csv","w")

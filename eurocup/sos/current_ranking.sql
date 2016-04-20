@@ -26,7 +26,7 @@ schedule_strength::numeric(4,3) as sos
 from eurocup._schedule_factors sf
 join eurocup.teams t
   on (t.year, t.team_id)=(sf.year, sf.team_id)
-where sf.year=2014
+where sf.year=2015
 order by str desc nulls last);
 
 select
