@@ -1,8 +1,9 @@
 BEGIN
 SET
- date | home | opp | t_score | o_score | h_str | o_str | pr_home 
-------+------+-----+---------+---------+-------+-------+---------
-(0 rows)
+    date    | home | opp | t_score | o_score | h_str | o_str | pr_home 
+------------+------+-----+---------+---------+-------+-------+---------
+ 2016-05-30 | GSW  | OKC |   114.3 |   108.6 |  1.13 |  1.07 |    0.69
+(1 row)
 
-COPY 0
+COPY 1
 COMMIT

@@ -85,7 +85,6 @@ and g.visitor_id is not NULL
 
 -- Playoffs
 
-/*
 insert into bbref.results
 (game_id,year,
  game_date,
@@ -147,7 +146,6 @@ and g.visitor_score >= 0
 and g.home_id is not NULL
 and g.visitor_id is not NULL
 );
-*/
 
 --update bbref.results
 --set team_previous=true
