@@ -1,8 +1,8 @@
 BEGIN
  rd |         name          |   p   
 ----+-----------------------+-------
-  5 | Golden State Warriors | 0.763
-  5 | Cleveland Cavaliers   | 0.237
+  5 | Golden State Warriors | 0.765
+  5 | Cleveland Cavaliers   | 0.235
 (2 rows)
 
 COPY 2

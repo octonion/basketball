@@ -1,8 +1,8 @@
 BEGIN
        team_name       |   p   
 -----------------------+-------
- Golden State Warriors | 0.763
- Cleveland Cavaliers   | 0.237
+ Golden State Warriors | 0.765
+ Cleveland Cavaliers   | 0.235
 (2 rows)
 
 COPY 2
