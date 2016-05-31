@@ -17,7 +17,10 @@ table_xpath = '//table[@id="games_playoffs"]/tbody/tr'
 
 #stats = CSV.open("csv/playoffs.csv","w")
 
-(2016..2016).each do |year|
+first_year = ARGV[0].to_i
+last_year = ARGV[1].to_i
+
+(first_year..last_year).each do |year|
 
   stats = CSV.open("csv/playoffs_#{year}.csv","w")
 
@@ -41,7 +44,7 @@ table_xpath = '//table[@id="games_playoffs"]/tbody/tr'
         et=nil
       end
 
-      if ([0,1,2,4].include?(i))
+      if ([0,2,3,5].include?(i))
 
         if (e.xpath("a").first==nil)
           row += [et,nil]

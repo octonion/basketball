@@ -6,6 +6,7 @@ create table bbref.playoffs (
 	year				integer,
 	game_date			text,
 	date_url			text,
+	start_time			text,
 	boxscore			text,
 	boxscore_url			text,
 	visitor_name			text,
