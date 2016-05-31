@@ -1,23 +1,9 @@
 BEGIN
-       team_name        |   p   
-------------------------+-------
- San Antonio Spurs      | 0.395
- Golden State Warriors  | 0.322
- Cleveland Cavaliers    | 0.101
- Oklahoma City Thunder  | 0.074
- Toronto Raptors        | 0.043
- Atlanta Hawks          | 0.025
- Los Angeles Clippers   | 0.019
- Charlotte Hornets      | 0.007
- Boston Celtics         | 0.006
- Miami Heat             | 0.004
- Indiana Pacers         | 0.002
- Portland Trail Blazers | 0.001
- Houston Rockets        | 0.001
- Dallas Mavericks       | 0.000
- Memphis Grizzlies      | 0.000
- Detroit Pistons        | 0.000
-(16 rows)
+       team_name       |   p   
+-----------------------+-------
+ Golden State Warriors | 0.763
+ Cleveland Cavaliers   | 0.237
+(2 rows)
 
-COPY 16
+COPY 2
 COMMIT
