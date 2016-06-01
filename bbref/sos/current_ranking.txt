@@ -4,8 +4,8 @@ INSERT 0 30
  rk |          team          |  str  |  ofs  |  dfs  |  sos  
 ----+------------------------+-------+-------+-------+-------
   1 | San Antonio Spurs      | 1.102 | 1.009 | 0.916 | 1.000
-  2 | Golden State Warriors  | 1.091 | 1.108 | 1.016 | 1.001
-  3 | Oklahoma City Thunder  | 1.071 | 1.070 | 0.999 | 1.004
+  2 | Golden State Warriors  | 1.091 | 1.108 | 1.016 | 1.002
+  3 | Oklahoma City Thunder  | 1.071 | 1.070 | 0.999 | 1.005
   4 | Cleveland Cavaliers    | 1.054 | 1.016 | 0.963 | 1.000
   5 | Los Angeles Clippers   | 1.047 | 1.014 | 0.968 | 1.000
   6 | Toronto Raptors        | 1.038 | 0.999 | 0.963 | 1.001

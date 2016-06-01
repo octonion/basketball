@@ -1,9 +1,9 @@
-[1] 67008     8
+[1] 67010     8
 [1] TRUE
-[1] 67008     7
+[1] 67010     7
 start par. =  1 1 1 fn =  -90930.73 
 At return
-eval:  77 fn:     -104774.27 par: 0.413729 0.294705 0.276975
+eval:  78 fn:     -104774.27 par: 0.413730 0.294704 0.276975
 Linear mixed model fit by REML ['lmerMod']
 Formula: log_ps ~ year + field + game_length + (1 | offense) + (1 | defense) +  
     (1 | game_id)
@@ -58,7 +58,7 @@ Number of obs: 63080, groups:  game_id, 31540; defense, 783; offense, 783
 
 Fixed effects:
                     Estimate Std. Error t value
-(Intercept)        4.6458761  0.0119463   388.9
+(Intercept)        4.6458760  0.0119463   388.9
 year1991          -0.0107852  0.0168872    -0.6
 year1992          -0.0173542  0.0168869    -1.0
 year1993          -0.0195915  0.0168864    -1.2
@@ -89,6 +89,6 @@ fieldoffense_home  0.0334975  0.0006484    51.7
 game_length1OT     0.0818571  0.0021242    38.5
 game_length2OT     0.1677323  0.0055130    30.4
 game_length3OT     0.2451693  0.0132554    18.5
-game_length4OT     0.3750068  0.0525333     7.1
+game_length4OT     0.3750068  0.0525334     7.1
 game_length5OT     0.4012796  0.1092993     3.7
 [1] TRUE
