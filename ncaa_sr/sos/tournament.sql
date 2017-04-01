@@ -39,7 +39,7 @@ join ncaa_sr._basic_factors i
   on (i.factor)=('(Intercept)')
 where 
 g.type='NCAA'
-and g.year=2014
+and g.year=2017
 order by diff desc;
 
 

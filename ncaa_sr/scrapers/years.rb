@@ -48,7 +48,7 @@ schools.each do |school|
   page.parser.xpath(table_xpath).each do |r|
 
     row = [school_id, school_name]
-    r.xpath("td").each_with_index do |e,i|
+    r.xpath("td|th").each_with_index do |e,i|
 
       et = e.text.strip.gsub(bad,"") rescue nil
       if (et==nil) or (et.size==0)
@@ -82,7 +82,7 @@ schools.each do |school|
 
     end
 
-    if (row.size>2)
+    if (row.size>2) and not(row[2]=="Rk")
       found += 1
       years << row
     end

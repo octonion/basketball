@@ -36,7 +36,7 @@ join ncaa_sr._factors d
   on (d.parameter,d.level)=('field','defense_home')
 
 where
-    g.year between 1980 and 2014
+    g.year between 1980 and 2017
 and g.type in ('NCAA')
 and g.opponent_id is not null
 and g.location is null
@@ -69,7 +69,7 @@ join ncaa_sr._factors o
 join ncaa_sr._factors d
   on (d.parameter,d.level)=('field','defense_home')
 where
-    g.year between 1980 and 2014
+    g.year between 1980 and 2017
 and g.type in ('NCAA')
 and g.school_id is not null
 and g.location is null
@@ -99,7 +99,7 @@ join ncaa_sr.beta_schedule_factors v
 join ncaa_sr.beta_schedule_factors h
   on (h.year,h.team_id)=(g.year,g.school_id)
 where
-    g.year between 1985 and 2015
+    g.year between 1985 and 2017
 and g.type in ('NCAA')
 and g.opponent_id is not null
 and g.location='N'

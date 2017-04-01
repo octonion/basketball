@@ -9,6 +9,8 @@ create table ncaa_sr.games (
 	row_number			integer,
 	game_date			date,
 	date_url			text,
+	time				text,
+	network				text,
 	type				text,
 	location			text,
 	opponent			text,
@@ -24,6 +26,7 @@ create table ncaa_sr.games (
 	wins				integer,
 	losses				integer,
 	streak				text,
+	arena				text,
 	unique (year,school_id,row_number)
 );
 

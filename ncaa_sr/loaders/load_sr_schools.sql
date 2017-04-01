@@ -7,6 +7,7 @@ create table ncaa_sr.schools (
 	school_name			text,
 	school_url			text,
 	school_id			text,
+	city_state			text,
 	first_year			integer,
 	last_year			integer,
 	years				integer,

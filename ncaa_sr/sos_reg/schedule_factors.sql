@@ -61,7 +61,7 @@ r.opponent_id,
 r.year,
 r.field
 from ncaa_sr.beta_results r
-where r.year between 1980 and 2015
+where r.year between 1980 and 2017
 and r.type in ('REG','CTOURN')
 and r.team_score>0
 and r.opponent_score>0

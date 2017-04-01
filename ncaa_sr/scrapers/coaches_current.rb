@@ -15,7 +15,7 @@ coach_base = "http://www.sports-reference.com/cbb/seasons" #/1981-coaches.html
 
 table_xpath = '//table/tbody/tr'
 
-years = (2015..2015)
+years = (2017..2017)
 
 coaches = CSV.open("csv/coaches_current.csv", "w",
                    {:col_sep => ","})

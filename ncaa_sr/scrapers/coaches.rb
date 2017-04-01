@@ -15,7 +15,7 @@ coach_base = "http://www.sports-reference.com/cbb/seasons" #/1981-coaches.html
 
 table_xpath = '//table/tbody/tr'
 
-years = (1900..2014)
+years = (1893..2017)
 
 coaches = CSV.open("csv/coaches.csv", "w",
                    {:col_sep => ","})
@@ -47,7 +47,7 @@ years.each do |year|
   page.parser.xpath(table_xpath).each do |tr|
 
     row = [year]
-    tr.xpath("td").each_with_index do |td,i|
+    tr.xpath("td|th").each_with_index do |td,i|
 
       et = td.text.strip.gsub(bad,"") rescue nil
       if (et==nil) or (et.size==0)
@@ -83,7 +83,7 @@ years.each do |year|
 
     end
 
-    if (row.size>3)
+    if (row.size>3) and not(row[1]==nil) and not(row[1]=="Coach")
       found += 1
       coaches << row
     end

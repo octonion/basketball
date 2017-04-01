@@ -25,7 +25,7 @@ schedule_strength_all::numeric(4,3) as sos
 from ncaa_sr._schedule_factors sf
 join ncaa_sr.schools s
   on (s.school_id)=(sf.team_id)
-where sf.year in (2015)
+where sf.year in (2017)
 order by str desc);
 
 select

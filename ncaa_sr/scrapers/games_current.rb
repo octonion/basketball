@@ -42,7 +42,7 @@ years.each do |school_year|
     next
   end
 
-  if (year.to_i<2015)
+  if (year.to_i<2017)
     next
   end
 

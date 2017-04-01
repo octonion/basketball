@@ -27,7 +27,7 @@ found = 0
 page.parser.xpath(table_xpath).each do |r|
 
   row = []
-  r.xpath("td").each_with_index do |e,i|
+  r.xpath("td|th").each_with_index do |e,i|
 
     et = e.text
     if (et==nil) or (et.size==0)
@@ -53,7 +53,7 @@ page.parser.xpath(table_xpath).each do |r|
 
   end
 
-  if (row.size>1)
+  if (row.size>1) and not(row[0]=="Rk")
     found += 1
     schools << row
   end

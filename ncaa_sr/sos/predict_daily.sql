@@ -24,7 +24,8 @@ from ncaa_sr.games g
 join ncaa_sr._factors sc
   on (sc.parameter,sc.level)=
      ('shot_clock',
-      (case when g.year=2015 and g.type in ('NIT','CIT','CBI') then '30 seconds'
+      (case when g.year>2015 then '30 seconds'
+            when g.year=2015 and g.type in ('NIT','CIT','CBI') then '30 seconds'
             else '35 seconds' end))
 join ncaa_sr.schools hn
   on (hn.school_id)=(g.school_id)
@@ -70,7 +71,8 @@ from ncaa_sr.games g
 join ncaa_sr._factors sc
   on (sc.parameter,sc.level)=
      ('shot_clock',
-      (case when g.year=2015 and g.type in ('NIT','CIT','CBI') then '30 seconds'
+      (case when g.year>2015 then '30 seconds'
+            when g.year=2015 and g.type in ('NIT','CIT','CBI') then '30 seconds'
             else '35 seconds' end))
 join ncaa_sr.schools hn
   on (hn.school_id)=(g.school_id)
@@ -115,7 +117,8 @@ from ncaa_sr.games g
 join ncaa_sr._factors sc
   on (sc.parameter,sc.level)=
      ('shot_clock',
-      (case when g.year=2015 and g.type in ('NIT','CIT','CBI') then '30 seconds'
+      (case when g.year>2015 then '30 seconds'
+            when g.year=2015 and g.type in ('NIT','CIT','CBI') then '30 seconds'
             else '35 seconds' end))
 join ncaa_sr.schools hn
   on (hn.school_id)=(g.school_id)
@@ -161,7 +164,8 @@ from ncaa_sr.games g
 join ncaa_sr._factors sc
   on (sc.parameter,sc.level)=
      ('shot_clock',
-      (case when g.year=2015 and g.type in ('NIT','CIT','CBI') then '30 seconds'
+      (case when g.year>2015 then '30 seconds'
+            when g.year=2015 and g.type in ('NIT','CIT','CBI') then '30 seconds'
             else '35 seconds' end))
 join ncaa_sr.schools hn
   on (hn.school_id)=(g.school_id)

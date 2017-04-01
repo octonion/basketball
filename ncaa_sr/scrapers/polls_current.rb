@@ -35,7 +35,7 @@ years.each do |school_year|
     next
   end
 
-  if not(year=="2015")
+  if not(year=="2017")
     next
   end
 

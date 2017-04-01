@@ -45,7 +45,8 @@ team_score,
 opponent_score,
 ot as game_length,
 
-(case when year=2015 and type in ('NIT','CIT','CBI') then '30 seconds'
+(case when year>2015 then '30 seconds'
+      when year=2015 and type in ('NIT','CIT','CBI') then '30 seconds'
       when year=2015 and type in ('NCAA','REG','CTOURN') then '35 seconds'
       when year between 1994 and 2014 then '35 seconds'
       when year between 1986 and 1993 then '45 seconds'
@@ -88,7 +89,8 @@ opponent_score,
 team_score,
 ot as game_length,
 
-(case when year=2015 and type in ('NIT','CIT','CBI') then '30 seconds'
+(case when year>2015 then '30 seconds'
+      when year=2015 and type in ('NIT','CIT','CBI') then '30 seconds'
       when year=2015 and type in ('NCAA','REG','CTOURN') then '35 seconds'
       when year between 1994 and 2014 then '35 seconds'
       when year between 1986 and 1993 then '45 seconds'

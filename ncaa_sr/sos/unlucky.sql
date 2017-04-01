@@ -36,7 +36,7 @@ join ncaa_sr._factors d
 --join ncaa_sr._basic_factors i
 --  on (i.factor)=('(Intercept)')
 where
-    g.year = 2015
+    g.year = 2017
 and g.opponent_id is not null
 and g.location is null
 and g.team_score is not null
@@ -71,7 +71,7 @@ join ncaa_sr._factors d
 --join ncaa_sr._basic_factors i
 --  on (i.factor)=('(Intercept)')
 where
-    g.year = 2015
+    g.year = 2017
 and g.school_id is not null
 and g.location is null
 and g.team_score is not null
@@ -96,7 +96,7 @@ join ncaa_sr._schedule_factors v
 join ncaa_sr._schedule_factors h
   on (h.year,h.team_id)=(g.year,g.school_id)
 where
-    g.year = 2015
+    g.year = 2017
 and g.opponent_id is not null
 and g.location='N'
 and g.team_score is not null

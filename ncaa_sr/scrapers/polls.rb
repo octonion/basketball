@@ -35,9 +35,9 @@ years.each do |school_year|
     next
   end
 
-  if (year=="2015")
-    next
-  end
+#  if (year=="2017")
+#    next
+#  end
   if (year.to_i<1950)
     next
   end

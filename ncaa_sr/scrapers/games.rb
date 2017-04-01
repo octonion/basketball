@@ -20,11 +20,14 @@ games = CSV.open("csv/games.csv", "w",
                  {:col_sep => ","})
 
 header = ["year", "school_id", "school_name",
-          "row_number", "game_date", "date_url", "type", "location",
+          "row_number", "game_date", "date_url",
+          "time", "network",
+          "type", "location",
           "opponent", "opponent_url", "opponent_id",
           "conference", "conference_url", "conference_id",
           "outcome", "team_score", "opponent_score",
-          "ot", "wins", "losses", "streak"]
+          "ot", "wins", "losses", "streak",
+          "arena"]
 
 games << header
 
@@ -39,9 +42,9 @@ years.each do |school_year|
     next
   end
 
-  if (year=="2015")
-    next
-  end
+#  if (year=="2017")
+#    next
+#  end
   if (year.to_i<1950)
     next
   end
@@ -52,6 +55,7 @@ years.each do |school_year|
   begin
     page = agent.get(url)
   rescue
+    print " - retry"
     retry
   end
 
@@ -59,42 +63,62 @@ years.each do |school_year|
   page.parser.xpath(table_xpath).each do |r|
 
     row = [year,school_id,school_name]
-    r.xpath("td").each_with_index do |e,i|
+    r.xpath("td|th").each_with_index do |e,i|
 
       et = e.text.strip.gsub(bad,"") rescue nil
       if (et==nil) or (et.size==0)
         et=nil
       end
 
-      case i
-
-      when 1
-
-        if (e.xpath("a").first==nil)
-          row += [et, nil]
+      case year.to_i
+      when 2015..2017
+        case i
+        when 1
+          if (e.xpath("a").first==nil)
+            row += [et, nil]
+          else
+            row += [et, e.xpath("a").first.attribute("href").to_s]
+          end
+        when 6,7
+          if (e.xpath("a").first==nil)
+            row += [et, nil, nil]
+          else
+            raw_url = e.xpath("a").first.attribute("href").to_s
+            id = raw_url.split("/")[-2]
+            row += [et, e.xpath("a").first.attribute("href").to_s, id]
+          end
         else
-          row += [et, e.xpath("a").first.attribute("href").to_s]
+          row += [et]
         end
-
-      when 4,5
-
-        if (e.xpath("a").first==nil)
-          row += [et, nil, nil]
-        else
-          raw_url = e.xpath("a").first.attribute("href").to_s
-          id = raw_url.split("/")[-2]
-          row += [et, e.xpath("a").first.attribute("href").to_s, id]
-        end
-
       else
-
-        row += [et]
-
+        case i
+        when 1
+          if (e.xpath("a").first==nil)
+            row += [et, nil]
+          else
+            row += [et, e.xpath("a").first.attribute("href").to_s]
+          end
+        when 4,5
+          if (e.xpath("a").first==nil)
+            row += [et, nil, nil]
+          else
+            raw_url = e.xpath("a").first.attribute("href").to_s
+            id = raw_url.split("/")[-2]
+            row += [et, e.xpath("a").first.attribute("href").to_s, id]
+          end
+        else
+          row += [et]
+        end
       end
-
     end
 
-    if (row.size>3)
+    if (year.to_i<2015)
+      front = row[0..5]
+      back = row[6..-1]
+      row = front+[nil,nil]+back
+    end
+
+    if (row.size>3) and not(row[4]=="Date")
       found += 1
       games << row
     end
