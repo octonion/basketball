@@ -28,7 +28,7 @@ ln(r.team_score::float) as log_ps
 from ncaa_sr.beta_results r
 where
 TRUE
-and r.year between 1980 and 2015
+and r.year between 1980 and 2017
 and r.type in ('REG','CTOURN')
 and r.team_score>0
 and r.opponent_score>0
