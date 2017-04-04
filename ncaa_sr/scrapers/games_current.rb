@@ -19,15 +19,15 @@ years = CSV.open("csv/years.csv", "r",
 games = CSV.open("csv/games_current.csv", "w",
                  {:col_sep => ","})
 
-#G 	Date 	Time 	Network 	Type 		Opponent 	Conf 		Tm 	Opp 	OT 	W 	L 	Streak
-
 header = ["year", "school_id", "school_name",
-          "row_number", "game_date", "date_url", "time",
-          "network", "type", "location",
+          "row_number", "game_date", "date_url",
+          "time", "network",
+          "type", "location",
           "opponent", "opponent_url", "opponent_id",
           "conference", "conference_url", "conference_id",
           "outcome", "team_score", "opponent_score",
-          "ot", "wins", "losses", "streak"]
+          "ot", "wins", "losses", "streak",
+          "arena"]
 
 games << header
 
@@ -59,7 +59,7 @@ years.each do |school_year|
   page.parser.xpath(table_xpath).each do |r|
 
     row = [year,school_id,school_name]
-    r.xpath("td").each_with_index do |e,i|
+    r.xpath("td|th").each_with_index do |e,i|
 
       et = e.text.strip.gsub(bad,"") rescue nil
       if (et==nil) or (et.size==0)
@@ -94,7 +94,7 @@ years.each do |school_year|
 
     end
 
-    if (row.size>3)
+    if (row.size>3) and not(row[4]=="Date")
       found += 1
       games << row
     end

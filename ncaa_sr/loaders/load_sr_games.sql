@@ -8,8 +8,8 @@ create table ncaa_sr.games (
 	school_name			text,
 	row_number			integer,
 	game_date			date,
-	date_url			text,
-	time				text,
+	game_date_url			text,
+	game_time			text,
 	network				text,
 	type				text,
 	location			text,
@@ -30,7 +30,7 @@ create table ncaa_sr.games (
 	unique (year,school_id,row_number)
 );
 
-copy ncaa_sr.games from '/tmp/games.csv' with delimiter as ',' csv header quote as '"';
+copy ncaa_sr.games from '/tmp/games.csv' with delimiter as ',' csv header;
 
 --alter table ncaa_sr.games
 --add column visitor_id text;

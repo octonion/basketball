@@ -28,15 +28,11 @@ rm /tmp/polls.csv
 #psql basketball -f loaders/load_sr_polls.sql
 #rm /tmp/polls.csv
 
-#cp csv/games.csv /tmp/games.csv
-#psql basketball -f loaders/load_sr_games.sql
-#rm /tmp/games.csv
-
 cp csv/games.csv.gz /tmp/games.csv.gz
 gzip -d /tmp/games.csv.gz
 psql basketball -f loaders/load_sr_games.sql
 rm /tmp/games.csv
 
-#cp csv/games_current.csv /tmp/games_current.csv
-#psql basketball -f loaders/load_sr_games_current.sql
-#rm /tmp/games_current.csv
+cp csv/games_current.csv /tmp/games_current.csv
+psql basketball -f loaders/load_sr_games_current.sql
+rm /tmp/games_current.csv

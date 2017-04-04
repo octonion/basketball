@@ -26,21 +26,28 @@ create table ncaa_sr.games_current (
 	wins				integer,
 	losses				integer,
 	streak				text,
+	arena				text,
 	unique (year,school_id,row_number)
 );
 
-copy ncaa_sr.games_current from '/tmp/games_current.csv' with delimiter as ',' csv header quote as '"';
+copy ncaa_sr.games_current from '/tmp/games_current.csv' with delimiter as ',' csv header;
 
 insert into ncaa_sr.games
-(year, school_id, school_name, row_number, game_date, date_url,
+(year, school_id, school_name, row_number,
+game_date, game_date_url,
+game_time, network,
 type, location, opponent, opponent_url, opponent_id,
 conference, conference_url, conference_id,
-outcome, team_score, opponent_score, ot, wins, losses, streak)
+outcome, team_score, opponent_score, ot, wins, losses, streak,
+arena)
 select
-year, school_id, school_name, row_number, game_date, game_date_url,
+year, school_id, school_name, row_number,
+game_date, game_date_url,
+game_time, network,
 type, location, opponent, opponent_url, opponent_id,
 conference, conference_url, conference_id,
-outcome, team_score, opponent_score, ot, wins, losses, streak
+outcome, team_score, opponent_score, ot, wins, losses, streak,
+arena
 from ncaa_sr.games_current;
 
 --alter table ncaa_sr.games
