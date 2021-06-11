@@ -9,7 +9,8 @@ create table ncaa_json.games (
        game_date	     date,
        gameinfo		     jsonb,
        boxscore		     jsonb,
-       pbp		     jsonb
+       pbp		     jsonb,
+	   prueba		 jsonb
 -- Need to check primary key situation
 --       primary key (game_id,game_date)
 );
